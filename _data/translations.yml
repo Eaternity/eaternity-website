@@ -1,0 +1,26 @@
+# Translations
+t:
+  en:
+    home:
+      name: "Home"
+      url: "/"
+    about:
+      name: "About"
+      url: "/about/"
+    app:
+      name: "Eaternity App"
+      url: "/app"
+  fr:
+    home:
+      name: "Accueil"
+      url: "/accueil/"
+    about:
+      name: "À propos"
+      url: "/a-propos/"
+  zh:
+    home:
+      name: "首页"
+      url: "/首页/"
+    about:
+      name: "关于"
+      url: "/关于/"

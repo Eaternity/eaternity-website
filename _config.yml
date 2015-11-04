@@ -1,0 +1,80 @@
+# Site settings - website www.eaternity.org
+name: Eaternity
+title: Eaternity - App'etite for Change
+email: email@eaternity.com
+description: App'etite for Change.
+meta_description: "Eaternity is creating a movement to establish climate friendly meals."
+
+
+# Build settings
+markdown: kramdown #redcarpet
+# highlighter: pygments
+
+# paginate: 20
+baseurl: "" # the subpath of your site, e.g. /blog/
+# baseurl: /
+domain_name: 'http://eaternity.org'
+google_analytics: 'UA-55310589-1' #'UA-55310589-3' <- old blog
+disqus: false
+disqus_shortname: 'eaternity'
+
+# Details for the RSS feed generator
+# url:            'http://www.eaternity.org'
+url: "http://www.eaternity.com" # the base hostname & protocol for your site
+author:         'Eaternity'
+authorTwitter:  'Eaternity'
+twitter_username: eaternity
+github_username:  eaternity-agent
+
+
+aboutPage: false
+
+
+# config stuff
+# permalink: /:title/
+permalink: /:categories/:title
+# permalink: /:categories/:year/:title/
+
+defaults:
+  -
+    scope:
+      path: _posts/en
+    values:
+      layout: default
+      lang: en
+  -
+    scope:
+      path: _posts/fr
+    values:
+      layout: default
+      lang: fr
+  -
+    scope:
+      path: _posts/de
+    values:
+      layout: default
+      lang: de
+  -
+    scope:
+      path: _posts/zh
+    values:
+      layout: default
+      lang: zh
+  -
+      scope:
+          path: "" # empty string for all files
+          type: pages
+      values:
+          layout: default
+  -
+      scope:
+          path: "" # empty string for all files
+          type: posts
+      values:
+          layout: post
+  -
+      scope:
+          path: ""
+          type: drafts
+      values:
+          layout: post
