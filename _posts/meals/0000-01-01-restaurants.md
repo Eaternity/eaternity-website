@@ -25,13 +25,146 @@ categories: meals
   </div>
   <div class="row big-push-bottom">
     <div class="col-xs-12 text-center">
-      <p>You can enjoy climate-friendly meals in more than XX restaurants already. We show you where.</p>
+      <p>You can enjoy climate-friendly meals in more than 74 restaurants already. We show you where.</p>
     </div>
   </div>
 </div>
 
 <div class="map">
 </div>
+
+Comet, Bern
+
+Unia, Bern 
+
+BBL, Bern
+
+Emmi, Bern
+
+BAFU, Bern
+
+Seeland Gymnasium, Bern 
+
+Franke, Bern
+
+BZZ Zofingen, Bern
+
+Mepha Pharma, Bern
+
+Universität Luzern
+
+Pilatus
+
+KBZ Zug 
+
+Cilag 
+
+Kantonsschule Menzingen 
+
+IBM Rüschlikon
+
+IBM Vulkanstrasse
+
+BBZ Wohlen
+
+puur Balsberg, Zürich
+
+Taubenried, Zürich
+
+Integra, Zürich
+
+Kant. Steueramt, Zürich
+
+Technopark Zürich, Zürich
+
+Wasserversorgung, Zürich
+
+Siemens CUBE, Zürich
+
+VZ Werd, Zürich
+
+Arena Baden, Zürich
+
+Procter & Gamble, Genf
+
+B.I.T., Genf
+
+OIM, Genf
+
+OMS, Genf
+
+OMS ONUSIDA, Genf
+
+College du Leman, Genf
+
+Collège de Coppet, Genf
+
+UEFA, Genf
+
+Cessouest, Vaud
+
+Medtronic, Vaud
+
+EPFL, Vaud
+
+B. Braun Medical, Vaud
+
+Valfleurier, Vaud
+
+Univ. Neuchâtel, Vaud
+
+Nespresso, Vaud
+
+puur Alcon, Vaud
+
+Villa Sträuli, Winterthur
+
+Restaurant Tüfi, Zürich
+
+Salotto, Zürich
+
+Restaurant Klima, Umweltarena Spreitenbach
+
+Chez Toi, Zürich
+
+Simply Soup, Zürich
+
+Buffet Dreieck, Zürich
+
+Mein Küchenchef, Bern
+
+Café Cairo, Bern
+
+Restaurant Stadtspital Triemli, Zürich
+
+Cantina Don Camillo, Basel
+
+Frohsinn, Weinfelden
+
+Ristorante Concordia, Winterthur
+
+Coalmine, Winterthur
+
+Tuck-Tuck Catering, Fällanden
+
+EquiTable, Zürich
+
+Vegelateria, Zürich
+
+Kafi Schoffel, Zürich
+
+Babus, Zürich
+
+Samses, Zürich
+
+Maison Blunt, Zürich
+
+Zum Alten Löwen, Zürich
+
+Restaurant Casinotheater, Winterthur
+
+Tibits, Zürich
+
 
 <div class="container">
   <div class="row big-push-top small-push-bottom">
@@ -54,4 +187,4 @@ categories: meals
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/icheck.min.js"></script>
 <script src="/js/infobubble.js"></script>
-<script src="/js/script.js"></script>
+<script src="/js/script-restaurants.js"></script>

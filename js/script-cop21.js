@@ -33,8 +33,8 @@ $(document).ready(function(){
 	if($(".map").length){
 		var mapCanvas = $('.map')[0];
 		var mapOptions = {
-		  center: new google.maps.LatLng(47.359790, 8.557180),
-		  zoom: 14,
+		  center: new google.maps.LatLng(48.9244592, 2.3579758),
+		  zoom: 11,
 		  mapTypeControl: false,
 		  streetViewControl: false,
 		  draggable: false,
@@ -104,14 +104,14 @@ $(document).ready(function(){
 
 	  var infoBubble = new InfoBubble({
       map: map,
-      content: "<div class='info'><span class='semiBold'>Eaternity AG</span><br />Zollikerstrasse 76<br />CH-8008 Zürich</div>",
+      content: "<div class='info'><span class='semiBold'><a target='_blank' href='http://www.climateactionprogramme.org'>Climate Innovation Forum</a></span><br />Stade de France<br />93216 Saint-Denis, France</div>",
       shadowStyle: 0,
       padding: "15px",
       backgroundColor: '#e7eff1',
       arrowSize: 15,
       borderRadius: 0,
       minHeight: 120,
-      minWidth: 200,
+      minWidth: 240,
       borderWidth: 1,
       disableAutoPan: true,
       hideCloseButton: true,
@@ -120,7 +120,7 @@ $(document).ready(function(){
     });
 
 		var marker = new google.maps.Marker({
-	    position: {lat: 47.359790, lng: 8.557180},
+	    position: {lat: 48.9244592, lng: 2.3579758},
 	    map: map,
 	    icon: '/img/marker.png'
 	  });
@@ -134,6 +134,8 @@ $(document).ready(function(){
 	  marker.addListener('click', function() {
 	    infoBubble.open(map, marker);
 	  });
+
+
 
 	  markersecond.addListener('click', function() {
 	    infoBubble.open(map, markersecond);
