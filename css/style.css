@@ -7100,10 +7100,10 @@ input {
     float: left;
     width: 100%;
     position: relative;
-    margin-top: 5px;
+    margin-top: 10px;
     margin-bottom: 8px; }
     .header .logo img {
-      width: 200px; }
+      width: 140px; }
     @media screen and (min-width: 768px) {
       .header .logo {
         -webkit-box-ordinal-group: 1;

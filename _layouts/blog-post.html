@@ -1,18 +1,72 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang }}">
+---
+layout: default
+archive: true
+---
 
-  {% include head.html %}
+<div class="container big-push-bottom">
+  <div class="row push-top small-push-bottom">
+    <div class="col-xs-12 text-center">
+      <h1>{{ page.title }}</h1>
+      <h2 class="headline">{{ page.date | date:"%B %-d, %Y" }}</h2>
+      <img class="responsive push-top" src="/img/blog/teaser_1400x450/{{ page.blog-image }}" alt="{{ page.title }} image">
+    </div>
+  </div>
+  <div class="row verticalAlign">
+    <div class="col-xs-12 col-sm-5">
+      <img src="/assets/images/blog/teaser_1400x450/{{ page.blog-image }}" alt="{{ page.title }} - Image">
+    </div>
+    <div class="col-xs-12 col-sm-7 col-md-offset-1 col-md-5 xs-push-top">
+      <div>
+        <p>{{content}}</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-  <body>
+
+<div class="container">
+  <div class="row push-bottom">
+    <div class="co-xs-12 col-md-4">
+      <div class="teaserFacts bgLightBlue ">
+        <h3>Author</h3>
+        <a href="http://twitter.com/{{ page.authorTwitter }}">
+            <img class="responsive round" src="https://twitter.com/{{ page.authorTwitter }}/profile_image?size=original">
+        </a>
+            <div>
+              {{ page.author }} at <a href="http://twitter.com/{{ page.authorTwitter }}">{{ page.authorTwitter }}</a>
+            </div>
+
+      </div>
+    </div>
+    <div class="co-xs-12 col-md-4 sm-push-top">
+      <div class="teaserFacts bgLightBlue">
+        {% include share.html %}
+      </div>
+    </div>
+    <div class="co-xs-12 col-md-4 sm-push-top">
+      <div class="teaserFacts bgLightBlue">
+        <h3>Comments</h3>
+        {% if site.disqus %}{% include disqus.html %}{% endif %}
+      </div>
+    </div>
+  </div>
+</div>
 
 
-    {% include header.html %}
-
-      {{ content }}
-
-    {% include footer.html %}
-
-
-  </body>
-
-</html>
+<!-- Archive post list -->
+<div class="container">
+  <div class="row push-bottom">
+    <div class="co-xs-12 col-md-4">
+      {% if page.archive %}
+          <ul id="post-list" class="archive readmore">
+              <h3>Read more</h3>
+              {% for post in site.posts %}
+                  <li>
+                      <a href="{{ post.url }}">{{ post.title }}<aside class="dates">{{ post.date | date:"%Y %b %d" }}</aside></a>
+                  </li>
+              {% endfor %}
+          </ul>
+      {% endif %}
+    </div>
+  </div>
+</div>

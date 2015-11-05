@@ -5,6 +5,7 @@ category: blog
 published: true
 
 author: Manuel Klarmann
+authorTwitter: "@mklarmann"
 
 title: Eaternity zieht die Karotte
 subtitle: Halbzeit 2014 und VIEL ist passiert.

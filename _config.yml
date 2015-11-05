@@ -27,9 +27,6 @@ twitter_username: eaternity
 github_username:  eaternity-agent
 
 
-aboutPage: false
-
-
 # config stuff
 # permalink: /:title/
 permalink: /:categories/:title
