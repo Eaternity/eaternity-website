@@ -9,7 +9,7 @@ categories: foodprint
   <div class="row">
   	<div class="col-xs-12 text-center">
   		<ul class="subNavigation">
-  			<a href="/foodprint/co2facts"><li>CO2 Facts</li></a>
+  			<a href="/foodprint"><li>CO₂ Facts</li></a>
   			<a href="/foodprint/organic"><li>Organic Food Print</li></a>
         <a href="/foodprint/health"><li>Health Food Print</li></a>
   			<a href="/foodprint/eaternity-database"><li class="current">Eaternity Database (EDB)</li></a>
@@ -38,7 +38,7 @@ categories: foodprint
 
   <div class="row big-push-bottom">
      <div class="col-xs-12 col-sm-offset-1 col-sm-10 text-center">
-      <p>We have built up a solid, easy to understand and yearly peer reviewed CO₂-database.it is currently the largest and most comprehensive database for carrying out menu-CO₂-calculations. We have extensive knowledge on life-cycle assessments and closely work with renowned scientists in the field (f.e. Matthias Stucki at IUNR zhaw). With an innovative automatic ingredient matching tool all customer and supplier data is fit seamlessly into our system.</p>
+      <p>We have built up a solid, easy to understand and yearly peer reviewed CO₂-database. It is currently the largest and most comprehensive database for carrying out menu-CO₂-calculations. We have extensive knowledge on life-cycle assessments and closely work with renowned scientists in the field (f.e. Matthias Stucki at IUNR zhaw). With an innovative automatic ingredient matching tool all customer and supplier data is fit seamlessly into our system.</p>
     </div>
   </div>
 
