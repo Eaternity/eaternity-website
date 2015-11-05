@@ -68,6 +68,17 @@ permalink: /meals
     </div>
   </div>
   <div class="row push-bottom text-center">
+	  
+	  <!-- specific code -->
+	{% for item in site.categories['recipes'] reversed offset:1 limit:4 %}
+	<div class="span3">
+		<a href="{{ BASE_PATH }}{{ item.url }}" class="thumbnail recipe-frame-small" data-placement="bottom" rel="tooltip" title="{{ item.title }}">
+			<img  src="{{ ASSET_PATH }}{{ item.image-thumb }}" />
+		</a>
+	</div>
+	{% endfor %}
+	  <!-- specific code -->
+	  
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-4 col-md-offset-0 col-md-3">
       <a href="">
         <div class="roundTeaser">
