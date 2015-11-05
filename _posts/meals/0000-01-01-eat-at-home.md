@@ -53,7 +53,7 @@ permalink: /meals/
     <div class="col-xs-12 col-sm-5">
       <div>
         <h1>The Eaternity-meal</h1>
-        <p>Meals are awarded as climate-friendly if they belong to the top 20% of all meals being served (currently 25’231 in our database). A climate friendly meal has at least <span class="semiBold">53% LESS CO₂</span> emissions then the average meal.</p>
+        <p>Meals are awarded as climate-friendly if they belong to the top 20% of all meals being served (currently 25’246 in our database). A climate friendly meal has at least <span class="semiBold">53% LESS CO₂</span> emissions then the average meal.</p>
         <a class="button" href="/app/get-the-app">Get the App <i class="fa fa-angle-right fa-lg"></i></a>
       </div>
     </div>
@@ -64,7 +64,7 @@ permalink: /meals/
 
   <div class="row small-push-bottom">
     <div class="col-xs-12 text-center">
-      <h1>Little Preview of our recipes</h1>
+      <h1>Little preview of our recipes</h1>
     </div>
   </div>
   <div class="row push-bottom text-center">

@@ -19,7 +19,7 @@ image: 2014-05-26-Compass-Start/teaser.jpg
 circa: 
 media: 
 slides:
-tags:
+tags: press
 partner:
 
 
