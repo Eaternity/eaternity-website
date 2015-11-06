@@ -33,6 +33,9 @@ categories: meals
 <div class="map">
 </div>
 
+<div class="container">
+  <div class="row big-push-top small-push-bottom">
+    <div class="col-xs-12 text-center">
 Comet, Bern
 
 Unia, Bern 
@@ -164,6 +167,7 @@ Zum Alten Löwen, Zürich
 Restaurant Casinotheater, Winterthur
 
 Tibits, Zürich
+</div></div></div>
 
 
 <div class="container">
@@ -175,7 +179,7 @@ Tibits, Zürich
   <div class="row push-bottom">
     <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6 text-center">
       <p>Klimafreundliche Ernährung hat riesiges Potential. Wir bilden Köche aus, bieten übersichtliche und wirkungsvolle Reportings und zeigen, wie Sie Ihren vorbildlichen Einsatz Ihren Gästen kommunizieren.</p>
-      <a class="button" href="/app/at-a-glance">App at glance <i class="fa fa-angle-right fa-lg"></i></a>
+      <a class="button" href="/app">App at glance <i class="fa fa-angle-right fa-lg"></i></a>
     </div>
   </div>
 </div>

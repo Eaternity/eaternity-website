@@ -71,7 +71,7 @@ permalink: /about/
   </div>
 
   <div class="row text-center small-push-bottom">
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
+    <div class="col-xs-offset-3 col-xs-8 col-sm-offset-3 col-sm-2">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/manuelklarmann.jpg">
         <h3>Manuel Klarmann</h3>
@@ -79,61 +79,45 @@ permalink: /about/
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-2 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/judithellens.jpg">
         <h3>Judith Ellens</h3>
-        <p>Founder & COO</p>
+        <p>Founder & Head of Operations and Science</p>
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-2 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/aurelianjaggi.jpg">
         <h3>Aurelian Jaggi</h3>
-        <p>Founder & Software Developer</p>
-      </div>
-    </div>
-
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/johndoe1.jpg">
-        <h3>John Doe</h3>
-        <p>Health</p>
+        <p>Founder & CTO</p>
       </div>
     </div>
   </div>
 
   <div class="row text-center big-push-bottom">
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-3 col-sm-2">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/andreasscheuss.jpg">
         <h3>Andreas Scheuss</h3>
-        <p>Position</p>
+        <p>Software Developer</p>
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-2 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/johndoe2.jpg">
-        <h3>John Doe</h3>
-        <p>Position</p>
+        <h3>Judith Moosburner</h3>
+        <p>Design Developer</p>
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/rogergebert.jpg">
-        <h3>Roger Gebert</h3>
-        <p>Position</p>
-      </div>
-    </div>
-
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-2 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/evahirsiger.jpg">
         <h3>Eva Hirsiger</h3>
-        <p>Position</p>
+        <p>Scientific Analyst</p>
       </div>
     </div>
   </div>
@@ -147,15 +131,15 @@ permalink: /about/
   <div class="row push-bottom">
     <div class="col-xs-12 col-sm-4">
       <h3>2008</h3>
-      <p>The idea for Eaternity was born in November 2008 at the ETH Zürich when Judith Ellens, Eaternity Co-Founder and CSO, won first prize at the ecoworks-workshop for her idea to measure and reduce the impact of food in restaurants. At that time food was widely ignored in discussions on how to reduce our footprint on the planet.</p>
+      <p>The idea for Eaternity was born in November 2008 at the ETH Zürich when Judith Ellens, Eaternity co-founder, won <a href="http://archiv2.sustainability.ethz.ch/stimmen/ellens.html">first prize at the ecoworks-workshop</a> for her idea to measure and reduce the impact of food in restaurants. At that time food was widely ignored in discussions on how to reduce our footprint on the planet.</p>
     </div>
     <div class="col-xs-12 col-sm-4 xs-push-top">
       <h3>2009</h3>
-      <p>Since then Eaternity has been working hard to bring this to the attention of key interest groups. After a year of lobbying and hard work Eaternity launched its first project at one of the ETH canteens at the Science City campus run by SV Group. This project was the first of its kind, truly pioneering, and the start of many more great projects to come. The CO2-impact of all the meals offered at the canteen was calculated and the team worked together with the cooks to create and serve the first ever climate-friendly menu in a public restaurant.</p>
+      <p>Since then Eaternity has been working hard to bring this to the attention of key interest groups. After a year of lobbying and hard work Eaternity launched its <a href="http://eaternity.org/assets/de/2009-11-25%20MM-Pilot.pdf">first project at one of the ETH canteens</a> at the Science City campus run by SV Group. This project was the first of its kind, truly pioneering, and the start of many more great projects to come. The CO2-impact of all the meals offered at the canteen was calculated and the team worked together with the cooks to create and serve the first ever climate-friendly menu in a public restaurant.</p>
     </div>
     <div class="col-xs-12 col-sm-4 xs-push-top">
       <h3>2014</h3>
-      <p>After this voluntary work continued under the Eaternity Association and other project requests, as well as media interest, began to materialise. We embraced many opportunities (and still do!) to reach out to numerous persons by giving lectures and interviews, providing materials, organizing events, setting up information booths and offering more menu calculations. Based on all these valuable experiences we incorporated (in addition to the Eaternity Association) the Eaternity AG in July 2014. This company supports players in the restaurant industry, providing them with the expertise and tools to turn restaurants into climate heroes.</p>
+      <p>After this voluntary work continued under the Eaternity Association and other project requests, as well as media interest, began to materialise. We embraced many opportunities (<a href="/blog">and still do!</a>) to reach out to numerous persons by giving lectures and interviews, providing materials, organizing events, setting up information booths and offering more menu calculations. Based on all these valuable experiences we incorporated (in addition to the Eaternity Association) the Eaternity AG in July 2014. This company supports players in the restaurant industry, providing them with the expertise and tools to turn <a href="/meals/restaurants">restaurants into climate heroes</a>.</p>
     </div>
   </div>
 
