@@ -15,7 +15,7 @@ authors:
  - Judith Moosburner
 
 tags:
-- material
+
 
 partner:
 
