@@ -24,14 +24,19 @@ categories: app
   <div class="container">
     <div class="row push-top small-push-bottom">
       <div class="col-xs-12 col-sm-offset-1 col-sm-6 col-md-5">
-        <h1>App'etite for Change? Get our free App now.</h1>
+		<form id="register"> 
+        <h1>App'etite for Change? Get our free Eaternity App now.</h1>
         <p>We establish climate friendly meals in society. Get involved by using our free app and share the Eaternity-philosophy.</p>
-        <input type="text" placeholder="Username"/>
-        <input type="text" placeholder="E-mail" />
+        <input type="text" name="name" placeholder="Your Name"/>
+        <input type="text" name="email" placeholder="E-mail" />
         <div class="small-push-top">
-          <input type="checkbox"> I accept the <a href="">terms and conditions</a> of Eaternity
+          <input type="checkbox" name="check"> I accept the <a href="">terms and conditions</a> of Eaternity
         </div>
-        <a class="button small-push-top">Create account <i class="fa fa-angle-right fa-lg"></i></a>
+        <button type="submit" class="small-push-top">
+          Create account <i class="fa fa-angle-right fa-lg"></i>
+        </button>
+		</form>
+		<p id="result" class="small-push-top"></p>
       </div>
       <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-4 col-md-offset-2 col-md-3">
         <img class="responsive" src="/img/get-the-app/iphone-screen.png">
@@ -39,6 +44,9 @@ categories: app
     </div>
   </div>
 </div>
+
+{% include register.html %}
+
 <div id="footer" class="sticky"></div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
