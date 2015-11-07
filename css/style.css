@@ -7111,8 +7111,8 @@ input {
         -ms-flex-order: 1;
         -webkit-order: 1;
         order: 1;
-        width: 175px;
-        margin-top: 10px;
+        width: 160px;
+        margin-top: -3px;
         margin-bottom: 0px;
         margin-left: auto;
         margin-right: auto; }
