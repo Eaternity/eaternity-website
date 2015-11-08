@@ -1,8 +1,9 @@
 ---
 layout: default
-name: cop21
+name: appetite-for-change
 title:  "Reduce emissions in Paris @COP21"
-categories: p
+categories: 
+permalink: /appetite-for-change/
 ---
 
 
