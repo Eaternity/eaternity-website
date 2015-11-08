@@ -38,7 +38,7 @@ Beim Wettbewerb ging es darum, welche Gemüse und Früchte im Juni saisonal sind
 **Ermutigende Reaktionen**
 Bereits im Vorfeld erhielten wir zahlreiche Reaktionen, die meisten ermutigend, daneben auch kritische. Kritikpunkte betrafen insbesondere die Streichung des Fleischmenus, sowie die Herkunft der Zutaten im Menu (Kokosmilch und Reis). Einige der Fragen konnten wir vor Ort klären, die berechnete CO2-Bilanz der Menus unterstütze hier bei der Diskussion. So schnitt das Reis-Curry in der CO2-Bilanz trotz Kokosmilch besser ab als die Penne mit Pecorino-Käse.
 
-![co2 wert der menus](/img/blog/2014-06-05-BAFU-Umwelttag/co2.jpg "CO2 Wert der Menus")
+![co2 wert der menus](/img/blog/2014-06-05-BAFU-Umwelttag/co2wert.jpg "CO2 Wert der Menus")
 
 Auf den Wettbewerbsbögen selbst sprachen sich 91 Personen dafür aus, dass ein solcher Aktionstag wieder durchgeführt wird, 1 dagegen, bei 3 Enthaltungen.  
 
