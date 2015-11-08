@@ -45,10 +45,13 @@ archive: true
 <div class="container">
   <div class="row push-bottom">
     <div class="co-xs-12 col-md-6 col-md-offset-3 sm-push-top">
-      <div class="teaserFacts bgLightBlue">
+        {% if site.disqus or page.disqus %}
+        <div class="teaserFacts bgLightBlue">
         <h3>Comments</h3>
-        {% if site.disqus %}{% include disqus.html %}{% endif %}
-      </div>
+        {% include disqus.html %}
+        </div>
+        {% endif %}
+
     </div>
   </div>
 </div>
