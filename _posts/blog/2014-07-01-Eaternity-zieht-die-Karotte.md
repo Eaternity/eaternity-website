@@ -27,7 +27,7 @@ partner:
 ---
 
 
-Als geschickten Schachzug, zieht Eaternity die Karotte aus der Erde. Die Menge ist überrascht. (Siehe Bild)
+Als geschickten Schachzug, zieht Eaternity die Karotte aus der Erde. Die Menge ist überrascht. 
 
 Es ist in letzter Zeit so viel passiert, dass wir nicht dazukamen ordentlich darüber zu berichten: Deswegen gibt es jetzt hier eine kurze Zusammenfassung:
 
@@ -37,15 +37,12 @@ Es ist in letzter Zeit so viel passiert, dass wir nicht dazukamen ordentlich dar
 
 * [Sentience Politics macht Meinung][sentience] für eine Gesetzestext Initiatve für nachhaltige Ernährung. Wir haben die Mittel und die Zeit ist reif hier zu Unterstützen.
 
-![Spannung](/img/blog/2014-07-01-Eaternity-zieht-die-Karotte/spannung.jpg "Die Spannung steigt")
-
 * Einer unserer schönsten Tage - am BAFU wurde der Umwelttag mit [umweltfreundlichen Menus gefeiert][BAFU]. Wir waren mittendrin und mit dabei.
 
 * Mit unserem Markteintritt (und der Gründung unserer AG) bekommt auch unser Produkt, der ["Eaternity Award"][eaternity.com] ein neues Zuhause - mit ihm geht brandneue Webseite geht an den Start: www.eaternity.com
 
 * Die Compass Group (Schweiz) AG, ist unser erster grosser Kunde. Mit diesen als Partner setzen wir ein [Umweltprogramm um was noch seines Gleichen sucht][compass].
 
-![gute wahl](/img/blog/2014-07-01-Eaternity-zieht-die-Karotte/gute-wahl.jpg "gute Wahl")
 
 * Climate-KIC begleitet uns wie von Anbeginn bis zum glorreichen Erfolg. Mit Jubel und Posaunen sind wir nun offiziell in Phase 3 des [Beschleunigungsprogramms][kic].
 

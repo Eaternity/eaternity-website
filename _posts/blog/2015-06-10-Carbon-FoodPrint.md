@@ -25,8 +25,8 @@ Das gemeinsame (von der [Gebert Rüf Stiftung][1] geförderte) Projekt CarbonFoo
 
 Im Rahmen des Projekts wurden für mehr als 100 Lebensmittel neue umfassende Treibhausgasbilanzen erstellt und der CO₂-Fußabdruck für mehr als 5.500 Menüs berechnet. Ergebnis: Der Durchschnitt aller Menüs liegt bei 1.460g CO₂-Äq. pro Menü. Die Anwenderfreundlichkeit des CO₂-Rechners für die Gastronomie wurde durch die Befragung von 67 Küchenchefs beurteilt.
 
-![stucki](/img/blog/2015-06-10-Carbon-FoodPrint/stucki.jpg "Matthias Stucki - an der ZHAW nach dem erfolgreichen Ablschuss des Projekts.")
-Matthias Stucki - an der ZHAW nach dem erfolgreichen Ablschuss des Projekts
+![stucki](/img/blog/2015-06-10-Carbon-FoodPrint/stucki.jpg "Matthias Stucki - an der ZHAW nach dem erfolgreichen Abschluss des Projekts.")
+Matthias Stucki - an der ZHAW nach dem erfolgreichen Abschluss des Projekts
 
 
 **Langfristige Forschungspartner**
