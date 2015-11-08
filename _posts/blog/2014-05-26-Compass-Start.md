@@ -46,7 +46,7 @@ Auch Vertreter von Politik und Wissenschaft zeigen sich überzeugt von der nach
 [Prof. Dr. Thomas Dyllick][Dyllick], Professor am Institut für Wirtschaft und Ökologie an der Hochschule St.Gallen, fügt hinzu:
 “Was gibt es Schöneres? Essen geniessen und gleichzeitig etwas für das Klima tun. Ich freue mich, dass Eaternity uns hierbei den Weg aufzeigt.”
 
-![Compass Vereinbarung](/assets/images/blog/2014-05-26-Compass-Start/agree.jpg "Compass Vereinbarung")
+![Compass Vereinbarung](/img/blog/2014-05-26-Compass-Start/agree.jpg "Compass Vereinbarung")
 
 
 **Start mit starkem Partner**

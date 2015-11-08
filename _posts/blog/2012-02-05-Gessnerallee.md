@@ -44,4 +44,4 @@ Wohin rennen wir? In den Abgrund oder in eine Welt, in der wir es schaffen das z
 [3]: http://www.kalkbreite.net/
 [4]: http://www.sichtbar.ch/
 [5]: http://neustartschweiz.ch/
-[6]: /assets/images/blog/2012-02-04_Nachhaltigkeitsmesse_Gessnerallee.jpg
+[6]: /img/blog/2012-02-04_Nachhaltigkeitsmesse_Gessnerallee.jpg

@@ -36,6 +36,6 @@ Schaut Euch [das Video][1] (mit deutschen und englischen Untertiteln) an und erf
 
 Haben wir euch überzeugt? Dann macht es wie TEDx, spread the word und teilt die Idee. Liked das Video auf unserer Facebook-Seite, schickt es an eure Liebsten und zeigt, dass auch Ihr unser Anliegen unterstützt. Tausend Dank!
 
-[![TEDx Bühne](/assets/images/blog/2014-03-12-TEDx-Lausanne/full_scope.jpg "TEDx Bühne")][1]
+[![TEDx Bühne](/img/blog/2014-03-12-TEDx-Lausanne/full_scope.jpg "TEDx Bühne")][1]
 
 [1]:http://tedxtalks.ted.com/video/Eating-is-an-environmental-actM

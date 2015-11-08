@@ -39,9 +39,9 @@ Die [Berechnungen illustriert][calc] gibt es hier zum mitnehmen.
 
 
 ![EquiTable](/assets/images/partner/equitable.png "EquiTable")
-![Karottengarten](/assets/images/blog/2013-05-19-equitable/2013-05-19-equitable-1.jpg "Karottengarten")
-![Schweinebauch](/assets/images/blog/2013-05-19-equitable/2013-05-19-equitable-2.jpg "Schweinebauch")
-![Saibling](/assets/images/blog/2013-05-19-equitable/2013-05-19-equitable-3.jpg "Saibling")
+![Karottengarten](/img/blog/2013-05-19-equitable/2013-05-19-equitable-1.jpg "Karottengarten")
+![Schweinebauch](/img/blog/2013-05-19-equitable/2013-05-19-equitable-2.jpg "Schweinebauch")
+![Saibling](/img/blog/2013-05-19-equitable/2013-05-19-equitable-3.jpg "Saibling")
 
 
 

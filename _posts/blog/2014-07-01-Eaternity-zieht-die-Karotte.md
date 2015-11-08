@@ -10,15 +10,15 @@ authorTwitter: "@mklarmann"
 title: Eaternity zieht die Karotte
 subtitle: Halbzeit 2014 und VIEL ist passiert.
 
-short: 
+short:
 - Als geschickten Schachzug, zieht Eaternity die Karotte ...
 
 blog-image: 2014-07-01-Eaternity-zieht-die-Karotte.jpg
 image: 2014-07-01-Eaternity-zieht-die-Karotte/erfolg.jpg
 
 
-circa: 
-media: 
+circa:
+media:
 slides:
 tags:
 partner:
@@ -37,7 +37,7 @@ Es ist in letzter Zeit so viel passiert, dass wir nicht dazukamen ordentlich dar
 
 * [Sentience Politics macht Meinung][sentience] für eine Gesetzestext Initiatve für nachhaltige Ernährung. Wir haben die Mittel und die Zeit ist reif hier zu Unterstützen.
 
-![Spannung](/assets/images/blog/2014-07-01-Eaternity-zieht-die-Karotte/spannung.jpg "Die Spannung steigt")
+![Spannung](/img/blog/2014-07-01-Eaternity-zieht-die-Karotte/spannung.jpg "Die Spannung steigt")
 
 * Einer unserer schönsten Tage - am BAFU wurde der Umwelttag mit [umweltfreundlichen Menus gefeiert][BAFU]. Wir waren mittendrin und mit dabei.
 
@@ -45,7 +45,7 @@ Es ist in letzter Zeit so viel passiert, dass wir nicht dazukamen ordentlich dar
 
 * Die Compass Group (Schweiz) AG, ist unser erster grosser Kunde. Mit diesen als Partner setzen wir ein [Umweltprogramm um was noch seines Gleichen sucht][compass].
 
-![gute wahl](/assets/images/blog/2014-07-01-Eaternity-zieht-die-Karotte/gute-wahl.jpg "gute Wahl")
+![gute wahl](/img/blog/2014-07-01-Eaternity-zieht-die-Karotte/gute-wahl.jpg "gute Wahl")
 
 * Climate-KIC begleitet uns wie von Anbeginn bis zum glorreichen Erfolg. Mit Jubel und Posaunen sind wir nun offiziell in Phase 3 des [Beschleunigungsprogramms][kic].
 
@@ -63,4 +63,3 @@ Wir bleiben fleissig und arbeiten schon an den nächsten Innovationen für unser
 [compass]:http://eaternity.ch/blog/Compass-Start/
 [kic]:http://eaternity.ch/blog/Climate-KIC-Stage3/
 [tedx]:http://eaternity.ch/blog/TEDx-Lausanne/
-

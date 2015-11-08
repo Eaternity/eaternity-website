@@ -37,7 +37,7 @@ Die Aktion Klimamenü lanciert von [myblueplanet][2] in Zusammenarbeit mit Eater
 
 Schauen Sie vorbei und probieren Sie es aus. Überzeugen Sie die Gastgeber auch langfristig mitzumachen! Wir freuen uns auf eure Rückmeldungen und Erfahrungen!
 
-![Miss Earth Schweiz Klimamenu](/assets/images/blog/2013-09-12-klimamenu_miss.jpg "Miss Earth Schweiz Klimamenu")
+![Miss Earth Schweiz Klimamenu](/img/blog/2013-09-12-klimamenu_miss.jpg "Miss Earth Schweiz Klimamenu")
 Zur Medienmitteilung geht es hier: [Medienmeldung_Klimamenu_20130917][3]
 
 [1]:http://www.klimamenu.ch/

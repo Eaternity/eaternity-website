@@ -5,7 +5,7 @@ category: blog
 image: http://placehold.it/452x150
 title: Eaternity am Herbstmarkt in Science City
 
-blog-image: /assets/images/blog/2012-01-28_hub-fellows-cover.jpg
+blog-image: /img/blog/2012-01-28_hub-fellows-cover.jpg
 
 media: Beobachter Natur
 

@@ -39,8 +39,8 @@ Der Tages-Anzeiger hat ein [Artikel][1] darüber geschrieben.
 
 Wir sagen Danke Lauren! Uns hat das vegane Mittagessen sehr gut geschmeckt!
 
-![Vegane Buffet](/assets/images/blog/2013-06-13-good-food-for-free/first.jpg "Vegane Buffet")
-![Eaternity Team](/assets/images/blog/2013-06-13-good-food-for-free/second.jpg "Eaternity Team")
+![Vegane Buffet](/img/blog/2013-06-13-good-food-for-free/first.jpg "Vegane Buffet")
+![Eaternity Team](/img/blog/2013-06-13-good-food-for-free/second.jpg "Eaternity Team")
 
 
 [1]:http://blog.vegankitchen.ch/wp-content/uploads/tages_anzeiger_belleve_30.5.2013.jpg

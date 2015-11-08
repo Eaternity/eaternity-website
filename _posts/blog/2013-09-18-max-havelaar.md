@@ -52,5 +52,5 @@ Oder koche selber [ein faires, klimafreundliches und protein-reiches Limetten-Qu
 
 
 
-![Kampagne fair&klimafreundlich](/assets/images/blog/2013-09-19-maxhavelaar-logo.jpg "Kampagne fair&klimafreundlich")
+![Kampagne fair&klimafreundlich](/img/blog/2013-09-19-maxhavelaar-logo.jpg "Kampagne fair&klimafreundlich")
 

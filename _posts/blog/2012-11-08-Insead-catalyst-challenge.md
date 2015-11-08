@@ -33,8 +33,8 @@ Die Aufgabe: 4 Kundensegmente, 4 Produkte, 4 Preisstrategien - welche MBA Gruppe
 
 Zuerst gab es eine Einführung in die Hintergründe von Eaternity. Eine 20min Präsentation in die wissenschaftlichen Fakten, die Studien, die Umweltzusammenhänge. Die Möglichkeiten welche unsere Technologie bietet, welche Horizonte und skalierbare Ansätze bereits greifbar sind. Und welche Lösungen wir in für die konkreten Implementierungen ausgedacht und bereits ausgeführt haben. Und darauf die Perspektive welche 4 Kundensegmente wir angehen wollen, um die Aufgabe diese auszuarbeiten an die Studenten zu übergeben. Dann ging es los.
 
-![Discussing with INSEAD MBA](/assets/images/blog/2012-11-08-hub-insead-challenge/discussion.jpg "Discussing with INSEAD MBA")
-![Listening to details of the case](/assets/images/blog/2012-11-08-hub-insead-challenge/listening.jpg "Listening to details of the case")
+![Discussing with INSEAD MBA](/img/blog/2012-11-08-hub-insead-challenge/discussion.jpg "Discussing with INSEAD MBA")
+![Listening to details of the case](/img/blog/2012-11-08-hub-insead-challenge/listening.jpg "Listening to details of the case")
 
 
 Diese stürzten sich 45min hochengagiert in die Ausarbeitung, um Ihre Ergebnisse der Jury zu präsentieren: bestehend aus Ruth und Christoph vom HUB Fellowship Programm, Christine vom INSEAD Social Entreprenership Catalist und Manuel von Eaternity.
