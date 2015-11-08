@@ -21,7 +21,7 @@ tags:
 
 ---
 
-Das gemeinsame (von der [Gebert Rüf Stiftung][1] geförderte) Projekt CarbonFoodPrint von Eaternity, dem Institut für Umwelt und natürliche Ressourcen der ZHAW und der Forschungsgruppe Informatik und Nachhaltigkeit der ETH Zürich, konnte nach anderthalb Jahren erfolgreich abgeschlossen werden. Primäres Ziel für uns war es zum einen, unsere bestehende Datenbank (Eaternity App) wissenschaftlich abzusichern und kontrollieren zu lassen und zum anderen, diese um aktuelle Studiendaten zu erweitern.
+Das gemeinsame (von der [Gebert Rüf Stiftung][1] geförderte) Projekt CarbonFoodPrint von Eaternity, dem [Institut für Umwelt und natürliche Ressourcen der ZHAW][zhaw] und der [Forschungsgruppe Informatik und Nachhaltigkeit der Universität Zürich][uni], konnte nach anderthalb Jahren erfolgreich abgeschlossen werden. Primäres Ziel für uns war es zum einen, unsere bestehende Datenbank ([Eaternity App][app]) wissenschaftlich abzusichern und kontrollieren zu lassen und zum anderen, diese um aktuelle Studiendaten zu erweitern.
 
 Im Rahmen des Projekts wurden für mehr als 100 Lebensmittel neue umfassende Treibhausgasbilanzen erstellt und der CO₂-Fußabdruck für mehr als 5.500 Menüs berechnet. Ergebnis: Der Durchschnitt aller Menüs liegt bei 1.460g CO₂-Äq. pro Menü. Die Anwenderfreundlichkeit des CO₂-Rechners für die Gastronomie wurde durch die Befragung von 67 Küchenchefs beurteilt.
 
@@ -43,3 +43,6 @@ Das in einem Gastronomiebetrieb der ZHAW von Frühling bis Herbst 2014 durchgef�
 [1]:http://www.grstiftung.ch/de/portfolio/projekte/alle/y_2013/GRS-023-13.html
 [2]:/assets/de/Stucki_2015_Review_Eaternity_Datenbank_v1.0.pdf
 [3]:http://welcome.compass-group.ch/index.php?id=918&L=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C0&tx_ttnews%5Btt_news%5D=761&cHash=69501ab0ad2fc953969c93648ff69baa
+[app]:/app
+[uni]:http://www.ifi.uzh.ch/isr.html
+[zhaw]:https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/
