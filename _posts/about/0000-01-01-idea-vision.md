@@ -28,7 +28,7 @@ permalink: /about/
 
   <div class="row push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
-      <p>Eaternity is the company developing the Eaternity Cloud, a comprehensive management solution for the restaurant industry that gives restaurant owners intelligent insights into the supply-chain and enables smart decision-making for the benefit of people, planet and profit. We went public in 2014 but our story goes back to 2008. We are based in Zurich, Switzerland.</p>
+      <p>Eaternity is the company developing the Eaternity App, a comprehensive management solution for the restaurant industry that gives restaurant owners intelligent insights into the supply-chain and enables smart decision-making for the benefit of people, planet and profit. We went public in 2014 but our story goes back to 2008. We are based in Zurich, Switzerland.</p>
     </div>
   </div>
 
@@ -104,7 +104,7 @@ permalink: /about/
         <p>Software Developer</p>
       </div>
     </div>
-	
+
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-2">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/ldiener.jpg">

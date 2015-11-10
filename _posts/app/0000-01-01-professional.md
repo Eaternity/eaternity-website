@@ -27,7 +27,7 @@ categories: app
   </div>
   <div class="row big-push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
-      <p>We are developing an exciting and impactful cloud application for restaurants. It will revolutionize the way you work in the kitchen by giving you smart insights into your supply chain that benefit people, planet and profit.</p>
+      <p>We are developing an exciting and impactful software application for restaurants. It will revolutionize the way you work in the kitchen by giving you smart insights into your supply chain that benefit people, planet and profit.</p>
     </div>
   </div>
 </div>
@@ -42,7 +42,7 @@ categories: app
   </div>
   <div class="row big-push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 text-center">
-      <p>We prepare you for allergens compliance regulations enabling you to concentrate on your core business. The new food labeling EU-regulation 1169/2011 for allergens becomes effective on 13.12.2014 and requires gastro-businesses in all 28 EU-countries to display ingredient information relating to the fourteen main allergens. Our automated and rapid analysis of the ingredients used in your restaurant’s meals reduces your workload. by making The information you need on a daily basis is available at your fingertips. Employees have easy access to meet the information requirements of every guest and can print comprehensive and customized meal labels with minimum effort. If you haven’t got a digital recipe management storage system yet be sure to have a look at our menu-design studio or get in touch with us for more information. Declaring allergens properly is just the beginning. With our cloud solution you can also manage and analyze all other nutritional information that interests you. We keep the data up-to-date and legally compliant so you don’t have to.</p>
+      <p>We prepare you for allergens compliance regulations enabling you to concentrate on your core business. The new food labeling EU-regulation 1169/2011 for allergens became effective on 13.12.2014 and requires gastro-businesses in all 28 EU-countries to display ingredient information relating to the fourteen main allergens. Our automated and rapid analysis of the ingredients used in your restaurant’s meals reduces your workload. by making The information you need on a daily basis is available at your fingertips. Employees have easy access to meet the information requirements of every guest and can print comprehensive and customized meal labels with minimum effort. And declaring allergens properly is just the beginning. With the Eaternity App you can also manage and analyze all other nutritional information that interests you. We keep the data up-to-date and legally compliant so you don’t have to.</p>
     </div>
   </div>
 </div>
@@ -86,7 +86,7 @@ categories: app
   <div class="row push-top push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-5">
       <h1>Existing API</h1>
-      <p>In case you already have a working system like Microsoft Dynamics or SAP, our API provides you with a direct connection to exchange informations with the Eaternity Cloud. We will deliver all informations on the spot, ready for an integreation into your system. <a href="http://docs.eaternitycloud.apiary.io">docs.eaternitycloud.apiary.io</a></p>
+      <p>In case you already have a working system like Microsoft Dynamics or SAP, our API provides you with a direct connection to exchange informations with the Eaternity App. We will deliver all informations on the spot, ready for an integreation into your system. <a href="http://docs.eaternitycloud.apiary.io">docs.eaternitycloud.apiary.io</a></p>
     </div>
     <div class="col-xs-12 col-sm-5 xs-push-top">
       <h1>Ask for a demo</h1>
