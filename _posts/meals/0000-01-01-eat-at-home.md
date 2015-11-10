@@ -80,7 +80,7 @@ permalink: /meals/
 	  <!-- specific code -->
 	  
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-4 col-md-offset-0 col-md-3">
-      <a href="">
+      <a href="http://app.eaternity.ch/#!menu:2d9e98bc-025b-44e8-910d-7beabdfbdcd3">
         <div class="roundTeaser">
           <img class="responsive" src="/img/eat-at-home/meal1.jpg" />
           <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
@@ -89,7 +89,7 @@ permalink: /meals/
       <p>Lemony Potato Salad with pickled onions and cucumber</p>
     </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-4 col-md-offset-0 col-md-3 xs-push-top">
-      <a href="">
+      <a href="http://app.eaternity.ch/#!menu:94d8b613-c890-4873-9a5d-02ffced2beea">
         <div class="roundTeaser">
           <img class="responsive" src="/img/eat-at-home/meal2.jpg" />
           <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
@@ -98,7 +98,7 @@ permalink: /meals/
       <p>Lettuce Wraps with Curried Tofu with Coconut Basil Chutney</p>
     </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-4 col-md-offset-0 col-md-3 sm-push-top">
-      <a href="">
+      <a href="http://app.eaternity.ch/#!menu:551f007d-b656-49bb-9490-54bbbbc43abf">
         <div class="roundTeaser">
           <img class="responsive" src="/img/eat-at-home/meal3.jpg" />
           <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
@@ -108,13 +108,13 @@ permalink: /meals/
     </div>
     
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-4 col-md-offset-0 col-md-3 sm-push-top">
-      <a href="">
+      <a href="http://app.eaternity.ch/#!menu:6ba84240-f7ff-4455-a45c-1dda55baacee">
         <div class="roundTeaser">
           <img class="responsive" src="/img/eat-at-home/meal4.jpg" />
           <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
         </div>
       </a>
-      <p>Marinara sauce for pasta and lasagne</p>
+      <p>Corn and Zucchini Fritters</p>
     </div>
   </div>
 </div>
