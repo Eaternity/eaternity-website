@@ -97,10 +97,18 @@ permalink: /about/
   </div>
 
   <div class="row text-center big-push-bottom">
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-3 col-sm-2">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-2">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/andreasscheuss.jpg">
         <h3>Andreas Scheuss</h3>
+        <p>Software Developer</p>
+      </div>
+    </div>
+	
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-2">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/ldiener.jpg">
+        <h3>Luzius Diener</h3>
         <p>Software Developer</p>
       </div>
     </div>
