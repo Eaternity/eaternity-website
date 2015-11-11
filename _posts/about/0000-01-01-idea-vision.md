@@ -70,7 +70,7 @@ permalink: /about/
     </div>
   </div>
 
-  <div class="row text-center small-push-bottom">
+  <div id="team" class="row text-center small-push-bottom">
     <div class="col-xs-offset-3 col-xs-8 col-sm-offset-3 col-sm-2">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/manuelklarmann.jpg">
