@@ -53,7 +53,7 @@ categories: app
       <div class="col-xs-12 col-sm-6 col-md-5">
         <div>
           <h1>Eaternity Report</h1>
-          <p>Ihre Kunden vertrauen Ihrer Küche. Zeigen Sie ihnen, dass Ihnen klimafreundliche Küche am Herzen liegt. In einem monatlichen Reporting informieren wir Sie über die Fortschritte Ihres Restaurants.</p>
+          <p>Your customer trust in your services. Show them you care about climate-friendly cuisine. In a monthly report we inform you on the process of your restaurants.</p>
         </div>
       </div>
       <div class="col-xs-offset-1 col-xs-10 col-sm-offset-1 col-sm-5 col-md-offset-2 col-md-4 xs-push-top">
@@ -76,7 +76,7 @@ categories: app
       </div>
       <div class="col-xs-12 col-sm-offset-1 col-sm-7 col-md-5 xs-push-top">
         <h1>Eaternity Award</h1>
-        <p>Zeichen Sie Ihre klima-freundlichen Menüs mit dem «Eaternity Award» aus, dem ersten seiner Art weltweit. Damit zeigen Sie, dass Ihnen Umweltschutz am Herzen liegt und geben den Konsumenten wertvolle Entscheidungsgrundlagen mit.</p>
+        <p>Have your climate-friendly menu choices labeled with the «Eaternity Award» – the first footprint award for meals worldwide. Send a clear message to your guests that you care about our impact on the environment. Give them a valuable foundation to make informed decisions.</p>
       </div>
     </div>
   </div>
