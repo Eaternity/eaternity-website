@@ -76,7 +76,7 @@ categories: app
       </div>
       <div class="col-xs-12 col-sm-offset-1 col-sm-7 col-md-5 xs-push-top">
         <h1>Eaternity Award</h1>
-        <p>Have your climate-friendly menu choices labeled with the «Eaternity Award» – the first footprint award for meals worldwide. Send a clear message to your guests that you care about our impact on the environment. Give them a valuable foundation to make informed decisions.</p>
+        <p>Label your climate-friendly menu choices with the «Eaternity Award» – the first footprint award for meals worldwide. Send a clear message to your guests that you care about our impact on the environment. Give them a valuable foundation to make informed decisions.</p>
       </div>
     </div>
   </div>

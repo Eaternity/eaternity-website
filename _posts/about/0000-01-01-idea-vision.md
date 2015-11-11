@@ -47,9 +47,13 @@ permalink: /about/
     <div class="col-xs-12 col-sm-offset-1 col-sm-7 xs-push-top">
       <div>
         <h2>Our Goal: To create the future of gastronomy</h2>
-        <p>Eaternity hat sich das Ziel gesteckt, allen einen Zugang zu klimafreundlicher Ernährung zu bieten. Ob Firmen oder Privatpersonen, Eaternity zeigt Lösungen auf, bei denen jede/r selbst die eigenen Essgewohnheiten klimafreundlich gestalten kann. Das Resultat: die globalen Treibhausgasemissionen werden durch einfache und genussvolle Massnahmen langfristig reduziert.</p>
-        <p>Bei Eaternity sind wir davon überzeugt, dass wir gemeinsam klimaschädliche Treibhausgasemmisonen um die Hälfte reduzieren können! Das entspricht einer Tonne CO2 pro Person pro Jahr. Vergleichbar mit einer Autofahrt vom Nordkap (Norwegen) nach Lissabon (Portugal).</p>
-        <p>Eaternity bietet verschiedene Lösungen, die gleichzeitig genussvoll, gesund und nachhaltig sind!</p>
+        <p>We aim to provide sustainable menu choices in any restaurant. To do so, we are building the next generation solutions and services for the food service industry. We streamline the restaurant business and capture the values of today and tomorrow.</p>
+
+        <p>We have set our goal to give everyone access to climate-friendly meals. For individuals and organisations, Eaternity presents solutions to reduce your foods based environmental impact. The result: global emissions are reduced through simple and delicious measures - longterm.</p>
+
+        <p>At Eaternity we are convinced that we can reduce climate-theatening greenhouse gas emissions by half! This is equivalent of 1 ton of CO2 per person and year. Comparable to driving by car from the north cape (Norway) to Lisboa (Portugal).</p>
+
+        <p>Eaternity provides solutions, that are delicous, healthy and sustainable.</p>
       </div>
     </div>
   </div>
