@@ -24,24 +24,24 @@ permalink: /meals/
   </div>
   <div class="row push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
-      <p>Unsere Ernährung ist für einen Drittel der konsumbedingten Treibhausgas-Emissionen in Europa verantwortlich. Durch ein klimafreundlicheres Essverhalten können wir also wesentliches dazu beitragen, unsere CO2 Emissionen zu reduzieren. Folgende Faktoren, geordnet nach Effizienz, sind entscheidend für eine klimafreundliche Ernährung:</p>
+      <p>One third of our greenhouse gas emission originate form our food consumption. This is massive! Through smart and climate friendly diets, we can not only solve big problems of our global climate and resource crises, yet also shifts towards a more healthy and more sustainable way of living. Factors that are relevant for climate friendly foods, ordered by efficiency are:</p>
     </div>
   </div>
   <div class="row big-push-bottom">
     <div class="col-xs-12 col-sm-4 text-center">
       <img src="/img/eat-at-home/ingredients.svg" />
       <h3>#1: Ingredients</h3>
-      <p>Besser pflanzlich als tierisch: Obst, Gemüse und Getreide besitzen eine erheblich bessere Umweltbilanz, denn die Tierhaltung ist besonders ressourcen- und energieintensiv.</p>
+      <p>Vegetable before animal: fruit, vegetables and cereals show an extensively better environmental balance as livestock breeding is resource- and energy-intensive.</p>
     </div>
     <div class="col-xs-12 col-sm-4 text-center xs-push-top">
       <img src="/img/eat-at-home/seasonality.svg" />
       <h3>#2: Seasonality</h3>
-      <p>Bei Gemüse wählt man am besten saisonal: Keine Gewächshäuser - diese verbrauchen in der Regel sehr viel Energie für Beleuchtung, Bewässerung und Heizung. Und somit auch frische statt tiefgefrorene oder konservierte Produkte.</p>
+      <p>Seasonal Vegetables: Avoid plane transportation with its high emissions due to fuel consumption. Also, beware of greenhouse produced veggies as a lot of energy is needed for electric lighting, watering and heating.</p>
     </div>
     <div class="col-xs-12 col-sm-4 text-center xs-push-top">
       <img src="/img/eat-at-home/regionality.svg" />
       <h3>#3: Regionality</h3>
-      <p>Im weiteren zählt die Regionalität der Produkte. Möglichst kurze Transporte und keine Flugzeugtransporte - diese fallen wegen ihren hohen Treibstoffverbrauchs stark ins Gewicht.</p>
+      <p>Another aspect is regionalism. Favor fresh products over deep-frozen ones and a long transport distance.</p>
     </div>
   </div>
 </div>
@@ -68,7 +68,7 @@ permalink: /meals/
     </div>
   </div>
   <div class="row push-bottom text-center">
-	  
+
 	  <!-- specific code -->
 	{% for item in site.categories['recipes'] reversed offset:1 limit:4 %}
 	<div class="span3">
@@ -78,7 +78,7 @@ permalink: /meals/
 	</div>
 	{% endfor %}
 	  <!-- specific code -->
-	  
+
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-4 col-md-offset-0 col-md-3">
       <a href="http://app.eaternity.ch/#!menu:2d9e98bc-025b-44e8-910d-7beabdfbdcd3">
         <div class="roundTeaser">
@@ -106,7 +106,7 @@ permalink: /meals/
       </A>
       <p>Marinara sauce for pasta and lasagne</p>
     </div>
-    
+
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-4 col-md-offset-0 col-md-3 sm-push-top">
       <a href="http://app.eaternity.ch/#!menu:6ba84240-f7ff-4455-a45c-1dda55baacee">
         <div class="roundTeaser">
