@@ -45,7 +45,7 @@ permalink: /app/
             <li>unlimited recipe creation</li>
             <li>sharing</li>
           </ul>
-          <p>The App is food declarations compliant with EU Food Labelling Regulation for allergens and nutrition</p>
+          <p>The App provides food declarations compliant with EU Food Labelling Regulation for nutrition</p>
           <a href="/app/get-the-app" class="button">Get the App <i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>
@@ -63,7 +63,7 @@ permalink: /app/
             <li>insightful illustrations and easily comprehensible reports</li>
             <li>climate friendly meal awards for all meals which create 50% less carbon emissions than the average meal.</li>
           </ul>
-          <p>The App is food declarations compliant with EU Food Labelling Regulation for allergens and nutrition</p>
+          <p>The App provides food declarations compliant with EU Food Labelling Regulation for allergens and nutrition</p>
           <a href="/app/professional" class="button">Features & more <i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>
