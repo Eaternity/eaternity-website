@@ -53,17 +53,22 @@ permalink: /p/compass-ch
 <div class="container">
   <div class="row big-push-top small-push-bottom">
     <div class="col-xs-12 col-sm-8 col-md-6">
-      <h3>Die ersten Restaurants mit durchwegs klimafreundlichen Menüs</h3>
+      <h3>The first restaurants serving climate-friendly meals everyday</h3>
     </div>
   </div>
 
   <div class="row push-bottom">
     <div class="col-xs-12 col-sm-8">
-      <p>Die Compass Group (Schweiz) AG unternimmt schon seit Jahren grosse Anstrengungen zur Förderung einer gesunden und umweltfreundlichen Ernährung. «Der Markt verlangt verstärkt Lösungen zum Thema Nachhaltigkeit. Wir von der Compass Group wollen unsere Kunden dabei unterstützen. Der CO2-Rechner der Firma Eaternity bietet uns nun eine einmalige Chance, um auf diesem Weg ein entscheidendes Stück voranzukommen», sagt Frank Keller, CEO.</p>
+      <p>The Compass Group (Switzerland) AG has already for many years put great efforts into serving healthy and sustainable meals. «The market increasingly demands solutions that implement sustainability. At the Compass Group we want to actively support our clients in achieving their sustainability goals. The CO2-calculator of Eaternity offers us a unique opportunity to make substantially and decisively progress towards this, says Frank Keller, CEO.</p>
 
-      <p>Die Compass Group (Schweiz) AG führt das CO2-Management soeben in ihren Restaurants ein und will so den CO2-Ausstoss bis 2020 um 20 Prozent senken.</p>
+      <p>The Compass Group (Switzerland) AG has introduced the CO2-management tracking tool in their restaurants and has committed to reduce emissions by 20% in 2020.</p>
 
-      <p>200 restaurants, complete Eaternity setup: reports, menu-awards and communications. First restaurant went online and started communicating climate-friendly meals towards their guests in May 2014. All restaurants send all recipes of all menus on a daily basis over the wire to Eaternity. All restaurants send all supplies on a monthly basis to Eaternity. A meal emits from 0.3 kg CO₂ to 5.5 kg CO₂ (averaging at 1.71 kg CO₂) - All restaurants together have an impact of 48’000 Tons of CO₂ food related emissions a year. It is planned to reduce emissions by 20% till 2020.</p>
+      <p>All restaurants send daily the recipes they cook through the "wire" and in return the CO2-value is calculated. All restaurants send monthly all their supplies and purchases to Eaternity which generates a specific restaurant report giving detailed information on their CO2-impact. </p>
+
+      <p>200 restaurants are fully equipped with the Eaternity set-up: monthly reports, meal awards and restaurant communication. In may 2014 the first restaurant went online and started communicating the program towards their guests.</p>
+
+      <p>One meal can cause around 0.3 kg up to 5.5 kg CO2e (on average 1.71 kg CO2e). The food related emissions of all restaurants together amount up to 15'000 tons of CO2e per year. By 2020 these emissions will be 20% lower.</p>
+
       <img class="responsive small-push-top small-push-bottom" src="/img/case-study/casestudy1.jpg">
 
       <img class="responsive" src="/img/case-study/casestudy2.jpg">
@@ -71,14 +76,14 @@ permalink: /p/compass-ch
     <div class="col-xs-12 col-sm-4">
       <h3>Press Releases</h3>
       <ul class="small-push-bottom">
-        <li><a href="">Pressemitteilungen Eaternity</a></li>
-        <li><a href="">Pressemitteilungen Compass Group (Schweiz) AG</a> (26. Mai 2014)</li>
-        <li><a href="">Pressemitteilungen Compass Group (Schweiz) AG</a> (14. November 2014)</li>
+        <li><a href="">Press release Eaternity</a></li>
+        <li><a href="">Press release Compass Group (Switzerland) AG</a> (26th of May 2014)</li>
+        <li><a href="">Press release Compass Group (Switzerland) AG</a> (14h of November 2014)</li>
       </ul>
-      <h3>Keep the label in mind</h3>
+      <h3>Pay attention to our Eaternity Award</h3>
       <div class="row">
         <div class="col-xs-12 col-md-8">
-          <p>Enjoy a climate-friendly meals and be part of a sustainable society</p>
+          <p>Enjoy a climate-friendly meal and become part of the solution.</p>
         </div>
         <div class="col-xs-offset-3 col-xs-6 col-sm-offset-2 col-sm-8 col-md-offset-0  col-md-4">
           <img class="responsive" src="/img/case-study/climate-friendly.png">
