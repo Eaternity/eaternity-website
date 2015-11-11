@@ -24,14 +24,14 @@ permalink: /meals/
   </div>
   <div class="row push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
-      <p>One third of our greenhouse gas emission originate form our food consumption. This is massive! Through smart and climate friendly diets, we can not only solve big problems of our global climate and resource crises, yet also shifts towards a more healthy and more sustainable way of living. Factors that are relevant for climate friendly foods, ordered by efficiency are:</p>
+      <p>One third of our greenhouse gas emission originate from our food consumption. This is massive! Through smart and climate friendly diets, we can not only solve big problems of our global climate and resource crises. We can also shifts towards a more healthy and more sustainable way of living. Factors that are relevant for climate friendly foods, ordered by efficiency are:</p>
     </div>
   </div>
   <div class="row big-push-bottom">
     <div class="col-xs-12 col-sm-4 text-center">
       <img src="/img/eat-at-home/ingredients.svg" />
       <h3>#1: Ingredients</h3>
-      <p>Vegetable before animal: fruit, vegetables and cereals show an extensively better environmental balance as livestock breeding is resource- and energy-intensive.</p>
+      <p>Vegetable before animal: fruit, vegetables and cereals show an extensively better environmental impact, as livestock breeding is resource and energy-intensive.</p>
     </div>
     <div class="col-xs-12 col-sm-4 text-center xs-push-top">
       <img src="/img/eat-at-home/seasonality.svg" />
@@ -41,7 +41,7 @@ permalink: /meals/
     <div class="col-xs-12 col-sm-4 text-center xs-push-top">
       <img src="/img/eat-at-home/regionality.svg" />
       <h3>#3: Regionality</h3>
-      <p>Another aspect is regionalism. Favor fresh products over deep-frozen ones and a long transport distance.</p>
+      <p>Another factor is location. Be aware of long transport distances. Favour fresh products over deep-frozen ones.</p>
     </div>
   </div>
 </div>
@@ -53,8 +53,8 @@ permalink: /meals/
     <div class="col-xs-12 col-sm-5">
       <div>
         <h1>The Eaternity-meal</h1>
-        <p>Meals are awarded as climate-friendly if they belong to the top 20% of all meals being served (currently 25’246 in our database). A climate friendly meal has at least <span class="semiBold">53% LESS CO₂</span> emissions then the average meal.</p>
-        <a class="button" href="/app/get-the-app">Get the App <i class="fa fa-angle-right fa-lg"></i></a>
+        <p>Meals are granted climate-friendly status if they belong to the top 20% of all meals being served (currently 25’246 in our database). A climate friendly meal has at least <span class="semiBold">53% LESS CO₂</span> emissions then the average meal.</p>
+        <a class="button" href="/app/get-the-app">Get the Eaternity App <i class="fa fa-angle-right fa-lg"></i></a>
       </div>
     </div>
     <div class="col-xs-12 col-sm-7 xs-push-top">
@@ -95,7 +95,7 @@ permalink: /meals/
           <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
         </div>
       </a>
-      <p>Lettuce Wraps with Curried Tofu with Coconut Basil Chutney</p>
+      <p>Lettuce Wraps with Curried Tofu and Coconut Basil Chutney</p>
     </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-4 col-md-offset-0 col-md-3 sm-push-top">
       <a href="http://app.eaternity.ch/#!menu:551f007d-b656-49bb-9490-54bbbbc43abf">

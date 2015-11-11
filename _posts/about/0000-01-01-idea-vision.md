@@ -47,11 +47,11 @@ permalink: /about/
     <div class="col-xs-12 col-sm-offset-1 col-sm-7 xs-push-top">
       <div>
         <h2>Our Goal: To create the future of gastronomy</h2>
-        <p>We aim to provide sustainable menu choices in any restaurant. To do so, we are building the next generation solutions and services for the food service industry. We streamline the restaurant business and capture the values of today and tomorrow.</p>
+        <p>We aim to provide sustainable menu choices in any restaurant. To do so, we are building the next generation of solutions and services for the food service industry. We streamline the restaurant business and capture the values for today and tomorrow.</p>
 
-        <p>We have set our goal to give everyone access to climate-friendly meals. For individuals and organisations, Eaternity presents solutions to reduce your foods based environmental impact. The result: global emissions are reduced through simple and delicious measures - longterm.</p>
+        <p>Our goal is to give everyone access to climate-friendly meals. For individuals and organisations, Eaternity presents solutions to reduce your food-based environmental impact. The result: global emissions are reduced through simple and delicious measures - longterm.</p>
 
-        <p>At Eaternity we are convinced that we can reduce climate-theatening greenhouse gas emissions by half! This is equivalent of 1 ton of CO2 per person and year. Comparable to driving by car from the north cape (Norway) to Lisboa (Portugal).</p>
+        <p>At Eaternity we are convinced that we can reduce climate-threatening greenhouse gas emissions by half! This is equivalent of 1 ton of CO2 per person per year. That's comparable to driving by car from the north cape (Norway) to Lisboa (Portugal).</p>
 
         <p>Eaternity provides solutions, that are delicous, healthy and sustainable.</p>
       </div>
@@ -147,11 +147,11 @@ permalink: /about/
     </div>
     <div class="col-xs-12 col-sm-4 xs-push-top">
       <h3>2009</h3>
-      <p>Since then Eaternity has been working hard to bring this to the attention of key interest groups. After a year of lobbying and hard work Eaternity launched its <a href="http://eaternity.org/assets/de/2009-11-25%20MM-Pilot.pdf">first project at one of the ETH canteens</a> at the Science City campus run by SV Group. This project was the first of its kind, truly pioneering, and the start of many more great projects to come. The CO2-impact of all the meals offered at the canteen was calculated and the team worked together with the cooks to create and serve the first ever climate-friendly menu in a public restaurant.</p>
+      <p>Since then, Eaternity has been working hard to bring this to the attention of key interest groups. After a year of lobbying and hard work, Eaternity launched its <a href="http://eaternity.org/assets/de/2009-11-25%20MM-Pilot.pdf">first project at one of the ETH canteens</a> at the Science City campus run by SV Group. This project was the first of its kind, and the start of many more great projects to come. The CO2-impact of all the meals offered at the canteen was calculated and the team worked together with the cooks to create and serve the first ever climate-friendly menu in a public restaurant.</p>
     </div>
     <div class="col-xs-12 col-sm-4 xs-push-top">
       <h3>2014</h3>
-      <p>After this voluntary work continued under the Eaternity Association and other project requests, as well as media interest, began to materialise. We embraced many opportunities (<a href="/blog">and still do!</a>) to reach out to numerous persons by giving lectures and interviews, providing materials, organizing events, setting up information booths and offering more menu calculations. Based on all these valuable experiences we incorporated (in addition to the Eaternity Association) the Eaternity AG in July 2014. This company supports players in the restaurant industry, providing them with the expertise and tools to turn <a href="/meals/restaurants">restaurants into climate heroes</a>.</p>
+      <p>After this voluntary work continued under the Eaternity Association, other project requests and media interest began to materialise. We embraced many opportunities (<a href="/blog">and still do</a>) to reach out to numerous people by giving lectures and interviews, providing materials, organising events, setting up information booths and offering more menu calculations. Based on all these valuable experiences we incorporated (in addition to the Eaternity Association) the Eaternity AG in July 2014. This company supports players in the restaurant industry, providing them with the expertise and tools to turn <a href="/meals/restaurants">restaurants into climate heroes</a>.</p>
     </div>
   </div>
 

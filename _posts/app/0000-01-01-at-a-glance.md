@@ -23,7 +23,7 @@ permalink: /app/
     <div class="col-xs-12 col-sm-offset-1 col-sm-7">
       <div>
         <h1>Eaternity App</h1>
-        <p>We have developed an innovative software for private and professional use – the Eaternity App. It is based on an easy to understand and yearly reviewed CO₂-database, currently the largest and most comprehensive database for carrying out menu-CO₂-calculations. Herewith we offer everyone the opportunity to make a sustainable choice when selecting their everyday food.</p>
+        <p>We have developed innovative software for private and professional use – the Eaternity App. It is based on an easy to understand and yearly reviewed CO₂-database. This is currently the largest and most comprehensive database for carrying out menu-CO₂-calculations. With Eaternity, we offer everyone the opportunity to make a sustainable choice when selecting their everyday food.</p>
       </div>
     </div>
     <div class="col-xs-offset-4 col-xs-4 col-sm-offset-1 col-sm-2 xs-push-top">
@@ -39,13 +39,13 @@ permalink: /app/
         </div>
         <div class="teaserBox bgLightGrey">
           <h3>For private use</h3>
-          <p>Eaternity App is completely free for private use. We provide</p>
+          <p>The Eaternity App is completely free for private use. We provide:</p>
           <ul class="small-push-bottom">
-            <li>accurate CO2-statistics on every product and meal</li>
-            <li>food declarations compliant with EU Food Labeling Regulation for allergens and nutrition</li>
+            <li>accurate CO2-statistics on all products and meals</li>
             <li>unlimited recipe creation</li>
-            <li>sharing possibility</li>
+            <li>sharing</li>
           </ul>
+          <p>The App is food declarations compliant with EU Food Labelling Regulation for allergens and nutrition</p>
           <a href="/app/get-the-app" class="button">Get the App <i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>
@@ -59,11 +59,11 @@ permalink: /app/
           <h3>For Restaurants</h3>
           <p>The «Pro»-Version of the Eaternity App has been developed for restaurants and provides</p>
           <ul class="small-push-bottom">
-            <li>accurate and daily CO2-statistics on every meal and the complete restaurant</li>
-            <li>food declarations compliant with EU Food Labeling Regulation for allergens and nutrition</li>
+            <li>accurate and daily CO2-statistics on every meal and the restaurant as a whole.</li>
             <li>insightful illustrations and easily comprehensible reports</li>
-            <li>an award of which meals are climate-friendly and have 50% less carbon emissions compared to the average</li>
+            <li>climate friendly meal awards for all meals which create 50% less carbon emissions than the average meal.</li>
           </ul>
+          <p>The App is food declarations compliant with EU Food Labelling Regulation for allergens and nutrition</p>
           <a href="/app/professional" class="button">Features & more <i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>
@@ -72,7 +72,7 @@ permalink: /app/
       <div>
         <div class="teaserBox bgLightGrey">
           <h3>Talk to us</h3>
-          <p>The Eaternity App can be connected to any existing infrastructure in place to manage supplies and recipes. By matching the restaurants datasets on supplies to our datasets, it can deliver upon request directly and effortlessly most accurate calculation results.</p>
+          <p>The Eaternity App can be connected to any existing infrastructure to manage supplies and recipes. By matching the restaurants suppliers data to our datasets, it can deliver accurate calculations directly.</p>
           <a href="/contact" class="button">Get in touch <i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>
