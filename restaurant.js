@@ -1,3 +1,9 @@
+---
+layout:
+permalink: /meals/restaurants.js
+---
+
+
 $(document).ready(function(){
 	/*-----------------------------------------------
 		Checkboxes
@@ -33,11 +39,11 @@ $(document).ready(function(){
 	if($(".map").length){
 		var mapCanvas = $('.map')[0];
 		var mapOptions = {
-		  center: new google.maps.LatLng(47.359790, 8.557180),
-		  zoom: 14,
+		  center: new google.maps.LatLng(46.9884847,7.2367753),
+		  zoom: 8,
 		  mapTypeControl: false,
 		  streetViewControl: false,
-		  draggable: false,
+		  draggable: true,
 		  scrollwheel: false,
 		  mapTypeId: google.maps.MapTypeId.ROADMAP
 		}
@@ -102,6 +108,50 @@ $(document).ready(function(){
 		]);
 
 
+
+
+
+{% for restaurant in site.data.restaurants %}
+
+
+	var infoBubble{{ restaurant.code }} = new InfoBubble({
+      map: map,
+      content: "{{ restaurant.content }}",
+      shadowStyle: 0,
+      padding: "15px",
+      backgroundColor: '#e7eff1',
+      arrowSize: 15,
+      borderRadius: 0,
+      minHeight: 120,
+      minWidth: 200,
+      borderWidth: 1,
+      disableAutoPan: true,
+      hideCloseButton: true,
+      backgroundClassName: 'transparent',
+      arrowStyle: 0
+    });
+
+	var marker{{ restaurant.code }} = new google.maps.Marker({
+	    position: {lat: {{ restaurant.lat }}, lng: {{ restaurant.lng }}},
+	    map: map,
+	    icon: '/img/marker.png'
+	});
+
+	marker{{ restaurant.code }}.addListener('click', function() {
+			infoBubble{{ restaurant.code }}.open(map, marker{{ restaurant.code }});
+	});
+	
+	google.maps.event.addListener(map, "click", function () {
+		infoBubble{{ restaurant.code }}.close();
+	});
+	
+		
+		
+{% endfor %}
+
+
+
+		// prototype call
 	  var infoBubble = new InfoBubble({
       map: map,
       content: "<div class='info'><span class='semiBold'>Eaternity AG</span><br />Zollikerstrasse 76<br />CH-8008 Zürich</div>",
@@ -125,23 +175,28 @@ $(document).ready(function(){
 	    icon: '/img/marker.png'
 	  });
 
+		marker.addListener('click', function() {
+			infoBubble.open(map, marker);
+		});
+
+
+
 	  // var markersecond = new google.maps.Marker({
 	  //   position: {lat: 47.359, lng: 8.55},
 	  //   map: map,
 	  //   icon: '/img/marker.png'
 	  // });
 
-	  marker.addListener('click', function() {
-	    infoBubble.open(map, marker);
-	  });
+	  // markersecond.addListener('click', function() {
+	  //   infoBubble.open(map, markersecond);
+	  // });
 
-	  markersecond.addListener('click', function() {
-	    infoBubble.open(map, markersecond);
-	  });
 
-	  google.maps.event.addListener(map, "click", function () {
-      infoBubble.close();
-    });
+		google.maps.event.addListener(map, "click", function () {
+			infoBubble.close();
+		});
+
+
 
 	}
 

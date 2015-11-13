@@ -1,0 +1,67 @@
+Timestamp,name,email,restaurant,phone,check,address,lat,lng,content,adress-lookup,code
+,,,Comet,,,Herrengasse 10 in Flamatt,46.8896383,7.319129,<div class='info'><span class='semiBold'>Comet</span><br />Herrengasse 10 in Flamatt</div>,,1
+,,,Bern Unia,,,"Weltpoststrasse 20, Bern ",46.937755,7.4742535,"<div class='info'><span class='semiBold'>Bern Unia</span><br />Weltpoststrasse 20, Bern </div>",,2
+,,,Bern BBL,,,"Fellerstrasse 21,  Bern",46.9461776,7.3854803,"<div class='info'><span class='semiBold'>Bern BBL</span><br />Fellerstrasse 21,  Bern</div>",,3
+,,,Bern Emmi,,,"Forelstrasse 1, 3072 Ostermundigen",46.9628233,7.4804605,"<div class='info'><span class='semiBold'>Bern Emmi</span><br />Forelstrasse 1, 3072 Ostermundigen</div>",,4
+,,,Bundesamt für Umwelt,,,,46.974446,7.4750015,<div class='info'><span class='semiBold'>Bundesamt für Umwelt</span><br /></div>,,5
+,,,Seeland Gymnasium,,,"Ländtestr. 12, 2503 Biel ",47.1334112,7.2337841,"<div class='info'><span class='semiBold'>Seeland Gymnasium</span><br />Ländtestr. 12, 2503 Biel </div>",,6
+,,,Franke,,,"Steinbillen, 4663 Aarburg",47.3189863,7.9084605,"<div class='info'><span class='semiBold'>Franke</span><br />Steinbillen, 4663 Aarburg</div>",,7
+,,,BZZ Zofingen,,,Strengelbacherstrasse 27 in Zofingen,47.2824034,7.939348,<div class='info'><span class='semiBold'>BZZ Zofingen</span><br />Strengelbacherstrasse 27 in Zofingen</div>,,8
+,,,Mepha Pharma,,,Weidenstrasse 26 4143 Dornach,47.47835,7.6076282,<div class='info'><span class='semiBold'>Mepha Pharma</span><br />Weidenstrasse 26 4143 Dornach</div>,,9
+,,,Universität Luzern,,,"Frohburgstrasse 3, 6002 Luzern",47.0496188,8.3101288,"<div class='info'><span class='semiBold'>Universität Luzern</span><br />Frohburgstrasse 3, 6002 Luzern</div>",,10
+,,,Pilatus,,,"Schlossweg 1, 6010 Kriens/Luzern",47.0304582,8.2604366,"<div class='info'><span class='semiBold'>Pilatus</span><br />Schlossweg 1, 6010 Kriens/Luzern</div>",,11
+,,,KBZ Zug,,,"Aabachstr. 7, 6300 Zug ",47.1754004,8.5087491,"<div class='info'><span class='semiBold'>KBZ Zug</span><br />Aabachstr. 7, 6300 Zug </div>",,12
+,,,Cilag,,,"Gubelstrasse 28, 6300 Zug",47.1747218,8.5118295,"<div class='info'><span class='semiBold'>Cilag</span><br />Gubelstrasse 28, 6300 Zug</div>",,13
+,,,Kantonsschule Menzingen,,,"Seminarstrasse 12, 6313 Menzingen",47.1820442,8.5837857,"<div class='info'><span class='semiBold'>Kantonsschule Menzingen</span><br />Seminarstrasse 12, 6313 Menzingen</div>",,14
+,,,IBM Rüschlikon,,,"Säumerstrasse 4, 8803 Rüschlikon",47.3097968,8.5425564,"<div class='info'><span class='semiBold'>IBM Rüschlikon</span><br />Säumerstrasse 4, 8803 Rüschlikon</div>",,15
+,,,IBM Vulkanstrasse,,,"Vulkanstrasse 106, 8048 Zürich",47.3930202,8.483695,"<div class='info'><span class='semiBold'>IBM Vulkanstrasse</span><br />Vulkanstrasse 106, 8048 Zürich</div>",,16
+,,,BBZ Wohlen,,,"Bremgartenstrasse 17, 5610 Wohlen ",47.3507034,8.2785858,"<div class='info'><span class='semiBold'>BBZ Wohlen</span><br />Bremgartenstrasse 17, 5610 Wohlen </div>",,17
+,,,puur Balsberg,,,"Balz-Zimmermannstrasse 7, 8058 Zürich Flughafen",47.4399641,8.5687279,"<div class='info'><span class='semiBold'>puur Balsberg</span><br />Balz-Zimmermannstrasse 7, 8058 Zürich Flughafen</div>",,18
+,,,Zürich Taubenried,,,"Flughafen Zürich, Flughafenstrasse, 8302 Kloten",47.4518322,8.5363899,"<div class='info'><span class='semiBold'>Zürich Taubenried</span><br />Flughafen Zürich, Flughafenstrasse, 8302 Kloten</div>",,19
+,,,Zürich Integra,,,Hammerweg 8304 Wallisellen,47.4124837,8.5870004,<div class='info'><span class='semiBold'>Zürich Integra</span><br />Hammerweg 8304 Wallisellen</div>,,20
+,,,Zürich Kant. Steueramt,,,"Bändliweg 21, 8090 Zürich",47.3949202,8.484114,"<div class='info'><span class='semiBold'>Zürich Kant. Steueramt</span><br />Bändliweg 21, 8090 Zürich</div>",,21
+,,,Technopark Zürich,,,Technoparkstrasse 1 in Zürich,47.389844,8.5134361,<div class='info'><span class='semiBold'>Technopark Zürich</span><br />Technoparkstrasse 1 in Zürich</div>,,22
+,,,Zürich Wasserversorgung,,,"Hardhof 9, 8064 Zürich",47.3977116,8.4940143,"<div class='info'><span class='semiBold'>Zürich Wasserversorgung</span><br />Hardhof 9, 8064 Zürich</div>",,23
+,,,Zürich Siemens CUBE,,,"Albisriederstrasse 245, 8047 Zürich",47.3783957,8.4924392,"<div class='info'><span class='semiBold'>Zürich Siemens CUBE</span><br />Albisriederstrasse 245, 8047 Zürich</div>",,24
+,,,Zürich VZ Werd,,,"Werdstrasse 75, 8004 Zürich",47.3718795,8.524817,"<div class='info'><span class='semiBold'>Zürich VZ Werd</span><br />Werdstrasse 75, 8004 Zürich</div>",,25
+,,,Zürich Arena Baden,,,Brown Boveri Strasse 7 in Baden,47.4795176,8.3027419,<div class='info'><span class='semiBold'>Zürich Arena Baden</span><br />Brown Boveri Strasse 7 in Baden</div>,,26
+,,,"Procter & Gamble, Genf",,,"Route de chancy 6, 1213 Petit-Lancy",46.1935222,6.120801,"<div class='info'><span class='semiBold'>Procter & Gamble, Genf</span><br />Route de chancy 6, 1213 Petit-Lancy</div>",,27
+,,,"B.I.T., Genf",,,"Route des Morillons 4, 1202 Genève",46.229209,6.1322084,"<div class='info'><span class='semiBold'>B.I.T., Genf</span><br />Route des Morillons 4, 1202 Genève</div>",,28
+,,,"OIM, Genf",,,"Route des Morillons 17, 1218 Le Grand-Saconnex",46.2316748,6.1298212,"<div class='info'><span class='semiBold'>OIM, Genf</span><br />Route des Morillons 17, 1218 Le Grand-Saconnex</div>",,29
+,,,"OMS, Genf",,,"20 Avenue Appia, Geneva",46.2327276,6.1321684,"<div class='info'><span class='semiBold'>OMS, Genf</span><br />20 Avenue Appia, Geneva</div>",,30
+,,,"OMS ONUSIDA, Genf",,,"Avenue Appia 20, Geneva",46.2327276,6.1321684,"<div class='info'><span class='semiBold'>OMS ONUSIDA, Genf</span><br />Avenue Appia 20, Geneva</div>",,31
+,,,"College du Leman, Genf",,,"74, rte de Sauverny, 1290 Versoix",46.2892071,6.1571053,"<div class='info'><span class='semiBold'>College du Leman, Genf</span><br />74, rte de Sauverny, 1290 Versoix</div>",,32
+,,,"Collège de Coppet, Genf",,,"En Rojalets, 1296 Coppet",46.3231688,6.1838687,"<div class='info'><span class='semiBold'>Collège de Coppet, Genf</span><br />En Rojalets, 1296 Coppet</div>",,33
+,,,"UEFA, Genf",,,"Route de Genève 46, 1260 Nyon",46.3709488,6.2288457,"<div class='info'><span class='semiBold'>UEFA, Genf</span><br />Route de Genève 46, 1260 Nyon</div>",,34
+,,,"Cessouest, Vaud",,,"Route de Divonne 8, 1260 Nyon",46.3827054,6.2294938,"<div class='info'><span class='semiBold'>Cessouest, Vaud</span><br />Route de Divonne 8, 1260 Nyon</div>",,35
+,,,"Medtronic, Vaud",,,"Route du Molliau, 1131 Tolochenaz",46.50316,6.4774613,"<div class='info'><span class='semiBold'>Medtronic, Vaud</span><br />Route du Molliau, 1131 Tolochenaz</div>",,36
+,,,"EPFL, Vaud",,,"Route Cantonale, 1015 Lausanne",46.5208057,6.5796039,"<div class='info'><span class='semiBold'>EPFL, Vaud</span><br />Route Cantonale, 1015 Lausanne</div>",,37
+,,,B. Braun Medical,,,"Route de la Sorge 9, 1023 Crissier",46.5601527,6.5642135,"<div class='info'><span class='semiBold'>B. Braun Medical</span><br />Route de la Sorge 9, 1023 Crissier</div>",,38
+,,,"Valfleurier, Vaud",,,"les Sugits 21, 2115 Buttes",46.889892,6.5571541,"<div class='info'><span class='semiBold'>Valfleurier, Vaud</span><br />les Sugits 21, 2115 Buttes</div>",,39
+,,,Univ. Neuchâtel,,,la Maladière 71b à Neuchâtel,46.9977124,6.9437648,<div class='info'><span class='semiBold'>Univ. Neuchâtel</span><br />la Maladière 71b à Neuchâtel</div>,,40
+,,,"Nespresso, Vaud",,,"Rte du Lac 3, 1094 Paudex",46.5063368,6.6686093,"<div class='info'><span class='semiBold'>Nespresso, Vaud</span><br />Rte du Lac 3, 1094 Paudex</div>",,41
+,,,"puur Alcon, Vaud",,,"Rue Louis d’Affry 4-6, 1700 Fribourg",46.8033956,7.1478208,"<div class='info'><span class='semiBold'>puur Alcon, Vaud</span><br />Rue Louis d’Affry 4-6, 1700 Fribourg</div>",,42
+,,,Villa Sträuli,,,"Museumstrasse 60, 8400 Winterthur",47.5016994,8.7266339,"<div class='info'><span class='semiBold'>Villa Sträuli</span><br />Museumstrasse 60, 8400 Winterthur</div>",,43
+,,,"Restaurant Tüfi, Zürich",,,"Dufourstrasse 154, 8008 Zürich",47.3553184,8.5520549,"<div class='info'><span class='semiBold'>Restaurant Tüfi, Zürich</span><br />Dufourstrasse 154, 8008 Zürich</div>",,44
+,,,"Salotto, Zürich",,,"Hardturmstrasse 169, Zürich",47.3934536,8.5090175,"<div class='info'><span class='semiBold'>Salotto, Zürich</span><br />Hardturmstrasse 169, Zürich</div>",,45
+,,,"Restaurant Klima, Umweltarena Spreitenbach",,,"Türliackerstrasse 4, 8957 Spreitenbach",47.4244272,8.3648925,"<div class='info'><span class='semiBold'>Restaurant Klima, Umweltarena Spreitenbach</span><br />Türliackerstrasse 4, 8957 Spreitenbach</div>",,46
+,,,"Chez Toi, Zürich",,,"Meinrad-Lienert-Strasse 1, 8003 Zürich",47.3740768,8.5166253,"<div class='info'><span class='semiBold'>Chez Toi, Zürich</span><br />Meinrad-Lienert-Strasse 1, 8003 Zürich</div>",,47
+,,,"Simply Soup, Zürich",,,"Hallwylstrasse 24, 8004 Zürich",47.3718518,8.5268026,"<div class='info'><span class='semiBold'>Simply Soup, Zürich</span><br />Hallwylstrasse 24, 8004 Zürich</div>",,48
+,,,"Buffet Dreieck, Zürich",,,,47.3728805,8.5226394,"<div class='info'><span class='semiBold'>Buffet Dreieck, Zürich</span><br /></div>",,49
+,,,"Mein Küchenchef, Bern",,,"Landorfstrasse 7, 3098 Köniz",46.9228168,7.4109079,"<div class='info'><span class='semiBold'>Mein Küchenchef, Bern</span><br />Landorfstrasse 7, 3098 Köniz</div>",,50
+,,,"Café Cairo, Bern",,,,46.9587195,7.4441424,"<div class='info'><span class='semiBold'>Café Cairo, Bern</span><br /></div>",,51
+ ,,,Restaurant Stadtspital Triemli,,,,47.3657585,8.4952869,<div class='info'><span class='semiBold'>Restaurant Stadtspital Triemli</span><br /></div>,,52
+,,,"Cantina Don Camillo, Basel",,,,47.5581365,7.5989916,"<div class='info'><span class='semiBold'>Cantina Don Camillo, Basel</span><br /></div>",,53
+,,,"Frohsinn, Weinfelden",,,,47.5644191,9.1058547,"<div class='info'><span class='semiBold'>Frohsinn, Weinfelden</span><br /></div>",,54
+,,,"Ristorante Concordia, Winterthur",,,,47.5090875,8.7149977,"<div class='info'><span class='semiBold'>Ristorante Concordia, Winterthur</span><br /></div>",,55
+,,,"Coalmine, Winterthur",,,,47.5003817,8.7231144,"<div class='info'><span class='semiBold'>Coalmine, Winterthur</span><br /></div>",,56
+,,,"Tuck-Tuck Catering, Fällanden",,,,47.3713232,8.6329065,"<div class='info'><span class='semiBold'>Tuck-Tuck Catering, Fällanden</span><br /></div>",,57
+,,,"EquiTable, Zürich",,,,47.3778805,8.5189407,"<div class='info'><span class='semiBold'>EquiTable, Zürich</span><br /></div>",,58
+,,,"Vegelateria, Zürich",,,,47.3761181,8.5267179,"<div class='info'><span class='semiBold'>Vegelateria, Zürich</span><br /></div>",,59
+,,,"Kafi Schoffel, Zürich",,,,47.3710721,8.54128,"<div class='info'><span class='semiBold'>Kafi Schoffel, Zürich</span><br /></div>",,60
+,,,"Babus, Zürich",,,,47.373134,8.5319285,"<div class='info'><span class='semiBold'>Babus, Zürich</span><br /></div>",,61
+,,,"Samses, Zürich",,,,47.3839126,8.5285223,"<div class='info'><span class='semiBold'>Samses, Zürich</span><br /></div>",,62
+,,,"Maison Blunt, Zürich",,,,47.3837005,8.5262154,"<div class='info'><span class='semiBold'>Maison Blunt, Zürich</span><br /></div>",,63
+,,,"Zum Alten Löwen, Zürich",,,,47.3850074,8.5460555,"<div class='info'><span class='semiBold'>Zum Alten Löwen, Zürich</span><br /></div>",,64
+,,,"Restaurant Casinotheater, Winterthur",,,,47.4997361,8.7244227,"<div class='info'><span class='semiBold'>Restaurant Casinotheater, Winterthur</span><br /></div>",,65
+,,,"Tibits, Zürich",,,,47.3649351,8.5457451,"<div class='info'><span class='semiBold'>Tibits, Zürich</span><br /></div>",,66
