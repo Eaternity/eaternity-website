@@ -34,17 +34,32 @@ categories: meals
 </div>
 
 <div id="award" class="container">
-  <div class="row big-push-top small-push-bottom">
-    <div class="col-xs-12 text-center">
-Explain and link to the Eaternity Award icons, and example menu cards
+	<div class="row big-push-top ">
+		<div class="col-xs-12 text-center small-push-bottom">
+			<h2>Look out for the Eaternity Award</h2>
+		</div>
+	</div>
+  <div class="row small-push-bottom">
+    <div class="col-xs-7 col-sm-6 col-sm-offset-1 col-md-offset-2 col-md-5 push-bottom">
+				<p>To make it convinient for guests, restaurants label their climate friendly meals with the Eaternity Award. This symbol appear at counters, on menu cards, on menu card websites and in our Eaternity Reports. If you compose a recipe in the Eaternity App, you will immediatly see, which ones are being awarded best.</p>
+			<ol>
+			<li><a href="/assets/2015-11-05-Eaternity_logo_set.zip">Download icon pack</a></li>
+			<li><a href="">Download example menu plan</a></li>
+			<li><a href="">Download example communication material for the guests</a></li>
+			</ol>
+			<br>
+			<p>Choose the climate friendly meal with the Eaternity Award.</p>
+		</div>
+		<div class="col-xs-5 col-sm-5 col-md-3 text-center">
+			<img width="90%" src="/assets/2015-11-05-Eaternity_logo_set/Eatenity-Award-vector.svg" />
 
-
-
-</div></div></div>
+		</div>
+	</div>
+</div>
 
 
 <div class="container">
-  <div class="row big-push-top small-push-bottom">
+  <div class="row push-top small-push-bottom">
     <div class="col-xs-12 text-center">
       <h2>Get involved</h2>
     </div>
