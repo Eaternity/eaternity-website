@@ -2,7 +2,7 @@
 layout: default
 name: appetite-for-change
 title:  "Reduce emissions in Paris @COP21"
-categories: 
+categories:
 permalink: /appetite-for-change/
 ---
 
@@ -47,7 +47,7 @@ permalink: /appetite-for-change/
 		 <p id="result"></p>
       </div>
       <div class="col-xs-12 col-sm-12 col-md-8">
-<form id="register"> 
+<form id="register">
         <div class="row">
           <div class="col-xs-12 col-sm-6">
             <input type="text" name="restaurant" placeholder="Restaurant Name">
@@ -79,9 +79,9 @@ permalink: /appetite-for-change/
     </div>
   </div>
 </div>
-		  
+
 {% include register.html %}
-		  
+
 
 <div class="bgDarkBlue">
   <div class="container text-center">
@@ -146,10 +146,10 @@ permalink: /appetite-for-change/
         <a class="button" href="/contact">Get in touch <i class="fa fa-angle-right fa-lg"></i></a>
       </div>
       <div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-2 xs-push-top">
-        <img class="responsive" src="/img/cop21/climate-friendly.png" />
+        <a href="/meals/restaurant/#award"><img class="responsive" src="/img/cop21/climate-friendly.png" /></a>
       </div>
       <div class="col-xs-12 col-sm-3 xs-push-top mobile-text-center">
-        <p>Keep our label «climate-friendly» in mind when eating in a restaurant – in Paris but also at home.</p>
+        <p>The label points you to the climate friendy meals in the restaurants.</p>
       </div>
     </div>
   </div>

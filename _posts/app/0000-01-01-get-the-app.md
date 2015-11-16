@@ -24,13 +24,13 @@ categories: app
   <div class="container">
     <div class="row push-top small-push-bottom">
       <div class="col-xs-12 col-sm-offset-1 col-sm-6 col-md-5">
-		<form id="register"> 
+		<form id="register">
         <h1>App'etite for Change? Get our free Eaternity App now.</h1>
         <p>We establish climate friendly meals in society. Get involved by using our free app and share the Eaternity-philosophy.</p>
         <input type="text" name="name" placeholder="Your Name"/>
         <input type="text" name="email" placeholder="E-mail" />
         <div class="small-push-top">
-          <input type="checkbox" name="check"> I accept the <a href="">terms and conditions</a> of Eaternity
+          <input type="checkbox" name="check"> I accept the <a href="/legal">terms and conditions</a> of Eaternity
         </div>
         <button type="submit" class="small-push-top">
           Create account <i class="fa fa-angle-right fa-lg"></i>
