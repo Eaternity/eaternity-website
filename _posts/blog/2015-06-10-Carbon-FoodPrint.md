@@ -29,8 +29,8 @@ Im Rahmen des Projekts wurden für mehr als 100 Lebensmittel neue umfassende Tre
 Matthias Stucki - an der ZHAW nach dem erfolgreichen Abschluss des Projekts
 
 
-**Langfristige Forschungspartner**
-Matthias Stucki, Leiter Ökobilanzierung und Datenbank Management an der ZHAW, versichert: „Das Institut für Umwelt und Natürliche Ressourcen der ZHAW wird auch weiterhin die kontinuierliche Aktualisierung und Optimierung der CO₂-Datenbank von Eaternity als Forschungspartner begleiten. Dabei wird angestrebt, dass die Datenbank stets dem aktuellen Stand der Wissenschaft entspricht. Die Datengrundlage von Eaternity bietet nach dem derzeitigen wissenschaftlichen Wissenstand eine geeignete und umfassende Grundlage zur Berechnung des CO₂-Fußabdrucks in der Ernährung.“
+**Langfristiger Forschungspartner**
+Matthias Stucki, Leiter der Fachgruppe Ökobilanzierung an der ZHAW, versichert: „Das Institut für Umwelt und Natürliche Ressourcen der ZHAW wird auch weiterhin die kontinuierliche Aktualisierung und Optimierung der CO₂-Datenbank von Eaternity als Forschungspartner begleiten. Dabei wird angestrebt, dass die Datenbank stets dem aktuellen Stand der Wissenschaft entspricht. Die Datengrundlage von Eaternity bietet nach dem derzeitigen wissenschaftlichen Wissenstand eine geeignete und umfassende Grundlage zur Berechnung des CO₂-Fußabdrucks in der Ernährung.“
 
 [Review Eaternity Datenbank – (Download)][2]
 
@@ -41,7 +41,7 @@ Das in einem Gastronomiebetrieb der ZHAW von Frühling bis Herbst 2014 durchgef�
 
 
 [1]:http://www.grstiftung.ch/de/portfolio/projekte/alle/y_2013/GRS-023-13.html
-[2]:/assets/de/Stucki_2015_Review_Eaternity_Datenbank_v1.0.pdf
+[2]:/assets/de/2015-06-10-Review_Eaternity_Datenbank_v1-0-Stucki_2015.pdf
 [3]:http://welcome.compass-group.ch/index.php?id=918&L=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C0&tx_ttnews%5Btt_news%5D=761&cHash=69501ab0ad2fc953969c93648ff69baa
 [app]:/app
 [uni]:http://www.ifi.uzh.ch/isr.html
