@@ -42,6 +42,7 @@ permalink: /app/
           <p>The Eaternity App is completely free for private use. We provide:</p>
           <ul class="small-push-bottom">
             <li>accurate CO2-statistics on all products and meals</li>
+            <li>hundreds of tasty recipes</li>
             <li>unlimited recipe creation</li>
             <li>sharing</li>
           </ul>
@@ -56,12 +57,12 @@ permalink: /app/
           only CHF 1300/a year
         </div>
         <div class="teaserBox bgProfessionalBox">
-          <h3>For Restaurants</h3>
+          <h3>For restaurants</h3>
           <p>The «Pro»-Version of the Eaternity App has been developed for restaurants and provides</p>
           <ul class="small-push-bottom">
             <li>accurate and daily CO2-statistics on every meal and the restaurant as a whole.</li>
             <li>insightful illustrations and easily comprehensible reports</li>
-            <li>climate friendly meal awards for all meals which create 50% less carbon emissions than the average meal.</li>
+            <li>climate friendly meal awards for all meals that create 50% less carbon emissions than the average meal.</li>
           </ul>
           <p>The App provides food declarations compliant with EU Food Labelling Regulation for allergens and nutrition</p>
           <a href="/app/professional" class="button">Features & more <i class="fa fa-angle-right fa-lg"></i></a>

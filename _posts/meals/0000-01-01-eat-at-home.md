@@ -31,7 +31,7 @@ permalink: /meals/
     <div class="col-xs-12 col-sm-4 text-center">
       <img src="/img/eat-at-home/ingredients.svg" />
       <h3>#1: Ingredients</h3>
-      <p>Vegetable before animal: fruit, vegetables and cereals show an extensively better environmental impact, as livestock breeding is resource and energy-intensive.</p>
+      <p>Plant-based instead of animal-based: fruit, vegetables and cereals show an extensively better environmental impact, as livestock breeding is resource and energy-intensive.</p>
     </div>
     <div class="col-xs-12 col-sm-4 text-center xs-push-top">
       <img src="/img/eat-at-home/seasonality.svg" />

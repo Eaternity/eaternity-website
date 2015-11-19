@@ -53,7 +53,7 @@ categories: app
       <div class="col-xs-12 col-sm-6 col-md-5">
         <div>
           <h1>Eaternity Report</h1>
-          <p>Your customer trusts in your services. Show them you care about climate-friendly cuisine. In a monthly report we will inform you on the progress of your restaurants.</p>
+          <p>Your customer trust in your services. Show them you care about climate-friendly cuisine. In a monthly report we will inform you on the progress of your restaurants.</p>
         </div>
       </div>
       <div class="col-xs-offset-1 col-xs-10 col-sm-offset-1 col-sm-5 col-md-offset-2 col-md-4 xs-push-top">
@@ -86,7 +86,7 @@ categories: app
   <div class="row push-top push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-5">
       <h1>Existing API</h1>
-      <p>In case you already have a working system like Microsoft Dynamics or SAP, our API provides you with a direct connection to exchange informations with the Eaternity App. We will deliver all information on the spot, ready for an integration into your system. <a href="http://docs.eaternitycloud.apiary.io">docs.eaternitycloud.apiary.io</a></p>
+      <p>In case you already have a working system like Microsoft Dynamics or SAP, our API provides you with a direct connection to exchange informations with the Eaternity App. We will deliver all information on the spot. Ready for an integration into your system. <a href="http://docs.eaternitycloud.apiary.io">docs.eaternitycloud.apiary.io</a></p>
     </div>
     <div class="col-xs-12 col-sm-5 xs-push-top">
       <h1>Ask for a demo</h1>
