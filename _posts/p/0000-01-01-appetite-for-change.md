@@ -260,6 +260,12 @@ permalink: /appetite-for-change/
       <img src="/img/cop21/Climate-Action-Programme.png">
       <img src="/img/cop21/foodwaste.png">
       <img src="/img/cop21/zhaw.svg">
+      <img src="/img/cop21/gap.png">
+      <img src="/img/cop21/myblueplanet.png">
+      <img src="/img/cop21/ashoka.png">
+      <img src="/img/cop21/sourcemap.png">
+      <img src="/img/cop21/klimastiftung.svg">
+      <img src="/img/cop21/sparknews.png">
   </div>
   </div>
 
