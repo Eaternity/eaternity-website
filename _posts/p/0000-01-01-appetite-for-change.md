@@ -266,6 +266,7 @@ permalink: /appetite-for-change/
       <img src="/img/cop21/sourcemap.png">
       <img src="/img/cop21/klimastiftung.svg">
       <img src="/img/cop21/sparknews.png">
+      <img src="/img/cop21/foodward.png">
   </div>
   </div>
 
