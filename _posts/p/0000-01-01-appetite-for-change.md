@@ -32,7 +32,7 @@ permalink: /appetite-for-change/
 		<div class="col-xs-12 col-sm-offset-2 col-sm-8 text-center">
 			<p class="teaserText">
 				Food choices are responsible for 31% of man-made greenhouse gas emissions. This accounts for more than 2.7 tons of CO₂ per person per year in US and Europe. We have the potential to reduce food related emissions by at least 50% through smart diet choices. These choices can reduce carbon emissions more than any technological advancement ever will. Let us all work together to have restaurants and main conference centers serve climate friendly meals during COP21.</p>
-        <p class="teaserText">You are part of the solution.</p> <p class="teaserText">Have an impact by sharing and cooking and sharing climate friendly recipes. And talk about it. Spread the word to raise general awareness on greenhouse gas emissions related to foods.
+        <h3>You are part of the solution.</h3> <p class="teaserText">Have an impact by sharing and cooking and sharing climate friendly recipes. And talk about it. Spread the word to raise general awareness on greenhouse gas emissions related to foods.
 			</p>
       <h2>Join the <strong>App’etite for change</strong> campaign!</h2>
 		</div>
