@@ -51,22 +51,31 @@ permalink: /appetite-for-change/
 	     <h2>Want to join?</h2>
 		</div>
 	</div>
-    <div class="row push-bottom">
+    <div class="row small-push-bottom">
 
   		<div class="col-xs-12 col-sm-4 xs-push-top text-center">
           <h3>1. Share tasty climate-friendly recipes</h3> <p>by getting a FREE account for the Eaternity App (if you haven't done already). Select your favorite climate-friendly recipe and share it with the people you love. Try them out or even invite your family and friends for dinner. For social media you can use the hashtag <a href="http://www.twitter.com/#Eaternity">#Eaternity</a> and <a href="http://www.twitter.com/#COP21">#COP21</a>.</p>
-          <a class="button" href="/app/get-the-app">Get the App <i class="fa fa-angle-right fa-lg"></i></a>
           </div>
       <div class="col-xs-12 col-sm-4 xs-push-top text-center">
           <h3>2. Serve climate-friendly meals</h3><p> if you are a restaurant, caterer or event organizer, you can join as a participating restaurant. We will list you at the overview map as a participating restaurant. Use the <a href="/meals/restaurants/#award">Eaternity Award</a> for communication to show your guests your great engagement in serving tasty climate-friendly meals and refer back to this campaign.</p>
-          <a class="button" href="#register">Register restaurant<i class="fa fa-angle-right fa-lg"></i></a>
           </div>
         <div class="col-xs-12 col-sm-4 xs-push-top text-center">
           <h3>3. Spread the word</h3> <p>by sharing information about <a href="/foodprint">foodprint</a> and this campaign with as many people and restaurants you know might care. Write about it, integrate the Eaternity App on your homepage and state your support as a person or organization. Feel invited to get creative and make our voice heard in other ways.</p>
-          {% include share.html %}
         </div>
     </div>
-    
+<div class="row push-bottom">
+    <div class="col-xs-12 col-sm-4 xs-push-top text-center">
+        <a class="button" href="/app/get-the-app">Get the App <i class="fa fa-angle-right fa-lg"></i></a>
+        </div>
+    <div class="col-xs-12 col-sm-4 xs-push-top text-center">
+        <a class="button" href="#register">Register restaurant<i class="fa fa-angle-right fa-lg"></i></a>
+        </div>
+      <div class="col-xs-12 col-sm-4 xs-push-top text-center">
+        {% include share.html %}
+      </div>
+</div>
+
+
 </div>
 
 
