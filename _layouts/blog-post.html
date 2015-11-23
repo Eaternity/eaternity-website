@@ -2,10 +2,15 @@
 layout: default
 archive: true
 ---
-<div class="container">
+<div class="container hidden-xs">
   <div class="row">
-    <div class="col-xs-12 small-push-top small-push-bottom">
-      <a href="/blog" class="button"><i class="fa fa-angle-left fa-lg"> </i>&nbsp; &nbsp;Read more on our blog &nbsp;</a>
+    <div class="col-xs-12 text-center">
+      <ul class="subNavigation">
+        <a href="/about"><li>Idea &amp; Vision</li></a>
+        <a href="/about/partners"><li>Partners</li></a>
+        <a href="/about/media"><li>Media</li></a>
+        <a href="/blog"><li class="current">Blog</li></a>
+      </ul>
     </div>
   </div>
 </div>
@@ -14,7 +19,8 @@ archive: true
   <div class="row push-top small-push-bottom">
     <div class="col-xs-12 text-center">
       <h1>{{ page.title }}</h1>
-      <h2 class="headline">{{ page.date | date:"%B %-d, %Y" }}</h2>
+	  <h3>{{ page.subtitle }}</h3>
+      <h3 class="headline">{{ page.date | date:"%B %-d, %Y" }}</h3>
       {% include share.html %}
       <img class="responsive push-top" src="/img/blog/teaser_1400x450/{{ page.blog-image }}" alt="{{ page.title }} image">
     </div>
