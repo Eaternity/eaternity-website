@@ -21,7 +21,7 @@ tags:
 
 Our food choices matter! With 31% of all greenhouse gas emissions originating from our food consumption, a reduction by half is possible and has a significant impact potentially saving 5.6 Giga tons of CO2eq worldwide per year! This is equivalent to more than 5 times the total yearly emissions of a country like Germany.
 
-To support these food choices Eaternity has developed the Eaternity App, a comprehensive management solution for the restaurant industry that gives restaurant owners intelligent insights into the supply-chain and enables smart decision-making for the benefit of people, planet and profit.
+To support these food choices Eaternity has developed the [Eaternity App][app2], a comprehensive management solution for the restaurant industry that gives restaurant owners intelligent insights into the supply-chain and enables smart decision-making for the benefit of people, planet and profit.
 
 ###We have an App'etite for change.
 For COP21 Eaternity has launched the [App’etite for change campaign][appetite] making available an app to support climate friendly food choices. Goal is to raise the awareness on the [foodprint][fp] and have as many restaurants and conference centers serve climate friendly meals in Paris. This is a special step for Eaternity. Over the last 7 years, they have gained reputation through their track record (in Switzerland) and the scientific knowledge. Still, things do not progress fast enough to save our climate. In order to accelerate this process, eaternity took the decision to set its assets free - allowing everyone to use its software and create a movement on its own. This took some guts (for the entire team), but they are certain: this is just the right thing to do!
@@ -35,3 +35,4 @@ Check our [press release (German)][press] and the [social media kit][kit].
 [app]: http://app.eaternity.org
 [press]: /assets/Pressemitteilung-Appetite-for-change-20151120_Eaternity.pdf
 [kit]: /assets/SocialMediaKit_appetiteforchange2015_eaternity.pdf
+[app2]: /app
