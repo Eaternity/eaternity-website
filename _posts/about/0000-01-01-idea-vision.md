@@ -75,7 +75,7 @@ permalink: /about/
   </div>
 
   <div id="team" class="row text-center small-push-bottom">
-    <div class="col-xs-offset-3 col-xs-8 col-sm-offset-3 col-sm-2">
+    <div class="col-xs-offset-3 col-xs-8 col-sm-offset-0 col-sm-3">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/manuelklarmann.jpg">
         <h3>Manuel Klarmann</h3>
@@ -83,7 +83,7 @@ permalink: /about/
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-2 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/judithellens.jpg">
         <h3>Judith Ellens</h3>
@@ -91,17 +91,26 @@ permalink: /about/
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-2 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/aurelianjaggi.jpg">
         <h3>Aurelian Jaggi</h3>
         <p>Founder & CTO</p>
       </div>
     </div>
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/evahirsiger.jpg">
+        <h3>Eva Hirsiger</h3>
+        <p>Scientific Analyst</p>
+      </div>
+    </div>
+
   </div>
 
   <div class="row text-center big-push-bottom">
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-2">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/andreasscheuss.jpg">
         <h3>Andreas Scheuss</h3>
@@ -109,7 +118,7 @@ permalink: /about/
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-2">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/ldiener.jpg">
         <h3>Luzius Diener</h3>
@@ -117,7 +126,7 @@ permalink: /about/
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-2 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/johndoe2.jpg">
         <h3>Judith Moosburner</h3>
@@ -125,13 +134,7 @@ permalink: /about/
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-2 xs-push-top">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/evahirsiger.jpg">
-        <h3>Eva Hirsiger</h3>
-        <p>Scientific Analyst</p>
-      </div>
-    </div>
+
   </div>
 
   <div class="row small-push-bottom">
