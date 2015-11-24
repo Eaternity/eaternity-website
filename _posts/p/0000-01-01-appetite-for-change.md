@@ -280,7 +280,6 @@ permalink: /appetite-for-change/
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js"></script>
-<script src="/js/bootstrap.min.js"></script>
-<script src="/js/icheck.min.js"></script>
+
 <script src="/js/infobubble.js"></script>
 <script src="/js/script-cop21.js"></script>
