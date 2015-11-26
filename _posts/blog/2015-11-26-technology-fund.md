@@ -7,7 +7,7 @@ published: true
 author: Manuel Klarmann
 
 title: The Technology Fund supports Eaternity
-subtitle: Eaternity AG aims to make nutrition sustainable - The Technology Fund supports the company’s intentions in granting a loan guarantee
+subtitle: Eaternity AG aims to make nutrition sustainable - The Technology Fund supports the company’s intentions in granting a loan guarantee.
 
 blog-image: 2015-11-26-technology-fund.jpg
 image: 2015-11-26-technology-fund.jpg
