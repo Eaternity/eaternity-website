@@ -19,7 +19,7 @@ tags:
 
 ---
 
-	The managing company of the Swiss Technology Fund is pleased to announce that the Fed- eral Office for the Environment, FOEN granted another loan guarantee to an innovative Swiss SME: Eaternity AG based in Zurich.
+	The managing company of the Swiss Technology Fund is pleased to announce that the Federal Office for the Environment, FOEN granted another loan guarantee to an innovative Swiss SME: Eaternity AG based in Zurich.
 
 <br>
 
