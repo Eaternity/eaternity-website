@@ -60,7 +60,7 @@ South Pole Group is a well-recognized sustainability solutions and service provi
 
 
 <style>
-img {
+img .container {
 	padding: 20px 150px 20px 150px;
 }
 </style>
