@@ -143,6 +143,8 @@ permalink: /appetite-for-change/
 
         <p>With <strong>31% of all greenhouse gas emissions originating from our food consumption</strong>, a reduction by half is possible and has a significant impact. Potentially <strong>saving 5.6 Giga tons of CO₂eq</strong> worldwide per year already; an impressive figure!</p>
 
+        <a class="button" target="_blank" href="/assets/2015-11-26-state-of-affairs.pdf">More Scientific Information <i class="fa fa-angle-right fa-lg"></i></a>
+
 
       </div><div class="col-xs-12  col-sm-5  mobile-text-center">
         <h3>This is a special step for us.</h3>
@@ -169,7 +171,7 @@ permalink: /appetite-for-change/
       </div>
       <div class="col-xs-12 col-sm-3 xs-push-top mobile-text-center">
         <p>The climate-friendly label points you to the climate friendy meals in the restaurants.</p>
-        <p>More information here <a href="/meals/restaurants/#award">here</a>.</p>
+        <p>More information <a href="/meals/restaurants/#award">here</a>.</p>
       </div>
     </div>
   </div>
