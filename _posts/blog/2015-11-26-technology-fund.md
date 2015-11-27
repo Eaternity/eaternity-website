@@ -46,6 +46,12 @@ Emerald is a globally recognized investment firm in the areas of energy, water, 
 
 South Pole Group is a well-recognized sustainability solutions and service provider. The company specializes in the design and promotion of market mechanisms to fight climate change. Its expertise includes renewable energy, forestry, agriculture and water. The company’s headquarter is located in Zurich/Switzerland, it runs 17 offices worldwide. South Pole Group has been awarded Best Project Developer by Environmental Finance in 2015 for the fifth consecutive year. [www.thesouthpolegroup.com][southpole]
 
+
+[Information en français][1]
+[Informazione in italiano][2]
+[Informationen in English][3]
+
+
 [![Technology Fund](/img/partners/Technology-Fund.png "Technology Fund")][fund]
 [![Federal Office for the Environment](/img/partners/BAFU.png "Federal Office for the Environment")][bafu]
 [![Emerald Technology Ventures](/img/partners/Emerald-Technology-Ventures.png "Emerald-Technology-Ventures")][southpole]
@@ -57,6 +63,11 @@ South Pole Group is a well-recognized sustainability solutions and service provi
 [bafu]: http://www.bafu.admin.ch/tech-fonds
 [emerald]: http://www.emerald-ventures.com
 [southpole]: http://www.thesouthpolegroup.com
+[1]: http://www.technologiefonds.ch/fileadmin/user_upload/files/FR_Rundschreiben_Eaternity__2015_26_11_.pdf
+[2]: http://www.technologiefonds.ch/fileadmin/user_upload/files/IT_Rundschreiben_Eaternity_AG__2015_11_26_.pdf
+[3]: http://www.technologiefonds.ch/fileadmin/user_upload/files/_Rundschreiben_Eaternity_AG__2015_11_26_.pdf
+
+
 
 
 <style>

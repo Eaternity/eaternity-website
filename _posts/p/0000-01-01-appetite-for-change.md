@@ -154,8 +154,8 @@ permalink: /appetite-for-change/
 
     <div class="row push-top push-bottom">
       <div class="col-xs-12 col-sm-offset-1 col-sm-10  text-center">
-        <h3>Help us to generate the first 100 recipe shares and gain the first 10 restaurants serving climate-friendly meals in Paris!</h3>
-        To date, there are <span class="semiBold">2</span> Restaurants in and around Paris that offer at least one climate-friendly meal
+        <h3>Help us to generate the first 100 recipe shares and gain the first 20 restaurants serving climate-friendly meals in Paris!</h3>
+        To date, there are <span class="semiBold">16</span> Restaurants in and around Paris that offer at least one climate-friendly meal
       </div>
     </div>
 
@@ -273,6 +273,7 @@ permalink: /appetite-for-change/
       <img src="/img/cop21/fossilfree.png">
       <img src="/img/cop21/foodle.png">
       <img src="/img/cop21/tibits.svg">
+      <img src="/img/cop21/maxhavelar.svg">
       <!-- <img src="/img/cop21/klimaallianz.png"> -->
   </div>
   </div>
@@ -281,6 +282,7 @@ permalink: /appetite-for-change/
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js"></script>
+<script src="/js/jquery.magnific-popup.min.js"></script>
 
 <script src="/js/infobubble.js"></script>
-<script src="/js/script-cop21.js"></script>
+<script src="/meals/restaurants-cop21.js"></script>

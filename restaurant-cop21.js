@@ -1,3 +1,9 @@
+---
+layout:
+permalink: /meals/restaurants-cop21.js
+---
+
+
 $(document).ready(function(){
 	/*-----------------------------------------------
 		Checkboxes
@@ -34,10 +40,10 @@ $(document).ready(function(){
 		var mapCanvas = $('.map')[0];
 		var mapOptions = {
 		  center: new google.maps.LatLng(48.9244592, 2.3579758),
-		  zoom: 11,
+		  zoom: 10,
 		  mapTypeControl: false,
 		  streetViewControl: false,
-		  draggable: false,
+		  draggable: true,
 		  scrollwheel: false,
 		  mapTypeId: google.maps.MapTypeId.ROADMAP
 		}
@@ -102,16 +108,60 @@ $(document).ready(function(){
 		]);
 
 
-	  var infoBubble = new InfoBubble({
+
+
+
+{% for restaurant in site.data.restaurants-cop21 %}
+
+
+	var infoBubble{{ restaurant.code }} = new InfoBubble({
       map: map,
-      content: "<div class='info'><span class='semiBold'><a target='_blank' href='http://www.climateactionprogramme.org'>Climate Innovation Forum</a></span><br />Stade de France<br />93216 Saint-Denis, France</div>",
+      content: "{{ restaurant.content }}",
       shadowStyle: 0,
       padding: "15px",
       backgroundColor: '#e7eff1',
       arrowSize: 15,
       borderRadius: 0,
       minHeight: 120,
-      minWidth: 240,
+      minWidth: 200,
+      borderWidth: 1,
+      disableAutoPan: true,
+      hideCloseButton: true,
+      backgroundClassName: 'transparent',
+      arrowStyle: 0
+    });
+
+	var marker{{ restaurant.code }} = new google.maps.Marker({
+	    position: {lat: {{ restaurant.lat }}, lng: {{ restaurant.lng }}},
+	    map: map,
+	    icon: '/img/marker.png'
+	});
+
+	marker{{ restaurant.code }}.addListener('click', function() {
+			infoBubble{{ restaurant.code }}.open(map, marker{{ restaurant.code }});
+	});
+	
+	google.maps.event.addListener(map, "click", function () {
+		infoBubble{{ restaurant.code }}.close();
+	});
+	
+		
+		
+{% endfor %}
+
+
+
+		// prototype call
+	  var infoBubble = new InfoBubble({
+      map: map,
+      content: "<div class='info'><span class='semiBold'>Eaternity AG</span><br />Zollikerstrasse 76<br />CH-8008 Zürich</div>",
+      shadowStyle: 0,
+      padding: "15px",
+      backgroundColor: '#e7eff1',
+      arrowSize: 15,
+      borderRadius: 0,
+      minHeight: 120,
+      minWidth: 200,
       borderWidth: 1,
       disableAutoPan: true,
       hideCloseButton: true,
@@ -120,10 +170,16 @@ $(document).ready(function(){
     });
 
 		var marker = new google.maps.Marker({
-	    position: {lat: 48.9244592, lng: 2.3579758},
+	    position: {lat: 47.359790, lng: 8.557180},
 	    map: map,
 	    icon: '/img/marker.png'
 	  });
+
+		marker.addListener('click', function() {
+			infoBubble.open(map, marker);
+		});
+
+
 
 	  // var markersecond = new google.maps.Marker({
 	  //   position: {lat: 47.359, lng: 8.55},
@@ -131,19 +187,16 @@ $(document).ready(function(){
 	  //   icon: '/img/marker.png'
 	  // });
 
-	  marker.addListener('click', function() {
-	    infoBubble.open(map, marker);
-	  });
+	  // markersecond.addListener('click', function() {
+	  //   infoBubble.open(map, markersecond);
+	  // });
 
 
+		google.maps.event.addListener(map, "click", function () {
+			infoBubble.close();
+		});
 
-	  markersecond.addListener('click', function() {
-	    infoBubble.open(map, markersecond);
-	  });
 
-	  google.maps.event.addListener(map, "click", function () {
-      infoBubble.close();
-    });
 
 	}
 

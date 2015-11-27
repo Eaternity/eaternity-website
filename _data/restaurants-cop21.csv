@@ -1,0 +1,18 @@
+Timestamp,name,email,restaurant,phone,check,address,lat,lng,content,adress-lookup,code
+,,,Hank Vegan Burger,,,"55 rue des Archives, Paris",48.861445,2.358393,"<div class='info'><span class='semiBold'>Hank Vegan Burger</span><br />55 rue des Archives, Paris</div>",,1
+,,,42 Degres,,,"109, rue du Faubourg Poissonniere, Paris, France",48.877651,2.349031,"<div class='info'><span class='semiBold'>42 Degres</span><br />109, rue du Faubourg Poissonniere, Paris, France</div>",,2
+,,,Brasserie Lola,,,"99 rue du Theatre,Paris ",48.846843,2.293703,"<div class='info'><span class='semiBold'>Brasserie Lola</span><br />99 rue du Theatre,Paris </div>",,3
+,,,Cafe Ginger,,,9 Rue Jacques Coeur,48.852939,2.367424,<div class='info'><span class='semiBold'>Cafe Ginger</span><br />9 Rue Jacques Coeur</div>,,4
+,,,Gentle Gourmet Cafe,,,24 Boulevard de La Bastille,48.849027,2.368279,<div class='info'><span class='semiBold'>Gentle Gourmet Cafe</span><br />24 Boulevard de La Bastille</div>,,5
+,,,Grand Appetit,,,9 Rue la Cerisaie,48.852150,2.366390,<div class='info'><span class='semiBold'>Grand Appetit</span><br />9 Rue la Cerisaie</div>,,6
+,,,Las Vegans,,,30 boulevard Bonne Nouvelle,48.870792,2.349901,<div class='info'><span class='semiBold'>Las Vegans</span><br />30 boulevard Bonne Nouvelle</div>,,7
+,,,Le Centre Tout Naturellement,,,83 bis rue La Fayette,48.876985,2.347574,<div class='info'><span class='semiBold'>Le Centre Tout Naturellement</span><br />83 bis rue La Fayette</div>,,8
+,,,Le Potager de Charlotte,,,12 rue de la Tour d'Auvergne,48.879061,2.344730,<div class='info'><span class='semiBold'>Le Potager de Charlotte</span><br />12 rue de la Tour d'Auvergne</div>,,9
+,,,Le Potager du Marais,,,24 rue Rambuteau,48.861140,2.354570,<div class='info'><span class='semiBold'>Le Potager du Marais</span><br />24 rue Rambuteau</div>,,10
+,,,Le Veganovore,,,55 rue de Paradis,48.875583,2.348767,<div class='info'><span class='semiBold'>Le Veganovore</span><br />55 rue de Paradis</div>,,11
+,,,Les Delices De Gigi,,,67 Avenue Ledru Rollin,48.842640,2.502401,<div class='info'><span class='semiBold'>Les Delices De Gigi</span><br />67 Avenue Ledru Rollin</div>,,12
+,,,Loving Hut - Paris,,,92 Boulevard de Beaumarchais,48.859870,2.367530,<div class='info'><span class='semiBold'>Loving Hut - Paris</span><br />92 Boulevard de Beaumarchais</div>,,13
+,,,My Kitch'n,,,82 rue Lemercier,48.888644,2.320416,<div class='info'><span class='semiBold'>My Kitch'n</span><br />82 rue Lemercier</div>,,14
+,,,Sol Semilla - Le Bar des Artisans,,,23 rue des Vinaigriers,48.873071,2.362962,<div class='info'><span class='semiBold'>Sol Semilla - Le Bar des Artisans</span><br />23 rue des Vinaigriers</div>,,15
+,,,Veg'Art,,,123 rue Oberkampf,48.866187,2.379075,<div class='info'><span class='semiBold'>Veg'Art</span><br />123 rue Oberkampf</div>,,16
+,,,<a target='_blank' href='http://www.climateactionprogramme.org'>Climate Innovation Forum</a>,,,"Stade de France<br />93216 Saint-Denis, France",48.9244592,2.3579758,"<div class='info'><span class='semiBold'><a target='_blank' href='http://www.climateactionprogramme.org'>Climate Innovation Forum</a></span><br />Stade de France<br />93216 Saint-Denis, France</div>",,17
