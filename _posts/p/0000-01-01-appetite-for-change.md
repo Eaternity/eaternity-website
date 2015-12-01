@@ -275,7 +275,7 @@ permalink: /appetite-for-change/
       <img src="/img/cop21/fossilfree.png">
       <img src="/img/cop21/foodle.png">
       <img src="/img/cop21/tibits.svg">
-      <img src="/img/cop21/maxhavelar.svg">
+      <img src="/img/cop21/maxhavelar.png">
       <!-- <img src="/img/cop21/klimaallianz.png"> -->
   </div>
   </div>
