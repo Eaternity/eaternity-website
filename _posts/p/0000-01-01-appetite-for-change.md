@@ -1,7 +1,7 @@
 ---
 layout: default
 name: appetite-for-change
-title:  "Reduce emissions in Paris @COP21"
+title:  "We have an App'etite for change."
 categories:
 permalink: /appetite-for-change/
 ---
@@ -9,18 +9,18 @@ permalink: /appetite-for-change/
 
 
 
-<div class="bgDarkBlue viewPortHeight">
+<div class="bgDarkBlue ">
   <div class="container">
-    <div class="row push-top push-bottom">
-      <div class="col-xs-12 col-sm-offset-1 col-sm-10">
-        <img class="responsive" src="/img/cop21/cop21-teaser.png" />
+    <div class="row small-push-top small-push-bottom">
+      <div class="col-xs-10 col-sm-offset-2 col-xs-offset-1 col-sm-8">
+        <img class="responsive" src="/img/home/home-teaser.png" />
       </div>
     </div>
 
     <div class="row small-push-bottom">
       <div class="col-xs-12 text-center">
         <p class="hashTag">
-          <a target="_blank" href="https://twitter.com/search?q=%23Eaternity">#Eaternity</a> <a target="_blank" href="https://twitter.com/search?q=%23COP21">#COP21</a>
+          <a target="_blank" href="https://twitter.com/search?q=%23Eaternity">#Eaternity</a> <a target="_blank" href="https://twitter.com/search?q=%23climatefriendly">#Climatefriendly</a>
         </p>
       </div>
     </div>
@@ -31,7 +31,7 @@ permalink: /appetite-for-change/
 	<div class="row push-top push-bottom">
 		<div class="col-xs-12 col-sm-offset-2 col-sm-8 text-center">
 			<p class="teaserText">
-				Our food choices are responsible for 31% of man-made greenhouse gas emissions. This accounts for more than 2.7 tons of CO₂ per person per year in US and Europe. We have the potential to reduce them by at least 50%. This will reduce more carbon emissions than any technological advancement ever will. Let us all work together to have restaurants and main conference centers serve climate friendly meals during COP21.</p>
+				Our food choices are responsible for 31% of man-made greenhouse gas emissions. This accounts for more than 2.7 tons of CO₂ per person per year in US and Europe. We have the potential to reduce them by at least 50%. This will reduce more carbon emissions than any technological advancement ever will. Let us all work together to have restaurants serve climate friendly meals.</p>
         <h3>You are part of the solution.</h3> <p class="teaserText">Have an impact by cooking and sharing climate friendly recipes. And talk about it. Spread the word to raise general awareness on greenhouse gas emissions related to foods.
 			</p>
       <h2>Join the <strong>App’etite for change</strong> campaign!</h2>
@@ -43,7 +43,7 @@ permalink: /appetite-for-change/
 	<div class="row push-bottom">
 		<div class="col-xs-12 col-sm-offset-3 col-sm-6 text-center" style="border: 2px solid #46cc00;padding: 10px 15px;">
 			<p>
-      The basic idea is: Everyone can do precise measurements of their foodprint around COP21 climate conference Paris with our Menu CO₂ Calculator Software (the <a href="/app">Eaternity App</a>) for FREE.</p>
+      The basic idea is: Everyone can do precise measurements of their foodprint with our Menu CO₂ Calculator Software (the <a href="/app">Eaternity WebApp</a>) for FREE.</p>
 		</div>
 	</div>
   <div class="row big-push-top small-push-bottom">
@@ -55,7 +55,7 @@ permalink: /appetite-for-change/
 
   		<div class="col-xs-12 col-sm-4 xs-push-top text-center">
         <img src="/img/cop21/uebersicht-menu-blue.svg" height="70px" />
-          <h3>1. Share tasty climate-friendly recipes</h3> <p>by getting a FREE account for the Eaternity App (if you haven't done already). Select your favorite climate-friendly recipe and share it with the people you love. Try them out or even invite your family and friends for dinner. For social media you can use the hashtag <a href="http://www.twitter.com/#Eaternity">#Eaternity</a> and <a href="http://www.twitter.com/#COP21">#COP21</a>.</p>
+          <h3>1. Share tasty climate-friendly recipes</h3> <p>by getting a FREE account for the Eaternity WebApp (if you haven't done already). Select your favorite climate-friendly recipe and share it with the people you love. Try them out or even invite your family and friends for dinner. For social media you can use the hashtag <a href="http://www.twitter.com/#Eaternity">#Eaternity</a> and <a href="http://www.twitter.com/#Climatefriendly">#Climatefriendly</a>.</p>
           </div>
       <div class="col-xs-12 col-sm-4 xs-push-top text-center">
         <img src="/img/cop21/zutaten-menu-blue.svg" height="70px" />
@@ -63,7 +63,7 @@ permalink: /appetite-for-change/
           </div>
         <div class="col-xs-12 col-sm-4 xs-push-top text-center">
           <img src="/img/cop21/personen-blue.svg" height="70px" />
-          <h3>3. Spread the word</h3> <p>by sharing information about <a href="/foodprint">foodprint</a> and this campaign with as many people and restaurants you know might care. Write about it, integrate the Eaternity App on your homepage and state your support as a person or organization. Feel invited to get creative and make our voice heard in other ways.</p>
+          <h3>3. Spread the word</h3> <p>by sharing information about <a href="/foodprint">foodprint</a> and this campaign with as many people and restaurants you know might care. Write about it, integrate the Eaternity WebApp on your homepage and state your support as a person or organization. Feel invited to get creative and make our voice heard in other ways.</p>
         </div>
     </div>
 <div class="row push-bottom">
@@ -156,14 +156,13 @@ permalink: /appetite-for-change/
 
     <div class="row push-top push-bottom">
       <div class="col-xs-12 col-sm-offset-1 col-sm-10  text-center">
-        <h3>Help us to generate the first 100 recipe shares and gain the first 20 restaurants serving climate-friendly meals in Paris!</h3>
-        To date, there are <span class="semiBold">16</span> Restaurants in and around Paris that offer at least one climate-friendly meal
+        <h3>Help us to generate recipe shares and gain restaurants serving climate-friendly meals!</h3>
       </div>
     </div>
 
     <div class="row push-bottom">
       <div class="col-xs-12 col-sm-offset-1 col-sm-4 col-md-offset-1 col-md-3 mobile-text-center">
-        <p>Do you know a restaurant (owner) in Paris, who should get involved in our campaign?</p>
+        <p>Do you know a restaurant (owner), who should get involved in our campaign?</p>
         <a class="button" href="/contact">Get in touch <i class="fa fa-angle-right fa-lg"></i></a>
       </div>
       <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-2 xs-push-top">
@@ -230,7 +229,7 @@ permalink: /appetite-for-change/
     <div class="col-xs-12 col-sm-6">
       <h1>Benefits for restaurants</h1>
       <ul>
-        <li>Receive attention and interesting clients during the COP21</li>
+        <li>Receive attention and interesting clients</li>
         <li>Position your restaurant with sustainability that makes a profit</li>
         <li>The restaurant will be well received in the media, clients and guests</li>
         <li>It has been shown that this key differentiation works especially well when catering for international or big companies.</li>
@@ -287,4 +286,4 @@ permalink: /appetite-for-change/
 <script src="/js/jquery.magnific-popup.min.js"></script>
 
 <script src="/js/infobubble.js"></script>
-<script src="/meals/restaurants-cop21.js"></script>
+<script src="/meals/restaurants.js"></script>
