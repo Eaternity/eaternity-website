@@ -80,41 +80,41 @@ permalink: /meals/
 	  <!-- specific code -->
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-4 col-md-offset-0 col-md-3">
-      <a href="http://app.eaternity.org/?locale=en#!menu:2d9e98bc-025b-44e8-910d-7beabdfbdcd3">
+      <a href="http://app.eaternity.org/?locale=en#!menu:4d8b5be5-311c-4a8e-8ddd-7f63181856e0">
         <div class="roundTeaser">
-          <img class="responsive" src="/img/eat-at-home/meal1.jpg" />
+          <img class="responsive" src="/img/eat-at-home/meal-1.jpg" />
           <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
         </div>
       </a>
-      <p>Lemony Potato Salad with pickled onions and cucumber</p>
+      <p>Rustic nutty red wine sauce with tagliatelle and Jerusalem artichoke</p>
     </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-4 col-md-offset-0 col-md-3 xs-push-top">
-      <a href="http://app.eaternity.org/?locale=en#!menu:94d8b613-c890-4873-9a5d-02ffced2beea">
+      <a href="http://app.eaternity.org/?locale=en#!menu:27defe12-6ad0-4ca1-b310-b7d4a8eeef7d">
         <div class="roundTeaser">
-          <img class="responsive" src="/img/eat-at-home/meal2.jpg" />
+          <img class="responsive" src="/img/eat-at-home/meal-2.jpg" />
           <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
         </div>
       </a>
-      <p>Lettuce Wraps with Curried Tofu and Coconut Basil Chutney</p>
+      <p>Spinach lentil lasagne with pear and hazelnuts</p>
     </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-4 col-md-offset-0 col-md-3 sm-push-top">
-      <a href="http://app.eaternity.org/?locale=en#!menu:94d8b613-c890-4873-9a5d-02ffced2beea">
+      <a href="http://app.eaternity.org/?locale=en#!menu:adea6b25-14a8-4efa-bfe1-248d235f2bd5">
         <div class="roundTeaser">
-          <img class="responsive" src="/img/eat-at-home/meal3.jpg" />
+          <img class="responsive" src="/img/eat-at-home/meal-3.jpg" />
           <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
         </div>
       </A>
-      <p>Marinara sauce for pasta and lasagne</p>
+      <p>Aromatic pistachio pesto</p>
     </div>
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-4 col-md-offset-0 col-md-3 sm-push-top">
-      <a href="http://app.eaternity.org/?locale=en#!menu:6ba84240-f7ff-4455-a45c-1dda55baacee">
+      <a href="http://app.eaternity.org/?locale=en#!menu:c0e7cd35-cf9c-4b0f-88cd-d52ba3a9f948">
         <div class="roundTeaser">
-          <img class="responsive" src="/img/eat-at-home/meal4.jpg" />
+          <img class="responsive" src="/img/eat-at-home/meal-4.jpg" />
           <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
         </div>
       </a>
-      <p>Corn and Zucchini Fritters</p>
+      <p>The Carrot Garden</p>
     </div>
   </div>
 </div>
