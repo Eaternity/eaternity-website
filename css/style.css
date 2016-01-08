@@ -7162,11 +7162,22 @@ input {
               border-bottom: 2px solid #46cc00; } }
         @media screen and (min-width: 992px) {
           .header .navbar-collapse ul.navigation li {
-            margin-left: 20px;
-            margin-right: 0; } }
+            margin-left: 18px;
+            margin-right: 0;
+          }
+          .header .logo {
+            width: 140px;
+            margin-top: 3px;
+          }
+          }
         @media screen and (min-width: 1200px) {
           .header .navbar-collapse ul.navigation li {
-            margin-left: 60px; } }
+            margin-left: 50px; }
+            .header .logo {
+              width: 160px;
+              margin-top: -3px;
+            }
+          }
       @media screen and (min-width: 992px) {
         .header .navbar-collapse ul.navigation {
           margin-top: 25px;
