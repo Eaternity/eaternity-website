@@ -38,7 +38,7 @@ In any _posts/DOCUMENT there are certain variables that get defined, some of the
 	- News
 	- Company
 	- Culture
-	- Eaternity App
+	- Eaternity Software
 	- Press Release
 	- Milestone
 	- Case Study / Success Story

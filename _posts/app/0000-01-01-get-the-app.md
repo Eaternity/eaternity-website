@@ -25,7 +25,7 @@ categories: app
     <div class="row push-top small-push-bottom">
       <div class="col-xs-12 col-sm-offset-1 col-sm-6 col-md-5">
 		<form id="register">
-        <h1>App'etite for Change? Get our free Eaternity App now.</h1>
+        <h1>App'etite for Change? Sign up for free now.</h1>
         <p>We establish climate friendly meals in society. Get involved by using our free app and share the Eaternity-philosophy.</p>
         <input type="text" name="name" placeholder="Your Name"/>
         <input type="text" name="email" placeholder="E-mail" />

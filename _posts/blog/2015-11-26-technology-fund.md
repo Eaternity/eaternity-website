@@ -31,13 +31,13 @@ Innovative SMEs, which are developing and marketing climate friendly technologie
 
 
 ###Technology Fund
- 
+
 The Technology Fund is an instrument of Swiss climate policy implemented by the Federal Office for the Environment, FOEN. The Fund grants loan guarantees to Swiss small and me- dium-sized enterprises (SME) which are developing and marketing innovative technologies to reduce greenhouse gas emissions, to use electrical energy more efficiently, to promote renewable energy or to protect the natural resources. [www.technologyfund.ch][fund] and [www.bafu.admin.ch/tech-fonds][bafu]
 
 ###Eaternity AG
-      
-Eaternity AG has been incorporated in 2014 but its story goes back to 2008. The idea to measure and reduce the CO2-impact of food in restaurants has its roots back in the past, when Eaternity existed only as Association. Today’s marketed software application “Eaternity App” is a unique restaurant management solution for calculating carbon emission and indicating the healthiness of meals. It automatically assesses costs, margins, carbon emissions, environmental sustainability, allergens, nutrients, vitamins and minerals. The information based on individual ingredients can be used to design meals and to display it in declaration compliant format in restaurants.
-		 
+
+Eaternity AG has been incorporated in 2014 but its story goes back to 2008. The idea to measure and reduce the CO2-impact of food in restaurants has its roots back in the past, when Eaternity existed only as Association. Today’s marketed software application is a unique restaurant management solution for calculating carbon emission and indicating the healthiness of meals. It automatically assesses costs, margins, carbon emissions, environmental sustainability, allergens, nutrients, vitamins and minerals. The information based on individual ingredients can be used to design meals and to display it in declaration compliant format in restaurants.
+
 ###Emerald Technology Ventures
 
 Emerald is a globally recognized investment firm in the areas of energy, water, advanced materials and industrial IT. Founded in 2000, the company has invested in more than 50 early-stage companies out of three venture capital funds, provides open innovation services to many multinational industrial corporations and has won mandates for three tech- nology investment programs for third parties. From offices in Zurich, Switzerland and Toronto, Canada, Emerald has managed assets of over USD 660 million to date. [www.emerald-ventures.com][emerald]
@@ -57,7 +57,7 @@ South Pole Group is a well-recognized sustainability solutions and service provi
 [![Emerald Technology Ventures](/img/partners/Emerald-Technology-Ventures.png "Emerald-Technology-Ventures")][southpole]
 [![South Pole Group](/img/partners/South-Pole-Group.jpeg "South Pole Group")][emerald]
 
-                  
+
 
 [fund]: http://www.technologyfund.ch
 [bafu]: http://www.bafu.admin.ch/tech-fonds
@@ -75,4 +75,3 @@ South Pole Group is a well-recognized sustainability solutions and service provi
 	padding: 20px 150px 20px 150px;
 }
 </style>
-

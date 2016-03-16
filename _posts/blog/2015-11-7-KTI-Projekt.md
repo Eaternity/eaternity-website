@@ -26,7 +26,7 @@ partner:
 
 **Endlich: Eaternitys CO₂-Rechner wird schneller, größer – einfach besser!**
 
-Zusammen mit unserem Research-Partner, der [Fachhochschule Zürich (ZHAW)][2], konnten wir die [Kommission für Technik und Innovation (KTI)][1] überzeugen: Gemeinsam und mit finanzieller Unterstützung des KTI werden wir uns nun für die Verbesserung des Eaternity App – Herzstück und ganzer Stolz unserer jahrelangen Arbeit – einsetzen. Somit kann sich unsere Arbeit von einer (teils sehr aufwändig zu wartenden und komplexen) Dienstleistung zu einem vollwertigen Produkt weiter entwickeln – was nicht zuletzt auch durch eine bessere Usability viele neue Interessenten aus dem Gastronomiebereich ansprechen dürfte, auch international!
+Zusammen mit unserem Research-Partner, der [Fachhochschule Zürich (ZHAW)][2], konnten wir die [Kommission für Technik und Innovation (KTI)][1] überzeugen: Gemeinsam und mit finanzieller Unterstützung des KTI werden wir uns nun für die Verbesserung unserer Software – Herzstück und ganzer Stolz unserer jahrelangen Arbeit – einsetzen. Somit kann sich unsere Arbeit von einer (teils sehr aufwändig zu wartenden und komplexen) Dienstleistung zu einem vollwertigen Produkt weiter entwickeln – was nicht zuletzt auch durch eine bessere Usability viele neue Interessenten aus dem Gastronomiebereich ansprechen dürfte, auch international!
 
 Das neue „EAT-IT CO₂ Eaternity Analyse Tool“ wird zukünftig noch mehr Informationen zum CO₂-Verbrauch durch unsere Ernährung liefern und somit für eine noch größere Transparenz von Menüs und für deren Zubereitung verwendeten Lebensmittel in Restaurants und Gastronomiebetrieben sorgen.
 
