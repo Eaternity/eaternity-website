@@ -67,7 +67,7 @@ categories: meals
   <div class="row push-bottom">
     <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6 text-center">
       <p>Climate-friendly diet has huge potential. We train chefs, offer clear and effective reporting and demonstrate your exemplary commitment to your guests.</p>
-      <a class="button" href="/app">App at glance <i class="fa fa-angle-right fa-lg"></i></a>
+      <a class="button" href="/app">App at a glance <i class="fa fa-angle-right fa-lg"></i></a>
     </div>
   </div>
 </div>

@@ -22,7 +22,7 @@ categories: app
 <div class="container">
   <div class="row push-top small-push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
-      <h1>Eaternity Proffesional – the smart solution for restaurants</h1>
+      <h1>Eaternity Professional – the smart solution for restaurants</h1>
     </div>
   </div>
   <div class="row big-push-bottom">

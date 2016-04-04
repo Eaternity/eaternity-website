@@ -107,7 +107,7 @@ permalink: /app/
 
   <div class="row push-bottom">
     <div class="col-xs-12 text-center">
-      <a href="/app/clients" class="button">What our clients say about the App <i class="fa fa-angle-right fa-lg"></i></a>
+      <a href="/app/clients" class="button">What our clients say<i class="fa fa-angle-right fa-lg"></i></a>
     </div>
   </div>
 
