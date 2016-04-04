@@ -23,9 +23,14 @@ categories: app
 
   <div class="container">
     <div class="row push-top small-push-bottom">
-      <div class="col-xs-12 col-sm-offset-1 col-sm-6 col-md-5">
+      <div class="col-xs-offset-1 col-xs-11 col-sm-offset-1 col-sm-8 col-md-offset-1 col-md-5">
+          <h1>App'etite for Change? Sign up for free now.</h1>
+      </div>
+    </div>
+    <div class="row small-push-top small-push-bottom">
+
+      <div class="col-xs-offset-1 col-xs-10 col-sm-offset-1 col-sm-5 col-md-3">
 		<form id="register" action="{{ site.eaternity_app }}/signup">
-        <h1>App'etite for Change? Sign up for free now.</h1>
         <p>We establish climate friendly meals in society. Get involved by using our free app and share the Eaternity-philosophy.</p>
         <input type="text" name="name" placeholder="Your Name"/>
         <input type="text" name="email" placeholder="E-mail" />
@@ -38,8 +43,8 @@ categories: app
 		</form>
 		<p id="result" class="small-push-top"></p>
       </div>
-      <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-4 col-md-offset-2 col-md-3">
-        <img class="responsive" src="/img/get-the-app/iphone-screen.png">
+      <div class="col-xs-offset-0 col-xs-12 col-sm-offset-0 col-sm-6 col-md-offset-1 col-md-6">
+        <img class="responsive" src="/img/home/screens.png">
       </div>
     </div>
   </div>
