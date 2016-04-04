@@ -13,13 +13,12 @@ markdown: kramdown #redcarpet
 # paginate: 20
 baseurl: "" # the subpath of your site, e.g. /blog/
 # baseurl: /
-domain_name: 'http://eaternity.org'
+domain_name: 'http://www.eaternity.org'
 google_analytics: 'UA-55310589-1' #'UA-55310589-3' <- old blog
 disqus: false
 disqus_shortname: 'eaternity'
 
-eaternity_app: 'http://shiro.default.eaternity-app.appspot.com'
-# replace with http://app.eaternity.org when ready
+eaternity_app: 'http://app.eaternity.org'
 
 # Details for the RSS feed generator
 # url:            'http://www.eaternity.org'
