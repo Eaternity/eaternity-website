@@ -182,7 +182,7 @@ permalink: /appetite-for-change/
     <div class="row push-top push-bottom">
       <div class="col-xs-12 col-sm-12 col-md-4">
         <p class="teaserText">
-          Are you a restaurant and would like to join our campaign? Leave your infos below and we will contact you.
+          Do you like to join our campaign? Leave your infos below and we will contact you.
         </p>
 		 <p id="result"></p>
       </div>
@@ -190,7 +190,7 @@ permalink: /appetite-for-change/
 <form >
         <div class="row">
           <div class="col-xs-12 col-sm-6">
-            <input type="text" name="restaurant" placeholder="Restaurant Name">
+            <input type="text" name="restaurant" placeholder="Organisation">
           </div>
           <div class="col-xs-12 col-sm-6">
             <input type="text" name="name" placeholder="Contact Person">
@@ -206,7 +206,7 @@ permalink: /appetite-for-change/
         </div>
         <div class="row">
           <div class="col-xs-12 col-sm-6">
-            <input name="check" type="checkbox"> I accept the <a href="/legal">terms and conditions</a> of Eaternity
+            <!-- <input name="check" type="checkbox"> I accept the <a href="/legal">terms and conditions</a> of Eaternity -->
           </div>
           <div class="col-xs-12 col-sm-6 text-right-above-xs xs-push-top">
             <button type="submit">
@@ -215,6 +215,7 @@ permalink: /appetite-for-change/
           </div>
         </div>
 </form>
+
       </div>
     </div>
   </div>

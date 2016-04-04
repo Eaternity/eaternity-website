@@ -18,6 +18,9 @@ google_analytics: 'UA-55310589-1' #'UA-55310589-3' <- old blog
 disqus: false
 disqus_shortname: 'eaternity'
 
+eaternity_app: 'http://shiro.default.eaternity-app.appspot.com'
+# replace with http://app.eaternity.org when ready
+
 # Details for the RSS feed generator
 # url:            'http://www.eaternity.org'
 url: "http://www.eaternity.org" # the base hostname & protocol for your site
