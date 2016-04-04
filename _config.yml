@@ -20,7 +20,7 @@ disqus_shortname: 'eaternity'
 
 # Details for the RSS feed generator
 # url:            'http://www.eaternity.org'
-url: "http://www.eaternity.com" # the base hostname & protocol for your site
+url: "http://www.eaternity.org" # the base hostname & protocol for your site
 author:         'Eaternity'
 authorTwitter:  'Eaternity'
 twitter_username: eaternity
