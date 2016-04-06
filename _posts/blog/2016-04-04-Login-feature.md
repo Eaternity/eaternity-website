@@ -6,7 +6,7 @@ published: true
 
 author: Manuel Klarmann
 
-title: Logging In
+title: Logging in to Eaternity
 subtitle: Everyone with an email address can log in to Eaternity and create recipes.
 
 blog-image: 2016-04-04-login-feature.jpg
@@ -42,5 +42,6 @@ We'll email you a special link. Click the _Let me in_ button from your email, an
 **A few things to keep in mind:**
 
 * Emailed log-in links expire after 15 minutes. If you waited too long, just enter your email again.
+* There is no password. The log-in link is safe and only you have access to your email account, and thus to Eaternity.
 * Emails are device-specific. So if you start logging in on your laptop, the email link won't work on your phone.
 * Don't forward this to anyone else! Doing so could let them into your account.
