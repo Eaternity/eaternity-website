@@ -41,7 +41,7 @@ categories: meals
 	</div>
   <div class="row small-push-bottom">
     <div class="col-xs-7 col-sm-6 col-sm-offset-1 col-md-offset-2 col-md-5 push-bottom">
-				<p>To make it convinient for guests, restaurants label their climate friendly meals with the Eaternity Award. This symbol appear at counters, on menu cards, on menu card websites and in our Eaternity Reports. If you compose a recipe in the Eaternity App, you will immediatly see, which ones are being awarded best.</p>
+				<p>To make it convinient for guests, restaurants label their climate friendly meals with the Eaternity Award. This symbol appear at counters, on menu cards, on menu card websites and in our Eaternity Reports. If you compose a recipe, you will immediatly see, which ones are being awarded best.</p>
 			<ol>
 			<li><a href="/assets/2015-11-05-Eaternity_logo_set.zip">Download icon pack</a></li>
 			<li><a href="">Download example menu plan</a></li>
@@ -67,7 +67,7 @@ categories: meals
   <div class="row push-bottom">
     <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6 text-center">
       <p>Climate-friendly diet has huge potential. We train chefs, offer clear and effective reporting and demonstrate your exemplary commitment to your guests.</p>
-      <a class="button" href="/app">App at glance <i class="fa fa-angle-right fa-lg"></i></a>
+      <a class="button" href="/app">App at a glance <i class="fa fa-angle-right fa-lg"></i></a>
     </div>
   </div>
 </div>

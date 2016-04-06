@@ -21,7 +21,7 @@ tags:
 
 ---
 
-Das gemeinsame (von der [Gebert Rüf Stiftung][1] geförderte) Projekt CarbonFoodPrint von Eaternity, dem [Institut für Umwelt und natürliche Ressourcen der ZHAW][zhaw] und der [Forschungsgruppe Informatik und Nachhaltigkeit der Universität Zürich][uni], konnte nach anderthalb Jahren erfolgreich abgeschlossen werden. Primäres Ziel für uns war es zum einen, unsere bestehende Datenbank ([Eaternity App][app]) wissenschaftlich abzusichern und kontrollieren zu lassen und zum anderen, diese um aktuelle Studiendaten zu erweitern.
+Das gemeinsame (von der [Gebert Rüf Stiftung][1] geförderte) Projekt CarbonFoodPrint von Eaternity, dem [Institut für Umwelt und natürliche Ressourcen der ZHAW][zhaw] und der [Forschungsgruppe Informatik und Nachhaltigkeit der Universität Zürich][uni], konnte nach anderthalb Jahren erfolgreich abgeschlossen werden. Primäres Ziel für uns war es zum einen, unsere bestehende [Datenbank][app] wissenschaftlich abzusichern und kontrollieren zu lassen und zum anderen, diese um aktuelle Studiendaten zu erweitern.
 
 Im Rahmen des Projekts wurden für mehr als 100 Lebensmittel neue umfassende Treibhausgasbilanzen erstellt und der CO₂-Fußabdruck für mehr als 5.500 Menüs berechnet. Ergebnis: Der Durchschnitt aller Menüs liegt bei 1.460g CO₂-Äq. pro Menü. Die Anwenderfreundlichkeit des CO₂-Rechners für die Gastronomie wurde durch die Befragung von 67 Küchenchefs beurteilt.
 

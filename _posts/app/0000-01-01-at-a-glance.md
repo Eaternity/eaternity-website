@@ -22,8 +22,8 @@ permalink: /app/
   <div class="row push-top push-bottom verticalAlign">
     <div class="col-xs-12 col-sm-offset-1 col-sm-7">
       <div>
-        <h1>Eaternity App</h1>
-        <p>We have developed innovative software for private and professional use – the Eaternity App. It is based on an easy to understand and yearly reviewed CO₂-database. This is currently the largest and most comprehensive database for carrying out menu-CO₂-calculations. With Eaternity, we offer everyone the opportunity to make a sustainable choice when selecting their everyday food.</p>
+        <h1>What do we offer?</h1>
+        <p>We have developed innovative software for private and professional use. It is based on an easy to understand and yearly reviewed CO₂-database. This is currently the largest and most comprehensive database for carrying out menu-CO₂-calculations. With Eaternity, we offer everyone the opportunity to make a sustainable choice when selecting their everyday food.</p>
       </div>
     </div>
     <div class="col-xs-offset-4 col-xs-4 col-sm-offset-1 col-sm-2 xs-push-top">
@@ -39,7 +39,7 @@ permalink: /app/
         </div>
         <div class="teaserBox bgLightGrey">
           <h3>For private use</h3>
-          <p>The Eaternity App is completely free for private use. We provide:</p>
+          <p>It is completely free for private use. We provide:</p>
           <ul class="small-push-bottom">
             <li>accurate CO2-statistics on all products and meals</li>
             <li>hundreds of tasty recipes</li>
@@ -58,7 +58,7 @@ permalink: /app/
         </div>
         <div class="teaserBox bgProfessionalBox">
           <h3>For restaurants</h3>
-          <p>The «Pro»-Version of the Eaternity App has been developed for restaurants and provides</p>
+          <p>The «Pro»-Version has been developed for restaurants and provides</p>
           <ul class="small-push-bottom">
             <li>accurate and daily CO2-statistics on every meal and the restaurant as a whole.</li>
             <li>insightful illustrations and easily comprehensible reports</li>
@@ -73,7 +73,7 @@ permalink: /app/
       <div>
         <div class="teaserBox bgLightGrey">
           <h3>Talk to us</h3>
-          <p>The Eaternity App can be connected to any existing infrastructure to manage supplies and recipes. By matching the restaurants suppliers data to our datasets, it can deliver accurate calculations directly.</p>
+          <p>With our API we can be connected to any existing infrastructure to manage supplies and recipes. By matching the restaurants suppliers data to our datasets, it can deliver accurate calculations directly.</p>
           <a href="/contact" class="button">Get in touch <i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>
@@ -107,7 +107,7 @@ permalink: /app/
 
   <div class="row push-bottom">
     <div class="col-xs-12 text-center">
-      <a href="/app/clients" class="button">What our clients say about the App <i class="fa fa-angle-right fa-lg"></i></a>
+      <a href="/app/clients" class="button">What our clients say<i class="fa fa-angle-right fa-lg"></i></a>
     </div>
   </div>
 

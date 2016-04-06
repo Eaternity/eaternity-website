@@ -8,7 +8,7 @@ t:
       name: "About"
       url: "/about/"
     app:
-      name: "Eaternity App"
+      name: "Offer"
       url: "/app"
   fr:
     home:
