@@ -43,5 +43,4 @@ We'll email you a special link. Click the _Let me in_ button from your email, an
 
 * Emailed log-in links expire after 15 minutes. If you waited too long, just enter your email again.
 * There is no password. The log-in link is safe and only you have access to your email account, and thus to Eaternity.
-* Emails are device-specific. So if you start logging in on your laptop, the email link won't work on your phone.
 * Don't forward this to anyone else! Doing so could let them into your account.
