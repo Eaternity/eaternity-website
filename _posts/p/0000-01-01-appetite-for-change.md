@@ -43,7 +43,7 @@ permalink: /appetite-for-change/
 	<div class="row push-bottom">
 		<div class="col-xs-12 col-sm-offset-3 col-sm-6 text-center" style="border: 2px solid #46cc00;padding: 10px 15px;">
 			<p>
-      The basic idea is: Everyone can do precise measurements of their foodprint with our Menu CO₂ Calculator Software (the <a href="/app">Eaternity WebApp</a>) for FREE.</p>
+      The basic idea is: Everyone can do precise measurements of their foodprint with our <a href="/app">Menu CO₂ Calculator Software</a> for FREE.</p>
 		</div>
 	</div>
   <div class="row big-push-top small-push-bottom">
@@ -55,7 +55,7 @@ permalink: /appetite-for-change/
 
   		<div class="col-xs-12 col-sm-4 xs-push-top text-center">
         <img src="/img/cop21/uebersicht-menu-blue.svg" height="70px" />
-          <h3>1. Share tasty climate-friendly recipes</h3> <p>by getting a FREE account for the Eaternity WebApp (if you haven't done already). Select your favorite climate-friendly recipe and share it with the people you love. Try them out or even invite your family and friends for dinner. For social media you can use the hashtag <a href="http://www.twitter.com/#Eaternity">#Eaternity</a> and <a href="http://www.twitter.com/#Climatefriendly">#Climatefriendly</a>.</p>
+          <h3>1. Share tasty climate-friendly recipes</h3> <p>by getting a FREE account for Eaternity (if you haven't done already). Select your favorite climate-friendly recipe and share it with the people you love. Try them out or even invite your family and friends for dinner. For social media you can use the hashtag <a href="http://www.twitter.com/#Eaternity">#Eaternity</a> and <a href="http://www.twitter.com/#Climatefriendly">#Climatefriendly</a>.</p>
           </div>
       <div class="col-xs-12 col-sm-4 xs-push-top text-center">
         <img src="/img/cop21/zutaten-menu-blue.svg" height="70px" />
@@ -63,7 +63,7 @@ permalink: /appetite-for-change/
           </div>
         <div class="col-xs-12 col-sm-4 xs-push-top text-center">
           <img src="/img/cop21/personen-blue.svg" height="70px" />
-          <h3>3. Spread the word</h3> <p>by sharing information about <a href="/foodprint">foodprint</a> and this campaign with as many people and restaurants you know might care. Write about it, integrate the Eaternity WebApp on your homepage and state your support as a person or organization. Feel invited to get creative and make our voice heard in other ways.</p>
+          <h3>3. Spread the word</h3> <p>by sharing information about <a href="/foodprint">foodprint</a> and this campaign with as many people and restaurants you know might care. Write about it, integrate Eaternity on your homepage and state your support as a person or organization. Feel invited to get creative and make our voice heard in other ways.</p>
         </div>
     </div>
 <div class="row push-bottom">
@@ -239,7 +239,7 @@ permalink: /appetite-for-change/
     <div class="col-xs-12 col-sm-offset-1 col-sm-5 xs-push-top">
       <h2>A working solution</h2>
       <p>Eaternity has developed a working solution and proven a successfully the adoption of climate friendly meals for restaurants and caterings.</p>
-      <a class="button" href="/app/get-the-app">Get the App <i class="fa fa-angle-right fa-lg"></i></a>
+      <a class="button" href="/app/get-the-app">Get the Login <i class="fa fa-angle-right fa-lg"></i></a>
     </div>
   </div>
 </div>
