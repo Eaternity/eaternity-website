@@ -31,7 +31,7 @@ categories: foodprint
 
   <div class="row small-push-bottom push-top">
     <div class="col-xs-12 col-sm-6">
-      <p> Together we will formulate a message that combines the goals of climate friendly – and organic agriculture giving consumers and restaurants the opportunity to contribute to a sustainable future.</p>
+      <p> Together we will formulate a message that combines the goals of climate friendly and organic agriculture, giving consumers and restaurants the opportunity to contribute to a sustainable future.</p>
 			<p>We will present results that we obtained within the Organic FoodPrint Project. Invited speakers will share their view and give additional inputs.</p>
 			<h4>Workshop Goals:</h4>
 			<ul>
@@ -50,7 +50,7 @@ categories: foodprint
 				 </tr>
 				 <tr>
 					 <td class="active">Contact </td>
-					 <td class="bgLightBlue">For further Information: <a href="mailto:ioconnor@eaternity.ch">ioconnor@eaternity.ch</a></td>
+					 <td class="bgLightBlue">For further information: <a href="mailto:ioconnor@eaternity.ch">ioconnor@eaternity.ch</a></td>
 				 </tr>
 
          <tr>
