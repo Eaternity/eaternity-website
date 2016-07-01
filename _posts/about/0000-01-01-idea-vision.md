@@ -74,7 +74,7 @@ permalink: /about/
     </div>
   </div>
 
-  <div id="team" class="row text-center small-push-bottom">
+<div id="team" class="row text-center small-push-bottom">
     <div class="col-xs-offset-3 col-xs-8 col-sm-offset-0 col-sm-3">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/manuelklarmann.jpg">
@@ -87,7 +87,7 @@ permalink: /about/
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/judithellens.jpg">
         <h3>Judith Ellens</h3>
-        <p>Founder & Head of Operations and Science</p>
+        <p>Founder & Head of Science</p>
       </div>
     </div>
 
@@ -95,21 +95,21 @@ permalink: /about/
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/aurelianjaggi.jpg">
         <h3>Aurelian Jaggi</h3>
-        <p>Founder & CTO</p>
+        <p>Founder & Head of Technology</p>
       </div>
     </div>
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/evahirsiger.jpg">
-        <h3>Eva Hirsiger</h3>
-        <p>Scientific Analyst</p>
+        <img class="responsive round" src="/img/idea-vision/hmittelbach.jpg">
+        <h3>Heidi Mittelbach, PhD</h3>
+        <p>Head of Scientific Partnerships</p>
       </div>
     </div>
 
-  </div>
+</div>
 
-  <div class="row text-center big-push-bottom">
+<div class="row text-center small-push-bottom">
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/andreasscheuss.jpg">
@@ -141,9 +141,35 @@ permalink: /about/
         <p>Culinary Excellence</p>
       </div>
     </div>
+</div>
 
+<div class="row text-center big-push-bottom">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
+      <div class="teamTeaser">
+      </div>
+    </div>
 
-  </div>
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/ioconnor.jpg">
+        <h3>Isabel O'Connor, PhD</h3>
+        <p>Project Manager Science</p>
+      </div>
+    </div>
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/aaa.jpg">
+        <h3>Aleksandra Aleksandrowicz, PhD</h3>
+        <p>Project Manager Science</p>
+      </div>
+    </div>
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      </div>
+    </div>
+</div>
 
   <div class="row small-push-bottom">
     <div class="col-xs-12 text-center">
