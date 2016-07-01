@@ -65,7 +65,7 @@ categories: foodprint
 
 	<div class="row push-top small-push-bottom">
 	  <div class="col-xs-12 text-center">
-	    <a href="https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-projekt/projekt/2687/"><img src="/img/organic-foodprint/logo-zhaw.svg"></a>
+	    <a href="https://www.zhaw.ch/iunr/gof"><img src="/img/organic-foodprint/logo-zhaw.svg"></a>
 	    <a href="http://www.engagement-migros.ch/de/pioniere/eaternity"><img src="/img/organic-foodprint/logo-migrosengagement.svg"></a>
 	  </div>
 	</div>
