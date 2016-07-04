@@ -65,6 +65,7 @@ permalink: /app/
             <li>climate friendly meal awards for all meals that create 50% less carbon emissions than the average meal.</li>
           </ul>
           <p>The App provides food declarations compliant with EU Food Labelling Regulation for allergens and nutrition</p>
+          <p style="font-size:0.9em;font-style: italic;">One restaurant is defined as one site that has below of 200 servings daily or has below CHF 250'000 expenses on food & beverage yearly.</p>
           <a href="/app/professional" class="button">Features & more <i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>
