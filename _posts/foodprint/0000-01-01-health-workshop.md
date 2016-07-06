@@ -72,7 +72,7 @@ categories: foodprint
 	<div class="row push-bottom">
 		<div class="col-xs-3 text-center"></div>
 		<div class="col-xs-6 text-center">
-		<p>This workshop is part of a project by Eaternity made possible by Engagement Migros development fund.</p><a href="/foodprint/organic"><button>Learn more</button></a>
+		<p>This workshop is part of a project by Eaternity made possible by Engagement Migros development fund.</p><a href="/foodprint/health"><button>Learn more</button></a>
 		</div>
 	</div>
 
