@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.5//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+DTSTART:19810329T020000
+TZNAME:MESZ
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+DTSTART:19961027T030000
+TZNAME:MEZ
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Zurich:20161104T160000
+UID:6D291EB9-20D2-4AD5-A246-3279FFBD878E
+DTSTAMP:20160706T130103Z
+LOCATION:Zollikerstr. 74\, 8008 Zürich
+DESCRIPTION:Together we will formulate a message that combines the goals
+  of climate friendly and organic agriculture\, giving consumers and rest
+ aurants the opportunity to contribute to a sustainable future.\n\nWe wil
+ l present results that we obtained within the Organic FoodPrint Project.
+  Invited speakers will share their view and give additional inputs.\n\nW
+ orkshop Goals:\nSummarize the common ground of available knowledge that 
+ is directly applicable to give consumers a choice.\nEstablish clear and 
+ understandable recommendations for restaurants that is supported by all 
+ participants.
+URL;VALUE=URI:http://www.eaternity.org/foodprint/organic-workshop
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:Organic FoodPrint Workshop
+DTSTART;TZID=Europe/Zurich:20161104T090000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+CREATED:20160706T130103Z
+LAST-MODIFIED:20160706T130103Z
+END:VEVENT
+END:VCALENDAR
