@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.5//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+DTSTART:19810329T020000
+TZNAME:MESZ
+TZOFFSETTO:+0200
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+DTSTART:19961027T030000
+TZNAME:MEZ
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Zurich:20161103T160000
+UID:2D32CE40-E13A-484A-84EC-DC054C671D18
+DTSTAMP:20160706T194832Z
+LOCATION:Zollikerstr. 74\, 8008 Zürich
+DESCRIPTION:Together we will formulate a message that combines the goals
+  of both climate friendly and healthy nutrition. Our message will give t
+ he consumers and restaurants the opportunity to contribute to a sustaina
+ ble and healthy future.\n\nDuring the workshop we will present the resul
+ ts obtained within the Health FoodPrint Project and discuss the parallel
+ s and potential conflicts between healthy and climate friendly nutrition
+ .\n\nWorkshop Goals:\nSummarize and discuss the available knowledge of c
+ limate friendly and healthy nutrition\nProvide guidelines for the restau
+ rants and consumers showing the way towards climate friendly and healthy
+  nutrition.
+URL;VALUE=URI:http://www.eaternity.org/foodprint/health-workshop
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:Health FoodPrint Workshop
+DTSTART;TZID=Europe/Zurich:20161103T090000
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+CREATED:20160706T194619Z
+LAST-MODIFIED:20160706T194832Z
+END:VEVENT
+END:VCALENDAR
