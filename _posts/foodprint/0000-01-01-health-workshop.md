@@ -24,14 +24,14 @@ categories: foodprint
 			<hr />
 			<h1 style="font-size:80px">A joint vision: climate and health.</h1>
 			<hr />
-			<h3 class="text-center">Health FoodPrint Workshop | Zürich, 4. November 2016</h3>
+			<h3 class="text-center">Health FoodPrint Workshop | Zürich, 3. November 2016</h3>
 			<hr />
     </div>
   </div>
 
   <div class="row small-push-bottom push-top">
     <div class="col-xs-12 col-sm-6">
-      <p>Together we will formulate a message that combines the goals of both climate friendly and healthy nutrition. Our message will give the consumers and restaurants the opportunity to contribute to a sustainable and healthy future.</p>
+      <p>Together we will formulate a message that combines the goals of both climate friendly and healthy nutrition. Our message will give consumers and restaurants the opportunity to contribute to a sustainable and healthy future.</p>
 			<p>During the workshop we will present the results obtained within the Health FoodPrint Project and discuss the parallels and potential conflicts between healthy and climate friendly nutrition.</p>
 			<h4>Workshop Goals:</h4>
 			<ul>
