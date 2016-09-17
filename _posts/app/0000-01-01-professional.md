@@ -11,7 +11,7 @@ categories: app
     <div class="col-xs-12 text-center">
       <ul class="subNavigation">
         <a href="/app"><li>At a glance</li></a>
-        <a href="/app/get-the-app"><li>Get the App</li></a>
+        <a href="/app/get-the-app"><li>Access the App</li></a>
         <a href="/app/professional"><li class="current">Professional</li></a>
         <a href="/app/clients"><li>Clients</li></a>
       </ul>

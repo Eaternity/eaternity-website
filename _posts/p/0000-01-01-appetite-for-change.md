@@ -68,7 +68,7 @@ permalink: /appetite-for-change/
     </div>
 <div class="row push-bottom">
     <div class="col-xs-12 col-sm-4 xs-push-top text-center">
-        <a class="button" href="/app/get-the-app">Get the App <i class="fa fa-angle-right fa-lg"></i></a>
+        <a class="button" href="/app/get-the-app">Access the App <i class="fa fa-angle-right fa-lg"></i></a>
         </div>
     <div class="col-xs-12 col-sm-4 xs-push-top text-center">
         <a class="button" href="#register">Register restaurant<i class="fa fa-angle-right fa-lg"></i></a>

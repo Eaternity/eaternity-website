@@ -10,7 +10,7 @@ permalink: /app/
     <div class="col-xs-12 text-center">
       <ul class="subNavigation">
         <a href="/app"><li class="current">At a glance</li></a>
-        <a href="/app/get-the-app"><li>Get the App</li></a>
+        <a href="/app/get-the-app"><li>Access the App</li></a>
         <a href="/app/professional"><li>Professional</li></a>
         <a href="/app/clients"><li>Clients</li></a>
       </ul>
@@ -47,7 +47,7 @@ permalink: /app/
             <li>sharing</li>
           </ul>
           <p>The App provides food declarations compliant with EU Food Labelling Regulation for nutrition</p>
-          <a href="/app/get-the-app" class="button">Get the App <i class="fa fa-angle-right fa-lg"></i></a>
+          <a href="/app/get-the-app" class="button">Access the App <i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>
     </div>
