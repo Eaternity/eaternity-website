@@ -141,9 +141,9 @@ permalink: /appetite-for-change/
 
         <p>The goal is to jointly gain public attention and relevant media coverage on how significantly food contributes to climate change - AND how it has great potential as an agent for change:</p>
 
-        <p>With <strong>31% of all greenhouse gas emissions originating from our food consumption</strong>, a reduction by half is possible and has a significant impact. Potentially <strong>saving 5.6 Giga tons of CO₂eq</strong> worldwide per year already; an impressive figure!</p>
+        <p>With <strong>1/3 of all greenhouse gas emissions originating from our food consumption</strong>, a reduction by half is possible and has a significant impact. Potentially <strong>saving 5.6 Giga tons of CO₂eq</strong> worldwide per year already; an impressive figure!</p>
 
-        <a class="button" target="_blank" href="/assets/2015-11-30-state-of-affairs-englisch.pdf">More Scientific Information <i class="fa fa-angle-right fa-lg"></i></a>
+        <a class="button" target="_blank" href="/assets/2016-09-19-state-of-affairs-englisch.pdf">More Scientific Information <i class="fa fa-angle-right fa-lg"></i></a>
 
 
       </div><div class="col-xs-12  col-sm-5  mobile-text-center">
