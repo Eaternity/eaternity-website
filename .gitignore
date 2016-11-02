@@ -3,3 +3,4 @@ _site/
 .sass-cache/
 Icon
 .jekyll-metadata
+.DS_Store
