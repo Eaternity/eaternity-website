@@ -6,7 +6,7 @@ published: true
 
 author: Jens Hinkelmann
 
-title: Eaternity now in district 4.
+title: Eaternity now in district 4
 subtitle: Easier to find and ready for everything
 
 blog-image: 2016-10-01-Umzug-Reitergasse.jpg
