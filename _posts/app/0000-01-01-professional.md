@@ -87,7 +87,7 @@ categories: app
   <div class="row push-top push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-5">
       <h1>Existing API</h1>
-      <p>In case you already have a working system like Microsoft Dynamics or SAP, our API provides you with a direct connection to exchange informations. With an innovative automatic ingredient matching tool, all customer and supplier data is fitted seamlessly into our system. We can deliver all information on the spot. Everything is setup ready for an integration into your system. <a href="http://docs.eaternitycloud.apiary.io">docs.eaternitycloud.apiary.io</a></p>
+      <p>In case you already have a working system like Microsoft Dynamics or SAP, our API provides you with a direct connection to exchange informations. With an innovative automatic ingredient matching tool, all customer and supplier data is fitted seamlessly into our system. We can deliver all information on the spot. Everything is setup ready for an integration into your system. <a href="http://docs.eaternity.apiary.io">docs.eaternity.apiary.io</a></p>
     </div>
     <div class="col-xs-12 col-sm-5 xs-push-top">
       <h1>Ask for a demo</h1>
