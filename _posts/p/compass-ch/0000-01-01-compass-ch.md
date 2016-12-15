@@ -76,9 +76,9 @@ permalink: /p/compass-ch
     <div class="col-xs-12 col-sm-4">
       <h3>Press Releases</h3>
       <ul class="small-push-bottom">
-        <li><a href="">Press release Eaternity</a></li>
-        <li><a href="">Press release Compass Group (Switzerland) AG</a> (26th of May 2014)</li>
-        <li><a href="">Press release Compass Group (Switzerland) AG</a> (14h of November 2014)</li>
+        <li><a href="/assets/de/2014-05-26 Pressemitteilung-Eaternity-Compass.pdf">Press release Eaternity</a></li>
+        <li><a href="/assets/de/2014-05-23_Medienmitteilung Eaternity ZHAW.pdf">Press release Compass Group (Switzerland) AG</a> (26th of May 2014)</li>
+        <li><a href="/assets/de/2014-11-14_Compass-Eaternity_II_Roll_out_MM_.pdf">Press release Compass Group (Switzerland) AG</a> (14h of November 2014)</li>
       </ul>
       <h3>Pay attention to our Eaternity Award</h3>
       <div class="row">
