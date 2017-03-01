@@ -1,7 +1,7 @@
 ---
 layout: default
 name: get-the-app
-title: Get the App!
+title: Access the App!
 categories: app
 ---
 
@@ -13,7 +13,7 @@ categories: app
       <div class="col-xs-12 text-center">
         <ul class="subNavigation">
           <a href="/app"><li>At a glance</li></a>
-          <a href="/app/get-the-app"><li class="current">Get the App</li></a>
+          <a href="/app/get-the-app"><li class="current">Access the App</li></a>
           <a href="/app/professional"><li>Professional</li></a>
           <a href="/app/clients"><li>Clients</li></a>
         </ul>
