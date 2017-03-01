@@ -104,7 +104,7 @@ $(document).ready(function(){
 
 	  var infoBubble = new InfoBubble({
       map: map,
-      content: "<div class='info'><span class='semiBold'>Eaternity AG</span><br />Zollikerstrasse 76<br />CH-8008 Zürich</div>",
+      content: "<div class='info'><span class='semiBold'>Eaternity AG</span><br />Bahnhofstr. 3<br />CH-8001 Zürich</div>",
       shadowStyle: 0,
       padding: "15px",
       backgroundColor: '#e7eff1',
@@ -120,7 +120,7 @@ $(document).ready(function(){
     });
 
 		var marker = new google.maps.Marker({
-	    position: {lat: 47.359790, lng: 8.557180},
+	    position: {lat: 47.367664, lng: 8.539774},
 	    map: map,
 	    icon: '/img/marker.png'
 	  });
