@@ -101,9 +101,9 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/hmittelbach.jpg">
-        <h3>Heidi Mittelbach, PhD</h3>
-        <p>Head of Scientific Partnerships</p>
+        <img class="responsive round" src="/img/idea-vision/mspring.jpg">
+        <h3>Michael Spring</h3>
+        <p>Software Developer</p>
       </div>
     </div>
 
@@ -112,8 +112,8 @@ permalink: /about/
 <div class="row text-center small-push-bottom">
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/andreasscheuss.jpg">
-        <h3>Andreas Scheuss</h3>
+        <img class="responsive round" src="/img/idea-vision/jhinkelmann.jpg">
+        <h3>Jens Hinkelmann</h3>
         <p>Software Developer</p>
       </div>
     </div>
@@ -144,10 +144,6 @@ permalink: /about/
 </div>
 
 <div class="row text-center big-push-bottom">
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
-      <div class="teamTeaser">
-      </div>
-    </div>
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
       <div class="teamTeaser">
@@ -167,8 +163,24 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/mmunder.jpg">
+        <h3>Matthias Munder, PhD</h3>
+        <p>Software Developer</p>
       </div>
     </div>
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/chamer.jpg">
+        <h3>Carol Hamer, PhD</h3>
+        <p>Software Developer</p>
+      </div>
+    </div>
+
+    <!-- <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      </div>
+    </div> -->
 </div>
 
   <div class="row small-push-bottom">
