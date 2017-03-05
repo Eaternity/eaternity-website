@@ -35,6 +35,7 @@ No more faulty inputs are possible for the cultivation of animals and mushrooms.
 We have improved our greenhouse model – which calculates the emissions of different vegetables (tomatoes, cucumbers, paprika, etc.) according to the respective solar radiation of the country of origin compared to the necessary energy until ripeness, to determine the appropriate amount of CO₂-emissions for the daily precise heating of the greenhouse – by being more detailed on the infrastructure. Small improvements were made on organic produce in the winter season. Overall reducing the CO₂eq contribution in particular for several products in the winter.
 
 For missing declarations for the origin of the food, we now calculate with the help of the Food and Agriculture Organization of the United Nations ([FAO][fao]) statistics on global trade of goods, an annual average as a guiding value for each of our product. This increases overall the CO₂-values, as fewer transport distances will be classified as regional.
+
 The transport is in collaboration with EcoTransitWorld ([www.ecotransit.com][ecotransit]) now broken down in more detail. Combined transport routes (Truck - Ship - Truck) are determined in more precision through global statistics. Newly, we also classify refrigerated transports. Perishable products above a certain distance are assumed to be transported by air, in case no means of transport are given.
 
 For the improvements on our origin and transport model, we expect in general the CO₂-values for a meal to increase by 25g CO₂eq.
