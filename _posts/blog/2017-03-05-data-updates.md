@@ -27,6 +27,7 @@ Especially for deviations concerning single products, and not all the data at on
 Where possible we have updated our values to ecoinvent v3.2 (from v3.0, [http://www.ecoinvent.org][ecoinvent]]). On the basis of unit process datasets, thousands of different food products are calculated. According to the standard of the Intergovernmental Panel on Climate Change (IPCC 2013), now the factor 28 for methane gas (previously 25) is used for the CO₂-equivalent calculation. The ecoinvent 3.2 update affects 183 of our current 487 unit process datasets. Overall the CO₂-emissions of these datasets have gone up by 11%.  For the average CO₂-value of a meal, we expect it to be 60 g CO₂eq higher.
 
 For meat products from pigs, we have improved the model for the butchering process. The meat products are now accounted without the slaughter residues and are therefore 70 – 90% higher, than before.
+
 We have remodeled baked rolls and bread. Their CO₂ value went from 52 – 84 g CO₂eq to 73 - 87 CO₂eq (for 100 g of product).
 
 No more faulty inputs are possible for the cultivation of animals and mushrooms. Without this directive, the CO₂-value will improve on a small set ( < 50) of food products.
@@ -62,7 +63,7 @@ Transport and origin model :                  + 25 g CO₂eq
 ### Climate-friendly meal
 
 Before:                           below 666 g CO₂eq / meal  
-After:                below 700 g CO₂eq / meal 
+After:                below 700 g CO₂eq / meal
 
 
 
