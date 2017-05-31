@@ -51,7 +51,7 @@ categories: meals
 			<p>Choose the climate friendly meal with the Eaternity Award.</p>
 		</div>
 		<div class="col-xs-5 col-sm-5 col-md-3 text-center">
-			<img width="90%" src="/assets/2015-11-05-Eaternity_logo_set/Eatenity-Award-vector.svg" />
+			<img width="90%" src="/assets/2015-11-05-Eaternity_logo_set/Eaternity-Award-vector.svg" />
 
 		</div>
 	</div>
