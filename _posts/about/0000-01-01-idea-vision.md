@@ -75,7 +75,9 @@ permalink: /about/
   </div>
 
 <div id="team" class="row text-center small-push-bottom">
-    <div class="col-xs-offset-3 col-xs-8 col-sm-offset-0 col-sm-3">
+
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/manuelklarmann.jpg">
         <h3>Manuel Klarmann</h3>
@@ -101,30 +103,19 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/mspring.jpg">
-        <h3>Michael Spring</h3>
-        <p>Software Developer</p>
+        <img class="responsive round" src="/img/idea-vision/jfederer.jpg">
+        <h3>Jürg Federer</h3>
+        <p>Head of Marketing and Sales</p>
       </div>
     </div>
+
 
 </div>
 
 <div class="row text-center small-push-bottom">
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/jhinkelmann.jpg">
-        <h3>Jens Hinkelmann</h3>
-        <p>Software Developer</p>
-      </div>
-    </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/ldiener.jpg">
-        <h3>Luzius Diener</h3>
-        <p>Software Developer</p>
-      </div>
-    </div>
+
+
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
@@ -141,9 +132,6 @@ permalink: /about/
         <p>Culinary Excellence</p>
       </div>
     </div>
-</div>
-
-<div class="row text-center big-push-bottom">
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
       <div class="teamTeaser">
@@ -158,6 +146,45 @@ permalink: /about/
         <img class="responsive round" src="/img/idea-vision/aaa.jpg">
         <h3>Aleksandra Aleksandrowicz, PhD</h3>
         <p>Project Manager Science</p>
+      </div>
+    </div>
+
+
+</div>
+
+
+<div class="row text-center small-push-bottom">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-3">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/jhinkelmann.jpg">
+        <h3>Jens Hinkelmann</h3>
+        <p>Software Developer</p>
+      </div>
+    </div>
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/ldiener.jpg">
+        <h3>Luzius Diener</h3>
+        <p>Software Developer</p>
+      </div>
+    </div>
+
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/mspring.jpg">
+        <h3>Michael Spring</h3>
+        <p>Software Developer</p>
+      </div>
+    </div>
+
+</div>
+
+<div class="row text-center big-push-bottom">
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
       </div>
     </div>
 
@@ -177,10 +204,9 @@ permalink: /about/
       </div>
     </div>
 
-    <!-- <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-      </div>
-    </div> -->
+
+
+
 </div>
 
   <div class="row small-push-bottom">
