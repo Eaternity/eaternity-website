@@ -67,7 +67,7 @@ Or to speak in the words of the consumer, even though enjoying the display of fr
    </tr>
    <tr>
      <td class="active">Federal Office for the Environment (FOEN): </td>
-     <td class="bgLightBlue">Hans-Ulrich Gujer und Ruth Freiermuth-Knuchel</td>
+     <td class="bgLightBlue">Hans-Ulrich Gujer und Ruth Freiermuth Knuchel</td>
    </tr>
    <tr>
      <td class="active">Berner Fachhochschule: </td>
