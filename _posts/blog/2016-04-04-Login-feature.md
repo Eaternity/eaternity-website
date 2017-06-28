@@ -22,7 +22,7 @@ tags:
 
 # Logging in to Eaternity
 
-In Eaternity, to log in, you can always start by clicking the _Log in_ button at the top right of [eaternity.org](http://www.eaternity.org).
+In Eaternity, to log in, you can always start by clicking the _CO2 Calculator_ button at the top right of [eaternity.org](http://www.eaternity.org).
 
 
 ![Sign In at Eaternity.org](/img/blog/2016-04-04-login-feature/nav-bar.jpg "Sign In at Eaternity.org")

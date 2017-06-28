@@ -2,79 +2,60 @@
 layout: default
 name: at-a-glance
 title: At a Glance
-permalink: /app/
+categories: app
 ---
 
 <div class="container hidden-xs">
   <div class="row">
     <div class="col-xs-12 text-center">
       <ul class="subNavigation">
-        <a href="/app"><li class="current">At a glance</li></a>
-        <a href="/app/get-the-app"><li>Access the App</li></a>
-        <a href="/app/professional"><li>Professional</li></a>
+        <a href="/app"><li>Product</li></a>
         <a href="/app/clients"><li>Clients</li></a>
+        <a href="/app/at-a-glance"><li class="current">Pricing</li></a>
+        <a href="/app/get-the-app"><li>Sign-Up</li></a>
       </ul>
     </div>
   </div>
 </div>
 
 <div class="container">
-  <div class="row push-top push-bottom verticalAlign">
-    <div class="col-xs-12 col-sm-offset-1 col-sm-7">
-      <div>
-        <h1>What do we offer?</h1>
-        <p>We have developed innovative software for private and professional use. It is based on an easy to understand and yearly reviewed CO₂-database. This is currently the largest and most comprehensive database for carrying out menu-CO₂-calculations. With Eaternity, we offer everyone the opportunity to make a sustainable choice when selecting their everyday food.</p>
-      </div>
-    </div>
-    <div class="col-xs-offset-4 col-xs-4 col-sm-offset-1 col-sm-2 xs-push-top">
-      <img class="responsive" src="/img/at-a-glance/eaternity-icon.svg">
-    </div>
-  </div>
-
-  <div class="row big-push-bottom md-verticalAlign">
+  <div class="row big-push-bottom push-top md-verticalAlign">
     <div class="col-xs-12 col-md-4">
       <div>
         <div class="teaserBoxtitle bgLightBlue">
-          Free
+          Free Web-App
         </div>
         <div class="teaserBox bgLightGrey">
-          <h3>For private use</h3>
-          <p>It is completely free for private use. We provide:</p>
-          <ul class="small-push-bottom">
-            <li>accurate CO2-statistics on all products and meals</li>
-            <li>hundreds of tasty recipes</li>
-            <li>unlimited recipe creation</li>
-            <li>sharing</li>
-          </ul>
-          <p>The App provides food declarations compliant with EU Food Labelling Regulation for nutrition</p>
-          <a href="/app/get-the-app" class="button">Access the App <i class="fa fa-angle-right fa-lg"></i></a>
+          <p>Create your own climate-friendly recipe database and measure the CO2-Footprint of your home cooking</p>
+          <p>Hundreds of tasty, climate-friendly recipes for private use.</p>
+          <p>Measure the nutrition value of your homestyle cooking</p>
+          <a href="/app/get-the-app" class="button">Access the Web-App <i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>
     </div>
     <div class="col-xs-12 col-md-4 sm-push-top">
       <div>
         <div class="teaserBoxtitle bgProfessionalHeader">
-          only CHF 1300/a year
+          Professional Software
         </div>
         <div class="teaserBox bgProfessionalBox">
-          <h3>For restaurants</h3>
-          <p>The «Pro»-Version has been developed for restaurants and provides</p>
-          <ul class="small-push-bottom">
-            <li>accurate and daily CO2-statistics on every meal and the restaurant as a whole.</li>
-            <li>insightful illustrations and easily comprehensible reports</li>
-            <li>climate friendly meal awards for all meals that create 50% less carbon emissions than the average meal.</li>
-          </ul>
-          <p>The App provides food declarations compliant with EU Food Labelling Regulation for allergens and nutrition</p>
-          <p style="font-size:0.9em;font-style: italic;">One restaurant is defined as one site that has below of 200 servings daily or has below CHF 250'000 expenses on food & beverage yearly.</p>
-          <a href="/app/professional" class="button">Features & more <i class="fa fa-angle-right fa-lg"></i></a>
+          <p>Daily accurate CO₂-statistics for every meal served at your food service establishment.</p>
+          <p>All-inclusive reports with insightful illustrations to support you in taking targeted action in improve the CO₂-footprint of your restaurant.</p>
+          <p>Climate-friendly meal awards for your marketing purposes and promotion of your sustainable restaurant to our clientele.</p>
+          <p>The App measures instant food declarations compliant with EU Food Labelling Regulation on allergens and nutrition.</p>
+          <h3>EUR 99 / month</h3>
+          <p>For restaurants with up to 200 servings/day and food cost up to EUR 250’000/year</p>
+          <a href="/app" class="button">Features & more <i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>
     </div>
     <div class="col-xs-12 col-md-4 sm-push-top">
       <div>
+      <div class="teaserBoxtitle bgProfessionalHeader">
+        Business Class
+      </div>
         <div class="teaserBox bgLightGrey">
-          <h3>Talk to us</h3>
-          <p>With our API we can be connected to any existing infrastructure to manage supplies and recipes. By matching the restaurants suppliers data to our datasets, it can deliver accurate calculations directly.</p>
+          <p>Our API connects to your existing infrastructure to provide you with the highest accuracy of all the services offered in our Professional subscription.</p>
           <a href="/contact" class="button">Get in touch <i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>

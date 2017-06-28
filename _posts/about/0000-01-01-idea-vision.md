@@ -77,35 +77,55 @@ permalink: /about/
 <div id="team" class="row text-center small-push-bottom">
 
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/manuelklarmann.jpg">
         <h3>Manuel Klarmann</h3>
         <p>Founder & CEO</p>
+        <p>
+          +41 77 44 66 981<br />
+          <a href="mailto:mklarmann@eaternity.ch">mklarmann@eaternity.ch</a><br />
+          <a href="https://twitter.com/mklarmann">@mklarmann</a>
+        </p>
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/judithellens.jpg">
         <h3>Judith Ellens</h3>
         <p>Founder & Head of Science</p>
+        <p>
+          +41 77 44 656 77<br />
+          <a href="mailto:jellens@eaternity.ch">jellens@eaternity.ch</a><br />
+          <a href="https://twitter.com/judeithellens">@JudithEllens</a>
+        </p>
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/aurelianjaggi.jpg">
         <h3>Aurelian Jaggi</h3>
         <p>Founder & Head of Technology</p>
+        <p>
+          +41 76 328 18 36<br />
+          <a href="mailto:ajaggi@eaternity.ch">ajaggi@eaternity.ch</a><br />
+          <a href="https://twitter.com/AurelianJaggi">@AurelianJaggi</a>
+        </p>
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/jfederer.jpg">
         <h3>Jürg Federer</h3>
         <p>Head of Marketing and Sales</p>
+        <p>
+          +41 77 520 10 07<br />
+          <a href="mailto:jfederer@eaternity.ch">jfederer@eaternity.ch</a><br />
+          <!-- <a href="https://twitter.com/judeithellens">@JudithEllens</a> -->
+        </p>
       </div>
     </div>
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 name: professional
-title: Eaternity Professional
-categories: app
+title: Eaternity Product
+permalink: /app/
 ---
 
 
@@ -10,42 +10,29 @@ categories: app
   <div class="row">
     <div class="col-xs-12 text-center">
       <ul class="subNavigation">
-        <a href="/app"><li>At a glance</li></a>
-        <a href="/app/get-the-app"><li>Access the App</li></a>
-        <a href="/app/professional"><li class="current">Professional</li></a>
+        <a href="/app"><li class="current">Product</li></a>
         <a href="/app/clients"><li>Clients</li></a>
+        <a href="/app/at-a-glance"><li>Pricing</li></a>
+        <a href="/app/get-the-app"><li>Sign-Up</li></a>
       </ul>
     </div>
   </div>
 </div>
 
 <div class="container">
-  <div class="row push-top small-push-bottom">
-    <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
-      <h1>Eaternity Professional – the smart solution for restaurants</h1>
+  <div class="row push-top push-bottom verticalAlign">
+    <div class="col-xs-12 col-sm-offset-1 col-sm-7">
+      <div>
+        <h1>What do we offer?</h1>
+        <p>We have developed innovative software for private and professional use. It is based on an easy to understand and yearly reviewed CO₂-database. This is currently the largest and most comprehensive database for carrying out menu-CO₂-calculations. With Eaternity, we offer everyone the opportunity to make a sustainable choice when selecting their everyday food.</p>
+      </div>
     </div>
-  </div>
-  <div class="row big-push-bottom">
-    <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
-      <p>We are developing an exciting and impactful software application for restaurants. It will revolutionize the way you work in the kitchen by giving you smart insights into your supply chain that benefit people, planet and profit.</p>
+    <div class="col-xs-offset-4 col-xs-4 col-sm-offset-1 col-sm-2 xs-push-top">
+      <img class="responsive" src="/img/at-a-glance/eaternity-icon.svg">
     </div>
   </div>
 </div>
 
-<div class="window" style="background-image: url('/img/professional/professional-parallax.jpg')"></div>
-
-<div class="container">
-  <div class="row big-push-top small-push-bottom">
-    <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-3 col-md-6 text-center">
-      <h1>Food labeling compliant to EU-regulation</h1>
-    </div>
-  </div>
-  <div class="row big-push-bottom">
-    <div class="col-xs-12 col-sm-offset-1 col-sm-10 text-center">
-      <p>We prepare you for allergens compliance regulations enabling you to concentrate on your core business. The new food labelling EU-regulation 1169/2011 for allergens became effective on 13.12.2014 and requires gastro-businesses in all 28 EU-countries to display ingredient information relating to the fourteen main allergens. Our automated and rapid analysis of the ingredients used in your restaurant’s meals reduces your workload. We bring the information you need on a daily basis to your fingertips. Employees have easy access to meet the information requirements of every guest. They can also print comprehensive and customized meal labels with minimum effort. Declaring allergens properly is just the beginning. With Eaternity you can also manage and analyze all other nutritional information that interests you. We keep the data up-to-date and legally compliant so you don’t have to.</p>
-    </div>
-  </div>
-</div>
 
 <div class="bgDarkBlue">
   <div class="container">
@@ -83,6 +70,22 @@ categories: app
   </div>
 </div>
 
+<div class="window" style="background-image: url('/img/professional/professional-parallax.jpg')"></div>
+
+<div class="container">
+  <div class="row big-push-top small-push-bottom">
+    <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-3 col-md-6 text-center">
+      <h1>Food labeling compliant to EU-regulation</h1>
+    </div>
+  </div>
+  <div class="row big-push-bottom">
+    <div class="col-xs-12 col-sm-offset-1 col-sm-10 text-center">
+      <p>We prepare you for allergens compliance regulations enabling you to concentrate on your core business. The new food labelling EU-regulation 1169/2011 for allergens became effective on 13.12.2014 and requires gastro-businesses in all 28 EU-countries to display ingredient information relating to the fourteen main allergens. Our automated and rapid analysis of the ingredients used in your restaurant’s meals reduces your workload. We bring the information you need on a daily basis to your fingertips. Employees have easy access to meet the information requirements of every guest. They can also print comprehensive and customized meal labels with minimum effort. Declaring allergens properly is just the beginning. With Eaternity you can also manage and analyze all other nutritional information that interests you. We keep the data up-to-date and legally compliant so you don’t have to.</p>
+    </div>
+  </div>
+</div>
+
+
 <div class="container">
   <div class="row push-top push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-5">
@@ -93,6 +96,17 @@ categories: app
       <h1>Ask for a demo</h1>
       <p>We are more than happy to show you the features of our software.</p>
       <a class="button" href="/contact">Get in touch <i class="fa fa-angle-right fa-lg"></i></a>
+    </div>
+  </div>
+
+  <div class="row push-top small-push-bottom">
+    <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
+      <h1>Eaternity Food Service – the smart solution for restaurants</h1>
+    </div>
+  </div>
+  <div class="row big-push-bottom">
+    <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
+      <p>We are developing an exciting and impactful software application for restaurants. It will revolutionize the way you work in the kitchen by giving you smart insights into your supply chain that benefit people, planet and profit.</p>
     </div>
   </div>
 </div>

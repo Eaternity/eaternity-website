@@ -1,61 +1,87 @@
 <div id="header" class="bgDarkBlue">
-<div class="container">
-  <div class="header">
-    <div class="col-xs-12 ">
-      <div class="collapse navbar-collapse">
-        <ul class="navigation">
-          <li class="dropdown">
-            <a class="hidden-xs" href="/foodprint">Food & Climate</a>
-            <a class="dropdown-toggle visible-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Food & Climate</a>
-            <ul class="dropdown-menu">
-              <li><a href="/foodprint/co2facts">CO2 Facts</a></li>
-              <li><a href="/foodprint/organic">Organic Footprint</a></li>
-              <li><a href="/foodprint/health">Health Project</a></li>
-              <li><a href="/foodprint/database">Eaternity Database (EDB)</a></li>
-            </ul>
-          </li>
-          <li>
-            <a class="hidden-xs" href="/meals">Climate-friendly Meals</a>
-            <a class="dropdown-toggle visible-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Climate-friendly Meals</a>
-            <ul class="dropdown-menu">
+  <div class="container">
+    <div class="header">
+      <div class="col-xs-12">
+        <div class="collapse navbar-collapse">
+          <ul class="navigation">
+            <li class="dropdown">
+              <a class="hidden-xs" href="/foodprint">Food & Climate</a>
+              <a class="dropdown-toggle visible-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="/foodprint">Food & Climate</a>
+              <ul class="dropdown-menu">
+                <li><a href="/foodprint/co2facts">CO2 Facts</a></li>
+                <li><a href="/foodprint/organic">Organic Footprint</a></li>
+                <li><a href="/foodprint/health">Health Project</a></li>
+                <li><a href="/foodprint/database">Eaternity Database (EDB)</a></li>
+              </ul>
+            </li>
+            <li>
+              <a class="hidden-xs" href="/meals">Climate-friendly Meals</a>
+              <a class="dropdown-toggle visible-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="/meals">Climate-friendly Meals</a>
+              <ul class="dropdown-menu">
                 <li><a href="/meals/eat-at-home">Eat at home</a></li>
                 <li><a href="/meals/restaurants">Eaternity-Restaurants</a></li>
-            </ul>
-          </li>
-          <li>
-            <a class="hidden-xs" href="/app">Professional</a>
-            <a class="dropdown-toggle visible-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">Professional</a>
-            <ul class="dropdown-menu">
-              <li><a href="/app/at-a-glance">At a glance</a></li>
-              <li><a href="/app/get-the-app">Sign up</a></li>
-              <li><a href="/app/professional">Features</a></li>
-              <li><a href="/app/clients">Clients</a></li>
-            </ul>
-          </li>
-          <li>
-            <a class="hidden-xs" href="/about">About us</a>
-            <a class="dropdown-toggle visible-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="#">About us</a>
-            <ul class="dropdown-menu">
+              </ul>
+            </li>
+            <li>
+              <a class="hidden-xs" href="/app">Food Service</a>
+              <a class="dropdown-toggle visible-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="/app">Food Service</a>
+              <ul class="dropdown-menu">
+                <li><a href="/app">Product</a></li>
+                <li><a href="/app/clients">Clients</a></li>
+                <li><a href="/app/at-a-glance">Pricing</a></li>
+                <li><a href="/app/get-the-app">Sign up</a></li>
+              </ul>
+            </li>
+            <li>
+              <a class="hidden-xs" href="/about" style="margin-left:40px;">About us</a>
+              <a class="dropdown-toggle visible-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="/about">About us</a>
+              <ul class="dropdown-menu">
                 <li><a href="/about">Idea &amp; Vision</a></li>
                 <li><a href="/about/partners">Partners</a></li>
                 <li><a href="/about/media">Media</a></li>
-            </ul>
-          </li>
-          <li><form action="{{ site.eaternity_app }}"><button type="submit" class="small-push-bottom"><img src="/img/ganz-weiss.svg" width="22px" type="image/svg+xml" style="margin-bottom:-4px;margin-right:4px;width:22px"/> Log in</i></button></form></li>
-        </ul>
-      </div>
+              </ul>
+            </li>
+            <li class="hidden-xs" style="margin-left:20px;">
+              <a href="{{ site.eaternity_app }}">Log in</a>
+            </li>
+            <li class="visible-xs">
+              <a href="{{ site.eaternity_app }}">Log in</a>
+            </li>
+            <li class="hidden-xs" style="margin-left:20px;margin-right:-50px;">
+              <form action="/app/get-the-app"><button type="submit" class="small-push-bottom"><img src="/img/ganz-weiss.svg" width="22px" type="image/svg+xml" style="margin-bottom:-4px;margin-right:4px;width:22px"/> CO₂ Calculator</i></button></form>
+              <!-- {{ site.eaternity_app }} -->
+            </li>
+            <li class="visible-xs">
+              <form action="/app/get-the-app"><button type="submit" class="small-push-bottom"><img src="/img/ganz-weiss.svg" width="22px" type="image/svg+xml" style="margin-bottom:-4px;margin-right:4px;width:22px"/> CO₂ Calculator</i></button></form>
+              <!-- {{ site.eaternity_app }} -->
+            </li>
+          </ul>
+        </div>
 
-      <div class="logo">
-        <a href="/">
+        <div class="visible-xs logo">
+          <a href="/">
           <img class="responsive" alt="Eaternity Logo" src="/img/home/2014-08-04-logo-eaternity-white.png" />
-        </a>
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          </a>
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
+        </div>
+
+
+        <div class="hidden-xs logo" style="margin-left:-50px; margin-right:-30px;">
+          <a href="/">
+          <img class="" alt="Eaternity Logo" src="/img/home/2014-08-04-logo-eaternity-white.png" />
+          </a>
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          </button>
+        </div>
+
       </div>
     </div>
   </div>
-</div>
 </div>
