@@ -75,7 +75,7 @@ Or to speak in the words of the consumer, even though enjoying the display of fr
    </tr>
    <tr>
      <td class="active">ETH: </td>
-     <td class="bgLightBlue">Stephan Pfister, Stefanie Hellweg, Laura Scherrer</td>
+     <td class="bgLightBlue">Stephan Pfister, Stefanie Hellweg, Laura Scherer</td>
    </tr>
    <tr>
      <td class="active">Research Institut of Organic Agriculture (FiBL): </td>
