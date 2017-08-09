@@ -6,7 +6,7 @@ published: true
 
 author: Aleksandra Aleksandrowicz
 
-title: Health FootPrint Update
+title: Health Footprint Update
 subtitle: Check the nutrients of your recipes in our App!
 
 blog-image: 2017-06-06-health-updates.jpg

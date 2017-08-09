@@ -10,8 +10,8 @@ categories: foodprint
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
 				<a href="/foodprint"><li>CO₂ Facts</li></a>
-				<a href="/foodprint/organic"><li class="current">Organic FoodPrint</li></a>
-	      <a href="/foodprint/health"><li>Health FoodPrint</li></a>
+				<a href="/foodprint/organic"><li class="current">Organic Footprint</li></a>
+	      <a href="/foodprint/health"><li>Health Footprint</li></a>
 				<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
 			</ul>
 		</div>
