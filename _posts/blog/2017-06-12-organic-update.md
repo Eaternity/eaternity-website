@@ -6,7 +6,7 @@ published: true
 
 author: Isabelle O'connor
 
-title: Organic FoodPrint Update
+title: Organic Footprint Update
 subtitle: The Conflicts between Organic Farming and the Environment.
 
 blog-image: 2017-06-12-organic-update.jpg
@@ -96,7 +96,7 @@ Or to speak in the words of the consumer, even though enjoying the display of fr
 
 ### References
 
-* Hirsiger, E., O’Connor, I. & Ellens, J. (2016). Meta-Analysis: A review on the differences in environmental impacts of organic and conventional farming-systems. Work Package A1 of the Organic FoodPrint project. (2016). Eaternity, Zürich.
+* Hirsiger, E., O’Connor, I. & Ellens, J. (2016). Meta-Analysis: A review on the differences in environmental impacts of organic and conventional farming-systems. Work Package A1 of the Organic Footprint project. (2016). Eaternity, Zürich.
 
 * Kreuzer, S., Eymann, L. & Stucki, M. (2014). Ökobilanzen von Kalb- und Rindfleisch. ZHAW Institut für Umwelt und Natürliche Ressourcen, Wädenswil. ZHAW Agri-food Database, www.zhaw.ch/IUNR/agri-food. LCIA also available at the Eaternity Database (EDB - edb.eaternity.org).
 
@@ -104,11 +104,11 @@ Or to speak in the words of the consumer, even though enjoying the display of fr
 
 * Meier, M., Böhler, D., Hörtenhuber, S., Leiber, F. & Oehen, B. (2014). Nachhaltigkeitsbeurteilung von Schweizer Rindfleischproduktionssystemen verschiedener Intensität. FiBL 41.
 
-* O’Connor, I. (2017). Additional indicators in the EDB-APP: background information and concept for implementation. Work Package C of the Organic Foodprint project. Eaternity, Zürich.
+* O’Connor, I. (2017). Additional indicators in the EDB-APP: background information and concept for implementation. Work Package C of the Organic Footprint project. Eaternity, Zürich.
 
-* Scharfy, D., Itten, R. & Bischof, T. (2016). Life cycle assessment of different organic certification schemes. Work Package A2/A3 of the Organic FoodPrint project. ZHAW Institut für Umwelt und Natürliche Ressourcen, Wädenswil, unveröffentlichter Bericht.
+* Scharfy, D., Itten, R. & Bischof, T. (2016). Life cycle assessment of different organic certification schemes. Work Package A2/A3 of the Organic Footprint project. ZHAW Institut für Umwelt und Natürliche Ressourcen, Wädenswil, unveröffentlichter Bericht.
 
-* Scharfy, D., Itten, R. & Bischof, T. (2016). Organic LCA and allocation data for the Eaternity Database. Work Package A4 of the Organic FoodPrint project. ZHAW Institut für Umwelt und Natürliche Ressourcen, Wädenswil, unveröffentlichter Bericht.
+* Scharfy, D., Itten, R. & Bischof, T. (2016). Organic LCA and allocation data for the Eaternity Database. Work Package A4 of the Organic Footprint project. ZHAW Institut für Umwelt und Natürliche Ressourcen, Wädenswil, unveröffentlichter Bericht.
 
 * Scherer, L., Pfister, S. (2016). Global Biodiversity Loss by Freshwater Consumption and Eutrophication from Swiss Food Consumption. Environ. Sci. Technol. 50 (13), 7019–7028.
 

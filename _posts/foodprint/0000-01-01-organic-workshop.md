@@ -1,7 +1,7 @@
 ---
 layout: default
 name: workshop
-title: Organic FoodPrint Workshop
+title: Organic Footprint Workshop
 categories: foodprint
 ---
 
@@ -24,7 +24,7 @@ categories: foodprint
 			<hr />
 			<h1 style="font-size:80px">A joint vision: climate and organic.</h1>
 			<hr />
-			<h3 class="text-center">Organic FoodPrint Workshop | Zürich, 4. November 2016</h3>
+			<h3 class="text-center">Organic Footprint Workshop | Zürich, 4. November 2016</h3>
 			<hr />
     </div>
   </div>
@@ -32,7 +32,7 @@ categories: foodprint
   <div class="row small-push-bottom push-top">
     <div class="col-xs-12 col-sm-6">
       <p> Together we will formulate a message that combines the goals of climate friendly and organic agriculture, giving consumers and restaurants the opportunity to contribute to a sustainable future.</p>
-			<p>We will present results that we obtained within the Organic FoodPrint Project. Invited speakers will share their view and give additional inputs.</p>
+			<p>We will present results that we obtained within the Organic Footprint Project. Invited speakers will share their view and give additional inputs.</p>
 			<h4>Workshop Goals:</h4>
 			<ul>
 			<li>Summarize the common ground of available knowledge that is directly applicable to give consumers a choice.</li>

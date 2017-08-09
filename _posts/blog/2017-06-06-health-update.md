@@ -6,7 +6,7 @@ published: true
 
 author: Aleksandra Aleksandrowicz
 
-title: Health FoodPrint Update
+title: Health FootPrint Update
 subtitle: Check the nutrients of your recipes in our App!
 
 blog-image: 2017-06-06-health-updates.jpg
@@ -18,7 +18,7 @@ tags:
 ---
 31% of greenhouse gases originate from the production and consumption of food. At the same time lifestyle illnesses like obesity, diabetes and cardiovascular disease are on the rise worldwide. Working with leading Swiss and international experts from institutions like Public Health Schweiz, The Oxford Martin Programme on the Future of Food and Barilla Food Centre, Eaternity aims to promote a culture in which health and sustainability are not in conflict.
 
-During Eaternity’s [Health FoodPrint workshop][migros] (see [impressions][pictures]) the parties analyzed and discussed the minimal requirements and main hurdles of a health indicator that at the same time targets to minimize global warming. Getting high quality nutritional information into Eaternity’s food database was one of our first steps in the project.
+During Eaternity’s [Health Footprint workshop][migros] (see [impressions][pictures]) the parties analyzed and discussed the minimal requirements and main hurdles of a health indicator that at the same time targets to minimize global warming. Getting high quality nutritional information into Eaternity’s food database was one of our first steps in the project.
 
 Now you can check the number of calories, the amounts of all relevant macro- and micronutrients in comparison to their daily recommendations and, of course, the CO₂ impact for every ingredient in co-relation to your entire recipe, as well as color-coded for its’ general environmental impact in the [Eaternity App][1]. This new nutritional transparency gave us a strong and solid foundation for our research.
 

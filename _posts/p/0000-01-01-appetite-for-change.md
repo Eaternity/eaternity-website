@@ -43,7 +43,7 @@ permalink: /appetite-for-change/
 	<div class="row push-bottom">
 		<div class="col-xs-12 col-sm-offset-3 col-sm-6 text-center" style="border: 2px solid #46cc00;padding: 10px 15px;">
 			<p>
-      The basic idea is: Everyone can do precise measurements of their foodprint with our <a href="/app">Menu CO₂ Calculator Software</a> for FREE.</p>
+      The basic idea is: Everyone can do precise measurements of their footprint with our <a href="/app">Menu CO₂ Calculator Software</a> for FREE.</p>
 		</div>
 	</div>
   <div class="row big-push-top small-push-bottom">
