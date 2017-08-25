@@ -4,7 +4,7 @@ category: blog
 
 published: true
 
-author: Isabelle O'connor
+author: Isabelle O'Connor
 
 title: Organic Footprint Update
 subtitle: The Conflicts between Organic Farming and the Environment.
