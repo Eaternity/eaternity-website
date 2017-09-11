@@ -686,17 +686,14 @@ input {
   min-height: 200px;
   background-size: 100%;
   background-size: cover;
-  max-width: 1366px;
+  background-attachment: fixed;
   @media screen and (min-width: $sm) {
     min-height: 300px;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: 50% 50%;
   }
   @media screen and (min-width: $md) {
     min-height: 500px;
-  }
-  @media (max-width: $sm) {
-    background-attachment: scroll;
   }
 }
 
