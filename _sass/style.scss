@@ -694,6 +694,9 @@ input {
   @media screen and (min-width: $md) {
     min-height: 500px;
   }
+  @media (max-width: $sm) {
+    background-attachment: scroll;
+  }
 }
 
 /*-----------------------------------------------

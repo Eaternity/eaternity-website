@@ -10742,7 +10742,9 @@ input[type="text"] {
     min-height: 500px;
   }
 }
-
+@media (max-width: 768px) {
+  background-attachment: scroll;
+}
 /*-----------------------------------------------
 	Teaser
 -----------------------------------------------*/
