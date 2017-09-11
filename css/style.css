@@ -10740,8 +10740,6 @@ input[type="text"] {
 @media screen and (min-width: 992px) {
   .window {
     min-height: 500px;
-    background-attachment: fixed;
-    background-position: 50% 50%;
   }
 }
 
