@@ -686,8 +686,7 @@ input {
   min-height: 200px;
   background-size: 100%;
   background-size: cover;
-  -webkit-background-size: cover;
-  min-width: 100%;
+  max-width: 1366px;
   @media screen and (min-width: $sm) {
     min-height: 300px;
     background-attachment: fixed;
