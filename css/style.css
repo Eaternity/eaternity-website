@@ -10731,11 +10731,11 @@ input[type="text"] {
   background-attachment: fixed;
   background-position: 50% 50%;
 }
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
   .window {
     min-height: 300px;
     background-attachment: scroll;
-    background-size: 100%;
+    background-size: 150%;
   }
 }
 @media screen and (min-width: 992px) {
