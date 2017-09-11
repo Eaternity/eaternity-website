@@ -10726,21 +10726,22 @@ input[type="text"] {
 	Paralax-Windows
 -----------------------------------------------*/
 .window {
-  min-height: 200px;
+  min-height: 500px;
   background-size: cover;
   background-attachment: fixed;
   background-position: 50% 50%;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1366px) {
   .window {
-    min-height: 300px;
+    min-height: 600px;
     background-attachment: scroll;
-    background-size: 150%;
+    background-size: 100%;
   }
 }
-@media screen and (min-width: 992px) {
+@media screen and (max-width: 992px) {
   .window {
-    min-height: 500px;
+    min-height: 350px;
+    background-size: 200%;
   }
 }
 /*-----------------------------------------------
