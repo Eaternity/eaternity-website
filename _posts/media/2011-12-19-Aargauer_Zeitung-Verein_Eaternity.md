@@ -1,5 +1,6 @@
 ---
 category: media
+layout: media
 
 tags:
 - Aargauer Zeitung
@@ -12,4 +13,3 @@ documents:
 - 2011-12-19-Aargauer_Zeitung-Verein_Eaternity.pdf
 
 ---
-

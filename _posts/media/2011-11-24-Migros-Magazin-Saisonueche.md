@@ -1,5 +1,6 @@
 ---
 category: media
+layout: media
 
 tags:
 - Migros Magazin
@@ -12,4 +13,3 @@ documents:
 - 2011_MM_43_saisonkueche.pdf
 
 ---
-

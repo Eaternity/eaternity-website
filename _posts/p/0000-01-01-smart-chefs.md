@@ -1,9 +1,9 @@
 ---
 layout: default
-name: menu-plus
-title:  "Personalrestaurant Wettbewerb"
+name: smart-chefs
+title:  "Smart Chefs Event"
 categories:
-permalink: /menu-plus/
+permalink: /smart-chefs/
 ---
 
 
@@ -20,7 +20,7 @@ permalink: /menu-plus/
 		<div class="col-xs-12 col-sm-offset-3 col-sm-6 text-center">
 
 
-        <img class="responsive" src="/img/case-study/menu-plus/Menu_plus-Wettbewerb_large.png" />
+        <!-- <img class="responsive" src="/img/case-study/smart-chefs/Menu_plus-Wettbewerb_large.png" /> -->
 
 <p class="teaserText">
 			</p>
@@ -29,7 +29,7 @@ permalink: /menu-plus/
 
     <div class="row small-push-top small-push-bottom">
       <div class="col-xs-10 col-sm-offset-2 col-xs-offset-1 col-sm-8">
-        <img class="responsive" src="/img/case-study/menu-plus/cover.jpg" />
+        <img class="responsive" src="/img/case-study/smart-chefs/cover.jpg" />
       </div>
     </div>
 </div>

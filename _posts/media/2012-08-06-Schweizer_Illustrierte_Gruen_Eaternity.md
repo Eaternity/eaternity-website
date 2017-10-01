@@ -1,5 +1,6 @@
 ---
 category: media
+layout: media
 
 tags:
 - Prix Nature
@@ -12,5 +13,3 @@ documents:
 - grl_2012-08-06-1.pdf
 
 ---
-
-

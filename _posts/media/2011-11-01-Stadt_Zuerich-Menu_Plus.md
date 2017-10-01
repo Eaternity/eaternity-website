@@ -1,17 +1,15 @@
 ---
 category: media
-
-published: false
+layout: media
 
 tags:
 - Stadt Zuerich
 
-title: Schweizer illustrieren ihr gruenes Engagement
+title: Menu Plus der Stadt Zürich
 
-media-title: Schweizer_Illustrierte
+media-title: Stadt Zürich
 
 documents:
 - LAY_cafeteria_folder.pdf
 
 ---
-
