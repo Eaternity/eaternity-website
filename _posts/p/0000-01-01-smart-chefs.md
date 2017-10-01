@@ -18,7 +18,7 @@ permalink: /smart-chefs/
 <div class="container">
 	<div class="row push-top push-bottom">
 		<div class="col-xs-12 col-sm-offset-3 col-sm-6 text-center">
-
+      <h2>Documentation coming soon</h2>
 
         <!-- <img class="responsive" src="/img/case-study/smart-chefs/Menu_plus-Wettbewerb_large.png" /> -->
 
