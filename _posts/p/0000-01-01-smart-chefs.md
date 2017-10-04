@@ -7,7 +7,7 @@ permalink: /smart-chefs/
 ---
 
 
-<meta http-equiv="refresh" content="0; URL=http://www.eaternity.org/blog/smart-chefs-event/">
+<meta http-equiv="refresh" content="0; URL=http://www.eaternity.org/blog/smart-chefs-event">
 
 <div class="bgDarkBlue ">
   <div class="container">
