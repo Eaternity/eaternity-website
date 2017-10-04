@@ -37,11 +37,9 @@ Nach den Themen Gesund, Klima und Umwelt haben 3 Chefköche ihre Künsten am Eve
 Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Ausblick über die Möglichkeiten der zukünftigen Eaternity App zu bekommen, klicken Sie rein!
 
 
-
-
 <em style="font-weight: bold;">**Thema Klima: Chefkoch Samuel Stoll**</em>
-<br />
 
+<br />
 
 [Kürbis-Limonen-Antipasti mit gerösteten Mandeln und Salbei. Dazu Parmesanspickel. - Gut fürs Klima][klima-good] - Lokal, saisonal, knackig.
 
@@ -61,12 +59,11 @@ Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Aus
 
 * Die Kastanie kommt mit dem Schiff und trägt somit kaum zur Klimabilanz bei.
 
-
 <br />
 
 <em style="font-weight: bold;">**Thema Gesundheit: Chefkoch Marco Gaisser**</em>
-<br />
 
+<br />
 
 [Die Kunst des Kürbis  - Gesund][health-good] - Viel Gemüse, ein würziger Vollkorncracker und Kürbiskerne unterstützen eine Ernährung die das Risiko auf Krankheiten verringert.
 
@@ -76,8 +73,8 @@ Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Aus
 
 * Es ist gut, dass nur geringe Mengen an Salz und kein verarbeitetes Fleisch verwendet wurde.
 
-
 <br />
+
 [Ciabatta Cracker mit Rinderfilet Carpaccio - Problematisch][health-bad] - Weiss- statt Vollkornbrot, wenig Gemüse und Nüsse sowie rotes Fleisch tragen zu einem Lebensstil bei die das Risiko auf Lebensstil-Krankheiten vergrössert.
 
 * Das Ciabatta wurde aus Weissmehl hergestellt und enthält kein Vollkornmehl. Generell sind nur wenig Gemüse, Nüsse und Früchte enthalten.
@@ -86,14 +83,11 @@ Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Aus
 
 * Das Häppchen enthält mehr Salz als empfohlen.
 
-
 <br />
-
-
 
 <em style="font-weight: bold;">**Thema Bio: Chefkoch Andi Handke (http://andihandke.ch)**</em>
-<br />
 
+<br />
 
 [Slow Grow Wurzelgemüse auf Gemeinschaftsbrot, mit Alpbutter vom Breitenboden - Gut für die Umwelt][bio-good] - Lokal, saisonal, Alpbutter produziert mit hohen Tierwohl-Standard, Weizen aus kontrollierter Produktion.
 
@@ -114,8 +108,6 @@ Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Aus
 * Der Verbrauch an knappem Wasser ist erhöht aber im akzeptablen Bereich. Die Bewässerung der Erdnüsse verbraucht am meisten knappes Wasser, denn sie werden meist in trockenen Gebieten angebaut.
 
 * Im Winter haben wir einen Zielkonflikt für Tomaten: Spanische Tomaten sind besser fürs Klima aber verbrauchen mehr knappes Wasser als Schweizer Tomaten.
-
-
 
 <br />
 
