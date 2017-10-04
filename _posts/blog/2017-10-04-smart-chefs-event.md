@@ -34,7 +34,6 @@ Wichtige Ankündigung am Event: Aufbauend auf unseren Studienergebnissen gibt es
 ### Die Smart-Chef Pioniere
 Nach den Zielen: "gesünder", "klimafreundlicher" und "gut für die Umwelt" haben 3 Chefköche ihre Handwerk an den uns von [Blanco Professional][blanco] bereitgestellten Kochstationen am Event aufgezeigt. Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Ausblick über die Möglichkeiten der zukünftigen Eaternity App zu bekommen, können Sie die Menus für eine Vorschau herunterladen:
 
-
 <em style="font-weight: bold;">**Thema Klima: Chefkoch Samuel Stoll**</em>
 
 [Kürbis-Limonen-Antipasti mit gerösteten Mandeln und Salbei. Dazu Parmesanspickel. - Gut fürs Klima][klima-good] - Lokal, saisonal, knackig.
@@ -46,7 +45,6 @@ Nach den Zielen: "gesünder", "klimafreundlicher" und "gut für die Umwelt" habe
 * Geringe Mengen an Käse sind klimaverträglich. Prinzipiell gilt: je mehr pflanzlich desto besser.
 
 <br />
-
 [Mango-Wasserkastanien-Salat mit Chili und Koriander. Dazu sautierte Crevetten. - Klimaschädlich][klima-bad] - Exotisch, eingeflogen, Zucht-Crevetten.
 
 * Die Mango und die frischen Kräuter wurden eingeflogen und verursachen darum hohe CO₂ Emissionen.
@@ -68,7 +66,6 @@ Nach den Zielen: "gesünder", "klimafreundlicher" und "gut für die Umwelt" habe
 * Es ist gut, dass nur geringe Mengen an Salz und kein verarbeitetes Fleisch verwendet wurde.
 
 <br />
-
 [Ciabatta Cracker mit Rinderfilet Carpaccio - Problematisch][health-bad] - Weiss- statt Vollkornbrot, wenig Gemüse und Nüsse sowie rotes Fleisch tragen zu einem Lebensstil bei die das Risiko auf Lebensstil-Krankheiten vergrössert.
 
 * Das Ciabatta wurde aus Weissmehl hergestellt und enthält kein Vollkornmehl. Generell sind nur wenig Gemüse, Nüsse und Früchte enthalten.
@@ -79,7 +76,7 @@ Nach den Zielen: "gesünder", "klimafreundlicher" und "gut für die Umwelt" habe
 
 <br />
 
-<em style="font-weight: bold;">**Thema Bio: Chefkoch Andi Handke (http://andihandke.ch)**</em>
+<em style="font-weight: bold;">**Thema Bio: Chefkoch [Andi Handke][hanke]**</em>
 
 [Slow Grow Wurzelgemüse auf Gemeinschaftsbrot, mit Alpbutter vom Breitenboden - Gut für die Umwelt][bio-good] - Lokal, saisonal, Alpbutter produziert mit hohen Tierwohl-Standard, Weizen aus kontrollierter Produktion.
 
@@ -92,7 +89,6 @@ Nach den Zielen: "gesünder", "klimafreundlicher" und "gut für die Umwelt" habe
 * Das Gemeinschaftsbrot verwendet Weizen mit kontrollierter Herkunft und garantiert so eine gute Anbauweise.
 
 <br />
-
 [Toast mit Tomaten, afrikanischen Kräuter und Margarine - Weniger gut für die Umwelt][bio-bad] - Gut fürs Klima aber Tomaten aus Spanien und Erdnüsse verbrauchen knappes Wasser und nicht zertifizierte Margarine mit Palmöl verursacht Abholzung von Tropenwälder.
 
 * Die Margarine enthält nicht-zertifiziertes Palmöl und bedroht unsere noch bestehenden Regenwälder.
@@ -121,6 +117,7 @@ Die Ergebnisse zu Gesundheit, Bio und Klima werden in der Publikation [170922-Sm
 Pressemitteilung zum Event: [2017-10-05_Eaternity-Medienmitteilung-Versand.pdf][presse]
 
 
+[hanke]:http://andihandke.ch
 
 [blanco]:http://www.blanco-professional.com
 
