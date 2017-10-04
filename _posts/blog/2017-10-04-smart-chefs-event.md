@@ -30,32 +30,83 @@ Wenn alle in der Schweiz 3x pro Woche klimafreundlich essen wurden, hätten wir 
 ### Weiter geht’s mit dem «Eaternity Awards»
 Wichtiger Ankündigung am Event aufbauend auf unsere Studienergebnisse ist die Verleihung des ersten <<Eaternity Awards>> im Jahr 2018. Neben Klima werden auch die Nachhaltigkeitsaspekten Gesundheit, Wasserknappheit, Tierwohl und Tropenwaldschutz berücksichtigt. Anfang 2018 können Restaurants mit dem Eaternity App nicht nur ihr generelles Restaurant- und Kostenmanagement optimieren, sondern auch die Nachhaltigkeit. Ebenso wird im öffentlichen App die Ermittlung von Gesundheit, Wasserknappheit sowie Klima-Impact von Menüs jeder zur Verfügung stehen.
 
+![scale](/assets/smart-chefs/illustration.png "App Illustration Menu")
+
 ### Die Smart-Chef Pioniere
 Nach den Themen Gesund, Klima und Umwelt haben 3 Chefköche ihre Künsten am Event gezeigt.
 Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Ausblick über die Möglichkeiten der zukünftigen Eaternity App zu bekommen, klicken Sie rein!
 
 
-![scale](/assets/smart-chefs/illustration.png "App Illustration Menu")
 
-Chefkoch Andi Handke
 
-* [Karotten-Pastinaken-Creme - gesund, klima- und umweltfreundlich][bio-good]
-* [Tomaten-Bruschetta - nicht gut für die Umwelt][bio-bad]
+<em style="font-weight: bold;">**Thema Bio: Chefkoch Andi Handke**</em>
+
+[Slow Grow Wurzelgemüse auf Gemeinschaftsbrot, mit Alpbutter vom Breitenboden - gesund, klima- und umweltfreundlich][bio-good]
+
+* Lokales und saisonales Wurzelgemüse sind köstlich und eine exzellente Wahl für die Umwelt und die Gesundheit.
+
+* Der Alpbutter steht für eine tierfreundliche Haltung, da die Tiere viel Zeit auf der Hochweide verbringen. Es wurde kein wertvoller Wald gerodet.
+
+* Durch den Kauf von Bio Produkten setzt man sich für eine langfristig nachhaltige Landwirtschaft ein.
+
+* Das Gemeinschaftsbrot verwendet Weizen mit kontrollierter Herkunft und garantiert so eine gute Anbauweise.
+<br />
+
+[Toast mit Tomaten, afrikanischen Kräuter und Margarine - nicht gut für die Umwelt][bio-bad]
+
+* Die Margarine enthält nicht-zertifiziertes Palmöl und bedroht unsere noch bestehenden Regenwälder.
+
+* Der Verbrauch an knappem Wasser ist erhöht aber im akzeptablen Bereich. Die Bewässerung der Erdnüsse verbraucht am meisten knappes Wasser, denn sie werden meist in trockenen Gebieten angebaut
+
+* Im Winter haben wir einen Zielkonflikt für Tomaten: Spanische Tomaten sind besser fürs Klima aber verbrauchen mehr knappes Wasser als Schweizer Tomaten.
+
+
 
 <br />
 
-Chefkoch Samuel Stoll
+<em style="font-weight: bold;">**Thema Klima: Chefkoch Samuel Stoll**</em>
 
-* [Wurzelgemüse mit Parmesan - klimafreundlich][klima-good]
-* [Mango-Garnalen-Dip - klimaschädlich][klima-bad]
+[Kürbis-Limonen-Antipasti mit gerösteten Mandeln und Salbei. Dazu Parmesanspickel. - klimafreundlich][klima-good]
+
+* Lokaler und saisonale Kürbis und Knollensellerie sind köstlich und haben eine Top Klima – Bilanz. Sie wurden im Freiland produziert und benötigen kein beheiztes Gewächshaus
+
+* Keine der Zutaten wurden mit dem Flugzeug importiert
+
+* Geringe Mengen an Käse sind klimaverträglich. Prinzipiell gilt: je mehr pflanzlich desto besser.
+
+<br />
+
+[Mango-Wasserkastanien-Salat mit Chili und Koriander. Dazu sautierte Crevetten. - klimaschädlich][klima-bad]
+
+* Die Mango und die frischen Kräuter wurden eingeflogen und verursachen darum hohe CO₂ Emissionen.
+
+* Crevetten aus der Zucht verursachen grosse CO₂ – Emissionen. Vor allem die Futterproduktion trägt zum grossen Fussabdruck bei.
+
+* Die Kastanie kommt mit dem Schiff und trägt somit kaum zur Klimabilanz bei.
 
 
 <br />
 
-Chefkoch Marco Gaisser
+<em style="font-weight: bold;">**Thema Gesundheit: Chefkoch Marco Gaisser**</em>
 
-* [Kürbis-Carpaccio  - gesund, klima- und umweltfreundlich][health-good]
-* [Rindfleisch - ungesund, klima][health-bad]
+[Die Kunst des Kürbis  - gesund, klima- und umweltfreundlich][health-good]
+
+* Der Kürbis und die Pilze sorgen für einen grossen Gemüseanteil. Der Cracker wurde aus Vollkornmehl hergestellt
+
+* Kürbiskerne sorgen dafür, dass genügend Nüsse und Kerne im Menu vorhanden sind
+
+* Es ist gut, dass nur geringe Mengen an Salz und kein verarbeitetes Fleisch verwendet wurde.
+
+
+<br />
+[Ciabatta Cracker mit Rinderfilet Carpaccio - ungesund, klima][health-bad]
+
+* Das Ciabatta wurde aus Weissmehl hergestellt und enthält kein Vollkornmehl. Generell sind nur wenig Gemüse, Nüsse und Früchte enthalten.
+
+* Rotes Fleisch sollte nur in geringen Massen genossen werden
+
+* Das Häppchen enthält mehr Salz als empfohlen
+
 
 <br />
 
@@ -64,11 +115,14 @@ Chefkoch Marco Gaisser
 
 
 ### Studienergebnisse
-Lediglich auf Bio-Produkte zu setzen, greift um das Klima zu retten zu kurz, da durch diese Produktionsweise kaum eine wirkungsvolle CO2-Reduktion resultiert. Für eine aussagekräftige Gesamtbeurteilung ist der Einbezug weiterer Faktoren wie Tierwohl, Waldrodungen, Anbauart und Wasserressourcen relevant. Neben dem Klima-Impact können jetzt aktiv Synergien angestrebt werden zwischen Klima, Wasserknappheit, Tierwohl und Tropenwaldschutz. Die Ergebnisse dazu finden sich [hier][organic].
+Lediglich auf Bio-Produkte zu setzen, greift um das Klima zu retten zu kurz, da durch diese Produktionsweise kaum eine wirkungsvolle CO₂-Reduktion resultiert. Für eine aussagekräftige Gesamtbeurteilung ist der Einbezug weiterer Faktoren wie Tierwohl, Waldrodungen, Anbauart und Wasserressourcen relevant. Neben dem Klima-Impact können jetzt aktiv Synergien angestrebt werden zwischen Klima, Wasserknappheit, Tierwohl und Tropenwaldschutz. Die Ergebnisse dazu finden sich [hier][organic].
 
 Durch eine falsche Ernährung verlieren wir weltweit insgesamt 229 Millionen Lebensjahre. In unserer Gesellschaft ist nicht Mangelernährung das brennende Thema, sondern falsche Ernährungsgewohnheiten die zu Krankheiten wie Fettleibigkeit, Diabetes, Herz- Kreislaufbeschwerden und Krebs führen. Mit dem von Eaternity entwickelten «Vita Score» kann man diesem Risiko entgegenwirken. Dieser baut auf den Ergebnissen des [Global Burden of Desease Projekts][gbd] und deren [ernährungsbedingten Risikofaktoren][health] auf.
 
 Alle Ergebnisse zusammengefasst finden Sie [hier][summary].
+
+
+<iframe width="560" height="410" src="https://www.youtube.com/embed/2ufuKUGVzb4" frameborder="0" allowfullscreen></iframe>
 
 
 [bio-bad]:http://www.eaternity.org/assets/smart-chefs/Illustration-Organic-Bad.pdf
