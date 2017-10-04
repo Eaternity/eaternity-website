@@ -43,8 +43,9 @@ Chefkoch Andi Handke
 
 Chefkoch Samuel Stoll
 
-* [Mango-Garnalen-Dip - klimaschädlich][klima-good]
-* [Wurzelgemüse mit Parmesan - klimafreundlich][klima-bad]
+* [Wurzelgemüse mit Parmesan - klimafreundlich][klima-good]
+* [Mango-Garnalen-Dip - klimaschädlich][klima-bad]
+
 
 <br />
 
