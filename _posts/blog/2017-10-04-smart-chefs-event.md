@@ -39,38 +39,11 @@ Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Aus
 
 
 
-<em style="font-weight: bold;">**Thema Bio: Chefkoch Andi Handke**</em>
-<br />
-
-
-[Slow Grow Wurzelgemüse auf Gemeinschaftsbrot, mit Alpbutter vom Breitenboden - gesund, klima- und umweltfreundlich][bio-good]
-
-* Lokales und saisonales Wurzelgemüse sind köstlich und eine exzellente Wahl für die Umwelt und die Gesundheit.
-
-* Der Alpbutter steht für eine tierfreundliche Haltung, da die Tiere viel Zeit auf der Hochweide verbringen. Es wurde kein wertvoller Wald gerodet.
-
-* Durch den Kauf von Bio Produkten setzt man sich für eine langfristig nachhaltige Landwirtschaft ein.
-
-* Das Gemeinschaftsbrot verwendet Weizen mit kontrollierter Herkunft und garantiert so eine gute Anbauweise.
-<br />
-
-[Toast mit Tomaten, afrikanischen Kräuter und Margarine - nicht gut für die Umwelt][bio-bad]
-
-* Die Margarine enthält nicht-zertifiziertes Palmöl und bedroht unsere noch bestehenden Regenwälder.
-
-* Der Verbrauch an knappem Wasser ist erhöht aber im akzeptablen Bereich. Die Bewässerung der Erdnüsse verbraucht am meisten knappes Wasser, denn sie werden meist in trockenen Gebieten angebaut
-
-* Im Winter haben wir einen Zielkonflikt für Tomaten: Spanische Tomaten sind besser fürs Klima aber verbrauchen mehr knappes Wasser als Schweizer Tomaten.
-
-
-
-<br />
-
 <em style="font-weight: bold;">**Thema Klima: Chefkoch Samuel Stoll**</em>
 <br />
 
 
-[Kürbis-Limonen-Antipasti mit gerösteten Mandeln und Salbei. Dazu Parmesanspickel. - klimafreundlich][klima-good]
+[Kürbis-Limonen-Antipasti mit gerösteten Mandeln und Salbei. Dazu Parmesanspickel. - Gut fürs Klima][klima-good] - Lokal, saisonal, knackig.
 
 * Lokaler und saisonale Kürbis und Knollensellerie sind köstlich und haben eine Top Klima – Bilanz. Sie wurden im Freiland produziert und benötigen kein beheiztes Gewächshaus
 
@@ -80,7 +53,7 @@ Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Aus
 
 <br />
 
-[Mango-Wasserkastanien-Salat mit Chili und Koriander. Dazu sautierte Crevetten. - klimaschädlich][klima-bad]
+[Mango-Wasserkastanien-Salat mit Chili und Koriander. Dazu sautierte Crevetten. - Klimaschädlich][klima-bad] - Exotisch, eingeflogen, Zucht-Crevetten.
 
 * Die Mango und die frischen Kräuter wurden eingeflogen und verursachen darum hohe CO₂ Emissionen.
 
@@ -95,23 +68,53 @@ Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Aus
 <br />
 
 
-[Die Kunst des Kürbis  - gesund, klima- und umweltfreundlich][health-good]
+[Die Kunst des Kürbis  - Gesund][health-good] - Viel Gemüse, ein würziger Vollkorncracker und Kürbiskerne unterstützen eine Ernährung die das Risiko auf Krankheiten verringert.
 
-* Der Kürbis und die Pilze sorgen für einen grossen Gemüseanteil. Der Cracker wurde aus Vollkornmehl hergestellt
+* Der Kürbis und die Pilze sorgen für einen grossen Gemüseanteil. Der Cracker wurde aus Vollkornmehl hergestellt.
 
-* Kürbiskerne sorgen dafür, dass genügend Nüsse und Kerne im Menu vorhanden sind
+* Kürbiskerne sorgen dafür, dass genügend Nüsse und Kerne im Menu vorhanden sind.
 
 * Es ist gut, dass nur geringe Mengen an Salz und kein verarbeitetes Fleisch verwendet wurde.
 
 
 <br />
-[Ciabatta Cracker mit Rinderfilet Carpaccio - ungesund, klima][health-bad]
+[Ciabatta Cracker mit Rinderfilet Carpaccio - Problematisch][health-bad] - Weiss- statt Vollkornbrot, wenig Gemüse und Nüsse sowie rotes Fleisch tragen zu einem Lebensstil bei die das Risiko auf Lebensstil-Krankheiten vergrössert.
 
 * Das Ciabatta wurde aus Weissmehl hergestellt und enthält kein Vollkornmehl. Generell sind nur wenig Gemüse, Nüsse und Früchte enthalten.
 
-* Rotes Fleisch sollte nur in geringen Massen genossen werden
+* Rotes Fleisch sollte nur in geringen Massen genossen werden.
 
-* Das Häppchen enthält mehr Salz als empfohlen
+* Das Häppchen enthält mehr Salz als empfohlen.
+
+
+<br />
+
+
+
+<em style="font-weight: bold;">**Thema Bio: Chefkoch Andi Handke (http://andihandke.ch)**</em>
+<br />
+
+
+[Slow Grow Wurzelgemüse auf Gemeinschaftsbrot, mit Alpbutter vom Breitenboden - Gut für die Umwelt][bio-good] - Lokal, saisonal, Alpbutter produziert mit hohen Tierwohl-Standard, Weizen aus kontrollierter Produktion.
+
+* Lokales und saisonales Wurzelgemüse sind köstlich und eine exzellente Wahl für die Umwelt und die Gesundheit.
+
+* Der Alpbutter steht für eine tierfreundliche Haltung, da die Tiere viel Zeit auf der Hochweide verbringen. Es wurde kein wertvoller Wald gerodet.
+
+* Durch den Kauf von Bio Produkten setzt man sich für eine langfristig nachhaltige Landwirtschaft ein.
+
+* Das Gemeinschaftsbrot verwendet Weizen mit kontrollierter Herkunft und garantiert so eine gute Anbauweise.
+
+<br />
+
+[Toast mit Tomaten, afrikanischen Kräuter und Margarine - Weniger gut für die Umwelt][bio-bad] - Gut fürs Klima aber Tomaten aus Spanien und Erdnüsse verbrauchen knappes Wasser und nicht zertifizierte Margarine mit Palmöl verursacht Abholzung von Tropenwälder.
+
+* Die Margarine enthält nicht-zertifiziertes Palmöl und bedroht unsere noch bestehenden Regenwälder.
+
+* Der Verbrauch an knappem Wasser ist erhöht aber im akzeptablen Bereich. Die Bewässerung der Erdnüsse verbraucht am meisten knappes Wasser, denn sie werden meist in trockenen Gebieten angebaut.
+
+* Im Winter haben wir einen Zielkonflikt für Tomaten: Spanische Tomaten sind besser fürs Klima aber verbrauchen mehr knappes Wasser als Schweizer Tomaten.
+
 
 
 <br />
