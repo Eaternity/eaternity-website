@@ -34,6 +34,9 @@ Wichtiger Ankündigung am Event aufbauend auf unsere Studienergebnisse ist die V
 Nach den Themen Gesund, Klima und Umwelt haben 3 Chefköche ihre Künsten am Event gezeigt.
 Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Ausblick über die Möglichkeiten der zukünftigen Eaternity App zu bekommen, klicken Sie rein!
 
+
+![scale](/assets/smart-chefs/illustration.png "App Illustration Menu")
+
 Chefkoch Andi Handke
 
 * [Karotten-Pastinaken-Creme - gesund, klima- und umweltfreundlich][bio-good]
@@ -55,6 +58,10 @@ Chefkoch Marco Gaisser
 * [Rindfleisch - ungesund, klima][health-bad]
 
 <br />
+
+
+[![pub](/assets/smart-chefs/cover.jpg "Publication")][summary]
+
 
 ### Studienergebnisse
 Lediglich auf Bio-Produkte zu setzen, greift um das Klima zu retten zu kurz, da durch diese Produktionsweise kaum eine wirkungsvolle CO2-Reduktion resultiert. Für eine aussagekräftige Gesamtbeurteilung ist der Einbezug weiterer Faktoren wie Tierwohl, Waldrodungen, Anbauart und Wasserressourcen relevant. Neben dem Klima-Impact können jetzt aktiv Synergien angestrebt werden zwischen Klima, Wasserknappheit, Tierwohl und Tropenwaldschutz. Die Ergebnisse dazu finden sich [hier][organic].
