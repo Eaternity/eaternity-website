@@ -103,16 +103,12 @@ permalink: /about/
       </div>
     </div>
 
+
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/aurelianjaggi.jpg">
-        <h3>Aurelian Jaggi</h3>
-        <p>Founder & Head of Technology</p>
-        <p>
-          +41 76 328 18 36<br />
-          <a href="mailto:ajaggi@eaternity.ch">ajaggi@eaternity.ch</a><br />
-          <a href="https://twitter.com/AurelianJaggi">@AurelianJaggi</a>
-        </p>
+        <img class="responsive round" src="/img/idea-vision/chamer.jpg">
+        <h3>Carol Hamer, PhD</h3>
+        <p>Head of Technology</p>
       </div>
     </div>
 
@@ -218,9 +214,9 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/chamer.jpg">
-        <h3>Carol Hamer, PhD</h3>
-        <p>Software Developer</p>
+        <img class="responsive round" src="/img/idea-vision/aurelianjaggi.jpg">
+        <h3>Aurelian Jaggi</h3>
+        <p>Founder & Software Developer</p>
       </div>
     </div>
 
