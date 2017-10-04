@@ -71,13 +71,12 @@ Durch eine falsche Ernährung verlieren wir weltweit insgesamt 229 Millionen Leb
 Alle Ergebnisse zusammengefasst finden Sie [hier][summary].
 
 
-
-[bio-good]:http://www.eaternity.org/assets/smart-chefs/Illustration-Organic-Good.pdf
 [bio-bad]:http://www.eaternity.org/assets/smart-chefs/Illustration-Organic-Bad.pdf
-[klima-good]:http://www.eaternity.org/assets/smart-chefs/Illustration-Klima-Bad.pdf
-[klima-bad]:http://www.eaternity.org/assets/smart-chefs/Illustration-Klima-Good.pdf
-[health-good]:http://www.eaternity.org/assets/smart-chefs/Illustration-Health-Bad.pdf
-[health-bad]:http://www.eaternity.org/assets/smart-chefs/Illustration-Health-Good.pdf
+[bio-good]:http://www.eaternity.org/assets/smart-chefs/Illustration-Organic-Good.pdf
+[klima-bad]:http://www.eaternity.org/assets/smart-chefs/Illustration-Klima-Bad.pdf
+[klima-good]:http://www.eaternity.org/assets/smart-chefs/Illustration-Klima-Good.pdf
+[health-bad]:http://www.eaternity.org/assets/smart-chefs/Illustration-Health-Bad.pdf
+[health-good]:http://www.eaternity.org/assets/smart-chefs/Illustration-Health-Good.pdf
 
 [health]:http://www.eaternity.org/assets/smart-chefs/Dietary-Risk-Factors.pdf
 [organic]:http://www.eaternity.org/assets/smart-chefs/170927-Eaternity-fact_sheet_booklet.pdf
