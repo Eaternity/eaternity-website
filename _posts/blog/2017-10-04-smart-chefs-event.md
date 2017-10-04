@@ -40,6 +40,8 @@ Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Aus
 
 
 <em style="font-weight: bold;">**Thema Bio: Chefkoch Andi Handke**</em>
+<br />
+
 
 [Slow Grow Wurzelgemüse auf Gemeinschaftsbrot, mit Alpbutter vom Breitenboden - gesund, klima- und umweltfreundlich][bio-good]
 
@@ -65,6 +67,8 @@ Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Aus
 <br />
 
 <em style="font-weight: bold;">**Thema Klima: Chefkoch Samuel Stoll**</em>
+<br />
+
 
 [Kürbis-Limonen-Antipasti mit gerösteten Mandeln und Salbei. Dazu Parmesanspickel. - klimafreundlich][klima-good]
 
@@ -88,6 +92,8 @@ Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Aus
 <br />
 
 <em style="font-weight: bold;">**Thema Gesundheit: Chefkoch Marco Gaisser**</em>
+<br />
+
 
 [Die Kunst des Kürbis  - gesund, klima- und umweltfreundlich][health-good]
 
