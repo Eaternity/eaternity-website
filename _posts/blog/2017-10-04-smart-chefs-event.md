@@ -13,10 +13,9 @@ blog-image: 2017-10-04-smart-chefs.jpg
 image: 2017-10-04-smart-chefs.jpg
 tags:
 - press
-- smart-chefs
 
 ---
- 
+
 <em style="font-weight: bold;">**Am 28. September 2017 haben wir im Rahmen einer interaktiven Impuls-Veranstaltung über unsere neuesten Erkenntnisse in den Bereichen Klimaschutz, Gesundheit und umweltfreundliche Landwirtschaft informiert. Am Event konnten wir unsere 2 grössten Lieben mit euch teilen. Was uns verbindet bei Eaternity ist gutes Essen und stichhaltige Daten. Zwei Welten lassen wir zusammenschmelzen die eigentlich nicht getrennt sein sollten: die Wissenschaft und die Gastronomie.**</em>
 
 Insgesamt konnte man vor Ort 3 gesunde, klima- und umweltfreundliche Aperitifen sowie ihre Gegenstücke degustieren, bereitgestellt von unseren 3 Chefköche Andi Handke, Marco Geisser und Samuel Stoll.  
