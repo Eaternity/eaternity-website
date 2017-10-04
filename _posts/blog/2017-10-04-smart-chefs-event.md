@@ -16,30 +16,26 @@ tags:
 
 ---
 
-<em style="font-weight: bold;">**Am 28. September 2017 haben wir im Rahmen einer interaktiven Impuls-Veranstaltung über unsere neuesten Erkenntnisse in den Bereichen Klimaschutz, Gesundheit und umweltfreundliche Landwirtschaft informiert. Am Event konnten wir unsere 2 grössten Lieben mit euch teilen. Was uns verbindet bei Eaternity ist gutes Essen und stichhaltige Daten. Zwei Welten lassen wir zusammenschmelzen die eigentlich nicht getrennt sein sollten: die Wissenschaft und die Gastronomie.**</em>
+<em style="font-weight: bold;">**Am 28. September 2017 haben wir im Rahmen einer interaktiven Impuls-Veranstaltung über unsere neuesten Erkenntnisse in den Bereichen Klimaschutz, Gesundheit und umweltfreundliche Landwirtschaft informiert. Am Event konnten wir unsere 2 grössten Lieben mit euch teilen. Was uns verbindet bei Eaternity ist das gute Essen und die stichhaltigen Daten. Zwei Welten lassen wir zusammenkommen die eigentlich nicht getrennt sein sollten: die Wissenschaft und die Gastronomie.**</em>
 
-Insgesamt konnte man vor Ort 3 gesunde, klima- und umweltfreundliche Aperitifen sowie ihre Gegenstücke degustieren, bereitgestellt von unseren 3 Chefköche Andi Handke, Marco Geisser und Samuel Stoll.  
+Insgesamt konnte man vor Ort 3 gesunde, klima- und umweltfreundliche Aperitifen sowie ihre Gegenstücke degustieren, bereitgestellt von unseren 3 Chefköchen: Andi Handke, Marco Geisser und Samuel Stoll.  
 
-Konsum- und Trendforscherin Mirjam Hauser hat uns einen spannend Ausblick auf unser Essverhalten im Jahr 2030 präsentiert. Digitale Hoffnungen und der Wünsch nach mehr Verantwortung, jedoch auch reale Nähe konnte man alle gleichzeitig am Event erleben.
+Die Konsum- und Trendforscherin Mirjam Hauser gab uns einen spannend Ausblick auf unser Essverhalten im Jahr 2030. So gab es digitale Hoffnungen und den Wunsch nach mehr Verantwortung, nicht zu kurz kam aber auch die Realität, so konnte man einen Vorgeschmack in nächster Nähe direkt am Event erleben.
 
-Mit einem Quiz und anregende Panel-Diskussion konnten wir das gesamte gemütlich Verdauen. Die gute Nachricht: Der Wandel zu mehr Nachhaltigkeit in unserem Ernährungsverhalten ist einfach, reduziert den Ausstoss der schädlichen Treibhausgase in die Erdatmosphäre und bietet zudem einen echten Mehrwert für unsere Gesundheit.
+Mit einem Quiz und anregenden Panel-Diskussion wurde das Wissen gemütlich Verdaut. Die gute Nachricht: Der Wandel zu mehr Nachhaltigkeit in unserem Ernährungsverhalten ist einfacher umzusetzen als Gedacht, er reduziert den Ausstoss der schädlichen Treibhausgase in die Erdatmosphäre und bietet zudem einen echten Mehrwert für unsere Gesundheit.
 
-Gerade die Gastronomie spiel eine wichtige Rolle und kann einen grossen Beitrag liefern uns zu helfen gesunder und umweltfreundlicher zu werden.
-Wenn alle in der Schweiz 3x pro Woche klimafreundlich essen wurden, hätten wir den gleichen Impact wie 750.000 weniger Auto’s auf der Strasse.
+Gerade die Gastronomie spiel eine wichtige Rolle und kann einen grossen Beitrag liefern uns zu helfen gesünder und umweltfreundlicher zu werden. Wenn alle in der Schweiz 3x pro Woche klimafreundlich essen wurden, hätten wir den gleichen Impact wie 750.000 weniger Auto’s auf der Strasse.
 
-### Weiter geht’s mit dem «Eaternity Awards»
-Wichtiger Ankündigung am Event aufbauend auf unsere Studienergebnisse ist die Verleihung des ersten <<Eaternity Awards>> im Jahr 2018. Neben Klima werden auch die Nachhaltigkeitsaspekten Gesundheit, Wasserknappheit, Tierwohl und Tropenwaldschutz berücksichtigt. Anfang 2018 können Restaurants mit dem Eaternity App nicht nur ihr generelles Restaurant- und Kostenmanagement optimieren, sondern auch die Nachhaltigkeit. Ebenso wird im öffentlichen App die Ermittlung von Gesundheit, Wasserknappheit sowie Klima-Impact von Menüs jeder zur Verfügung stehen.
+### Weiter geht’s mit dem «Eaternity Award»
+Wichtige Ankündigung am Event: Aufbauend auf unseren Studienergebnissen gibt es die Verleihung des ersten <<Eaternity Award für Restaurants>> im Jahr 2018. Neben der Klima-Bilanz werden nun auch die Nachhaltigkeitsaspekte Gesundheit, Wasserknappheit, Tierwohl und Tropenwaldschutz berücksichtigt. Anfangs 2018 können Restaurants mit dem Eaternity App ihre  Nachhaltigkeit nach den neuen Dimensionen direkt messen. So wird auch im öffentlichen App die Ermittlung von Gesundheit, Wasserknappheit sowie Klima-Impact für jedes Menüs zur Verfügung stehen.
 
 ![scale](/assets/smart-chefs/illustration.png "App Illustration Menu")
 
 ### Die Smart-Chef Pioniere
-Nach den Themen Gesund, Klima und Umwelt haben 3 Chefköche ihre Künsten am Event gezeigt.
-Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Ausblick über die Möglichkeiten der zukünftigen Eaternity App zu bekommen, klicken Sie rein!
+Nach den Zielen: "gesünder", "klimafreundlicher" und "gut für die Umwelt" haben 3 Chefköche ihre Handwerk an den uns von [Blanco Professional][blanco] bereitgestellten Kochstationen am Event aufgezeigt. Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Ausblick über die Möglichkeiten der zukünftigen Eaternity App zu bekommen, können Sie die Menus für eine Vorschau herunterladen:
 
 
 <em style="font-weight: bold;">**Thema Klima: Chefkoch Samuel Stoll**</em>
-
-<br />
 
 [Kürbis-Limonen-Antipasti mit gerösteten Mandeln und Salbei. Dazu Parmesanspickel. - Gut fürs Klima][klima-good] - Lokal, saisonal, knackig.
 
@@ -63,8 +59,6 @@ Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Aus
 
 <em style="font-weight: bold;">**Thema Gesundheit: Chefkoch Marco Gaisser**</em>
 
-<br />
-
 [Die Kunst des Kürbis  - Gesund][health-good] - Viel Gemüse, ein würziger Vollkorncracker und Kürbiskerne unterstützen eine Ernährung die das Risiko auf Krankheiten verringert.
 
 * Der Kürbis und die Pilze sorgen für einen grossen Gemüseanteil. Der Cracker wurde aus Vollkornmehl hergestellt.
@@ -86,8 +80,6 @@ Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Aus
 <br />
 
 <em style="font-weight: bold;">**Thema Bio: Chefkoch Andi Handke (http://andihandke.ch)**</em>
-
-<br />
 
 [Slow Grow Wurzelgemüse auf Gemeinschaftsbrot, mit Alpbutter vom Breitenboden - Gut für die Umwelt][bio-good] - Lokal, saisonal, Alpbutter produziert mit hohen Tierwohl-Standard, Weizen aus kontrollierter Produktion.
 
@@ -116,15 +108,21 @@ Für die genaue Umwelt- und Gesundheit-Bewertung der Aperitifen und um einen Aus
 
 
 ### Studienergebnisse
-Lediglich auf Bio-Produkte zu setzen, greift um das Klima zu retten zu kurz, da durch diese Produktionsweise kaum eine wirkungsvolle CO₂-Reduktion resultiert. Für eine aussagekräftige Gesamtbeurteilung ist der Einbezug weiterer Faktoren wie Tierwohl, Waldrodungen, Anbauart und Wasserressourcen relevant. Neben dem Klima-Impact können jetzt aktiv Synergien angestrebt werden zwischen Klima, Wasserknappheit, Tierwohl und Tropenwaldschutz. Die Ergebnisse dazu finden sich [hier][organic].
+Lediglich auf Bio-Produkte zu setzen um das Klima zu retten, greift zu kurz, da diese Produktionsweise kaum eine wirkungsvolle CO₂-Reduktion ergibt. Für eine aussagekräftige Gesamtbeurteilung ist der Einbezug weiterer Faktoren wie Tierwohl, Waldrodungen, Anbauart und Wasserressourcen relevant. Neben dem Klima-Impact können jetzt aktiv Synergien angestrebt werden zwischen Klima, Wasserknappheit, Tierwohl und Tropenwaldschutz. Die Ergebnisse zur Studie finden Sie [hier][organic].
 
-Durch eine falsche Ernährung verlieren wir weltweit insgesamt 229 Millionen Lebensjahre. In unserer Gesellschaft ist nicht Mangelernährung das brennende Thema, sondern falsche Ernährungsgewohnheiten die zu Krankheiten wie Fettleibigkeit, Diabetes, Herz- Kreislaufbeschwerden und Krebs führen. Mit dem von Eaternity entwickelten «Vita Score» kann man diesem Risiko entgegenwirken. Dieser baut auf den Ergebnissen des [Global Burden of Desease Projekts][gbd] und deren [ernährungsbedingten Risikofaktoren][health] auf.
+Durch eine ungesunde Ernährung verlieren wir weltweit insgesamt 229 Millionen Lebensjahre. In unserer Gesellschaft sind neben der Mangelernährung unsere falsche Ernährungsgewohnheiten die zu Krankheiten wie Fettleibigkeit, Diabetes, Herz- Kreislaufbeschwerden und Krebs führen das brennende Thema. Mit dem von Eaternity entwickelten «Vita Score» kann man diesem Risiko entgegenwirken. Dieser baut direkt auf den Ergebnissen des [Global Burden of Desease Projekts][gbd] und deren [ernährungsbedingten Risikofaktoren][health] auf und übersetzt diese für die einfache Rezeptur-Zusammenstellung.
 
-Alle Ergebnisse zusammengefasst finden Sie [hier][summary].
+Das Forschungsprojekt wurde ermöglicht durch Engagement Migros, dem Förderfonds der Migros-Gruppe.
+
+### Downloads
+
+Die Ergebnisse zu Gesundheit, Bio und Klima werden in der Publikation [170922-Smart-Chefs-Summary.pdf][summary] zusammengefasst.
+
+Pressemitteilung zum Event: [2017-10-05_Eaternity-Medienmitteilung-Versand.pdf][presse]
 
 
-<iframe width="560" height="410" src="https://www.youtube.com/embed/2ufuKUGVzb4" frameborder="0" allowfullscreen></iframe>
 
+[blanco]:http://www.blanco-professional.com
 
 [bio-bad]:http://www.eaternity.org/assets/smart-chefs/Illustration-Organic-Bad.pdf
 [bio-good]:http://www.eaternity.org/assets/smart-chefs/Illustration-Organic-Good.pdf
@@ -137,5 +135,7 @@ Alle Ergebnisse zusammengefasst finden Sie [hier][summary].
 [organic]:http://www.eaternity.org/assets/smart-chefs/170927-Eaternity-fact_sheet_booklet.pdf
 
 [summary]:http://www.eaternity.org/assets/smart-chefs/170922-Smart-Chefs-Summary.pdf
+
+[presse]:http://www.eaternity.org/assets/smart-chefs/2017-10-05_Eaternity-Medienmitteilung-Versand.pdf
 
 [gbd]:http://www.healthdata.org/gbd
