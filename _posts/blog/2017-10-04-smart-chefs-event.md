@@ -13,6 +13,8 @@ blog-image: 2017-10-04-smart-chefs.jpg
 image: 2017-10-04-smart-chefs.jpg
 tags:
 - press
+- health
+- organic
 
 ---
 
