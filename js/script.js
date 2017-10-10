@@ -1,113 +1,101 @@
-$(document).ready(function(){
-	/*-----------------------------------------------
+$(document).ready(function() {
+  /*-----------------------------------------------
 		Checkboxes
 	-----------------------------------------------*/
-	$('input').iCheck({
-		checkboxClass: 'icheckbox_square-green',
-		radioClass: 'iradio_square-green',
-	});
+  $("input").iCheck({
+    checkboxClass: "icheckbox_square-green",
+    radioClass: "iradio_square-green"
+  });
 
-	/*-----------------------------------------------
+  /*-----------------------------------------------
 		Magnific Popup
 	-----------------------------------------------*/
-	if($('.ajax-popup-link').length){
-		$('.ajax-popup-link').magnificPopup({
-		  type: 'ajax'
-		});
-	}
+  if ($(".ajax-popup-link").length) {
+    $(".ajax-popup-link").magnificPopup({
+      type: "ajax"
+    });
+  }
 
-	if($('.ajax-popup-link-blue-bg').length){
-		$('.ajax-popup-link-blue-bg').magnificPopup({
-		  type: 'ajax',
-		  callbacks: {
-		   markupParse: function(template, values, item) {
-		       template.find('mfp-content').addClass('blue-bg');
-		   }
-		}
-		});
-	}
+  if ($(".ajax-popup-link-blue-bg").length) {
+    $(".ajax-popup-link-blue-bg").magnificPopup({
+      type: "ajax",
+      callbacks: {
+        markupParse: function(template, values, item) {
+          template.find("mfp-content").addClass("blue-bg");
+        }
+      }
+    });
+  }
 
-	/*-----------------------------------------------
+  /*-----------------------------------------------
 		Map
 	-----------------------------------------------*/
-	if($(".map").length){
-		var mapCanvas = $('.map')[0];
-		var mapOptions = {
-		  center: new google.maps.LatLng(47.367664, 8.539774),
-		  zoom: 14,
-		  mapTypeControl: false,
-		  streetViewControl: false,
-		  draggable: false,
-		  scrollwheel: false,
-		  mapTypeId: google.maps.MapTypeId.ROADMAP
-		}
-		var map = new google.maps.Map(mapCanvas, mapOptions)
+  if ($(".map").length) {
+    var mapCanvas = $(".map")[0];
+    var mapOptions = {
+      center: new google.maps.LatLng(47.367664, 8.539774),
+      zoom: 14,
+      mapTypeControl: false,
+      streetViewControl: false,
+      draggable: false,
+      scrollwheel: false,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    };
+    var map = new google.maps.Map(mapCanvas, mapOptions);
 
-		map.set('styles', [
-		  {
-		    "featureType": "water",
-		    "stylers": [
-		      { "color": "#d1d1d1" }
-		    ]
-		  },{
-		    "featureType": "road",
-		    "stylers": [
-		      { "color": "#fefefe" }
-		    ]
-		  },{
-		    "featureType": "landscape",
-		    "stylers": [
-		      { "color": "#ededed" }
-		    ]
-		  },{
-		    "featureType": "poi",
-		    "stylers": [
-		      { "color": "#ededed" }
-		    ]
-		  },{
-		    "featureType": "road.highway",
-		    "stylers": [
-		      { "visibility": "simplified" }
-		    ]
-		  },{
-		    "featureType": "road",
-		    "elementType": "labels.text.fill",
-		    "stylers": [
-		      { "color": "#808080" }
-		    ]
-		  },{
-		    "featureType": "transit.station",
-		    "stylers": [
-		      { "visibility": "off" }
-		    ]
-		  },{
-		    "featureType": "administrative",
-		    "stylers": [
-		      { "color": "#808080" },
-		      { "weight": 0.1 }
-		    ]
-		  } ,{
-		    "featureType": "road",
-		    "elementType": "labels.icon",
-		    "stylers": [
-		      { "visibility": "off" }
-		    ]
-		  },{
-		    "featureType": "poi",
-		    "elementType": "labels.text",
-		    "stylers": [
-		      { "visibility": "off" }
-		    ]
-		  }
-		]);
+    map.set("styles", [
+      {
+        featureType: "water",
+        stylers: [{ color: "#d1d1d1" }]
+      },
+      {
+        featureType: "road",
+        stylers: [{ color: "#fefefe" }]
+      },
+      {
+        featureType: "landscape",
+        stylers: [{ color: "#ededed" }]
+      },
+      {
+        featureType: "poi",
+        stylers: [{ color: "#ededed" }]
+      },
+      {
+        featureType: "road.highway",
+        stylers: [{ visibility: "simplified" }]
+      },
+      {
+        featureType: "road",
+        elementType: "labels.text.fill",
+        stylers: [{ color: "#808080" }]
+      },
+      {
+        featureType: "transit.station",
+        stylers: [{ visibility: "off" }]
+      },
+      {
+        featureType: "administrative",
+        stylers: [{ color: "#808080" }, { weight: 0.1 }]
+      },
+      {
+        featureType: "road",
+        elementType: "labels.icon",
+        stylers: [{ visibility: "off" }]
+      },
+      {
+        featureType: "poi",
+        elementType: "labels.text",
+        stylers: [{ visibility: "off" }]
+      }
+    ]);
 
-
-	  var infoBubble = new InfoBubble({
+    var infoBubble = new InfoBubble({
       map: map,
-      content: "<div class='info'><span class='semiBold'>Eaternity AG</span><br />Bahnhofstr. 3<br />CH-8001 Zürich</div>",
+      content:
+        "<div class='info'><span class='semiBold'>Eaternity AG</span><br />Feldeggstrasse 4<br />CH-8008 Zürich</div>",
       shadowStyle: 0,
       padding: "15px",
-      backgroundColor: '#e7eff1',
+      backgroundColor: "#e7eff1",
       arrowSize: 15,
       borderRadius: 0,
       minHeight: 120,
@@ -115,34 +103,32 @@ $(document).ready(function(){
       borderWidth: 1,
       disableAutoPan: true,
       hideCloseButton: true,
-      backgroundClassName: 'transparent',
+      backgroundClassName: "transparent",
       arrowStyle: 0
     });
 
-		var marker = new google.maps.Marker({
-	    position: {lat: 47.367664, lng: 8.539774},
-	    map: map,
-	    icon: '/img/marker.png'
-	  });
-
-	  // var markersecond = new google.maps.Marker({
-	  //   position: {lat: 47.359, lng: 8.55},
-	  //   map: map,
-	  //   icon: '/img/marker.png'
-	  // });
-
-	  marker.addListener('click', function() {
-	    infoBubble.open(map, marker);
-	  });
-
-	  markersecond.addListener('click', function() {
-	    infoBubble.open(map, markersecond);
-	  });
-
-	  google.maps.event.addListener(map, "click", function () {
-      infoBubble.close();
+    var marker = new google.maps.Marker({
+      position: { lat: 47.359322, lng: 8.548188 },
+      map: map,
+      icon: "/img/marker.png"
     });
 
-	}
+    // var markersecond = new google.maps.Marker({
+    //   position: {lat: 47.359, lng: 8.55},
+    //   map: map,
+    //   icon: '/img/marker.png'
+    // });
 
+    marker.addListener("click", function() {
+      infoBubble.open(map, marker);
+    });
+
+    markersecond.addListener("click", function() {
+      infoBubble.open(map, markersecond);
+    });
+
+    google.maps.event.addListener(map, "click", function() {
+      infoBubble.close();
+    });
+  }
 });
