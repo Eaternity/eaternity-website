@@ -140,13 +140,13 @@ $(document).ready(function(){
 	marker{{ restaurant.code }}.addListener('click', function() {
 			infoBubble{{ restaurant.code }}.open(map, marker{{ restaurant.code }});
 	});
-	
+
 	google.maps.event.addListener(map, "click", function () {
 		infoBubble{{ restaurant.code }}.close();
 	});
-	
-		
-		
+
+
+
 {% endfor %}
 
 
@@ -154,7 +154,7 @@ $(document).ready(function(){
 		// prototype call
 	  var infoBubble = new InfoBubble({
       map: map,
-      content: "<div class='info'><span class='semiBold'>Eaternity AG</span><br />Zollikerstrasse 76<br />CH-8008 Zürich</div>",
+      content: "<div class='info'><span class='semiBold'>Eaternity AG</span><br />Feldeggstrasse 4<br />CH-8008 Zürich</div>",
       shadowStyle: 0,
       padding: "15px",
       backgroundColor: '#e7eff1',
