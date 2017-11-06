@@ -77,7 +77,7 @@ permalink: /about/
 <div id="team" class="row text-center small-push-bottom">
 
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/manuelklarmann.jpg">
         <h3>Manuel Klarmann</h3>
@@ -112,18 +112,6 @@ permalink: /about/
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/jfederer.jpg">
-        <h3>Jürg Federer</h3>
-        <p>Head of Marketing and Sales</p>
-        <p>
-          +41 77 520 10 07<br />
-          <a href="mailto:jfederer@eaternity.ch">jfederer@eaternity.ch</a><br />
-          <!-- <a href="https://twitter.com/judeithellens">@JudithEllens</a> -->
-        </p>
-      </div>
-    </div>
 
 
 </div>
