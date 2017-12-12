@@ -57,16 +57,16 @@ categories: foodprint
 		</div>
     <div class="col-xs-12 col-sm-7 small-push-top">
       <h3>Scientific Facts</h3>
-      <p>The Global Burden of Diseases, Injuries and Risk Factors (GBD) Study is an independently funded collaboration from over 3'000 scientists and constitutes the largest epidemiological study today. It identifies 99 risk factors that lead to diseases. Through the assessment of more than 15'000 studies it approaches accurate numbers disability adjusted life years (DALY) lost per 100'000 people dependent on age, gender and location for each individual risk factor. It provides unprecedented insights on what risk should share the highest interest of concern to improve our lives.
+      <p>The Global Burden of Diseases, Injuries and Risk Factors (GBD) Study is an independently funded collaboration from over 2'300 scientists and constitutes the largest epidemiological study today. It identifies 84 behavioral, environmental and occupational, and metabolic risks or clusters of risks that lead to diseases. Through the assessment of more than 15'000 studies it approaches accurate numbers for disability adjusted life years (DALY) lost per 100'000 people dependent on age, gender and location for each individual risk factor. It provides unprecedented insights on what risk should share our highest interest of concern to improve our lives.
 			 </p>
 			<a href="#references"><button>Learn more</button></a>
     </div>
   </div>
 
   <div class="row push-top push-bottom">
-	<div class="col-xs-12 col-sm-12">
-		<img src="/img/foodprint/vita-score/vita-2.pdf" style="width:100%">
-	</div>
+		<div class="col-xs-12 col-sm-12">
+			<img src="/img/foodprint/vita-score/vita-2.pdf" style="width:100%">
+		</div>
     <div class="col-xs-12 col-sm-7  small-push-top">
       <h3>A Health Indicator for Meals </h3>
       <p>The Vita Score currently uses 8 out of the 15 available dietary factors identified by the GBD study, namely whole grains, fruits, vegetables, nuts and seeds, processed meat, red meat, milk and salt. Providing a guideline to follow a “minimum risk diet”, the Vita Score calculates how much of the recommendations are fulfilled in relation to the caloric content of a meal, weighted according to the severity of their outcomes. For example, lack of wholegrains in the Swiss population is related to 124 years of life lost per 100’000 people, whereas eating too much salt is related to 46 years of life lost.</p>
@@ -79,7 +79,7 @@ categories: foodprint
 			<img src="/img/foodprint/vita-score/vita-3.pdf" style="width:100%">
 		</div>
     <div class="col-xs-7  small-push-top">
-      <h1>The Vita Score Award</h1>
+      <h3>The Vita Score Award</h3>
     </div>
   </div>
 
@@ -93,6 +93,13 @@ categories: foodprint
   </div>
 
     <div class="row push-top small-push-bottom">
+			<div class="col-xs-12 col-sm-7  small-push-top">
+				<h1>Balanced Nutrition</h1>
+				<p>The nutritional content of a meal to meet the daily nutrient recommendations can be analyzed separately and independently of the Vita Score. The Vita Score does not analyze if a meal is „well balanced“ in the sense that it provides you with all the daily nutrient requirements. The main idea behind the Vita Score is that current common western diet provides our bodies with enough nutrients to keep them functioning, but it might negatively affect our health in general by contributing to diseases such as diabetes, cardiovascular diseases and different types of cancer.</p>
+
+				<p>Apart from the Vita Score also the nutritional values per person and portion are shown in the Eaternity Software. How much this portion fulfills the daily recommendation is given in percentages per nutrient. Since the convention states that an average warm meal should make one third of the recommended daily amount, those nutrients which go above this range will be clearly marked. This way also the nutritional content of a meal can be conveniently optimized.</p>
+					<!-- <a href="/app/get-the-app/"><button>Learn more about the formula</button></a> -->
+			</div>
     </div>
 
 
@@ -102,7 +109,7 @@ categories: foodprint
     			<img src="/img/foodprint/vita-score/vita-4.pdf" style="width:100%">
     		</div>
     		<div class="col-xs-7  small-push-top">
-    			<h1>The Nutrition Label</h1>
+    			<h3>The Nutrition Label</h3>
     		</div>
     	</div>
 
