@@ -52,45 +52,82 @@ categories: foodprint
   </div>
 
   <div class="row push-top push-bottom">
-		<div class="col-xs-12 col-sm-12">
+		<div class="col-xs-12 col-sm-12 push-bottom">
 			<img src="/img/foodprint/vita-score/vita-1.pdf" style="width:100%">
 		</div>
-    <div class="col-xs-12 col-sm-7 small-push-top">
+    <div class="col-xs-12 col-sm-6 push-top">
       <h3>Scientific Facts</h3>
       <p>The Global Burden of Diseases, Injuries and Risk Factors (GBD) Study is an independently funded collaboration from over 2'300 scientists and constitutes the largest epidemiological study today. It identifies 84 behavioral, environmental and occupational, and metabolic risks or clusters of risks that lead to diseases. Through the assessment of more than 15'000 studies it approaches accurate numbers for disability adjusted life years (DALY) lost per 100'000 people dependent on age, gender and location for each individual risk factor. It provides unprecedented insights on what risk should share our highest interest of concern to improve our lives.
 			 </p>
 			<a href="#references"><button>Learn more</button></a>
     </div>
-  </div>
-
-  <div class="row push-top push-bottom">
-		<div class="col-xs-12 col-sm-12">
+		<div class="col-xs-12 col-sm-6 push-top">
 			<img src="/img/foodprint/vita-score/vita-2.pdf" style="width:100%">
 		</div>
+  </div>
+
+
+</div>
+
+<div class="bgLightGrey push-bottom">
+<div class="container">
+
+	<div class="row push-bottom">
+	<div class="col-xs-12  small-push-top">
+		<h3>The Vita Score Award</h3>
+	</div>
+	<div class="col-xs-2 small-push-top">
+								<img src="/img/foodprint/vita-score/VitaScoreAward.svg">
+										</div>
+		<div class="col-xs-5 small-push-top">
+			<p>Menus with at least 20% less diet related risk points than all recorded menus earn the Vita Score Award. They belong to the 20% menus with the best Vita Score, all having a 5 out of 5 heart rating.</p>
+		</div>
+	</div>
+	</div>
+	</div>
+
+<div class="container">
+
+  <div class="row push-top push-bottom">
+
     <div class="col-xs-12 col-sm-7  small-push-top">
       <h3>A Health Indicator for Meals </h3>
       <p>The Vita Score currently uses 8 out of the 15 available dietary factors identified by the GBD study, namely whole grains, fruits, vegetables, nuts and seeds, processed meat, red meat, milk and salt. Providing a guideline to follow a “minimum risk diet”, the Vita Score calculates how much of the recommendations are fulfilled in relation to the caloric content of a meal, weighted according to the severity of their outcomes. For example, lack of wholegrains in the Swiss population is related to 124 years of life lost per 100’000 people, whereas eating too much salt is related to 46 years of life lost.</p>
     		<!-- <a href="/app/get-the-app/"><button>Learn more about the formula</button></a> -->
     </div>
+
   </div>
+
+
 
   <div class="row push-top small-push-bottom">
 		<div class="col-xs-12 col-sm-12">
 			<img src="/img/foodprint/vita-score/vita-3.pdf" style="width:100%">
 		</div>
-    <div class="col-xs-7  small-push-top">
-      <h3>The Vita Score Award</h3>
-    </div>
   </div>
 
-  <div class="row push-bottom">
-	<div class="col-xs-2">
-	    					<img src="/img/foodprint/vita-score/VitaScoreAward.svg">
-								    </div>
-    <div class="col-xs-5">
-      <p>Menus with at least 20% less diet related risk points than all recorded menus earn the Vita Score Award. They belong to the 20% menus with the best Vita Score, all having a 5 out of 5 heart rating.</p>
-    </div>
-  </div>
+
+</div>
+
+<div class="bgLightGrey push-top">
+	<div class="container">
+
+	  <div class="row push-bottom">
+			<div class="col-xs-12  small-push-top">
+				<h3>The Nutrition Label</h3>
+			</div>
+			<div class="col-xs-2 small-push-top">
+			    					<img src="/img/foodprint/vita-score/NutritionLabel.svg">
+			</div>
+	    <div class="col-xs-5 small-push-top">
+	      <p>Balanced menus with a good energy value score the Nutrition Label. These menus do derive 5-14% of it’s calories from proteins and 20-35% from fat, while having a total energy value between 450 and 850 kcal.</p>
+			</div>
+	  </div>
+	</div>
+</div>
+
+
+<div class="container">
 
     <div class="row push-top small-push-bottom">
     		<div class="col-xs-12 col-sm-7  small-push-top">
@@ -108,25 +145,10 @@ categories: foodprint
     		<div class="col-xs-12 col-sm-12">
     			<img src="/img/foodprint/vita-score/vita-4.pdf" style="width:100%">
     		</div>
-    		<div class="col-xs-7  small-push-top">
-    			<h3>The Nutrition Label</h3>
-    		</div>
-    	</div>
-
-    	<div class="row push-bottom">
-    	<div class="col-xs-2">
-    								<img src="/img/foodprint/vita-score/NutritionLabel.svg">
-    										</div>
-    		<div class="col-xs-5">
-    			<p>Balanced menus with a good energy value score the Nutrition Label. These menus do derive 5-14% of it’s calories from proteins and 20-35% from fat, while having a total energy value between 450 and 850 kcal.</p>
-    		</div>
-    	</div>
-
-    		<div class="row push-top small-push-bottom">
-
-    		</div>
-
+			</div>
 </div>
+
+
 
   <div class="window" style="background-image: url('/img/foodprint/roooot.jpg');background-size: 500px 229px;background-position: left center;;background-size: 100%"></div>
 
