@@ -93,13 +93,13 @@ categories: foodprint
   </div>
 
     <div class="row push-top small-push-bottom">
-			<div class="col-xs-12 col-sm-7  small-push-top">
-				<h1>Balanced Nutrition</h1>
-				<p>The nutritional content of a meal to meet the daily nutrient recommendations can be analyzed separately and independently of the Vita Score. The Vita Score does not analyze if a meal is „well balanced“ in the sense that it provides you with all the daily nutrient requirements. The main idea behind the Vita Score is that current common western diet provides our bodies with enough nutrients to keep them functioning, but it might negatively affect our health in general by contributing to diseases such as diabetes, cardiovascular diseases and different types of cancer.</p>
+    		<div class="col-xs-12 col-sm-7  small-push-top">
+    			<h1>Balanced Nutrition</h1>
+    			<p>The nutritional content of a meal to meet the daily nutrient recommendations can be analyzed separately and independently. The Nutrition Label analyzes  per person and portion if a meal is „well balanced“ in the sense that it provides you with all the daily nutrient requirements.</p>
 
-				<p>Apart from the Vita Score also the nutritional values per person and portion are shown in the Eaternity Software. How much this portion fulfills the daily recommendation is given in percentages per nutrient. Since the convention states that an average warm meal should make one third of the recommended daily amount, those nutrients which go above this range will be clearly marked. This way also the nutritional content of a meal can be conveniently optimized.</p>
-					<!-- <a href="/app/get-the-app/"><button>Learn more about the formula</button></a> -->
-			</div>
+    			<p>An average warm meal should make around one third of the recommended daily amount of 2000 kcal, those nutrients which go above this range will be clearly marked. This way also the nutritional content of a meal can be conveniently optimized.</p>
+    				<!-- <a href="/app/get-the-app/"><button>Learn more about the formula</button></a> -->
+    		</div>
     </div>
 
 
@@ -118,7 +118,7 @@ categories: foodprint
     								<img src="/img/foodprint/vita-score/NutritionLabel.svg">
     										</div>
     		<div class="col-xs-5">
-    			<p>Balanced menus with a good energy value score the Nutrition Label. These menus do derive 5-14% of it’s calories from proteins and 24-35% from fat, while having a total energy value between 450 and 850 kcal.</p>
+    			<p>Balanced menus with a good energy value score the Nutrition Label. These menus do derive 5-14% of it’s calories from proteins and 20-35% from fat, while having a total energy value between 450 and 850 kcal.</p>
     		</div>
     	</div>
 
@@ -171,7 +171,6 @@ categories: foodprint
 
     		<h3>Publications</h3>
     		<ol>
-    		<li>Dive deeper in the science! ➔ Links to the following documents</li>
     		<li>Results of the Health Footprint Project ➔ booklet long version</li>
     		<li>Full documentation of the Vita Score ➔ vita score document</li>
     		<li>Healthy eating guidelines ➔ eating guidelines for the vita score</li>
