@@ -11,8 +11,8 @@ categories: foodprint
 			<ul class="subNavigation">
 				<a href="/foodprint/saving-the-planet"><li class="current">Saving the Planet</li></a>
 	      <a href="/foodprint/climate-score"><li>Climate Score</li></a>
-				<a href="/foodprint/environmental-indicators"><li>More Environmental Indicators</li></a>
 				<a href="/foodprint/vita-score"><li>Vita Score</li></a>
+				<a href="/foodprint/environmental-indicators"><li>More Indicators</li></a>
 				<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
 			</ul>
 		</div>
@@ -28,9 +28,9 @@ categories: foodprint
         			<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Saving the Planet</h1>
 
         		<hr />
-        		<h3 class="">Informations on the importance of food sustainability to prevent human extinction.</h3>
+        		<h3 class="">On the importance of food sustainability to prevent human extinction.</h3>
         		<hr />
-        		<a href="/app/get-the-app/"><button>Register Now</button></a>
+        		<a href="/app/get-the-app/"><button>Step into Action</button></a>
         </div>
     </div>
 
@@ -45,10 +45,10 @@ categories: foodprint
     <div class="col-sm-7">
       <p>Extreme weather events like heavy rain, hurricanes, heat waves and droughts are amplifed in frequency and severity by climate change, just like mudslides, melting permafrost, acidifcation of the oceans, the loss of plant and animal species, the spread of disease, yield drops, and increasing water scarcity. Polar ice caps and alpine glaciers are melting at a rapid pace, which causes sea levels to rise. The fooding and the erosion of islands and coastal areas is the result. Climate change is not an event in the future. It’s literally happening right now.</p>
 <p>
-Human activities are responsible for the rise in temperature7. Greenhouse gases like carbon dioxide, methane and nitrous oxide are released to the air by the burning of fossil fuels and agricultural practices. Greenhouse gases trap the heat from the sun into the earth’s system. Apart from the temperature going up, also the circulation and distribution of water around the earth is changing as well as many other factors impacting our lives and how we can inhabit this planet.
+Human activities are responsible for the rise in temperature. Greenhouse gases like carbon dioxide, methane and nitrous oxide are released to the air by the burning of fossil fuels and agricultural practices. Greenhouse gases trap the heat from the sun into the earth’s system. Apart from the temperature going up, also the circulation and distribution of water around the earth is changing as well as many other factors impacting our lives and how we can inhabit this planet.
 </p>
 <p>
-Global average temperature is increasing at an unprecedented rate. It has increased by 0.8 degrees since the 19th century, but most warming has occurred in the last three decades with roughly 0.2 degrees per decade9. As heat is not evenly distributed, northern regions heat up much faster than other regions. In August 2017 the frst tanker crossed the Arctic without an icebreaker. And this is just the tip of the iceberg. The higher we allow the global temperature to rise, the higher the price we pay will be. There are worldwide eforts made to keep the rising temperatures within limits. At the Paris climate conference in 2015 a global agreement was reached to keep global warming below 2 degrees. These eforts are not going to prevent us from any damage. They only aim at keeping the consequences manageable for humankind.
+Global average temperature is increasing at an unprecedented rate. It has increased by 0.8 degrees since the 19th century, but most warming has occurred in the last three decades with roughly 0.2 degrees per decade9. As heat is not evenly distributed, northern regions heat up much faster than other regions. In August 2017 the first tanker crossed the Arctic without an icebreaker. And this is just the tip of the iceberg. The higher we allow the global temperature to rise, the higher the price we pay will be. There are worldwide efforts made to keep the rising temperatures within limits. At the Paris climate conference in 2015 a global agreement was reached to keep global warming below 2 degrees. These efforts are not going to prevent us from any damage. They only aim at keeping the consequences manageable for humankind.
 </p>
 
     </div>
@@ -65,7 +65,7 @@ Global average temperature is increasing at an unprecedented rate. It has increa
 			1/3 of global greenhouse emissions are related to the food supply chain. How and what we eat contributes more to global warming than the world’s shipping and transportation industry. Over 80% of emissions caused by our food supply incur at production11, with the most important contributors being deforestation (38%), peat degradation (11%) and direct emissions from agriculture (50%) of which most are related to livestock, fertilizer and manure management and rice production. The exact contribution of different sources of greenhouse gas emissions in agriculture are shown in figure 1.1.
 			 </p>
 			 <p>
-			 In agriculture, the greenhouse gases methane and nitrous oxide play an important role (see figure 1.2). Compared to carbon dioxide, methane has a 28-fold and nitrous oxide a 265-fold stronger impact on global warming. Methane is produced by microorganisms in the stomach of cows and sheep. They support the ruminant’s digestion. This process is called enteric fermentation. But methane emissions also originate in rice paddies, where waterlogged soil supports rapid bacteria growth. These bacteria produce methane. Nitrous oxide is related to synthetic and organic fertilizer use and manure management. Fertilizer that is not absorbed by plants is either washed out by rainfall or turned into nitrous oxide by bacteria and released into the atmosphere. CO₂ is emitted when fossile energy is used to produce synthetic fertilizers when machines work the land. Also clear-cutting forests to obtain farm land releases large amounts of CO₂.
+			 In agriculture, the greenhouse gases methane and nitrous oxide play an important role (see figure 1.2). Compared to carbon dioxide, methane has a 28-fold and nitrous oxide a 265-fold stronger impact on global warming. Methane is produced by microorganisms in the stomach of cows and sheep. They support the ruminant’s digestion. This process is called enteric fermentation. But methane emissions also originate in rice paddies, where waterlogged soil supports rapid bacteria growth. These bacteria produce methane. Nitrous oxide is related to synthetic and organic fertilizer use and manure management. Fertilizer that is not absorbed by plants is either washed out by rainfall or turned into nitrous oxide by bacteria and released into the atmosphere. CO₂ is emitted when fossil energy is used to produce synthetic fertilizers when machines work the land. Also clear-cutting forests to obtain farm land releases large amounts of CO₂.
 			 </p>
 
     		<a href="#references"><button>Learn more</button></a>
@@ -143,7 +143,7 @@ Global average temperature is increasing at an unprecedented rate. It has increa
 
     	<div class="row push-top small-push-bottom">
     		<div class="col-xs-12  small-push-top">
-    			<h1>Updates on the Project</h1>
+    			<h1>Updates from Eaternity</h1>
     		</div>
     	</div>
 

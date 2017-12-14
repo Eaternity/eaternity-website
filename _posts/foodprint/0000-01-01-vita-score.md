@@ -11,8 +11,8 @@ categories: foodprint
 			<ul class="subNavigation">
 				<a href="/foodprint"><li>Saving the Planet</li></a>
 	      <a href="/foodprint/climate-score"><li>Climate Score</li></a>
-				<a href="/foodprint/environmental-indicators"><li>More Environmental Indicators</li></a>
 				<a href="/foodprint/vita-score"><li class="current">Vita Score</li></a>
+				<a href="/foodprint/environmental-indicators"><li>More Indicators</li></a>
 				<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
 			</ul>
 		</div>
@@ -57,34 +57,32 @@ categories: foodprint
 		</div>
     <div class="col-xs-12 col-sm-6 push-top">
       <h3>Scientific Facts</h3>
-      <p>The Global Burden of Diseases, Injuries and Risk Factors (GBD) Study is an independently funded collaboration from over 2'300 scientists and constitutes the largest epidemiological study today. It identifies 84 behavioral, environmental and occupational, and metabolic risks or clusters of risks that lead to diseases. Through the assessment of more than 15'000 studies it approaches accurate numbers for disability adjusted life years (DALY) lost per 100'000 people dependent on age, gender and location for each individual risk factor. It provides unprecedented insights on what risk should share our highest interest of concern to improve our lives.
+      <p>The Global Burden of Diseases, Injuries and Risk Factors (GBD) Study is an independently funded collaboration from over 2'300 scientists and constitutes the largest epidemiological study today. It identifies 84 behavioral, environmental and occupational, and metabolic risks or clusters of risks that lead to diseases. Through the assessment of more than 15'000 studies it approaches accurate numbers for disability adjusted life years (DALY) lost per 100'000 people dependent on age, gender and location for each individual risk factor. It provides unprecedented insights on what risk should share our highest interest of concern to improve our lives. <a style="float:right;margin-right:20px;" href="#references">Learn more</a>
 			 </p>
-			<a href="#references"><button>Learn more</button></a>
     </div>
 		<div class="col-xs-12 col-sm-6 push-top">
 			<img src="/img/foodprint/vita-score/vita-2.pdf" style="width:100%">
 		</div>
   </div>
 
-
 </div>
 
 <div class="bgLightGrey push-bottom">
 <div class="container">
 
-	<div class="row push-bottom">
-	<div class="col-xs-12  small-push-top">
-		<h3>The Vita Score Award</h3>
-	</div>
-	<div class="col-xs-2 small-push-top">
-								<img src="/img/foodprint/vita-score/VitaScoreAward.svg">
-										</div>
-		<div class="col-xs-5 small-push-top">
-			<p>Menus with at least 20% less diet related risk points than all recorded menus earn the Vita Score Award. They belong to the 20% menus with the best Vita Score, all having a 5 out of 5 heart rating.</p>
-		</div>
-	</div>
-	</div>
-	</div>
+    <div class="row push-bottom">
+    <div class="col-xs-12  small-push-top">
+    	<h3>The Vita Score Award</h3>
+    </div>
+    <div class="col-xs-2 small-push-top">
+    							<img src="/img/foodprint/vita-score/VitaScoreAward.svg">
+    									</div>
+    	<div class="col-xs-5 small-push-top">
+    		<p>Menus with at least 20% less diet related risk points than all recorded menus earn the Vita Score Award. They belong to the 20% menus with the best Vita Score, all having a 5 out of 5 heart rating.</p>
+    	</div>
+    </div>
+    </div>
+    </div>
 
 <div class="container">
 
@@ -98,34 +96,31 @@ categories: foodprint
 
   </div>
 
-
-
   <div class="row push-top small-push-bottom">
 		<div class="col-xs-12 col-sm-12">
 			<img src="/img/foodprint/vita-score/vita-3.pdf" style="width:100%">
 		</div>
   </div>
 
-
 </div>
 
 <div class="bgLightGrey push-top">
 	<div class="container">
 
-	  <div class="row push-bottom">
-			<div class="col-xs-12  small-push-top">
-				<h3>The Nutrition Label</h3>
-			</div>
-			<div class="col-xs-2 small-push-top">
-			    					<img src="/img/foodprint/vita-score/NutritionLabel.svg">
-			</div>
-	    <div class="col-xs-5 small-push-top">
-	      <p>Balanced menus with a good energy value score the Nutrition Label. These menus do derive 5-14% of it’s calories from proteins and 20-35% from fat, while having a total energy value between 450 and 850 kcal.</p>
-			</div>
-	  </div>
-	</div>
-</div>
+      <div class="row push-bottom">
+    		<div class="col-xs-12  small-push-top">
+    			<h3>The Nutrition Label</h3>
+    		</div>
+    		<div class="col-xs-2 small-push-top">
+    		    					<img src="/img/foodprint/vita-score/NutritionLabel.svg">
+    		</div>
+        <div class="col-xs-5 small-push-top">
+          <p>Balanced menus with a good energy value score the Nutrition Label. These menus do derive 5-14% of it’s calories from proteins and 20-35% from fat, while having a total energy value between 450 and 850 kcal.</p>
+    		</div>
+      </div>
+    </div>
 
+</div>
 
 <div class="container">
 
@@ -145,10 +140,9 @@ categories: foodprint
     		<div class="col-xs-12 col-sm-12">
     			<img src="/img/foodprint/vita-score/vita-4.pdf" style="width:100%">
     		</div>
-			</div>
+    		</div>
+
 </div>
-
-
 
   <div class="window" style="background-image: url('/img/foodprint/roooot.jpg');background-size: 500px 229px;background-position: left center;;background-size: 100%"></div>
 
@@ -156,7 +150,7 @@ categories: foodprint
 
     	<div class="row push-top small-push-bottom">
     		<div class="col-xs-12  small-push-top">
-    			<h1>Updates on the Project</h1>
+    			<h1>Updates on the Vita Score</h1>
     		</div>
     	</div>
 
@@ -170,9 +164,8 @@ categories: foodprint
     							{% if item.image != null %}<a href="{{ BASE_PATH }}{{ item.url }}"><img class="responsive" src="{{ ASSET_PATH }}/img/blog/teaser_1400x450/{{ item.image }}" />  </a>{% endif %}
 
     							<br/><h4>{{ item.subtitle }}</h4><br/>
-    							{{ item.excerpt }}
-
-    						<a href="{{ BASE_PATH }}{{ item.url }}">  <span class="button">Read the full update <i class="fa fa-angle-right fa-lg"></i></span>  </a>
+    							{{ item.excerpt }} <a href="{{ BASE_PATH }}{{ item.url }}" style="float:right;margin-right:20px;">
+									Read the full update.</a>
     						</div>
 
     				</div>

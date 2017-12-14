@@ -11,8 +11,8 @@ categories: foodprint
 			<ul class="subNavigation">
 				<a href="/foodprint"><li>Saving the Planet</li></a>
 	      <a href="/foodprint/climate-score"><li class="current">Climate Score</li></a>
-				<a href="/foodprint/environmental-indicators"><li>More Environmental Indicators</li></a>
 				<a href="/foodprint/vita-score"><li>Vita Score</li></a>
+				<a href="/foodprint/environmental-indicators"><li>More Indicators</li></a>
 				<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
 			</ul>
 		</div>
@@ -33,7 +33,7 @@ categories: foodprint
         			<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Climate Score</h1>
 
         		<hr />
-        		<h3 class="">Accurate and applicable information on your food related CO₂ emissions.</h3>
+        		<h3 class="">Accurate and useful information on your food related CO₂ emissions.</h3>
         		<hr />
         		<a href="/app/get-the-app/"><button>Register Now</button></a>
         </div>
@@ -47,8 +47,8 @@ categories: foodprint
 
   <div class="row push-bottom">
     <div class="col-sm-7">
-      <p>The carbon footprint of a food is measured with a life cycle assessment (LCA). It is a systematic and quantitative analysis of the environmental impact of every single life stage of a product. LCAs account for transparency and comparability between the impacts of different life stages such as production, handling, transportation, storage and disposal as well as between the impacts different products. Life cycle assessments can thus support us in decision-making by showing which life stages, processes and products have a lower carbon footprint.</p>
-			<p>All greenhouse gases related to the production of food are expressed in CO₂-equivalents. This means that all greenhouse emissions are converted into the amount of carbon dioxide with a similar climate impact. In general, when we talk about CO₂-emissions we actually refer to CO₂-equivalent emissions.</p>
+      <p>The carbon footprint of a food is measured with a life cycle assessment (LCA). It is a systematic and quantitative analysis of the environmental impact of every single life stage of a product. LCAs account for transparency and comparability between the impacts of different life stages such as production, handling, transportation, storage and disposal. Life cycle assessments can thus support us in decision-making by showing which life stages, processes and products have a lower carbon footprint.</p>
+			<p>All greenhouse gases related to the production of food are expressed in CO₂-equivalents: converted into the amount of carbon dioxide with a similar climate impact. In general, when we talk about CO₂-emissions we actually refer to CO₂-equivalent emissions.</p>
     </div>
   </div>
 
@@ -56,26 +56,24 @@ categories: foodprint
 		<div class="col-xs-12 col-sm-12">
 			<img src="/img/foodprint/climate-score/climate-3.pdf" style="width:100%">
 		</div>
-    <div class="col-xs-12 col-sm-7 small-push-top">
+    <div class="col-xs-12 col-sm-7 push-top">
       <h3>A Comparison of Food Products</h3>
       <p>
 
-    			More than 60% of all emissions related to food production and consumption come from meat and diary products. In general, animal products have a high carbon footprint. To produce meat, feed needs to be produced first. The production of meat and milk products is not efficient. On average 18 kg of plant protein is needed to raise 1 kg of animal meat protein. In addition, ruminants such as cows and sheep produce large amounts of methane that has a strong impact on climate. Also most milk products have a high carbon footprint, as cream and cheese need several liters of milk to be produced increasing it even more. Plant foods such as grains and vegetables have in general a low carbon footprint as relatively little resources are needed to produce them. However, heated greenhouses and air transportation can also significantly add to the carbon footprint of plant products.
-
+    			More than 60% of all emissions related to food production and consumption come from meat and diary products. In general, animal products have a high carbon footprint. To produce meat, feed needs to be produced first. The production of meat and milk products is not efficient. On average 18 kg of plant protein is needed to raise 1 kg of animal meat protein. In addition, ruminants such as cows and sheep produce large amounts of methane that has a strong impact on climate. Also most milk products have a high carbon footprint, as cream and cheese need several liters of milk to be produced increasing it even more. Plant foods such as grains and vegetables have in general a low carbon footprint as relatively little resources are needed to produce them. However, heated greenhouses and air transportation can also significantly add to the carbon footprint of plant products. <a style="float:right;margin-right:20px;" href="#references">Learn more</a>
     		 </p>
-    		<a href="#references"><button>Learn more</button></a>
     </div>
 
   </div>
 
   <div class="row push-top push-bottom">
-	<div class="col-xs-12 col-sm-12">
+	<div class="col-xs-12 col-sm-10 col-sm-offset-1">
 		<img src="/img/foodprint/climate-score/climate-4.pdf" style="width:100%">
 	</div>
     <div class="col-xs-12 col-sm-7  big-push-top">
       <h3>Focus on what matters most</h3>
       <p>
-			Educated food choices have the potential to reduce carbon emissions of the food supply chain by at least 50%. The world’s increasing population and the development of wealth combined lead to a rise in demand for food. The demand for meat and diary will increase by 75% and 65% respectively. With current trends proceeding the entire carbon budget of the world will be food related by 2050. Food therefore is at the core of meeting the goal of keeping global warming below 2 degrees.
+			Educated food choices have the potential to reduce carbon emissions of the food supply chain by at least 50%. The world’s increasing population and the development of wealth combined lead to a rise in demand for food. The demand for meat and diary will increase by 75% and 65% respectively. With current trends proceeding the entire carbon budget of the world will be food related by 2050. Food therefore is at the core of meeting the goal of keeping global warming below 2 degrees.<a style="float:right;margin-right:20px;" href="/meals/restaurants">Learn more about our climate goals.</a>
 			</p>
 			<p>
 			Everyone understands that the world will not turn vegetarian entirely. There’s even a case to be made for animal protein raised on steep alpine hills not suitable for vegetable farming. However, the awareness for the substantial environmental cost of animal protein is important, so everyone can make their contribution with a healthy ratio between animal protein and plant protein. To reduce our climate impact the most important food decisions are:
@@ -92,69 +90,84 @@ categories: foodprint
     <div class="row big-push-bottom">
     	<div class="col-xs-12 col-sm-4 text-center">
     		<img src="/img/eat-at-home/ingredients.svg" />
-    		<h3>#1: Ingredients</h3>
-    		<p>Plant-based instead of animal-based: fruit, vegetables and cereals show an extensively better environmental impact, as livestock breeding is resource and energy-intensive.</p>
+    		<h3>#1: Product Choice</h3>
+    		<p><span style="font-weight:600">Consider a higher ratio of plant-based products vs. animal products.</span> Fruit, vegetables and cereals show an extensively better environmental impact, as livestock breeding is resource and energy-intensive.</p>
     	</div>
     	<div class="col-xs-12 col-sm-4 text-center xs-push-top">
     		<img src="/img/eat-at-home/seasonality.svg" />
     		<h3>#2: Seasonality</h3>
-    		<p>Seasonal Vegetables: Avoid plane transportation with its high emissions due to fuel consumption. Also, beware of greenhouse produced veggies as a lot of energy is needed for electric lighting, watering and heating.</p>
+    		<p><span style="font-weight:600">Choose fresh produce and avoid greenhouse vegetables.</span> Favour fresh products over deep-frozen ones. Also, beware of greenhouse produced veggies as a lot of energy is needed for electric lighting, watering and heating.</p>
     	</div>
     	<div class="col-xs-12 col-sm-4 text-center xs-push-top">
     		<img src="/img/eat-at-home/regionality.svg" />
-    		<h3>#3: Regionality</h3>
-    		<p>Another factor is location. Be aware of long transport distances. Favour fresh products over deep-frozen ones.</p>
+    		<h3>#3: Origin</h3>
+    		<p><span style="font-weight:600">Avoid air transportation and favor short distances.</span> Avoid airplane transportation with its high emissions due to fuel consumption. Be aware of long transport distances.</p>
     	</div>
     </div>
 
 
-    	<div class="col-xs-12 col-sm-7  push-bottom push-top">
-      <h3>Improving One Menu at a Time</h3>
-      <p>We aim to provide sustainable menu choices in any restaurant. To do so, we are measuring the Climate Score of every meal, and provide transparent information on how to improve.	So everyone gets access to climate-friendly meals and what it takes to make a difference together.</p>
+</div>
 
-    	<p>Calculations done with the Eaternity include all emission of the complete supply chain. The database to calculate the carbon impact is currently the largest and most comprehensive database for carrying out menu CO₂-calculations. It includes more than 550 core ingredients and additional parameters for organic or greenhouse production, processing, packaging and preservation.
+<div class="bgLightGrey push-top">
+	<div class="container">
+
+
+	<div class="row ">
+	<div class="col-xs-12  small-push-top">
+	<h1>The Climate Score Award</h1>
+	</div>
+	<div class="col-xs-2 col-sm-2 small-push-top">
+						<img src="/img/foodprint/climate-score/ClimateScoreAward.svg">
+						    </div>
+	<div class="col-xs-5 col-sm-3 small-push-top">
+	<p>
+		Menus with at least 50% less CO₂ emissions than the average menus earn the Climate Score Award. They belong to the 20% menus with the best Climate Score, all having a 5 out of 5 heart rating.</p>
+
+	</div>
+
+
+
+
+	<div class="col-xs-12 col-sm-6 col-sm-offset-1 small-push-top">
+			<img class="responsive" src="/img/eat-at-home/illustration-eaternity-meal.svg">
+
+	</div></div>
+<div class="row push-bottom">
+	<div class="col-xs-12 col-sm-4 col-sm-offset-4 push-top">
+
+	<a href="/meals"><button style="width:100%;">Show me the climate-friendly
+	meals</button></a>
+		</div>
+
+	</div>
+</div>
+</div>
+
+<div class="container">
+<div class="row push-top">
+
+    	<div class="col-xs-12 col-sm-6   ">
+      <h3>Improving One Menu at a Time</h3>
+      <p>We aim to provide sustainable menu choices in any restaurant. To do so, we are measuring the Climate Score of every meal, and provide transparent information on how to improve.	So everyone gets access to climate-friendly meals and what it takes to make a difference together.<a style="float:right;margin-right:20px;" href="/meals/restaurants">Find out which restaurants serve climate friendly meals.</a></p>
+</div>
+<div class="col-xs-12 col-sm-6  ">
+    	<p>Calculations done with the Eaternity include all emission of the complete supply chain. The database to calculate the carbon impact is currently the largest and most comprehensive database for carrying out menu CO₂-calculations. It includes more than 550 core ingredients and additional parameters for organic or greenhouse production, processing, packaging and preservation.<a href="/foodprint/database" style="float:right;margin-right:20px;">Learn more about the Eaternity Database.</a>
     	</p>
 
-    		<a href="/foodprint/database/"><button>Learn more about the database</button></a>
+
     </div>
 
-  	<div class="row big-push-top push-bottom verticalAlign">
-  		<div class="col-xs-12 col-sm-7 col-sm-offset-2  xs-push-top">
-  			<img class="responsive" src="/img/eat-at-home/illustration-eaternity-meal.svg">
-  		</div>
-  	</div>
 
-  <div class="row push-top small-push-bottom">
+
+  </div>
+
+  <div class="row small-push-bottom">
 		<!-- <div class="col-xs-12 col-sm-12">
 			<img src="/img/foodprint/climate-score/climate-6.pdf" style="width:100%">
 		</div> -->
-    <div class="col-xs-7  small-push-top">
-      <h1>The Climate Score Award</h1>
-    </div>
-  </div>
-
-  <div class="row push-bottom">
-	<div class="col-xs-2">
-	    					<img src="/img/foodprint/climate-score/ClimateScoreAward.svg">
-								    </div>
-    <div class="col-xs-5">
-      <p>
-    		Menus with at least 50% less CO₂ emissions than the average menus earn the Climate Score Award. They belong to the 20% menus with the best Climate Score, all having a 5 out of 5 heart rating.</p>
-
-    </div>
-
-    <div class="col-xs-4 col-sm-4  push-top">
-
-    	<a href="/meals" style="float:right;"><button>Show me the climate-friendly
-    	meals</button></a>
-
-    </div>
 
   </div>
 
-    <div class="row push-top small-push-bottom">
-
-    </div>
 
 </div>
 
@@ -165,7 +178,7 @@ categories: foodprint
 
     	<div class="row push-top small-push-bottom">
     		<div class="col-xs-12  small-push-top">
-    			<h1>Updates on the Project</h1>
+    			<h1>Updates on the Climate Score</h1>
     		</div>
     	</div>
 
@@ -179,9 +192,8 @@ categories: foodprint
     							{% if item.image != null %}<a href="{{ BASE_PATH }}{{ item.url }}"><img class="responsive" src="{{ ASSET_PATH }}/img/blog/teaser_1400x450/{{ item.image }}" />  </a>{% endif %}
 
     							<br/><h4>{{ item.subtitle }}</h4><br/>
-    							{{ item.excerpt }}
-
-    						<a href="{{ BASE_PATH }}{{ item.url }}">  <span class="button">Read the full update <i class="fa fa-angle-right fa-lg"></i></span>  </a>
+    							{{ item.excerpt }} <a href="{{ BASE_PATH }}{{ item.url }}" style="float:right;margin-right:20px;">
+									Read the full update.</a>
     						</div>
 
     				</div>
