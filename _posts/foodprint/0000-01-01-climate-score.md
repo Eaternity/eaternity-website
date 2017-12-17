@@ -12,7 +12,7 @@ categories: foodprint
 				<a href="/foodprint"><li>Saving the Planet</li></a>
 	      <a href="/foodprint/climate-score"><li class="current">Climate Score</li></a>
 				<a href="/foodprint/vita-score"><li>Vita Score</li></a>
-				<a href="/foodprint/environmental-indicators"><li>More Indicators</li></a>
+				<a href="/foodprint/environmental-footprints"><li>Environmental Footprints</li></a>
 				<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
 			</ul>
 		</div>
@@ -105,6 +105,7 @@ categories: foodprint
     	</div>
     </div>
 
+Include infos on the local and seasonal label
 
 </div>
 
@@ -121,7 +122,7 @@ categories: foodprint
 						    </div>
 	<div class="col-xs-5 col-sm-3 small-push-top">
 	<p>
-		Menus with at least 50% less CO₂ emissions than the average menus earn the Climate Score Award. They belong to the 20% menus with the best Climate Score, all having a 5 out of 5 heart rating.</p>
+		Menus with at least 50% less CO₂ emissions than the average menus earn the Climate Score Award. They belong to the 20% menus with the best Climate Score, all having a 5 out of 5 cloud rating.</p>
 
 	</div>
 
@@ -129,7 +130,7 @@ categories: foodprint
 
 
 	<div class="col-xs-12 col-sm-6 col-sm-offset-1 small-push-top">
-			<img class="responsive" src="/img/eat-at-home/illustration-eaternity-meal.svg">
+			<img class="responsive" src="/img/foodprint/climate-score/illustration-eaternity-meal.svg">
 
 	</div></div>
 <div class="row push-bottom">

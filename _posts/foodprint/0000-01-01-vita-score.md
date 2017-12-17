@@ -12,7 +12,7 @@ categories: foodprint
 				<a href="/foodprint"><li>Saving the Planet</li></a>
 	      <a href="/foodprint/climate-score"><li>Climate Score</li></a>
 				<a href="/foodprint/vita-score"><li class="current">Vita Score</li></a>
-				<a href="/foodprint/environmental-indicators"><li>More Indicators</li></a>
+				<a href="/foodprint/environmental-footprints"><li>Environmental Footprints</li></a>
 				<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
 			</ul>
 		</div>
