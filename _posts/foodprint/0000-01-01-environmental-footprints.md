@@ -26,8 +26,6 @@ categories: foodprint
     			<hr />
     					<img src="/img/foodprint/environment/Environment.svg"  width="100%" style="margin-top:-100px;margin-bottom:-100px;">
 
-
-
         		<hr />
         		<h3 class="" style="">Environmental Footprints - Covering more aspects of food sustainability</h3>
         		<hr />
@@ -43,7 +41,7 @@ categories: foodprint
 	    </div>
   	</div>
 
-		<div class="row push-top small-push-bottom">
+		<div class="row push-top small-push-bottom" id="water">
 				<div class="col-xs-12">
 					<hr />
 							<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-left:-42px;margin-right:-40px; margin-top:-57px;float:right;">
@@ -134,7 +132,7 @@ categories: foodprint
 </div>
 
 
-<div class="container">
+<div class="container" id="forest">
 
 	<div class="row push-top small-push-bottom">
 			<div class="col-xs-12">
@@ -205,7 +203,7 @@ categories: foodprint
 </div>
 
 
-<div class="container">
+<div class="container" id="animal">
 
 
 

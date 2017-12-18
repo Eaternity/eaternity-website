@@ -65,26 +65,7 @@ categories: foodprint
 		</div>
   </div>
 
-</div>
 
-<div class="bgLightGrey push-bottom">
-<div class="container">
-
-    <div class="row push-bottom">
-    <div class="col-xs-12  small-push-top">
-    	<h3>The Vita Score Award</h3>
-    </div>
-    <div class="col-xs-2 small-push-top">
-    							<img src="/img/foodprint/vita-score/VitaScoreAward.svg">
-    									</div>
-    	<div class="col-xs-5 small-push-top">
-    		<p>Menus with at least 20% less diet related risk points than all recorded menus earn the Vita Score Award. They belong to the 20% menus with the best Vita Score, all having a 5 out of 5 heart rating.</p>
-    	</div>
-    </div>
-    </div>
-    </div>
-
-<div class="container">
 
   <div class="row push-top push-bottom">
 
@@ -104,29 +85,40 @@ categories: foodprint
 
 </div>
 
-<div class="bgLightGrey push-top">
-	<div class="container">
+<div class="bgLightGrey push-bottom">
+<div class="container">
 
-      <div class="row push-bottom">
-    		<div class="col-xs-12  small-push-top">
-    			<h3>The Nutrition Label</h3>
-    		</div>
-    		<div class="col-xs-2 small-push-top">
-    		    					<img src="/img/foodprint/vita-score/NutritionLabel.svg">
-    		</div>
-        <div class="col-xs-5 small-push-top">
-          <p>Balanced menus with a good energy value score the Nutrition Label. These menus do derive 5-14% of it’s calories from proteins and 20-35% from fat, while having a total energy value between 450 and 850 kcal.</p>
-    		</div>
-      </div>
+    <div class="row small-push-bottom">
+    <div class="col-xs-12  small-push-top">
+    	<h3>The Vita Score Award</h3>
     </div>
-
-</div>
+    <div class="col-xs-2 small-push-top">
+    							<img src="/img/foodprint/vita-score/VitaScoreAward.svg">
+    									</div>
+    	<div class="col-xs-5 small-push-top">
+    		<p>Menus with at least 20% less diet related risk points than all recorded menus earn the Vita Score Award. They belong to the 20% menus with the best Vita Score, all having a 5 out of 5 heart rating.</p>
+    	</div>
+    </div>
+    </div>
+    </div>
 
 <div class="container">
 
-    <div class="row push-top small-push-bottom">
-    		<div class="col-xs-12 col-sm-7  small-push-top">
-    			<h1>Balanced Nutrition</h1>
+
+	<div class="row push-top small-push-bottom">
+			<div class="col-xs-12">
+				<hr />
+
+
+						<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Nutrition</h1>
+						<hr />
+						<h3 class="">Being aware of how to fuel our body.</h3>
+						<hr />
+			</div>
+	</div>
+
+	<div class="row  push-bottom">
+		<div class="col-xs-12 col-sm-7 ">
     			<p>The nutritional content of a meal to meet the daily nutrient recommendations can be analyzed separately and independently. The Nutrition Label analyzes  per person and portion if a meal is „well balanced“ in the sense that it provides you with all the daily nutrient requirements.</p>
 
     			<p>An average warm meal should make around one third of the recommended daily amount of 2000 kcal, those nutrients which go above this range will be clearly marked. This way also the nutritional content of a meal can be conveniently optimized.</p>
@@ -143,6 +135,28 @@ categories: foodprint
     		</div>
 
 </div>
+
+
+
+<div class="bgLightGrey small-push-top">
+	<div class="container">
+
+      <div class="row small-push-bottom">
+    		<div class="col-xs-12  small-push-top">
+    			<h3>The Nutrition Label</h3>
+    		</div>
+    		<div class="col-xs-2 small-push-top">
+    		    					<img src="/img/foodprint/vita-score/NutritionLabel.svg">
+    		</div>
+        <div class="col-xs-5 small-push-top">
+          <p>Balanced menus with a good energy value score the Nutrition Label. These menus do derive 5-14% of it’s calories from proteins and 20-35% from fat, while having a total energy value between 450 and 850 kcal.</p>
+    		</div>
+      </div>
+    </div>
+
+</div>
+
+
 
   <div class="window" style="background-image: url('/img/foodprint/roooot.jpg');background-size: 500px 229px;background-position: left center;;background-size: 100%"></div>
 
