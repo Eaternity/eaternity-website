@@ -21,7 +21,7 @@ categories: foodprint
 
 <div class="container">
 
-    <div class="row push-top small-push-bottom">
+    <div class="row push-top push-bottom">
         <div class="col-xs-12 push-bottom text-center">
     			<hr />
     					<img src="/img/foodprint/environment/Environment.svg"  width="100%" style="margin-top:-100px;margin-bottom:-100px;">
@@ -43,9 +43,24 @@ categories: foodprint
 	    </div>
   	</div>
 
-  	<div class="row push-top push-bottom">
-	    <div class="col-xs-12 col-sm-7 push-top">
-	      <h1>Water Footprint</h1>
+		<div class="row push-top small-push-bottom">
+				<div class="col-xs-12">
+					<hr />
+							<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-left:-42px;margin-right:-40px; margin-top:-57px;float:right;">
+							<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-left:-42px;margin-top:-57px;float:right;">
+							<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-left:-42px;margin-top:-57px;float:right;">
+							<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-left:-42px;margin-top:-57px;float:right;">
+							<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-top:-57px;float:right;">
+
+							<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Water Footprint</h1>
+							<hr />
+							<h3 class="">Reducing scarce water by more than 50%.</h3>
+							<hr />
+				</div>
+		</div>
+
+  	<div class="row  push-bottom">
+	    <div class="col-xs-12 col-sm-7 ">
 	      <p>Globally, we have enough fresh water resources, but water is not evenly distributed. Today 663 million people in the world live without clean water. While food production triggers 70% of all our fresh water use, mainly for irrigation. Particular in regions where water is scarce this becomes problematic for humans and the environment, as we consuming their water through the products we purchase. To help everyone needs to reduce world wide dependency on scarce water by 50%. Displaying on a per product and per country basis the amount of scarce water, Eaternity enables optimizations and complete transparency on the issue in a useful way.
 	 <a style="float:right;margin-right:20px;" href="#water">Learn more</a>
 	    		 </p>
@@ -121,9 +136,20 @@ categories: foodprint
 
 <div class="container">
 
-	<div class="row push-top push-bottom">
-		<div class="col-xs-12 col-sm-7 push-top">
-			<h1>Rainforest Protection</h1>
+	<div class="row push-top small-push-bottom">
+			<div class="col-xs-12">
+				<hr />
+
+
+						<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Rainforest Protection</h1>
+						<hr />
+						<h3 class="">Saving the amazon from being cut down.</h3>
+						<hr />
+			</div>
+	</div>
+
+	<div class="row  push-bottom">
+		<div class="col-xs-12 col-sm-7 ">
 			<p>Tropical forests store massive amounts of carbon and hold 2/3 of all land-based species even though they only cover 5% of the Earth’s land area. They provide us with fresh water and they affect local and global climate and weather patterns. The production of soy and palm oil, timber production and grazing cattle are the main driver of tropical rainforest deforestation and lead to a tremendous loss in biodiversity.
 	<a style="float:right;margin-right:20px;" href="#forest">Learn more</a>
 				 </p>
@@ -180,9 +206,23 @@ categories: foodprint
 
 
 <div class="container">
-	<div class="row push-top push-bottom">
-		<div class="col-xs-12 col-sm-6 push-top">
-			<h1>Animal Welfare</h1>
+
+
+
+	<div class="row push-top small-push-bottom">
+			<div class="col-xs-12">
+				<hr />
+
+
+						<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Animal Welfare</h1>
+						<hr />
+						<h3 class="">Treating animals well, feels good.</h3>
+						<hr />
+			</div>
+	</div>
+
+	<div class="row  push-bottom">
+		<div class="col-xs-12 col-sm-7 ">
 			<p>The life quality of animals raised for meat, milk or egg production differs strongly between different farming practices. Many farmers commit to improve animal welfare by providing more space, natural feed and opportunities for picking and digging. Labels guarantee that animals were raised under certain minimal standards and are a valuable guide for consumers.
 	<a style="float:right;margin-right:20px;" href="#forest">Learn more</a>
 				 </p>

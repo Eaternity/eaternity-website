@@ -105,9 +105,48 @@ categories: foodprint
     	</div>
     </div>
 
-Include infos on the local and seasonal label
+</div>
+
+
+<div class="bgLightGrey push-top push-bottom">
+	<div class="container">
+
+
+	<div class="row ">
+		<div class="col-xs-12 col-sm-6">
+	<div class="col-xs-12  small-push-top">
+	<h1>The Season Label</h1>
+	</div>
+	<div class="col-xs-4 col-sm-4 small-push-top">
+						<img src="/img/foodprint/climate-score/season.svg">
+						    </div>
+	<div class="col-xs-10 col-sm-6 small-push-top">
+	<p><br />
+		Menus with only minor emissions from greenhouses score the Season Label.</p>
+</div>
+</div>
+
+<div class="col-xs-12 col-sm-6">
+	<div class="col-xs-12  small-push-top">
+	<h1>The Local Label</h1>
+	</div>
+	<div class="col-xs-4 col-sm-4 small-push-top">
+						<img src="/img/foodprint/climate-score/local.svg">
+								</div>
+	<div class="col-xs-10 col-sm-6 small-push-top">
+	<p><br />
+		Menus with ingredients traveling on average less than 200 km score the Local Label.</p>
+
+	</div>
 
 </div>
+
+</div>
+</div>
+</div>
+
+
+
 
 <div class="bgLightGrey push-top">
 	<div class="container">
@@ -145,7 +184,7 @@ Include infos on the local and seasonal label
 </div>
 
 <div class="container">
-<div class="row push-top">
+<div class="row push-top small-push-bottom">
 
     	<div class="col-xs-12 col-sm-6   ">
       <h3>Improving One Menu at a Time</h3>
