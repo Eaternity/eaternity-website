@@ -9,7 +9,7 @@ categories: foodprint
 	<div class="row">
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
-				<a href="/foodprint"><li>CO₂ Facts</li></a>
+				<a href="/foodprint/"><li>CO₂ Facts</li></a>
 				<a href="/foodprint/organic"><li>Organic Footprint</li></a>
 	      <a href="/foodprint/health"><li class="current">Health Footprint</li></a>
 				<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
@@ -45,13 +45,13 @@ categories: foodprint
       <table class="table table-hover">
          <tbody>
 
-				 <tr>
-					 <td class="active" colspan="2"><h3>Apply to participate.</h3></td>
-				 </tr>
-				 <tr>
-					 <td class="active">Contact </td>
-					 <td class="bgLightBlue">For further information: <a href="mailto:aaleksandrowicz@eaternity.ch">aaleksandrowicz@eaternity.ch</a></td>
-				 </tr>
+    			 <tr>
+    				 <td class="active" colspan="2"><h3>Apply to participate.</h3></td>
+    			 </tr>
+    			 <tr>
+    				 <td class="active">Contact </td>
+    				 <td class="bgLightBlue">For further information: <a href="mailto:aaleksandrowicz@eaternity.ch">aaleksandrowicz@eaternity.ch</a></td>
+    			 </tr>
 
          <tr>
            <td class="active"></td>
@@ -61,24 +61,22 @@ categories: foodprint
       </table>
 
     </div>
+
   </div>
 
-	<div class="row push-top small-push-bottom">
-	  <div class="col-xs-12 text-center">
-	    <a href="http://www.engagement-migros.ch/de/pioniere/eaternity"><img src="/img/organic-foodprint/logo-migrosengagement.svg"></a>
-	  </div>
-	</div>
+    <div class="row push-top small-push-bottom">
+      <div class="col-xs-12 text-center">
+        <a href="http://www.engagement-migros.ch/de/pioniere/eaternity"><img src="/img/organic-foodprint/logo-migrosengagement.svg"></a>
+      </div>
+    </div>
 
-	<div class="row push-bottom">
-		<div class="col-xs-3 text-center"></div>
-		<div class="col-xs-6 text-center">
-		<p>This workshop is part of a project by Eaternity made possible by Engagement Migros development fund.</p><a href="/foodprint/health"><button>Learn more</button></a>
-		</div>
-	</div>
-
-
+    <div class="row push-bottom">
+    	<div class="col-xs-3 text-center"></div>
+    	<div class="col-xs-6 text-center">
+    	<p>This workshop is part of a project by Eaternity made possible by Engagement Migros development fund.</p><a href="/foodprint/health"><button>Learn more</button></a>
+    	</div>
+    </div>
 
 </div>
-
 
 <div class="window" style="background-image: url('/img/foodprint/roooot.jpg');background-size: 100%;background-position: left top;"></div>

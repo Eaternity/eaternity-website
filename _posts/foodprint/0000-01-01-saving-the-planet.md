@@ -10,7 +10,7 @@ permalink: /foodprint/
 	<div class="row">
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
-				<a href="/foodprint"><li class="current">Saving the Planet</li></a>
+				<a href="/foodprint/"><li class="current">Saving the Planet</li></a>
 	      <a href="/foodprint/climate-score"><li>Climate Score</li></a>
 				<a href="/foodprint/vita-score"><li>Vita Score</li></a>
 				<a href="/foodprint/environmental-footprints"><li>Environmental Footprints</li></a>
