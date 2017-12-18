@@ -13,9 +13,9 @@ blog-image: 2017-06-12-organic-update.jpg
 image: 2017-06-12-organic-update.jpg
 tags:
 - press
-- organic
-
+- environment
 ---
+
 <em style="font-weight: bold;">**Are organic food choices good for the environment? For the past two years Eaternity took a closer look and we found: It’s trickier than one might think. Here’s an update on our ongoing research.**</em>
 
 We wanted to know how organic labels from different countries differ in their regulations and whether this influences the carbon footprint of their products. We found that BioSuisse is unique as it restricts the heating energy in greenhouses and prohibits the use of peat.
@@ -29,17 +29,18 @@ Now you can calculate the carbon footprint of all of European’s organic greenh
 However, if we want to measure the all-inclusive impact of produce on the environment, we need to look beyond greenhouse gases into the effects of deforestation and also water scarcity. Globally, there is enough fresh water, but the water is not well distributed. The use of blue water (surface-, river- and groundwater) is problematic in regions where water is scarce. The same product can have a very different water scarcity footprint depending on where it was produced. For example, the water scarcity footprint of a Spanish tomato is 2500 times higher than a Swiss tomato. All products produced in Switzerland have a very low water scarcity footprint (<35 L H₂Oeq/kg). A Swiss citizen has its largest water scarcity footprints in the consumption of olives and olive oil, nuts, chocolate, coffee, milk, rice and beef.
 
 ### Humanely raised does not equal climate-friendly
+
 When we extended our research to the meat industry, we found that the story is different. At first, from a climate-perspective organic production appears to perform worse than conventional. Grazing cows grow slower and live longer before they reach maturity. They eat more feed, they use more land and they emit more of the strong greenhouse gas methane. However, the feed they consume is less grain based and therefore rainforest deforestation is a minor issue. In Switzerland in particular, the vast majority of imported soy is grown responsibly. Therefore, even in conventional farming the carbon emissions from deforestation contribute only very little to the calculated carbon footprint of Swiss farming.
 
-The biggest benefit from organic meat and poultry products therefor is the fact that these animals are humanely raised. In other words, climate and other environmental aspects are in a strong conflict with humane animal farming when it comes to  beef and chicken. This is a trade-off that can’t yet be measured scientifically but it can be seen as an ethical prosperity. Make up your own mind. We did, however, not find any conflicts between climate and humane procedures in pig farming. Speaking of a pig in clover.
+The biggest benefit from organic meat and poultry products therefor is the fact that these animals are humanely raised. In other words, climate and other environmental aspects are in a strong conflict with humane animal farming when it comes to beef and chicken. This is a trade-off that can’t yet be measured scientifically but it can be seen as an ethical prosperity. Make up your own mind. We did, however, not find any conflicts between climate and humane procedures in pig farming. Speaking of a pig in clover.
 
 ### Science in charge
+
 Reviewing literature we found that even the best data currently available does not capture the entire impact and benefits of organic produce on the environment. In a workshop with scientists and stakeholders from BioSuisse, Biovision, WWF, restaurants, consumers, farmers and many more stakeholders we discussed the conflicts we found between animal welfare and climate, and which other aspects next to climate they think are the most important ones to include for decision making. We agreed that focussing on climate is necessary, but we have to look beyond that plate. Biodiversity, soil fertility, ecotoxicology, deforestation, land use, water use, eutrophication (how much nutrients enter the lakes and rivers) and animal welfare come into focus. However, only few of these indicators have fully established methods.
 
 Or to speak in the words of the consumer, even though enjoying the display of fresh produce at a supermarket in a globalized world is as easy on the eye as color television – in HD and 3D. The science that will conclude which product will have a minimal impact on our environment however, has just left the age of analog black and white television: We have a good idea of what`s unfolding, but we yet have to work on the clarity of the picture.
 
-<em style="font-style: italic;">__Ann: On September 28 you are kindly invited to our [Impuls-Event][RSVP], where our group of scientists, supported by the culinary art of our climate friendly excellence team, will introduce you to our latest findings on climate friendly sustenance, organic farming and health.__</em>
-
+<em style="font-style: italic;">**Ann: On September 28 you are kindly invited to our [Impuls-Event][rsvp], where our group of scientists, supported by the culinary art of our climate friendly excellence team, will introduce you to our latest findings on climate friendly sustenance, organic farming and health.**</em>
 
 <br /><br /><br /><br /><br />
 
@@ -114,8 +115,7 @@ Or to speak in the words of the consumer, even though enjoying the display of fr
 
 * Wolff, V., Alig, M., Nemecek, T. & Gaillard, G. (2016). Ökobilanz verschiedener Fleischprodukte. Geflügel-, Schweine- und Rindfleisch. 1–51. Agroscope, Zürich.
 
-
 [1]: http://www.eaternity.org/app/get-the-app
 [2]: http://www.eaternity.org/foodprint/database
 [migros]: http://www.engagement-migros.ch/de/eaternity-auf-dem-menue-workshops
-[RSVP]: https://smartchefs.eventbrite.com/
+[rsvp]: https://smartchefs.eventbrite.com/

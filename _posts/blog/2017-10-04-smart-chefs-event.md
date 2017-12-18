@@ -14,7 +14,7 @@ image: 2017-10-04-smart-chefs.jpg
 tags:
 - press
 - health
-- organic
+- environment
 ---
 
 <em style="font-weight: bold;">**Am 28. September 2017 haben wir im Rahmen einer

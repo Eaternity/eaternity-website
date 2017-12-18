@@ -5,7 +5,6 @@ title: Eaternity Product
 permalink: /app/
 ---
 
-
 <div class="container hidden-xs">
   <div class="row">
     <div class="col-xs-12 text-center">
@@ -32,7 +31,6 @@ permalink: /app/
     </div>
   </div>
 </div>
-
 
 <div class="bgDarkBlue">
   <div class="container">
@@ -85,7 +83,6 @@ permalink: /app/
   </div>
 </div>
 
-
 <div class="container">
   <div class="row push-top push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-5">
@@ -111,10 +108,14 @@ permalink: /app/
   </div>
 </div>
 
+<script src="/js/jquery-2.1.4.min.js"></script>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="/js/jquery.magnific-popup.min.js"></script>
+
 <script src="/js/jquery.royalslider.min.js"></script>
+
 <script src="/js/bootstrap.min.js"></script>
+
 <script src="/js/icheck.min.js"></script>
+
 <script src="/js/script.js"></script>

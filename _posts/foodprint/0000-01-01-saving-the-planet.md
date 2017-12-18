@@ -154,6 +154,62 @@ permalink: /foodprint/
 
 <div class="container">
 
+	<div class="row big-push-top big-push-bottom text-center">
+		<div class="col-xs-12 col-sm-4">
+			<h3 >Fact #1</h3>
+			<p>One cheeseburger has the same effect on our climate as watching television for 500 hours.</p>
+			<p>
+			<a class="facebook" href="#" onclick="
+				    window.open(
+				      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+				      'facebook-share-dialog',
+				      'width=626,height=436');
+				    return false;"><span class="socialMedia facebook"></span></a>
+	        <a href="https://twitter.com/intent/tweet?text=One cheeseburger has the same effect on our climate as watching television for 500 hours. {{ site.domain_name }}{{ page.url }} via @eaternity"><span class="socialMedia twitter"></span></a>
+	        <a href="https://plus.google.com/share?url={{ site.domain_name }}{{ page.url }}"><span class="socialMedia google"></span></a>
+	    </p>
+	    <a class="button ajax-popup-link-blue-bg" href="/foodprint/facts/fact1">
+	      Learn more <i class="fa fa-angle-right fa-lg"></i>
+	    </a>
+		</div>
+
+	    <div class="col-xs-12 col-sm-4 xs-push-top">
+	    	<h3 >Fact #2</h3>
+	    	<p>1 kg of pork causes as much CO2 as producing 80 kg of potatoes</p>
+	    	<p>
+	    	<a class="facebook" href="#" onclick="
+	    		    window.open(
+	    		      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+	    		      'facebook-share-dialog',
+	    		      'width=626,height=436');
+	    		    return false;"><span class="socialMedia facebook"></span></a>
+	        <a href="https://twitter.com/intent/tweet?text=The production of 1 kg potatoes causes 17 times more CO₂ than 1 kg pork. {{ site.domain_name }}{{ page.url }} via @eaternity"><span class="socialMedia twitter"></span></a>
+	        <a href="https://plus.google.com/share?url={{ site.domain_name }}{{ page.url }}"><span class="socialMedia google"></span></a>
+	    </p>
+	    <a class="button ajax-popup-link-blue-bg" href="/foodprint/facts/fact2">
+	      Learn more <i class="fa fa-angle-right fa-lg"></i>
+	    </a>
+	    </div>
+
+	    <div class="col-xs-12 col-sm-4 xs-push-top">
+	    	<h3 >Fact #3</h3>
+	    	<p>Eating climate-friendly 3 times per week will change the world.</p>
+	    	<p>
+	    	<a class="facebook" href="#" onclick="
+	    		    window.open(
+	    		      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+	    		      'facebook-share-dialog',
+	    		      'width=626,height=436');
+	    		    return false;"><span class="socialMedia facebook"></span></a>
+	        <a href="https://twitter.com/intent/tweet?text={{ site.domain_name }}{{ page.url }} - {{page.title}} via @eaternity"><span class="socialMedia twitter"></span></a>
+	        <a href="https://plus.google.com/share?url={{ site.domain_name }}{{ page.url }}"><span class="socialMedia google"></span></a>
+	    </p>
+	    <a class="button ajax-popup-link-blue-bg" href="/foodprint/facts/fact3">
+	      Learn more <i class="fa fa-angle-right fa-lg"></i>
+	    </a>
+	    </div>
+
+	</div>
 
 
 
@@ -333,7 +389,6 @@ permalink: /foodprint/
   </div>
 </div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
 <script src="/js/jquery.magnific-popup.min.js"></script>
 
