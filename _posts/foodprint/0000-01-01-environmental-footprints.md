@@ -141,7 +141,7 @@ categories: foodprint
 				<hr />
 
 
-						<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Rainforest Protection</h1>
+						<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Rainforest</h1>
 						<hr />
 						<h3 class="">Saving the amazon from being cut down.</h3>
 						<hr />
@@ -214,7 +214,7 @@ categories: foodprint
 				<hr />
 
 
-						<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Animal Welfare</h1>
+						<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Animal Treatment</h1>
 						<hr />
 						<h3 class="">Treating animals well, feels good.</h3>
 						<hr />
@@ -227,7 +227,7 @@ categories: foodprint
 	<a style="float:right;margin-right:20px;" href="#forest">Learn more</a>
 				 </p>
 
-			<h3>Indicating good animal treatment</h3>
+			<h3>Indicating good animal treatments</h3>
 			<p>
 				food products receive the animal treatment label if they at least contain one animal products like meat, milk or eggs and are certified by a label that stands for an established practice that improves animal welfare.
 
