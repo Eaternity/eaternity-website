@@ -14,9 +14,13 @@ image: 2017-06-12-organic-update.jpg
 tags:
 - press
 - environment
+- smart-chefs
+- organic
 ---
 
-<em style="font-weight: bold;">**Are organic food choices good for the environment? For the past two years Eaternity took a closer look and we found: It’s trickier than one might think. Here’s an update on our ongoing research.**</em>
+**Are organic food choices good for the environment? For the past two years Eaternity took a closer look and we found: It’s trickier than one might think. Here’s an update on our ongoing research.**
+
+<hr />
 
 We wanted to know how organic labels from different countries differ in their regulations and whether this influences the carbon footprint of their products. We found that BioSuisse is unique as it restricts the heating energy in greenhouses and prohibits the use of peat.
 

@@ -5,6 +5,10 @@ email: email@eaternity.com
 description: App'etite for Change.
 meta_description: "Eaternity is creating a movement to establish climate friendly meals."
 
+# plugins
+plugins:
+  - jekyll-redirect-from
+
 
 # Build settings
 markdown: kramdown #redcarpet

@@ -87,64 +87,8 @@ categories: foodprint
 
   </div>
 
-    <div class="row big-push-bottom">
-    	<div class="col-xs-12 col-sm-4 text-center">
-    		<img src="/img/eat-at-home/ingredients.svg" />
-    		<h3>#1: Product Choice</h3>
-    		<p><span style="font-weight:600">Consider a higher ratio of plant-based products vs. animal products.</span> Fruit, vegetables and cereals show an extensively better environmental impact, as livestock breeding is resource and energy-intensive.</p>
-    	</div>
-    	<div class="col-xs-12 col-sm-4 text-center xs-push-top">
-    		<img src="/img/eat-at-home/seasonality.svg" />
-    		<h3>#2: Seasonality</h3>
-    		<p><span style="font-weight:600">Choose fresh produce and avoid greenhouse vegetables.</span> Favour fresh products over deep-frozen ones. Also, beware of greenhouse produced veggies as a lot of energy is needed for electric lighting, watering and heating.</p>
-    	</div>
-    	<div class="col-xs-12 col-sm-4 text-center xs-push-top">
-    		<img src="/img/eat-at-home/regionality.svg" />
-    		<h3>#3: Origin</h3>
-    		<p><span style="font-weight:600">Avoid air transportation and favor short distances.</span> Avoid airplane transportation with its high emissions due to fuel consumption. Be aware of long transport distances.</p>
-    	</div>
-    </div>
-
+  
 </div>
-
-
-<div class="bgLightGrey push-top push-bottom">
-	<div class="container">
-
-
-	<div class="row ">
-		<div class="col-xs-12 col-sm-6">
-	<div class="col-xs-12  small-push-top">
-	<h1>The Season Label</h1>
-	</div>
-	<div class="col-xs-4 col-sm-4 small-push-top">
-						<img src="/img/foodprint/climate-score/season.svg">
-						    </div>
-	<div class="col-xs-10 col-sm-6 small-push-top">
-	<p><br />
-		Menus with only minor emissions from greenhouses score the Season Label.</p>
-</div>
-</div>
-
-<div class="col-xs-12 col-sm-6">
-	<div class="col-xs-12  small-push-top">
-	<h1>The Local Label</h1>
-	</div>
-	<div class="col-xs-4 col-sm-4 small-push-top">
-						<img src="/img/foodprint/climate-score/local.svg">
-								</div>
-	<div class="col-xs-10 col-sm-6 small-push-top">
-	<p><br />
-		Menus with ingredients traveling on average less than 200 km score the Local Label.</p>
-
-	</div>
-
-</div>
-
-</div>
-</div>
-</div>
-
 
 
 

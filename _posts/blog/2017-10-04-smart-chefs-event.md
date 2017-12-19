@@ -15,15 +15,19 @@ tags:
 - press
 - health
 - environment
+- smart-chefs
+- organic
 ---
 
-<em style="font-weight: bold;">**Am 28. September 2017 haben wir im Rahmen einer
+**_Am 28. September 2017 haben wir im Rahmen einer
 interaktiven Impuls-Veranstaltung über unsere neuesten Erkenntnisse in den
 Bereichen Klimaschutz, Gesundheit und umweltfreundliche Landwirtschaft
 informiert. Am Event konnten wir unsere 2 grössten Lieben mit euch teilen. Was
 uns verbindet bei Eaternity ist das gute Essen und die stichhaltigen Daten. Zwei
 Welten lassen wir zusammenkommen die eigentlich nicht getrennt sein sollten: die
-Wissenschaft und die Gastronomie.**</em>
+Wissenschaft und die Gastronomie._**
+
+<hr />
 
 Insgesamt konnte man vor Ort 3 gesunde, klima- und umweltfreundliche Aperitifen
 sowie ihre Gegenstücke degustieren, bereitgestellt von unseren 3 Chefköchen:
@@ -181,7 +185,7 @@ der Migros-Gruppe.
 ### Downloads
 
 Die Ergebnisse zu Gesundheit, Bio und Klima werden in der Publikation
-[170922-Smart-Chefs-Summary.pdf][summary] zusammengefasst.
+[2017-12-16-Smart-Chefs-Compilation.pdf][summary] zusammengefasst.
 
 Pressemitteilung zum Event:
 [2017-10-05_Eaternity-Medienmitteilung-Versand.pdf][presse]
@@ -196,6 +200,6 @@ Pressemitteilung zum Event:
 [health-good]: http://www.eaternity.org/assets/smart-chefs/Illustration-Health-Good.pdf
 [health]: http://www.eaternity.org/assets/smart-chefs/Dietary-Risk-Factors.pdf
 [organic]: http://www.eaternity.org/assets/smart-chefs/170927-Eaternity-fact_sheet_booklet.pdf
-[summary]: http://www.eaternity.org/assets/smart-chefs/170922-Smart-Chefs-Summary.pdf
+[summary]: http://www.eaternity.org/assets/smart-chefs/2017-12-16-Smart-Chefs-Compilation.pdf
 [presse]: http://www.eaternity.org/assets/smart-chefs/2017-10-05_Eaternity-Medienmitteilung-Versand.pdf
 [gbd]: http://www.healthdata.org/gbd

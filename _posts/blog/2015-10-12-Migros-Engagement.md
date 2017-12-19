@@ -15,15 +15,14 @@ image: 2015-10-12-Migros-Engagement.jpg
 
 tags:
 - press
-
-
-
+- smart-chefs
+- organic
+- health
 ---
 
-	The CO₂ calculator of the Zurich start-up Eaternity determines the ecological footprint of over 5000 Swiss meals. In future, its evaluation will also include the effect of an organic and healthy diet. A large-scale project financed by the Engagement Migros development fund that is backed by the Zurich University of Applied Sciences (ZHAW) and other partners is making this expansion possible. It will provide a ground-breaking standard for especially healthy and sustainable meals.
+The CO₂ calculator of the Zurich start-up Eaternity determines the ecological footprint of over 5000 Swiss meals. In future, its evaluation will also include the effect of an organic and healthy diet. A large-scale project financed by the Engagement Migros development fund that is backed by the Zurich University of Applied Sciences (ZHAW) and other partners is making this expansion possible. It will provide a ground-breaking standard for especially healthy and sustainable meals.
 
-
-<br>
+<hr />
 
 Approximately one-third of global greenhouse gasses result from the production and consumption of food; in Western countries that amounts to over 2 tonnes of CO₂ per person annually. The production of beef, for example, strongly affects the climate, while potatoes barely have an impact. There is therefore potential for reduction through the way we eat: those who want to do so in a climate-friendly way should prefer vegetables over meat products and be on the lookout for seasonal and regional offerings. This can lead to savings of approximately 50% in CO₂ for every meal.
 
@@ -35,7 +34,6 @@ The large-scale project is being financed by the Engagement Migros development f
 
 ###About Engagement Migros
 The Engagement Migros development fund was launched in 2012 to enable the Migros Group to give voluntary support to projects in the fields of culture, sustainability, business and sport. The projects are funded by companies with commercial activities in retailing, financial services and travel. The funds made available represent ten percent of the dividends disbursed by the companies each year. The pro- jects supported by Engagement Migros are chosen in a dedicated selection process according to pro- motion priorities. The development fund stems from the Migros Groups’ commitment to corporate social responsibility, supplementing the supporting activities carried out by the Migros Cultural Percentage. For further information: [www.engagement-migros.ch][migros]
-
 
 Download our press release ([EN][en] / [DE][de] / [IT][it] / [FR][fr] )
 

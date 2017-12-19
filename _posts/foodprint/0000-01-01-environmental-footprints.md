@@ -220,7 +220,7 @@ categories: foodprint
 	</div>
 
 	<div class="row  push-bottom">
-		<div class="col-xs-12 col-sm-7 ">
+		<div class="col-xs-12 col-sm-6">
 			<p>The life quality of animals raised for meat, milk or egg production differs strongly between different farming practices. Many farmers commit to improve animal welfare by providing more space, natural feed and opportunities for picking and digging. Labels guarantee that animals were raised under certain minimal standards and are a valuable guide for consumers.
 	<a style="float:right;margin-right:20px;" href="#forest">Learn more</a>
 				 </p>
@@ -235,7 +235,7 @@ categories: foodprint
 
 		</div>
 
-		<div class="col-xs-12 col-sm-6 push-top">
+		<div class="col-xs-12 col-sm-6">
 			<table class="table table-hover small-push-top">
 				 <tbody>
 				 <tr>
@@ -295,6 +295,66 @@ categories: foodprint
 	</div>
 </div>
 
+<div class="container">
+<div class="row push-top small-push-bottom">
+		<div class="col-xs-12">
+			<hr />
+
+
+					<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Local & Saisonal</h1>
+					<hr />
+					<h3 class="">Supporting decentralized and efficient small scale agriculture close to you.</h3>
+					<hr />
+		</div>
+</div>
+</div>
+
+
+<div class="bgLightGrey small-push-top push-bottom">
+	<div class="container">
+
+
+	<div class="row ">
+		<div class="col-xs-12 col-sm-6">
+	<div class="col-xs-12  small-push-top">
+	<h1>The Season Label</h1>
+	</div>
+	<div class="col-xs-4 col-sm-4 small-push-top">
+						<img src="/img/foodprint/climate-score/season.svg">
+						    </div>
+	<div class="col-xs-10 col-sm-6 small-push-top">
+	<p><br />
+		Menus with only minor emissions from greenhouses score the Season Label.</p>
+</div>
+</div>
+
+<div class="col-xs-12 col-sm-6">
+	<div class="col-xs-12  small-push-top">
+	<h1>The Local Label</h1>
+	</div>
+	<div class="col-xs-4 col-sm-4 small-push-top">
+						<img src="/img/foodprint/climate-score/local.svg">
+								</div>
+	<div class="col-xs-10 col-sm-6 small-push-top">
+	<p><br />
+		Menus with ingredients traveling on average less than 200 km score the Local Label.</p>
+
+	</div>
+
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
 
 <div class="window" style="background-image: url('/img/foodprint/Sonnenaufgang-3.jpg');background-size: 100%;background-position: left top;"></div>
 
@@ -336,19 +396,16 @@ categories: foodprint
 
   <div class="row small-push-bottom" >
     <div class="col-xs-12 col-sm-6">
-      <p>This fact sheet invites to create a common ground for climate action by summarizing current knowledge on the climate and environmental impacts of conventional and organic production.</p>
-
-			<p>It is supported by our scientifc board of experts and partners. It was developed in 2017 as part of the Organic Footprint project which was made possible by the Engagement Fund Migros.</p>
-
-			<p>The environmental indicators are the result of the Organic Footprint project. Our aim was to create a common ground for climate action by summarizing current knowledge on the climate and environmental impacts of conventional and organic production.  </p>
+      <p>The environmental indicators are the result of the <a href="">Organic Footprint Project</a>. Our aim was to create a common ground for climate action by summarizing current knowledge on the climate and environmental impacts of conventional and organic production. </p>
 
 			<p>As a consequence, Eaternity included additional indicators for water scarcity, tropical deforestation and animal welfare into the Eaternity App to support the overall goal of reducing the food related climate impact.</p>
 
-			<p>Together with our scientific partners at ZHAW and Quantis we investigated how the climate and environmental impacts of organic food differs from conventional food. At the Organic Footprint Workshop 2016 held in Zürich we discussed with scientists, chefs, consumers and farmers the state of the knowledge in sciences and which indicators are crucial to assess environmental sustainability of food. Based on those discussions and the scientific work conducted within this project we selected this core set of indicators. All main findings and conclusions are summarized in the Organic Fact Sheet and is broadly supported by experts and stakeholders. We express our deepest gratitude to the leading scientists in our advisory board that supported us throughout the project with valuable inputs and reviews.</p>
+			<p>The resuts are supported by our scientific board of experts and partners. The project was made possible by the Engagement Fund Migros.</p>
 
-			<p>All results of the project were put into practice at the impuls event “Smart Chefs”. Chefs presented delicious appetizers and showed that tasty meals can be healthy and sustainable at the same time.</p>
-
-			<p>We thank Migros Engagement Fund for funding the Organic Foodprint project from 1.5.2017 – 31.12.2017.</p>
+			<h3>Publications</h3>
+			<ol>
+			<li>Dive deeper in the science! ➔ Links to the following documents</li>
+			</ol>
 
 		</div>
 
@@ -385,10 +442,6 @@ categories: foodprint
       	</tbody>
       </table>
 
-			<h3>Publications</h3>
-			<ol>
-			<li>Dive deeper in the science! ➔ Links to the following documents</li>
-			</ol>
 
     </div>
 
