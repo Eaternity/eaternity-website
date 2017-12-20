@@ -58,7 +58,7 @@ By analyzing the status quo in restaurants and considering global sustainability
 <br />
 ### Water Scarcity Footprint
 
-* On average Swiss vegetarian meals have higher water footprints than Swiss meals with meat or fish. For other countries this can be different. Nevertheless, 62% of Swiss vegetarian meals still receive the Water Footprint Award.
+* Swiss vegetarian meals and meals with meat have similar water footprints. For other countries this can be different. For other countries this can be different. Nevertheless, 62% of Swiss vegetarian meals still receive the Water Footprint Award.
 * The most important factors to improve the Water Scarcity Footprint are to avoid products from water scarce regions and if not produced in Switzerland to reduce the amount of animal products. Examples of plant-based products that mostly have a high water scarcity footprint are olive oil, almonds and lentils if they were produced in for example Turkey, but not if they are from Canada.
 
 <br /><a style="float:right" href="/foodprint/environmental-footprints#water">Learn more.</a>
