@@ -61,7 +61,7 @@ By analyzing the status quo in restaurants and considering global sustainability
 * On average Swiss vegetarian meals have higher water footprints than Swiss meals with meat or fish. For other countries this can be different. Nevertheless, 62% of Swiss vegetarian meals still receive the Water Footprint Award.
 * The most important factors to improve the Water Scarcity Footprint are to avoid products from water scarce regions and if not produced in Switzerland to reduce the amount of animal products. Examples of plant-based products that mostly have a high water scarcity footprint are olive oil, almonds and lentils if they were produced in for example Turkey, but not if they are from Canada.
 
-<br /><a style="float:right" href="/foodprint/environmental-footprints/#water">Learn more.</a>
+<br /><a style="float:right" href="/foodprint/environmental-footprints#water">Learn more.</a>
 
 <br />
 ### Rainforest label
@@ -69,7 +69,7 @@ By analyzing the status quo in restaurants and considering global sustainability
 * Practically all meals (97%) contain soy and/or palm oil. This also includes meals with meat and milk products for which soy was used to feed the animals.
 * 72% of meals receive the Rainforest Label mostly, because the palm oil or soy was either certified or stems from an unproblematic production country.
 
-<br /><a style="float:right" href="/foodprint/environmental-footprints/#forest">Learn more.</a>
+<br /><a style="float:right" href="/foodprint/environmental-footprints#forest">Learn more.</a>
 
 <br />
 ### Animal Treatment Label
@@ -77,7 +77,7 @@ By analyzing the status quo in restaurants and considering global sustainability
 * 17% of the meals that received the Animal Treatment Label contained meat, 44% were vegetarian and 39% were vegan..
 * To increase animal welfare one can reduce the amount of animal products eaten and buy certified meat and milk products.
 
-<br /><a style="float:right" href="/foodprint/environmental-footprints/#animal">Learn more.</a>
+<br /><a style="float:right" href="/foodprint/environmental-footprints#animal">Learn more.</a>
 
 <br />
 ### Climate Score Award
