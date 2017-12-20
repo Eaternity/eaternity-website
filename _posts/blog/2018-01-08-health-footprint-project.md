@@ -49,7 +49,7 @@ At the Health Footprint Workshop 2016 held in Zürich we discussed with scientis
 
 Together we formulated a message that combines the goals of both climate friendly and healthy nutrition, giving consumers and restaurants the opportunity to contribute to a sustainable and healthy future. We summarized and discussed the available knowledge of climate friendly and healthy nutrition. And provided guidelines for the restaurants and consumers showing the way towards climate friendly and healthy nutrition.
 
-Based on the discussions and the scientific work conducted within this project we selected the Global Burden of Disease Study to develop an indicator for menus - the <a href="/foodprint/vita-score/">Vita Score</a>. It was further discussed and reviewed by the advisory board, as well as further experts from the field of nutrition.
+Based on the discussions and the scientific work conducted within this project we selected the Global Burden of Disease Study to develop an indicator for menus - the <a href="/foodprint/vita-score">Vita Score</a>. It was further discussed and reviewed by the advisory board, as well as further experts from the field of nutrition.
 
 The Vita-Score together with the environmental footprints was tested against data from real restaurant, the conclusion was: "We are out of balance!". <a href="/blog/smart-chefs-restaurant-analysis">Learn more about the Restaurant Analysis.</a>
 

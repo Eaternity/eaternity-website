@@ -196,12 +196,16 @@ categories: foodprint
 
   <div class="row small-push-bottom" >
     <div class="col-xs-12 col-sm-6">
-      <p>As a multi-stakeholder project, scientific partners, experts and stakeholders are invited to come on board to secure quality, stimulate debate and fruitful exchange. Our long-term vision is to build a knowledge consortium on food and, its related environmental and health impacts.</p>
+      <p>The Vita Score is the result of the Health Footprint Project. Our aim was to create an indicator for meals that is deeply rooted in the newest and sound science. The indicator shows which meals are in line with the minimal risk diet to reduce the risk of diet related diseases.</p>
+
+			<p>As a consequence, Eaternity included the Vita Score as an indicator for healthiness of a meal into the Eaternity App to support the overall goal of eating healthy and climate friendly meals!</p>
+
+			<p>The results were reviewed by our scientific board of experts and partners. The project was made possible by the Engagement Fund Migros.</p>
 
     		<h3>Publications</h3>
     		<ol>
-    		<li>Results of the Health Footprint Project ➔ booklet long version</li>
-    		<li>Full documentation of the Vita Score ➔ vita score document</li>
+    		<li><a href="/blog/smart-chefs-research-results">Results of the Health Footprint Project</a></li>
+    		<li><a href="/assets/smart-chefs/2017-12-12_VitaScore_Documentation_web.pdf">Full documentation of the Vita Score</a></li>
     		<li>Healthy eating guidelines ➔ eating guidelines for the vita score</li>
     		</ol>
     </div>
