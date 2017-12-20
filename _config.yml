@@ -9,6 +9,7 @@ meta_description: "Eaternity is creating a movement to establish climate friendl
 plugins:
   - jekyll-redirect-from
 
+future: false
 
 # Build settings
 markdown: kramdown #redcarpet
