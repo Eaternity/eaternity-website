@@ -35,7 +35,7 @@ categories: foodprint
         		<hr />
         		<h3 class="">A health indicator for meals based on scientific evidence.</h3>
         		<hr />
-        		<a href="/app/get-the-app/"><button>Available Now</button></a>
+        		<a href="/app/get-the-app"><button>Available Now</button></a>
         </div>
     </div>
 

@@ -34,7 +34,7 @@ permalink: /foodprint/
         		<h3 class="">On the importance of food sustainability to prevent human extinction.</h3>
         		<hr />
 
-							<a href="/app/get-the-app/"><button>Step into action</button></a>
+							<a href="/app/get-the-app"><button>Step into action</button></a>
 						</div>
 
 

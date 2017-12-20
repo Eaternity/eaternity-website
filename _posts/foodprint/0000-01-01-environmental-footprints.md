@@ -29,33 +29,34 @@ categories: foodprint
         		<hr />
         		<h3 class="" style="">Environmental Footprints - Covering more aspects of food sustainability</h3>
         		<hr />
-        		<a href="/app/get-the-app/"><button>Register Now</button></a>
+        		<a href="/app/get-the-app"><button>Register Now</button></a>
         </div>
     </div>
 
-		<div class="row push-bottom">
-	    <div class="col-sm-7">
-	      <p>Climate friendly meals are often good for the environment in general. For example, reducing the carbon footprint of our diet also reduces the impact on land use and of the oversupply of nutrients. However, in detail potential conflicts can occur between climate, animal welfare, tropical deforestation and water scarcity. </p>
-				<p>The Eaternity App now provides the water footprint, forest label and animal treatment label next to the climate score. With this set of indicators everybody can prepare climate friendly and sustainable meals.
-				</p>
-	    </div>
+    	<div class="row push-bottom">
+        <div class="col-sm-7">
+          <p>Climate friendly meals are often good for the environment in general. For example, reducing the carbon footprint of our diet also reduces the impact on land use and of the oversupply of nutrients. However, in detail potential conflicts can occur between climate, animal welfare, tropical deforestation and water scarcity. </p>
+    			<p>The Eaternity App now provides the water footprint, forest label and animal treatment label next to the climate score. With this set of indicators everybody can prepare climate friendly and sustainable meals.
+    			</p>
+        </div>
+
   	</div>
 
-		<div class="row push-top small-push-bottom" id="water">
-				<div class="col-xs-12">
-					<hr />
-							<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-left:-42px;margin-right:-40px; margin-top:-57px;float:right;">
-							<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-left:-42px;margin-top:-57px;float:right;">
-							<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-left:-42px;margin-top:-57px;float:right;">
-							<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-left:-42px;margin-top:-57px;float:right;">
-							<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-top:-57px;float:right;">
+    	<div class="row push-top small-push-bottom" id="water">
+    			<div class="col-xs-12">
+    				<hr />
+    						<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-left:-42px;margin-right:-40px; margin-top:-57px;float:right;">
+    						<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-left:-42px;margin-top:-57px;float:right;">
+    						<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-left:-42px;margin-top:-57px;float:right;">
+    						<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-left:-42px;margin-top:-57px;float:right;">
+    						<img src="/img/foodprint/environment/water.svg" height="200px" width="200px" style="margin:-67px;margin-top:-57px;float:right;">
 
-							<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Water Footprint</h1>
-							<hr />
-							<h3 class="">Reducing scarce water by more than 50%.</h3>
-							<hr />
-				</div>
-		</div>
+    						<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Water Footprint</h1>
+    						<hr />
+    						<h3 class="">Reducing scarce water by more than 50%.</h3>
+    						<hr />
+    			</div>
+    	</div>
 
   	<div class="row  push-bottom">
 	    <div class="col-xs-12 col-sm-7 ">
@@ -113,7 +114,7 @@ categories: foodprint
         					    </div>
         <div class="col-xs-5 col-sm-4 small-push-top">
         <p>
-					<br />
+    				<br />
         	Menus that are in line with reducing the average water scarcity footprint by 50% receive the Water Footprint Award. This corresponds to menus with a score of at least 2 out of 5 drops. </p>
 
         </div>
@@ -128,171 +129,172 @@ categories: foodprint
 
     	</div>
 
-		</div>
-</div>
+    	</div>
 
+</div>
 
 <div class="container" id="forest">
 
-	<div class="row push-top small-push-bottom">
-			<div class="col-xs-12">
-				<hr />
+    <div class="row push-top small-push-bottom">
+    		<div class="col-xs-12">
+    			<hr />
 
 
-						<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Rainforest</h1>
-						<hr />
-						<h3 class="">Saving the amazon from being cut down.</h3>
-						<hr />
-			</div>
-	</div>
+    					<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Rainforest</h1>
+    					<hr />
+    					<h3 class="">Saving the amazon from being cut down.</h3>
+    					<hr />
+    		</div>
+    </div>
 
-	<div class="row  push-bottom">
-		<div class="col-xs-12 col-sm-7 ">
-			<p>Tropical forests store massive amounts of carbon and hold 2/3 of all land-based species even though they only cover 5% of the Earth’s land area. They provide us with fresh water and they affect local and global climate and weather patterns. The production of soy and palm oil, timber production and grazing cattle are the main driver of tropical rainforest deforestation and lead to a tremendous loss in biodiversity.
-	<a style="float:right;margin-right:20px;" href="#forest">Learn more</a>
-				 </p>
-		</div>
+    <div class="row  push-bottom">
+    	<div class="col-xs-12 col-sm-7 ">
+    		<p>Tropical forests store massive amounts of carbon and hold 2/3 of all land-based species even though they only cover 5% of the Earth’s land area. They provide us with fresh water and they affect local and global climate and weather patterns. The production of soy and palm oil, timber production and grazing cattle are the main driver of tropical rainforest deforestation and lead to a tremendous loss in biodiversity.
+    <a style="float:right;margin-right:20px;" href="#forest">Learn more</a>
+    			 </p>
+    	</div>
 
-	</div>
+    </div>
 
-	<div class="row push-top">
-	<div class="col-xs-12 col-sm-10 col-sm-offset-1">
-		<img src="/img/foodprint/environment/deforestation.svg" style="width:100%">
-	</div>
-		<div class="col-xs-12 col-sm-7  small-push-top">
-			<h3>Indicating forest protection</h3>
-			<p>
-				The Rainforest label is given to food products that did not cause deforestation. This is the case if the product contains certified soy or palm oil or if the product doesn’t contain palm oil or soy at all. In addition, uncertified soy is still fine if it stems from a non-critical country. For example, European soy is always a good option and receives the forest label as well. Since 75% of all soy is fed to animals, we also evaluate and label animal products by the type of soy they were fed with.
-			</p>
+    <div class="row push-top">
+    <div class="col-xs-12 col-sm-10 col-sm-offset-1">
+    	<img src="/img/foodprint/environment/deforestation.svg" style="width:100%">
+    </div>
+    	<div class="col-xs-12 col-sm-7  small-push-top">
+    		<h3>Indicating forest protection</h3>
+    		<p>
+    			The Rainforest label is given to food products that did not cause deforestation. This is the case if the product contains certified soy or palm oil or if the product doesn’t contain palm oil or soy at all. In addition, uncertified soy is still fine if it stems from a non-critical country. For example, European soy is always a good option and receives the forest label as well. Since 75% of all soy is fed to animals, we also evaluate and label animal products by the type of soy they were fed with.
+    		</p>
 
-				<!-- <a href="/app/get-the-app/"><button>Learn more about the formula</button></a> -->
+    			<!-- <a href="/app/get-the-app/"><button>Learn more about the formula</button></a> -->
 
-		</div>
+    	</div>
 
-	</div>
+    </div>
+
 </div>
 
 <div class="bgLightGrey push-top">
 		<div class="container">
 
-			<div class="row ">
-			<div class="col-xs-12  small-push-top">
-			<h1>The Rainforest Label</h1>
-			</div>
-			<div class="col-xs-2 col-sm-2 small-push-top">
-								<img src="/img/foodprint/environment/water-award.svg">
-										</div>
-			<div class="col-xs-5 col-sm-4 small-push-top">
-			<p>
-				<br />
-				Menus score the Rainforest Label if at least one product contains sustainable soy or palm oil, or no soy or palm oil at all.  </p>
+    		<div class="row ">
+    		<div class="col-xs-12  small-push-top">
+    		<h1>The Rainforest Label</h1>
+    		</div>
+    		<div class="col-xs-2 col-sm-2 small-push-top">
+    							<img src="/img/foodprint/environment/water-award.svg">
+    									</div>
+    		<div class="col-xs-5 col-sm-4 small-push-top">
+    		<p>
+    			<br />
+    			Menus score the Rainforest Label if at least one product contains sustainable soy or palm oil, or no soy or palm oil at all.  </p>
 
-			</div>
-
-
+    		</div>
 
 
-			<div class="col-xs-12 col-sm-6 col-sm-offset-1 small-push-top">
-					<!-- <img class="responsive" src="/img/foodprint/climate-score/illustration-eaternity-meal.svg"> -->
 
-			</div>
 
-		</div>
+    		<div class="col-xs-12 col-sm-6 col-sm-offset-1 small-push-top">
+    				<!-- <img class="responsive" src="/img/foodprint/climate-score/illustration-eaternity-meal.svg"> -->
 
-	</div>
+    		</div>
+
+    	</div>
+
+    </div>
+
 </div>
-
 
 <div class="container" id="animal">
 
+    <div class="row push-top small-push-bottom">
+    		<div class="col-xs-12">
+    			<hr />
 
 
-	<div class="row push-top small-push-bottom">
-			<div class="col-xs-12">
-				<hr />
+    					<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Animal Treatment</h1>
+    					<hr />
+    					<h3 class="">Treating animals well, feels good.</h3>
+    					<hr />
+    		</div>
+    </div>
 
+    <div class="row  push-bottom">
+    	<div class="col-xs-12 col-sm-6">
+    		<p>The life quality of animals raised for meat, milk or egg production differs strongly between different farming practices. Many farmers commit to improve animal welfare by providing more space, natural feed and opportunities for picking and digging. Labels guarantee that animals were raised under certain minimal standards and are a valuable guide for consumers.
+    <a style="float:right;margin-right:20px;" href="#forest">Learn more</a>
+    			 </p>
 
-						<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Animal Treatment</h1>
-						<hr />
-						<h3 class="">Treating animals well, feels good.</h3>
-						<hr />
-			</div>
-	</div>
+    		<h3>Indicating good animal treatments</h3>
+    		<p>
+    			food products receive the animal treatment label if they at least contain one animal products like meat, milk or eggs and are certified by a label that stands for an established practice that improves animal welfare.
 
-	<div class="row  push-bottom">
-		<div class="col-xs-12 col-sm-6">
-			<p>The life quality of animals raised for meat, milk or egg production differs strongly between different farming practices. Many farmers commit to improve animal welfare by providing more space, natural feed and opportunities for picking and digging. Labels guarantee that animals were raised under certain minimal standards and are a valuable guide for consumers.
-	<a style="float:right;margin-right:20px;" href="#forest">Learn more</a>
-				 </p>
+    		</p>
 
-			<h3>Indicating good animal treatments</h3>
-			<p>
-				food products receive the animal treatment label if they at least contain one animal products like meat, milk or eggs and are certified by a label that stands for an established practice that improves animal welfare.
+    			<!-- <a href="/app/get-the-app/"><button>Learn more about the formula</button></a> -->
 
-			</p>
+    	</div>
 
-				<!-- <a href="/app/get-the-app/"><button>Learn more about the formula</button></a> -->
+    	<div class="col-xs-12 col-sm-6">
+    		<table class="table table-hover small-push-top">
+    			 <tbody>
+    			 <tr>
+    				 <td class="active">Good animal treatment actions</td>
+    				 <td class="active">Example of labels that care</td>
+    			 </tr>
+    			 <tr>
+    				 <td class="bgLightBlue">Provide free-range options outdoor</td>
+    				 <td class="bgLightBlue">Bio Suisse, IP Suisse<br />
+    	Naturafarm (Coop), Terra Suisse (Migros)<br />
+    	Swiss RAUS Program</td>
+    			 </tr>
+    			 <tr>
+    				 <td class="bgLightBlue">Stables that are adjusted to animal behaviour</td>
+    				 <td class="bgLightBlue">IP Suisse, Bio Suisse<br />
+    	Naturafarm (Coop), Terra Suisse (Migros) <br />
+    	Swiss BTS Program </td>
+    			 </tr>
+    			 <tr>
+    				 <td class="bgLightBlue">Natural feed</td>
+    				 <td class="bgLightBlue">Bio – Weide Beef<br />
+    	Weide – Beef<br />
+    	Mutterkuh
+    	</td>
+    			 </tr>
+    			</tbody>
+    		</table>
+    	</div>
 
-		</div>
+    </div>
 
-		<div class="col-xs-12 col-sm-6">
-			<table class="table table-hover small-push-top">
-				 <tbody>
-				 <tr>
-					 <td class="active">Good animal treatment actions</td>
-					 <td class="active">Example of labels that care</td>
-				 </tr>
-				 <tr>
-					 <td class="bgLightBlue">Provide free-range options outdoor</td>
-					 <td class="bgLightBlue">Bio Suisse, IP Suisse<br />
-		Naturafarm (Coop), Terra Suisse (Migros)<br />
-		Swiss RAUS Program</td>
-				 </tr>
-				 <tr>
-					 <td class="bgLightBlue">Stables that are adjusted to animal behaviour</td>
-					 <td class="bgLightBlue">IP Suisse, Bio Suisse<br />
-		Naturafarm (Coop), Terra Suisse (Migros) <br />
-		Swiss BTS Program </td>
-				 </tr>
-				 <tr>
-					 <td class="bgLightBlue">Natural feed</td>
-					 <td class="bgLightBlue">Bio – Weide Beef<br />
-		Weide – Beef<br />
-		Mutterkuh
-		</td>
-				 </tr>
-				</tbody>
-			</table>
-		</div>
-
-	</div>
 </div>
 
 <div class="bgLightGrey small-push-top">
 		<div class="container">
 
-			<div class="row ">
-			<div class="col-xs-12  small-push-top">
-			<h1>Animal Treatment Label</h1>
-			</div>
-			<div class="col-xs-2 col-sm-2 small-push-top">
-								<img src="/img/foodprint/environment/animal-award.svg">
-										</div>
-			<div class="col-xs-5 col-sm-4 small-push-top">
-			<p>
-				<br /><br />
-				Menus with good animal treatment or no animal product at all score the Animal Treatment Label.</p>
+    		<div class="row ">
+    		<div class="col-xs-12  small-push-top">
+    		<h1>Animal Treatment Label</h1>
+    		</div>
+    		<div class="col-xs-2 col-sm-2 small-push-top">
+    							<img src="/img/foodprint/environment/animal-award.svg">
+    									</div>
+    		<div class="col-xs-5 col-sm-4 small-push-top">
+    		<p>
+    			<br /><br />
+    			Menus with good animal treatment or no animal product at all score the Animal Treatment Label.</p>
 
-			</div>
+    		</div>
 
-			<div class="col-xs-12 col-sm-6 col-sm-offset-1 small-push-top">
-					<!-- <img class="responsive" src="/img/foodprint/climate-score/illustration-eaternity-meal.svg"> -->
+    		<div class="col-xs-12 col-sm-6 col-sm-offset-1 small-push-top">
+    				<!-- <img class="responsive" src="/img/foodprint/climate-score/illustration-eaternity-meal.svg"> -->
 
-			</div>
+    		</div>
 
-		</div>
+    	</div>
 
-	</div>
+    </div>
+
 </div>
 
 <div class="container">
@@ -300,31 +302,30 @@ categories: foodprint
 		<div class="col-xs-12">
 			<hr />
 
+    				<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Local & Saisonal</h1>
+    				<hr />
+    				<h3 class="">Supporting decentralized and efficient small scale agriculture close to you.</h3>
+    				<hr />
+    	</div>
 
-					<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Local & Saisonal</h1>
-					<hr />
-					<h3 class="">Supporting decentralized and efficient small scale agriculture close to you.</h3>
-					<hr />
-		</div>
 </div>
 </div>
-
 
 <div class="bgLightGrey small-push-top push-bottom">
 	<div class="container">
 
+    <div class="row ">
+    	<div class="col-xs-12 col-sm-6">
+    <div class="col-xs-12  small-push-top">
+    <h1>The Season Label</h1>
+    </div>
+    <div class="col-xs-4 col-sm-4 small-push-top">
+    					<img src="/img/foodprint/climate-score/season.svg">
+    					    </div>
+    <div class="col-xs-10 col-sm-6 small-push-top">
+    <p><br />
+    	Menus with only minor emissions from greenhouses score the Season Label.</p>
 
-	<div class="row ">
-		<div class="col-xs-12 col-sm-6">
-	<div class="col-xs-12  small-push-top">
-	<h1>The Season Label</h1>
-	</div>
-	<div class="col-xs-4 col-sm-4 small-push-top">
-						<img src="/img/foodprint/climate-score/season.svg">
-						    </div>
-	<div class="col-xs-10 col-sm-6 small-push-top">
-	<p><br />
-		Menus with only minor emissions from greenhouses score the Season Label.</p>
 </div>
 </div>
 
@@ -339,28 +340,17 @@ categories: foodprint
 	<p><br />
 		Menus with ingredients traveling on average less than 200 km score the Local Label.</p>
 
-	</div>
+    </div>
 
 </div>
 
 </div>
 </div>
 </div>
-
-
-
-
-
-
-
-
-
 
 <div class="window" style="background-image: url('/img/foodprint/Sonnenaufgang-3.jpg');background-size: 100%;background-position: left top;"></div>
 
-
 <div class="container">
-
 
     	<div class="row push-top small-push-bottom">
     		<div class="col-xs-12  small-push-top">
@@ -398,19 +388,19 @@ categories: foodprint
     <div class="col-xs-12 col-sm-6">
       <p>The environmental indicators are the result of the <a href="">Organic Footprint Project</a>. Our aim was to create a common ground for climate action by summarizing current knowledge on the climate and environmental impacts of conventional and organic production. </p>
 
-			<p>As a consequence, Eaternity included additional indicators for water scarcity, tropical deforestation and animal welfare into the Eaternity App to support the overall goal of reducing the food related climate impact.</p>
+    		<p>As a consequence, Eaternity included additional indicators for water scarcity, tropical deforestation and animal welfare into the Eaternity App to support the overall goal of reducing the food related climate impact.</p>
 
-			<p>The resuts are supported by our scientific board of experts and partners. The project was made possible by the Engagement Fund Migros.</p>
+    		<p>The resuts are supported by our scientific board of experts and partners. The project was made possible by the Engagement Fund Migros.</p>
 
-			<h3>Publications</h3>
-			<ol>
-			<li>Dive deeper in the science! ➔ Links to the following documents</li>
-			</ol>
+    		<h3>Publications</h3>
+    		<ol>
+    		<li>Dive deeper in the science! ➔ Links to the following documents</li>
+    		</ol>
 
-		</div>
+    	</div>
 
     <div class="col-xs-12 col-sm-6 xs-push-top">
-			<table class="table table-hover">
+    		<table class="table table-hover">
          <tbody>
           <tr>
            <td class="active" colspan="2">Contributors to the project:</td>
@@ -431,10 +421,10 @@ categories: foodprint
            <td class="active">Scientific partner:</td>
            <td class="bgLightBlue">Deborah Scharfy, Institut für Umwelt und Natürliche Ressourcen IUNR, ZHAW Wädenswil –  <a href="mailto:scaf@zhaw.ch">scaf@zhaw.ch</a></td>
          </tr>
-				 <tr>
-					 <td class="active"></td>
-					 <td class="bgLightBlue">Raphaël Thierrin, Quantis, Zürich <a href="mailto:raphael.thierrin@quantis-intl.com">raphael.thierrin@quantis-intl.com</a></td>
-				 </tr>
+    			 <tr>
+    				 <td class="active"></td>
+    				 <td class="bgLightBlue">Raphaël Thierrin, Quantis, Zürich <a href="mailto:raphael.thierrin@quantis-intl.com">raphael.thierrin@quantis-intl.com</a></td>
+    			 </tr>
          <tr>
            <td class="active">Made possible by:</td>
            <td class="bgLightBlue">Engagement Migros development fund</td>

@@ -35,7 +35,7 @@ categories: foodprint
         		<hr />
         		<h3 class="">Accurate and useful information on your food related CO₂ emissions.</h3>
         		<hr />
-        		<a href="/app/get-the-app/"><button>Register Now</button></a>
+        		<a href="/app/get-the-app"><button>Register Now</button></a>
         </div>
     </div>
 
