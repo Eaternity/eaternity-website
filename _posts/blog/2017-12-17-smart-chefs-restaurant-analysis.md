@@ -45,7 +45,7 @@ By analyzing the status quo in restaurants and considering global sustainability
 * Only around 6% of all meals received the Nutrition Label and had their energy sources in good proportions.
 * Most important factors to improve are to reduce the amount of fat and protein.
 
-<br /><a style="float:right" href="/foodprint/vita-score/#nutrition">Learn more.</a>
+<br /><a style="float:right" href="/foodprint/vita-score#nutrition">Learn more.</a>
 
 <br />
 ### Vita Score
