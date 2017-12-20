@@ -87,7 +87,7 @@ categories: foodprint
 
   </div>
 
-  
+
 </div>
 
 
@@ -238,7 +238,7 @@ categories: foodprint
 <div class="row push-bottom">
   <div class="col-xs-12 text-center">
 		<hr width="1" size="500" style="width:1px;background-color:#333;height:150px">
-    <a href="/app/get-the-app/"><button>Register Now</button></a>
+    <a href="/app/get-the-app"><button>Register Now</button></a>
   </div>
 </div>
 

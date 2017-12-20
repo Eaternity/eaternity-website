@@ -23,7 +23,7 @@ Wow, I never knew that eating balanced was such a challenge! I just assumed that
 
 In total 229 million years of life are lost due to bad dietary habits and around ⅓ of greenhouse gas emissions originate from food. If every Swiss was to eat climate-friendly 3 times per week, the impact on greenhouse gas emissions would equal 750´000 cars less on the Swiss streets. Eating according to health recommendations only will already reduce our climate impact by up to 35%.
 
-<a style="float:right" href="/foodprint/">Learn more.</a>
+<a style="float:right" href="/foodprint">Learn more.</a>
 
 <br />
 ### Smart Chefs
@@ -95,6 +95,6 @@ There is great room and potential for improvement. Do you take this challenge wi
 <div class="row push-bottom">
   <div class="col-xs-12 text-center">
 		<hr width="1" size="500" style="width:1px;background-color:#333;height:150px">
-    <a href="/app/get-the-app/"><button>Register Now</button></a>
+    <a href="/app/get-the-app"><button>Register Now</button></a>
   </div>
 </div>

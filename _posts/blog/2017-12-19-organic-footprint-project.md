@@ -48,13 +48,13 @@ Adaptation and improvement of analysis, methodology and developed applications b
 
 The organic footprint project invited to create a common ground for climate action by summarizing current knowledge on the climate and environmental impacts of conventional and organic production.
 
-As a consequence, and a result of the project, Eaternity included additional indicators for water scarcity, tropical deforestation and animal welfare into the Eaternity App to support the overall goal of reducing the food related climate impact.
+As a consequence, and a result of the project, Eaternity provides CO2 values for organic and conventional production. Further, Eaternity included additional indicators for water scarcity, tropical deforestation and animal welfare into the Eaternity App to support the overall goal of reducing the food related climate impact.
 
 Together with our scientific partners at ZHAW and Quantis we investigated how the climate and environmental impacts of organic food differs from conventional food. At the Organic Footprint Workshop 2016 held in Zürich we discussed with scientists, chefs, consumers and farmers the state of the knowledge in sciences and which indicators are crucial to assess environmental sustainability of food.
 
 Together we formulated a message that combines the goals of climate friendly and organic agriculture, giving consumers and restaurants the opportunity to contribute to a sustainable future. We summarized the common ground of available knowledge that is directly applicable to give consumers a choice. And establish clear and understandable recommendations for restaurants that are supported by all participants.
 
-Based on the discussions and the scientific work conducted within this project we selected this core set of indicators. These indicators were tested against data from real restaurant, the conclusion was: "We are out of balance!". <a href="">Learn more about the Restaurant Analysis.</a>
+Based on the discussions and the scientific work conducted within this project we selected this core set of indicators. These indicators together with the health indicators were tested against data from real restaurant, the conclusion was: "We are out of balance!". <a href="">Learn more about the Restaurant Analysis.</a>
 
 All main findings and conclusions are summarized in the <a href="">Organic Fact Sheet</a> and are broadly supported by experts and stakeholders.
 

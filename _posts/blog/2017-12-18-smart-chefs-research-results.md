@@ -23,7 +23,7 @@ In our report „Smart Chefs: health, climate and sustainability“ we summarize
 
 Further, there is a great need for reducing diet-related disease risk and a great climate potential in eating a healthier diet.
 
-Chefs and restaurants can now successfully reduce carbon emissions and optimize for health and sustainability with the newly developed <a href="/foodprint/vita-score">Vita Score</a>, <a href="/foodprint/environmental-footprints#water">Water Footprint Award</a> and <a href="/foodprint/environmental-footprints#forest">Rainforest</a> and <a href="/foodprint/environmental-footprints#animal">Animal Treatment Label</a>.
+Chefs and restaurants can now successfully reduce carbon emissions and optimize for health and sustainability with the newly developed <a href="/foodprint/vita-score">Vita Score</a>, <a href="/foodprint/environmental-footprints#water">Water Footprint Award</a> and <a href="/foodprint/environmental-footprints#forest">Rainforest</a> and <a href="/foodprint/environmental-footprints#animal">Animal Treatment Label</a> and <a href="/foodprint/vita-score#nutrition">Nutrient Label</a>.
 
 ### Report Smart Chefs: health, climate and sustainability
 
@@ -41,7 +41,7 @@ Publications of the research:
 <div class="row push-bottom">
   <div class="col-xs-12 text-center">
 		<hr width="1" size="500" style="width:1px;background-color:#333;height:150px">
-    <a href="/app/get-the-app/"><button>Register Now</button></a>
+    <a href="/app/get-the-app"><button>Register Now</button></a>
   </div>
 </div>
 
