@@ -6,8 +6,8 @@ published: true
 
 author: Judith Ellens
 
-title: Is a healthy, organic diet also good for the Earth’s climate?
-subtitle: Migros Engagement Development Fund supports Eaternity
+title: Migros Engagement Development Fund
+subtitle: Is a healthy, organic diet also good for the Earth’s climate?
 
 blog-image: 2015-10-12-Migros-Engagement.jpg
 image: 2015-10-12-Migros-Engagement.jpg
