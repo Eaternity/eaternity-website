@@ -203,11 +203,11 @@ categories: foodprint
 			<p>The results were reviewed by our scientific board of experts and partners. The project was made possible by the Engagement Fund Migros.</p>
 
     		<h3>Publications</h3>
-    		<ul>
+    		<ol>
     		<li> ➔ <a href="/blog/smart-chefs-research-results">Results of the Health Footprint Project</a></li>
     		<li> ➔ <a href="/assets/smart-chefs/2017-12-12_VitaScore_Documentation_web.pdf">Vita Score Documentation - Whitepaper</a></li>
     		<li>Healthy eating guidelines ➔ eating guidelines for the vita score</li>
-			</ul>
+			</ol>
     </div>
 
     <div class="col-xs-12 col-sm-6 xs-push-top">
