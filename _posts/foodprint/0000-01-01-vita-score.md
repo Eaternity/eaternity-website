@@ -72,7 +72,7 @@ categories: foodprint
     <div class="col-xs-12 col-sm-7  small-push-top">
       <h3>A Health Indicator for Meals </h3>
       <p>The Vita Score currently uses 8 out of the 15 available dietary factors identified by the GBD study, namely whole grains, fruits, vegetables, nuts and seeds, processed meat, red meat, milk and salt. Providing a guideline to follow a “minimum risk diet”, the Vita Score calculates how much of the recommendations are fulfilled in relation to the caloric content of a meal, weighted according to the severity of their outcomes. For example, lack of wholegrains in the Swiss population is related to 124 years of life lost per 100’000 people, whereas eating too much salt is related to 46 years of life lost.</p>
-    		<!-- <a href="/app/get-the-app/"><button>Learn more about the formula</button></a> -->
+    		<a href="/assets/smart-chefs/2017-12-12_VitaScore_Documentation_web.pdf"><button>Learn more</button></a>
     </div>
 
   </div>
