@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="25px" viewBox="0 0 33 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Report-Icon-Certificate</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Report-Icon-Certificate">
+            <g id="Group">
+                <path d="M30.5555556,9.58311712 L33,12.5004355 L30.5555556,15.4171731 L30.5555556,23.5091905 C30.5555556,25 29.1269027,25 29.1269027,25 L1.42865282,25 C0,25 0,23.5091905 0,23.5091905 L0,1.49169318 C0,0 1.42865282,0 1.42865282,0 L29.1269027,0 C30.5555556,0 30.5555556,1.49169318 30.5555556,1.49169318 L30.5555556,9.58311712 Z" id="Combined-Shape" fill="#D96A2C"></path>
+                <text id="-20%" font-family="FuturaLT-Heavy, Futura LT" font-size="12" font-weight="600" fill="#FFFFFE">
+                    <tspan x="1.452" y="17">-20%</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

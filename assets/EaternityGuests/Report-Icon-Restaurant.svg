@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="25px" viewBox="0 0 33 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Report-Icon-Restaurant</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Report-Icon-Restaurant">
+            <g id="house" transform="translate(3.500000, 2.000000)">
+                <path d="M23,11.8918919 L23,20.8108108 L2.8,20.8108108 L2.8,11.8918919 L12.9,3.96396396 L23,11.8918919 Z M9.8,12.4864865 L9.8,20.6126126 L16,20.6126126 L16,12.4864865 L9.8,12.4864865 Z" id="Combined-Shape" fill="#D96A2C"></path>
+                <path d="M0.5,21.7027027 L25.3,21.7027027" id="Line-2" stroke="#D96A2C" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M0,10.1081081 L12.8,0" id="Line" stroke="#D96A2C" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M25.8,10.1081081 L13.1,0" id="Line" stroke="#D96A2C" stroke-width="2" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
