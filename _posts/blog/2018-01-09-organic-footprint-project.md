@@ -22,7 +22,7 @@ tags:
 
 ### The idea: a sustainability standard for restaurants
 
-31% of greenhouse gases originate from the production and consumption of food. Currently, consensus on methodology and underlying assumptions of carbon footprint-calculations on organically produced foods is lacking.
+1/3 of greenhouse gases originate from the production and consumption of food. Currently, consensus on methodology and underlying assumptions of carbon footprint-calculations on organically produced foods is lacking.
 
 Life cycle assessments do not necessarily capture the full environmental impact. Which additional factors other than carbon emissions should be considered in sustainability standards for meals? And how can this be easily adapted in restaurants and by individuals?
 
