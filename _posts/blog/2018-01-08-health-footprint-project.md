@@ -21,7 +21,7 @@ tags:
 
 ### The idea: a sustainability standard for restaurants
 
-31% of greenhouse gases originate from the production and consumption of food. At the same time food related diseases like obesity, diabetes and cardiovascular diseases are on the rise in most countries.
+1/3 of greenhouse gases originate from the production and consumption of food. At the same time food related diseases like obesity, diabetes and cardiovascular diseases are on the rise in most countries.
 
 Currently, different methods are used to identify healthy and nutritious meals. It's hard to work out which one is most appropriate.
 
