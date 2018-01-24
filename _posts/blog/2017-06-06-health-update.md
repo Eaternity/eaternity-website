@@ -17,7 +17,7 @@ tags:
 - smart-chefs
 ---
 
-31% of greenhouse gases originate from the production and consumption of food. At the same time lifestyle illnesses like obesity, diabetes and cardiovascular disease are on the rise worldwide. Working with leading Swiss and international experts from institutions like Public Health Schweiz, The Oxford Martin Programme on the Future of Food and Barilla Food Centre, Eaternity aims to promote a culture in which health and sustainability are not in conflict.
+1/3 of greenhouse gases originate from the production and consumption of food. At the same time lifestyle illnesses like obesity, diabetes and cardiovascular disease are on the rise worldwide. Working with leading Swiss and international experts from institutions like Public Health Schweiz, The Oxford Martin Programme on the Future of Food and Barilla Food Centre, Eaternity aims to promote a culture in which health and sustainability are not in conflict.
 
 During Eaternity’s [Health Footprint workshop][migros] (see [impressions][pictures]) the parties analyzed and discussed the minimal requirements and main hurdles of a health indicator that at the same time targets to minimize global warming. Getting high quality nutritional information into Eaternity’s food database was one of our first steps in the project.
 

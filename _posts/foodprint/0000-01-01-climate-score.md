@@ -198,7 +198,7 @@ categories: foodprint
 
     		<h3>Publications</h3>
     		<ol>
-    		<li>Dive deeper in the science! ➔ Links to the following documents</li>
+    		<li> ➔ <a href="/assets/smart-chefs/2017-Entscheidungskriterien-Eaternity-Award-DE.pdf">Decision Criteria Eaternity Award (DE)</a></li>
     		</ol>
     </div>
 
