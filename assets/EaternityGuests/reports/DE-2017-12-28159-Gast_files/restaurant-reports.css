@@ -1,487 +1,483 @@
 @font-face {
-	font-family: 'WC_RoughTrad';
-	src: local('WC_RoughTrad'), url('fonts/WC_RoughTrad.otf')
-		format('opentype');
+  font-family: "WC_RoughTrad";
+  src: local("WC_RoughTrad"), url("fonts/WC_RoughTrad.otf") format("opentype");
 }
 
 /* Defining font-faces: http://www.456bereastreet.com/archive/201012/font-face_tip_define_font-weight_and_font-style_to_keep_your_css_simple/ */
 @font-face {
-    font-family: 'FuturaLT';
-    src: local('FuturaLT'), url('fonts/FuturaLT-Book.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+  font-family: "FuturaLT";
+  src: local("FuturaLT"), url("fonts/FuturaLT-Book.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
 }
 @font-face {
-    font-family: 'FuturaLT';
-    src: local('FuturaLT'), url('fonts/FuturaLT-Bold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
+  font-family: "FuturaLT";
+  src: local("FuturaLT"), url("fonts/FuturaLT-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
 }
 @font-face {
-    font-family: 'FuturaLT';
-    src: local('FuturaLT'), url('fonts/FuturaLT-Oblique.ttf') format('truetype');
-    font-weight: normal;
-    font-style: italic;
+  font-family: "FuturaLT";
+  src: local("FuturaLT"), url("fonts/FuturaLT-Oblique.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
 }
 
 .futura-heavy {
-	font-family: 'FuturaLT-Heavy', sans-serif;
-	font-weight: normal;
-	font-style: normal;
+  font-family: "FuturaLT-Heavy", sans-serif;
+  font-weight: normal;
+  font-style: normal;
 }
 
 @page {
-	size: A4;
-	margin: 0mm;
-	padding: 0mm;
+  size: A4;
+  margin: 0mm;
+  padding: 0mm;
 }
 
-@media print
-{
-    * {-webkit-print-color-adjust:exact;}
+@media print {
+  * {
+    -webkit-print-color-adjust: exact;
+  }
 }
-
 
 body {
-	font-family: 'FuturaLT-Book', 'Open Sans', Verdana, sans-serif;
-	font-size: 10pt;
-	color: #222222;
-	background-color: lightgray;
-	margin: 0mm;
+  font-family: "FuturaLT-Book", "Open Sans", Verdana, sans-serif;
+  font-size: 10pt;
+  color: #222222;
+  background-color: lightgray;
+  margin: 0mm;
 }
 
-
-
 h2 {
-	font-size: 21pt;
-	font-family: 'FuturaLT-Light', sans-serif;
-	font-weight:normal;
-    margin-top: 8mm;
+  font-size: 21pt;
+  font-family: "FuturaLT-Light", sans-serif;
+  font-weight: normal;
+  margin-top: 8mm;
 }
 
 h3 {
-	font-size: 16pt;
-	font-weight:normal;
+  font-size: 16pt;
+  font-weight: normal;
 }
 
 hr {
-	border:0;
-	border-top: 2px dotted #ccc;
-  	height: 1px;
-  	width:100%;
+  border: 0;
+  border-top: 2px dotted #ccc;
+  height: 1px;
+  width: 100%;
 }
 
 th {
-	padding:7px 12px;
+  padding: 7px 12px;
 }
 
 tbody:before {
-    content: '';
-    display: block;
-    height: 10px;
+  content: "";
+  display: block;
+  height: 10px;
 }
 
 tbody:after {
-    content: '';
-    display: block;
-    height: 8px;
+  content: "";
+  display: block;
+  height: 8px;
 }
 
 .nowrap {
-    overflow: visible;
-    white-space: nowrap;
+  overflow: visible;
+  white-space: nowrap;
 }
 
 .rounded-box {
-	border: 1px solid black;
-	padding: 2px 13px;
-	-webkit-border-radius: 8px;
-	-moz-border-radius: 8px;
-	border-radius: 8px;
-    font-size: 9pt;
+  border: 1px solid black;
+  padding: 2px 13px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  font-size: 9pt;
 }
 
 .header-left {
-    text-transform: uppercase;
-    color: #e15f15;
-    font-size: 10pt;
-    position: absolute;
-    top: 9mm;
-    left: 15mm !important;
+  text-transform: uppercase;
+  color: #e15f15;
+  font-size: 10pt;
+  position: absolute;
+  top: 9mm;
+  left: 15mm !important;
 }
 
 .header-right {
-    text-transform: uppercase;
-    color: #e15f15;
-    font-size: 10pt;
-    position: absolute;
-    top: 9mm;
-    right: 15mm !important;
+  text-transform: uppercase;
+  color: #e15f15;
+  font-size: 10pt;
+  position: absolute;
+  top: 9mm;
+  right: 15mm !important;
 }
 
 .co2-symbol-big {
-    width: 4mm;
-    position: relative;
-    left: .5mm;
-    top: -2mm;
-    content: url('/images/co2_black.png');
-    display: inline;
+  width: 4mm;
+  position: relative;
+  left: 0.5mm;
+  top: -2mm;
+  content: url("../DE-2017-12-28159-Gast_files/co2_black.png");
+  display: inline;
 }
 
 .co2-symbol-big-white {
-    width: 4mm;
-    position: relative;
-    left: .5mm;
-    top: -1.5mm;
-    content: url('/images/co2_white.png');
-    display: inline;
+  width: 4mm;
+  position: relative;
+  left: 0.5mm;
+  top: -1.5mm;
+  content: url("/images/co2_white.png");
+  display: inline;
 }
 
 .co2-symbol-small-black {
-    width: 2mm;
-    position: relative;
-    left: .4mm;
-    top: -1.5mm;
-    content: url('/images/co2_black.png');
-    display: inline;
+  width: 2mm;
+  position: relative;
+  left: 0.4mm;
+  top: -1.5mm;
+  content: url("../DE-2017-12-28159-Gast_files/co2_black.png");
+  display: inline;
 }
 
 .co2-symbol-small-white {
-    width: 2mm;
-    position: relative;
-    left: .4mm;
-    top: -1.5mm;
-    content: url('/images/co2_white.png');
-    display: inline;
+  width: 2mm;
+  position: relative;
+  left: 0.4mm;
+  top: -1.5mm;
+  content: url("/images/co2_white.png");
+  display: inline;
 }
 
 .split-hyphens {
-    -moz-hyphens: auto;  -o-hyphens: auto;  -webkit-hyphens: auto;  -ms-hyphens: auto;  hyphens: auto;
+  -moz-hyphens: auto;
+  -o-hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 
 /* ********************page********************************* */
 
 .page-content {
-	width: 162mm;
-	height: 274.8mm; /*DIN A4 Format - padding */
-	background: white;
-	margin: 1em auto;
-	padding: 11mm 24mm; /*Take care the padding ads up to the width and height*/
-	position:relative;
-	page-break-after: always;
-	/*urge the browser to print the pages seperately */
-	box-shadow: 0px 0px 30px rgba(50, 50, 50, 0.75);
-	-moz-box-shadow: 0px 0px 30px rgba(50, 50, 50, 0.75);
-	-webkit-box-shadow: 0px 0px 30px rgba(50, 50, 50, 0.75);
+  width: 162mm;
+  height: 274.8mm; /*DIN A4 Format - padding */
+  background: white;
+  margin: 1em auto;
+  padding: 11mm 24mm; /*Take care the padding ads up to the width and height*/
+  position: relative;
+  page-break-after: always;
+  /*urge the browser to print the pages seperately */
+  box-shadow: 0px 0px 30px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow: 0px 0px 30px rgba(50, 50, 50, 0.75);
+  -webkit-box-shadow: 0px 0px 30px rgba(50, 50, 50, 0.75);
 }
 @media print {
-	.page-content {
-		margin:0mm;
-	}
+  .page-content {
+    margin: 0mm;
+  }
 }
 
 /* ********************company-info********************************* */
 .company-info {
-    /*background: url('/images/wallpaper.jpg') no-repeat scroll top left !important;*/
-    margin: -11mm -24mm 0mm;
-    height: 78mm;
-    position:relative;
-    -webkit-print-color-adjust: exact; /* for printing the background image as well */
-    overflow: hidden;
+  /*background: url('/images/wallpaper.jpg') no-repeat scroll top left !important;*/
+  margin: -11mm -24mm 0mm;
+  height: 78mm;
+  position: relative;
+  -webkit-print-color-adjust: exact; /* for printing the background image as well */
+  overflow: hidden;
 }
 
 .company-info-weltkugel {
-    height: 85mm;
-    top: -8mm;
-    right:6mm;
-    position:absolute;
+  height: 85mm;
+  top: -8mm;
+  right: 6mm;
+  position: absolute;
 }
 
 .report-titel-bubble {
-    width: 114mm;
-    position: absolute;
+  width: 114mm;
+  position: absolute;
 }
 
 .bubble-position {
-    left: 23mm;
-    top: -8mm;
+  left: 23mm;
+  top: -8mm;
 }
 
-
 .report-titel {
-    margin-top:21mm;
-    margin-left:17mm;
-    font-size: 20pt;
-    color: white;
-    position: absolute;
+  margin-top: 21mm;
+  margin-left: 17mm;
+  font-size: 20pt;
+  color: white;
+  position: absolute;
 }
 
 /* ********************compare-graphics********************************* */
 .compare-graphics {
-    margin-bottom: 8mm;
+  margin-bottom: 8mm;
 }
 
 .compare-graphics-chart {
-    float: left;
-    width: 66.6%;
-    padding-top: 5mm;
+  float: left;
+  width: 66.6%;
+  padding-top: 5mm;
 }
 
 .smiley-image {
-    float: none;
-    padding-left: 0mm;
-    margin-bottom: -7px;
+  float: none;
+  padding-left: 0mm;
+  margin-bottom: -7px;
 }
 
 .compare-graphics-smiley-div {
-    margin:10px 0px;
-    height: 27px;
-    display: table;
+  margin: 10px 0px;
+  height: 27px;
+  display: table;
 }
 
 .compare-graphics-smiley-comparison {
-    /*TODO temp hack*/
-    font-size: 1.1em;
-    font-weight: 600;
-    display: table-cell;
-    vertical-align: middle;
+  /*TODO temp hack*/
+  font-size: 1.1em;
+  font-weight: 600;
+  display: table-cell;
+  vertical-align: middle;
 }
 
 .compare-graphics-smiley-comparision-neg {
-    color: gray;
+  color: gray;
 }
 
 /* ********************compare-info********************************* */
 .compare-info {
-    margin-top:25px;
+  margin-top: 25px;
 }
 
 .compare-info-text {
-    width:36mm;
-    height: 61mm;
-    float: left;
-    padding:20px;
-    font-size:9pt;
+  width: 36mm;
+  height: 61mm;
+  float: left;
+  padding: 20px;
+  font-size: 9pt;
 }
-
 
 /* ******************** index ********************************* */
 
 .index {
-    margin-top: 10mm;
+  margin-top: 10mm;
 }
 .index-picture {
-    float:left;
-    height:10mm;
+  float: left;
+  height: 10mm;
 }
 
 .index-text {
-    overflow: hidden;
-    margin-left: 22mm;
-    width: 357px;
+  overflow: hidden;
+  margin-left: 22mm;
+  width: 357px;
 }
 
 .index-big-text {
-    font-family: FuturaLT-Light, sans-serif;
-    font-size: 16pt;
+  font-family: FuturaLT-Light, sans-serif;
+  font-size: 16pt;
 }
 .index-page {
-    float:right;
+  float: right;
 }
 
 /* ******************** next steps ********************************* */
 
 .next-step {
-	margin-top: 20px;
+  margin-top: 20px;
 }
 
 .next-step-box {
-	width: 6mm;
-	height: 6mm;
-	float: left;
-	border: 1px solid black;
+  width: 6mm;
+  height: 6mm;
+  float: left;
+  border: 1px solid black;
 }
 
 .next-step-text {
-	margin-left: 16mm;
+  margin-left: 16mm;
 }
 
 /* ******************** Menus ********************************* */
 
 .h3-menu-title {
-    width:100%;
-    overflow: hidden;
-    margin-bottom: 2mm !important;
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 2mm !important;
 }
 
 .futura-heavy {
-	width:100%;
+  width: 100%;
 }
 
 .menu-numbers {
-	text-align:center;
-    position:absolute;
-    left:121mm;
+  text-align: center;
+  position: absolute;
+  left: 121mm;
 }
 
 /*<!-- new -->*/
 .menu-numbers-center {
-    text-align:center;
+  text-align: center;
 
-    left:20mm;
+  left: 20mm;
 }
-
 
 .menu-menu {
-    width: 34mm;
-    display:block;
-    margin:auto;
+  width: 34mm;
+  display: block;
+  margin: auto;
 }
-
 
 /* ******************** certificate ********************************* */
 
 .certificate {
-	font-size:11pt;
+  font-size: 11pt;
 }
 
 .h2-certificate {
-    margin-bottom:3mm;
-    padding-bottom:0mm;
-    -webkit-margin-after: 0em;
+  margin-bottom: 3mm;
+  padding-bottom: 0mm;
+  -webkit-margin-after: 0em;
 }
 
 .certificate-sub-header {
-    font-size: 16pt;
-    font-family: 'FuturaLT-Light', sans-serif;
+  font-size: 16pt;
+  font-family: "FuturaLT-Light", sans-serif;
 }
 
-
 .certificate-content {
-    margin-top:18mm;
-    margin-left:13mm;
-	font-size: 25px;
-	line-height: 1;
-	color: white;
-	position: absolute;
-    width: 52mm;
+  margin-top: 18mm;
+  margin-left: 13mm;
+  font-size: 25px;
+  line-height: 1;
+  color: white;
+  position: absolute;
+  width: 52mm;
 }
 
 .certificate-line {
-	margin-top: 15px;
-	margin-bottom: 13px;
-	border: 0;
-	border-top: 1.5px dotted #eee;
+  margin-top: 15px;
+  margin-bottom: 13px;
+  border: 0;
+  border-top: 1.5px dotted #eee;
 }
 
 .certificate-title {
-	font-size: 17pt;
-	font-weight:bold;
+  font-size: 17pt;
+  font-weight: bold;
 }
 
 .tree-green {
-    display:inline;
-    width: 9mm;
-    margin-left: 1mm;
+  display: inline;
+  width: 9mm;
+  margin-left: 1mm;
 }
 
 .certificate-number {
-    font-size: 16pt;
-    font-family: FuturaLT-Heavy, sans-serif;
+  font-size: 16pt;
+  font-family: FuturaLT-Heavy, sans-serif;
 }
 
 .climate-friendly-percentage {
-    position: relative;
-    text-align: center;
-    border: 2px solid #96BA47;
-    -moz-border-radius: 6px;
-    -webkit-border-radius: 6px;
-    border-radius: 6px;
+  position: relative;
+  text-align: center;
+  border: 2px solid #96ba47;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
 }
 
 /* ********************general css********************************* */
 
 .horizontal-barchart {
-    height: 5mm;
-    margin-top: 4px;
-    text-align: right;
-    padding-right: 15px;
-    margin-left: -1px;
-    margin-right:2mm;
-    color: white;
-    -moz-box-shadow: 2px 2px 8px #888;
-    -webkit-box-shadow: 2px 2px 8px #888;
-    box-shadow: 2px 2px 8px #888;
-    -webkit-print-color-adjust: exact;
-    float:left;
-    padding-top: 2px;
-    font-size: 9pt;
+  height: 5mm;
+  margin-top: 4px;
+  text-align: right;
+  padding-right: 15px;
+  margin-left: -1px;
+  margin-right: 2mm;
+  color: white;
+  -moz-box-shadow: 2px 2px 8px #888;
+  -webkit-box-shadow: 2px 2px 8px #888;
+  box-shadow: 2px 2px 8px #888;
+  -webkit-print-color-adjust: exact;
+  float: left;
+  padding-top: 2px;
+  font-size: 9pt;
 }
 
 .horizontal-barchart-percentage {
-    font-family:FuturaLT-Heavy, sans-serif;
-    font-size: 10pt;
-    margin-top: 6px;
+  font-family: FuturaLT-Heavy, sans-serif;
+  font-size: 10pt;
+  margin-top: 6px;
 }
 
 .relevant-dimensions-icon {
-	margin-top: 6mm;
-	width: 11mm;
+  margin-top: 6mm;
+  width: 11mm;
 }
 
 .relevant-dimensions-icon.left {
-	margin-left: -15mm;
-	position: absolute;
+  margin-left: -15mm;
+  position: absolute;
 }
 
 .relevant-dimensions-icon.right {
-	margin-right: -10mm;
-	float:right;
+  margin-right: -10mm;
+  float: right;
 }
 
 .glass-icon {
-    float: left;
-    width: 8.5mm;
-    margin-right: 3mm;
-    margin-bottom: 25mm;
+  float: left;
+  width: 8.5mm;
+  margin-right: 3mm;
+  margin-bottom: 25mm;
 }
 
 .blue-table-style {
-	border: 1px solid #186693;
-    border-collapse: separate;
-    border-radius: 5px;
-	border-spacing: 0px;
-    width:100%;
+  border: 1px solid #186693;
+  border-collapse: separate;
+  border-radius: 5px;
+  border-spacing: 0px;
+  width: 100%;
 }
 
 .blue-table-header {
-	background-color: #186693;
-	color: white;
-	font-size: 16px;
-	text-align: left;
-	font-weight: normal;
-    font-family: 'FuturaLT-Light', sans-serif;
-	-webkit-print-color-adjust: exact;
+  background-color: #186693;
+  color: white;
+  font-size: 16px;
+  text-align: left;
+  font-weight: normal;
+  font-family: "FuturaLT-Light", sans-serif;
+  -webkit-print-color-adjust: exact;
 }
 
 .blue-table-paddings {
-	padding: 2px 10px 2px 14px;
+  padding: 2px 10px 2px 14px;
 }
 
 .table-bar-chart {
-	height:7px;
-	background-color:#186693;
-	margin-right:5px;
-	margin-top:5px;
-	float:left;
-	-webkit-print-color-adjust: exact;
+  height: 7px;
+  background-color: #186693;
+  margin-right: 5px;
+  margin-top: 5px;
+  float: left;
+  -webkit-print-color-adjust: exact;
 }
 
 .small-rectangle {
-	width: 3.3mm;
-	height: 3.3mm;
-	background-color: gray;
-	float: left;
-	margin: 2px 10px;
-	-webkit-print-color-adjust: exact;
+  width: 3.3mm;
+  height: 3.3mm;
+  background-color: gray;
+  float: left;
+  margin: 2px 10px;
+  -webkit-print-color-adjust: exact;
 }
