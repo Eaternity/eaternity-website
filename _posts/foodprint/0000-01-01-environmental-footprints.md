@@ -1,7 +1,7 @@
 ---
 layout: default
-name: Saving the Planet
-title: Saving the Planet
+name: Environmental Footprints
+title: Environmental Footprints
 categories: foodprint
 ---
 
@@ -60,7 +60,7 @@ categories: foodprint
 
   	<div class="row  push-bottom">
 	    <div class="col-xs-12 col-sm-7 ">
-	      <p>Globally, we have enough fresh water resources, but water is not evenly distributed. Today 663 million people in the world live without clean water. While food production triggers 70% of all our fresh water use, mainly for irrigation. Particular in regions where water is scarce this becomes problematic for humans and the environment, as we consuming their water through the products we purchase. To help everyone needs to reduce world wide dependency on scarce water by 50%. Displaying on a per product and per country basis the amount of scarce water, Eaternity enables optimizations and complete transparency on the issue in a useful way.
+	      <p>Globally, we have enough fresh water resources, but water is not evenly distributed. Today 663 million people in the world live without clean water. While food production (agriculture) triggers 70% of all our fresh water use, mainly for irrigation. Particular in regions where water is scarce this becomes problematic for humans and the environment, as we consume their water through the products we purchase. To help everyone, we need to reduce world wide dependency on scarce water by 50%. Displaying the amount of scare water on a per product and per country basis, Eaternity enables optimizations and complete transparency on the issue in a useful way.
 	 <a style="float:right;margin-right:20px;" href="#water">Learn more</a>
 	    		 </p>
     </div>
@@ -73,10 +73,9 @@ categories: foodprint
 	</div>
     <div class="col-xs-12 col-sm-7  push-top">
       <h3>Measuring the Water Footprint</h3>
-      <p>
-			The water scarcity footprint of a product depends on the amount of fresh water (surface- and groundwater, not including rainwater or water pollution) that is used for the product in that particular  region of production as well on the relative water scarcity of the same respective region. </p>
+      <p>The water scarcity footprint of a product depends on two elements. First, the amount of fresh water (surface- and groundwater, not including rainwater or water pollution) that is used for the product in that particular region of production. And second, the relative water scarcity of the same respective region. </p>
 
-    		<p>The Eaternity Water Footprint sets apart in that it explicitly includes the water stress of a region as a weighing factor for the amount of fresh water used. Water stress depends on the amount of water consumed in that region (Corrected for that some of the withdrawn water is returned to the water shed, f.e. after use for cooling in electricity production) compared to the amount of water that is naturally provided by rainfall and other precipitation. Our datasets allow us to differentiate this water scarcity factor between 162 countries.</p>
+    		<p>The Eaternity Water Footprint sets apart in that it explicitly includes the water stress of a region as a weighing factor for the amount of fresh water used. Water stress depends on the amount of water consumed in that region compared to the amount of water that is naturally provided by rainfall and other precipitation. Note, that the amount of consumed water is corrected for that some of the withdrawn water is returned to the water shed, e.g. after use for cooling in electricity production. Our datasets allow us to differentiate this water scarcity factor between 162 countries.</p>
 
     		<p>Globally, the water we consume comes from regions with an average water scarcity index of 0.51, which means that on average, we are consuming water under moderate to high water scarcity. However, the average person lives in an area with water scarcity of 0.32. This means that many products are transported from water scarce areas to areas with lower water scarcity.</p>
 
@@ -182,12 +181,12 @@ categories: foodprint
     		<h1>The Rainforest Label</h1>
     		</div>
     		<div class="col-xs-2 col-sm-2 small-push-top">
-    							<img src="/img/foodprint/environment/water-award.svg">
+    							<img src="/img/foodprint/environment/deforestation-award.svg">
     									</div>
     		<div class="col-xs-5 col-sm-4 small-push-top">
     		<p>
     			<br />
-    			Menus score the Rainforest Label if at least one product contains sustainable soy or palm oil, or no soy or palm oil at all.  </p>
+    			Menus score the Rainforest Label if at least one product contains sustainable soy or palm oil, or if the meal contains no soy or palm oil at all.</p>
 
     		</div>
 
@@ -227,7 +226,7 @@ categories: foodprint
 
     		<h3>Indicating good animal treatments</h3>
     		<p>
-    			food products receive the animal treatment label if they at least contain one animal products like meat, milk or eggs and are certified by a label that stands for an established practice that improves animal welfare.
+    			Food products receive the animal treatment label if they at least contain one animal product like meat, milk or egg and are certified by a label that stands for an established practice that improves animal welfare.
 
     		</p>
 
@@ -394,6 +393,7 @@ categories: foodprint
 
     		<h3>Publications</h3>
     		<ol>
+    			<li> ➔ <a href="/blog/smart-chefs-research-results">Full Results of the Organic Footprint Project</a></li>
     			<li> ➔ <a href="/assets/smart-chefs/170927-Eaternity-fact_sheet_booklet.pdf">Organic Factsheet - Organic Footprint Project</a></li>
     			<li> ➔ <a href="/assets/smart-chefs/2017-Entscheidungskriterien-Eaternity-Award-DE.pdf">Decision Criteria Eaternity Award (DE)</a></li>
     		</ol>
@@ -418,15 +418,73 @@ categories: foodprint
            <td class="active"></td>
            <td class="bgLightBlue">Feldeggstrasse 4, 8008 Zürich</td>
          </tr>
-         <tr>
-           <td class="active">Scientific partner:</td>
-           <td class="bgLightBlue">Deborah Scharfy, Institut für Umwelt und Natürliche Ressourcen IUNR, ZHAW Wädenswil –  <a href="mailto:scaf@zhaw.ch">scaf@zhaw.ch</a></td>
-         </tr>
+
+
     			 <tr>
-    				 <td class="active"></td>
-    				 <td class="bgLightBlue">Raphaël Thierrin, Quantis, Zürich <a href="mailto:raphael.thierrin@quantis-intl.com">raphael.thierrin@quantis-intl.com</a></td>
+    				 <td class="active">Scientific partners:</td>
+    				 <td class="bgLightBlue">
+
+    					 <ul>
+    						 <li>Dr. Scharfy Deborah, Zurich University of Applied Sciences, Switzerland</li>
+    		 						<li>Itten René, Zurich University of Applied Sciences, Switzerland</li>
+    		 						<li>Keller Regula, Zurich University of Applied Sciences,	Switzerland</li>
+    		 						<li>Dr. Faist Mireille, Quantis, Switzerland</li>
+    		 						<li>Thierrin Raphaël, Quantis, Switzerland</li>
+    					 </ul>
+
+    						</td>
+
+
     			 </tr>
-         <tr>
+    				 <tr>
+    				 <td class="active">Advisory Board:</td>
+    				 <td class="bgLightBlue">
+
+    					 <ul>
+    						 <li>Dr. Kapitulčinová Dana, Charles University Prague, Czech Republic</li>
+    		 						<li>Dr. Nemecek Thomas, Agroscope, Switzerland</li>
+    		 						<li>Dr. Pfister Stephan, ETH Zürich, Switzerland</li>
+    		 						<li>Ruchti Karin, School of Agricultural, Forest and Food
+    									Sciences, Switzerland</li>
+    		 						<li>Dr. Scherer Laura, Leiden University, Netherlands</li>
+    									<li>Prof. Tukker Arnold, Leiden University, Netherlands</li>
+    					 </ul>
+
+    						</td>
+
+
+    			 </tr>
+    				 <tr>
+    					 <td class="active">Experts and stakeholders:</td>
+    					 <td class="bgLightBlue">
+
+    						 <ul>
+    							 <li>Anderegg Marcel, Biovision, Switzerland</li>
+    									<li>Hirsiger Eva, PUSCH Praktischer Umweltschutz,	Switzerland</li>
+    									<li>Meili Christoph, WWF, Switzerland</li>
+    						 </ul>
+
+    							</td>
+
+
+    				 </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
            <td class="active">Made possible by:</td>
            <td class="bgLightBlue">Engagement Migros development fund</td>
          </tr>

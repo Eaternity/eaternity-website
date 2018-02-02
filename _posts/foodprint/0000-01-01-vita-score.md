@@ -204,7 +204,7 @@ categories: foodprint
 
     		<h3>Publications</h3>
     		<ol>
-    		<li> ➔ <a href="/blog/smart-chefs-research-results">Results of the Health Footprint Project</a></li>
+    		<li> ➔ <a href="/blog/smart-chefs-research-results">Full Results of the Health Footprint Project</a></li>
     		<li> ➔ <a href="/assets/smart-chefs/2017-12-12_VitaScore_Documentation_web.pdf">Vita Score Documentation - Whitepaper</a></li>
     		<li> ➔ <a href="/assets/smart-chefs/2017-12-21_HEALTH_HealthyGuidelines.pdf">Healthy eating guidelines (Swiss only)</a></li>
 			</ol>
