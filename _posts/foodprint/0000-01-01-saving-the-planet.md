@@ -223,11 +223,11 @@ permalink: /foodprint/
 
 			<p>The Eaternity Climate Score gives everyone the transparency on the greenhouse gas emissions of food choices.
 			</p>
-			<img src="/img/foodprint/planet/planet-6.pdf" style="width:100%">
+			<img src="/img/foodprint/planet/planet-6.jpg" style="width:100%">
 			    <a href="/foodprint/climate-score/"><button>Learn more</button></a>
 	</div>
 	<div class="col-xs-12 col-sm-4 col-sm-offset-1 ">
-		<img src="/img/foodprint/planet/planet-4.pdf" style="width:100%">
+		<img src="/img/foodprint/planet/planet-4.jpg" style="width:100%">
 		</div>
 </div>
 
@@ -267,7 +267,7 @@ permalink: /foodprint/
 
 	</div>
 	<div class="col-xs-12 col-sm-6 push-top">
-		<img src="/img/foodprint/planet/planet-3.pdf" style="width:100%">
+		<img src="/img/foodprint/planet/planet-3.jpg" style="width:100%">
 		</div>
 </div>
 
@@ -287,7 +287,7 @@ permalink: /foodprint/
 
 	<div class="row push-top push-bottom">
 		<div class="col-xs-12 col-sm-12 col-sm-offset-0">
-			<img src="/img/foodprint/planet/planet-8.pdf" style="width:100%">
+			<img src="/img/foodprint/planet/planet-8.png" style="width:100%">
 		</div>
 	</div>
 
@@ -315,7 +315,7 @@ permalink: /foodprint/
 		</div>
 
 		<div class="col-xs-12 col-sm-4 col-sm-offset-2 small-push-top">
-			<img src="/img/foodprint/planet/planet-7.pdf" style="width:100%">
+			<img src="/img/foodprint/planet/planet-7.jpg" style="width:100%">
 			</div>
 
 	</div>

@@ -53,7 +53,7 @@ categories: foodprint
 
   <div class="row push-top push-bottom">
 		<div class="col-xs-12 col-sm-12 push-bottom">
-			<img src="/img/foodprint/vita-score/vita-1.pdf" style="width:100%">
+			<img src="/img/foodprint/vita-score/vita-1.jpg" style="width:100%">
 		</div>
     <div class="col-xs-12 col-sm-6 push-top">
       <h3>Scientific Facts</h3>
@@ -61,7 +61,7 @@ categories: foodprint
 			 </p>
     </div>
 		<div class="col-xs-12 col-sm-6 push-top">
-			<img src="/img/foodprint/vita-score/vita-2.pdf" style="width:100%">
+			<img src="/img/foodprint/vita-score/vita-2.jpg" style="width:100%">
 		</div>
   </div>
 
@@ -79,7 +79,7 @@ categories: foodprint
 
   <div class="row push-top small-push-bottom">
 		<div class="col-xs-12 col-sm-12">
-			<img src="/img/foodprint/vita-score/vita-3.pdf" style="width:100%">
+			<img src="/img/foodprint/vita-score/vita-3.jpg" style="width:100%">
 		</div>
   </div>
 
@@ -130,7 +130,7 @@ categories: foodprint
 
     	<div class="row push-top small-push-bottom">
     		<div class="col-xs-12 col-sm-12">
-    			<img src="/img/foodprint/vita-score/vita-4.pdf" style="width:100%">
+    			<img src="/img/foodprint/vita-score/vita-4.jpg" style="width:100%">
     		</div>
     		</div>
 

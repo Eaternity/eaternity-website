@@ -54,7 +54,7 @@ categories: foodprint
 
   <div class="row push-top push-bottom">
 		<div class="col-xs-12 col-sm-12">
-			<img src="/img/foodprint/climate-score/climate-3.pdf" style="width:100%">
+			<img src="/img/foodprint/climate-score/climate-3.jpg" style="width:100%">
 		</div>
     <div class="col-xs-12 col-sm-7 push-top">
       <h3>A Comparison of Food Products</h3>
@@ -68,7 +68,7 @@ categories: foodprint
 
   <div class="row push-top push-bottom">
 	<div class="col-xs-12 col-sm-10 col-sm-offset-1">
-		<img src="/img/foodprint/climate-score/climate-4.pdf" style="width:100%">
+		<img src="/img/foodprint/climate-score/climate-4.jpg" style="width:100%">
 	</div>
     <div class="col-xs-12 col-sm-7  big-push-top">
       <h3>Focus on what matters most</h3>
@@ -82,7 +82,7 @@ categories: foodprint
     		<!-- <a href="/app/get-the-app/"><button>Learn more about the formula</button></a> -->
     </div>
     	<div class="col-xs-12 col-sm-5  big-push-top">
-    			<img src="/img/foodprint/climate-score/climate-5.pdf" style="width:100%">
+    			<img src="/img/foodprint/climate-score/climate-5.jpg" style="width:100%">
     	</div>
 
   </div>
@@ -147,7 +147,7 @@ categories: foodprint
 
   <div class="row small-push-bottom">
 		<!-- <div class="col-xs-12 col-sm-12">
-			<img src="/img/foodprint/climate-score/climate-6.pdf" style="width:100%">
+			<img src="/img/foodprint/climate-score/climate-6.jpg" style="width:100%">
 		</div> -->
 
   </div>
