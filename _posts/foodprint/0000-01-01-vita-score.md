@@ -248,7 +248,7 @@ categories: foodprint
 							 <li>Baumer, Beatrice, Zurich University of Applied Sciences,Switzerland</li>
 							 <li>Dr. Kapitulčinová Dana, Charles University Prague,Czech Republic</li>
 							 <li>Dr. Rohrmann Sabine, University of Zurich, Switzerland</li>
-							 <li>Stalder Urs, Bundesamt für Lebensmittelsicherheit und Veterinärwesen – BLV, Switzerland
+							 <li>Stalder Urs, Bundesamt für Lebensmittelsicherheit und Veterinärwesen – BLV, Switzerland</li>
 							 <li>Walker Christie, ETH Zürich, Switzerland</li>
 						 </ul>
 
