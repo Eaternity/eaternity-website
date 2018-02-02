@@ -57,7 +57,7 @@ categories: foodprint
 		</div>
     <div class="col-xs-12 col-sm-6 push-top">
       <h3>Scientific Facts</h3>
-      <p>The Global Burden of Diseases, Injuries and Risk Factors (GBD) Study is an independently funded collaboration from over 2'300 scientists and constitutes the largest epidemiological study today. It identifies 84 behavioral, environmental and occupational, and metabolic risks or clusters of risks that lead to diseases. Through the assessment of more than 15'000 studies it approaches accurate numbers for disability adjusted life years (DALY) lost per 100'000 people dependent on age, gender and location for each individual risk factor. It provides unprecedented insights on what risk should share our highest interest of concern to improve our lives. <a style="float:right;margin-right:20px;" href="#references">Learn more</a>
+      <p>The Global Burden of Diseases, Injuries and Risk Factors (GBD) Study is an independently funded collaboration from over 2'300 scientists and constitutes the largest epidemiological study today. It identifies 84 behavioral, environmental and occupational, and metabolic risks or clusters of risks that lead to diseases. Through the assessment of more than 15'000 studies it approaches accurate numbers for disability adjusted life years (DALY) lost per 100'000 people dependent on age, gender and location for each individual risk factor. It provides new insights on the risks we should be concerned to improve our lives. <a style="float:right;margin-right:20px;" href="#references">Learn more</a>
 			 </p>
     </div>
 		<div class="col-xs-12 col-sm-6 push-top">
@@ -71,7 +71,7 @@ categories: foodprint
 
     <div class="col-xs-12 col-sm-7  small-push-top">
       <h3>A Health Indicator for Meals </h3>
-      <p>The Vita Score currently uses 8 out of the 15 available dietary factors identified by the GBD study, namely whole grains, fruits, vegetables, nuts and seeds, processed meat, red meat, milk and salt. Providing a guideline to follow a “minimum risk diet”, the Vita Score calculates how much of the recommendations are fulfilled in relation to the caloric content of a meal, weighted according to the severity of their outcomes. For example, lack of wholegrains in the Swiss population is related to 124 years of life lost per 100’000 people, whereas eating too much salt is related to 46 years of life lost.</p>
+      <p>The Vita Score currently uses 8 non-overlapping dietary factors identified by the GBD study, namely whole grains, fruits, vegetables, nuts and seeds, processed meat, red meat, milk and salt. Providing a guideline to follow a “minimum risk diet”, the Vita Score calculates how much of the recommendations are fulfilled in relation to the caloric content of a meal, weighted according to the severity of their outcomes. For example, lack of wholegrains in the Swiss population is related to 124 years of life lost per 100’000 people, whereas eating too much salt is related to 46 years of life lost.</p>
     		<a href="/assets/smart-chefs/2017-12-12_VitaScore_Documentation_web.pdf"><button>Learn more</button></a>
     </div>
 
@@ -112,16 +112,16 @@ categories: foodprint
 
 						<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Nutrition</h1>
 						<hr />
-						<h3 class="">Being aware of how to fuel our body.</h3>
+						<h3 class="">Being aware of how to fuel our body. Eating balanced.</h3>
 						<hr />
 			</div>
 	</div>
 
 	<div class="row  push-bottom">
 		<div class="col-xs-12 col-sm-7 ">
-    			<p>The nutritional content of a meal to meet the daily nutrient recommendations can be analyzed separately and independently. The Nutrition Label analyzes  per person and portion if a meal is „well balanced“ in the sense that it provides you with all the daily nutrient requirements.</p>
+    			<p>The nutritional content of a meal to meet the daily nutrient recommendations can be analyzed separately and independently. The Nutrition Label analyzes  per person and portion if a meal is „well balanced“ in the sense that it provides you with all the daily energy requirements.</p>
 
-    			<p>An average warm meal should make around one third of the recommended daily amount of 2000 kcal, those nutrients which go above this range will be clearly marked. This way also the nutritional content of a meal can be conveniently optimized.</p>
+    			<p>An average warm meal should make around one third of the recommended daily amount of 2000 kcal of energy intake, those nutrients which go above this range will be clearly marked. This way also the nutritional content of a meal can be conveniently optimized.</p>
     				<!-- <a href="/app/get-the-app/"><button>Learn more about the formula</button></a> -->
     		</div>
     </div>
@@ -223,7 +223,7 @@ categories: foodprint
     				 Feldeggstrasse 4, 8008 Zürich</td>
          </tr>
          <tr>
-           <td class="active">Scientific partners:</td>
+           <td class="active">Advisory board:</td>
            <td class="bgLightBlue">
 
     					<ul>
@@ -234,17 +234,32 @@ categories: foodprint
     						<li>Dr. Meyer Stefan, EPFL Lausanne, Switzerland</li>
     						<li>Dr. Speck Melanie, Wuppertal Institute for Climate, Environment and Energy, Germany</li>
     						<li>Prof. Tukker Arnold, Leiden University, Netherlands</li>
-    				 		<li>and the Global Burden of Disease Project</li>
     					</ul>
 
     					 </td>
 
 
-
          </tr>
+				 <tr>
+					 <td class="active">Experts and stakeholders:</td>
+					 <td class="bgLightBlue">
+
+						 <ul>
+							 <li>Baumer, Beatrice, Zurich University of Applied Sciences,Switzerland</li>
+							 <li>Dr. Kapitulčinová Dana, Charles University Prague,Czech Republic</li>
+							 <li>Dr. Rohrmann Sabine, University of Zurich, Switzerland</li>
+							 <li>Stalder Urs, Bundesamt für Lebensmittelsicherheit und Veterinärwesen – BLV, Switzerland
+							 <li>Walker Christie, ETH Zürich, Switzerland</li>
+						 </ul>
+
+							</td>
+
+
+
+				 </tr>
          <tr>
            <td class="active">Made possible by:</td>
-           <td class="bgLightBlue">Engagement Migros development fund</td>
+           <td class="bgLightBlue">Engagement Migros development fund and the Global Burden of Disease Project</td>
          </tr>
         </tbody>
       </table>
