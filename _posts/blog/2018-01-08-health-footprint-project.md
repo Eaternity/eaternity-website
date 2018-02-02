@@ -57,7 +57,17 @@ All main findings and conclusions are summarized in the <a href="">Healthy Eatin
 
 All results of the project were put into practice at the <a href="/blog/smart-chefs-event">impuls event “Smart Chefs”</a>. Chefs presented delicious appetizers and showed that tasty meals can be healthy and sustainable at the same time.
 
-# Project Report
+# Publications
+
+<ol>
+<li> ➔ <a href="/blog/smart-chefs-research-results">Full Results of the Health Footprint Project</a></li>
+<li> ➔ <a href="/assets/smart-chefs/2017-12-12_VitaScore_Documentation_web.pdf">Vita Score Documentation - Whitepaper</a></li>
+<li> ➔ <a href="/assets/smart-chefs/2017-12-21_HEALTH_HealthyGuidelines.pdf">Healthy eating guidelines (Swiss only)</a></li>
+</ol>
+<br />
+<br />
+
+# Project Updates
 
 <div class="row push-bottom push-top">
       {% for item in site.categories['blog']  %}

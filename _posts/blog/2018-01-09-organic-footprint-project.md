@@ -60,7 +60,17 @@ All main findings and conclusions are summarized in the <a href="">Organic Fact 
 
 All results of the project were put into practice at the <a>impuls event “Smart Chefs”</a>. Chefs presented delicious appetizers and showed that tasty meals can be healthy and sustainable at the same time.
 
-# Project Report
+# Publications
+
+<ol>
+  <li> ➔ <a href="/blog/smart-chefs-research-results">Full Results of the Organic Footprint Project</a></li>
+  <li> ➔ <a href="/assets/smart-chefs/170927-Eaternity-fact_sheet_booklet.pdf">Organic Factsheet - Organic Footprint Project</a></li>
+  <li> ➔ <a href="/assets/smart-chefs/2017-Entscheidungskriterien-Eaternity-Award-DE.pdf">Decision Criteria Eaternity Award (DE)</a></li>
+</ol>
+<br />
+<br />
+
+# Project Updates
 
 <div class="row push-bottom push-top">
       {% for item in site.categories['blog']  %}
