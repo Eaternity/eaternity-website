@@ -90,11 +90,11 @@ sup {
 }
 
 sup {
-  top: -.5em;
+  top: -0.5em;
 }
 
 sub {
-  bottom: -.25em;
+  bottom: -0.25em;
 }
 
 img {
@@ -1623,6 +1623,7 @@ h3 {
 .h4,
 h4 {
   font-size: 18px;
+  font-weight: 600;
 }
 
 .h5,
