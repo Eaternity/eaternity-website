@@ -18,7 +18,6 @@ permalink: /about/
   </div>
 </div>
 
-
 <div class="container">
   <div class="row push-top small-push-bottom">
     <div class="col-xs-12 text-center">
@@ -56,6 +55,7 @@ permalink: /about/
         <p>Eaternity provides solutions, that are delicous, healthy and sustainable.</p>
       </div>
     </div>
+
   </div>
 </div>
 
@@ -75,7 +75,6 @@ permalink: /about/
   </div>
 
 <div id="team" class="row text-center small-push-bottom">
-
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
@@ -112,14 +111,9 @@ permalink: /about/
       </div>
     </div>
 
-
-
 </div>
 
 <div class="row text-center small-push-bottom">
-
-
-
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
@@ -147,39 +141,35 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/aaa.jpg">
-        <h3>Aleksandra Aleksandrowicz, PhD</h3>
-        <p>Project Manager Science</p>
+      <img class="responsive round" src="/img/idea-vision/jhinkelmann.jpg">
+      <h3>Jens Hinkelmann</h3>
+      <p>Software Developer</p>
       </div>
     </div>
 
-
 </div>
-
 
 <div class="row text-center small-push-bottom">
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-3">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/jhinkelmann.jpg">
-        <h3>Jens Hinkelmann</h3>
-        <p>Software Developer</p>
+      <img class="responsive round" src="/img/idea-vision/mmunder.jpg">
+      <h3>Matthias Munder, PhD</h3>
+      <p>Software Developer</p>
       </div>
     </div>
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/ldiener.jpg">
-        <h3>Luzius Diener</h3>
-        <p>Software Developer</p>
+      <img class="responsive round" src="/img/idea-vision/aurelianjaggi.jpg">
+      <h3>Aurelian Jaggi</h3>
+      <p>Founder</p>
       </div>
     </div>
 
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/mspring.jpg">
-        <h3>Michael Spring</h3>
-        <p>Software Developer</p>
+
       </div>
     </div>
 
@@ -194,22 +184,9 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/mmunder.jpg">
-        <h3>Matthias Munder, PhD</h3>
-        <p>Software Developer</p>
+
       </div>
     </div>
-
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/aurelianjaggi.jpg">
-        <h3>Aurelian Jaggi</h3>
-        <p>Founder & Software Developer</p>
-      </div>
-    </div>
-
-
-
 
 </div>
 
@@ -237,8 +214,13 @@ permalink: /about/
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
 <script src="/js/jquery.magnific-popup.min.js"></script>
+
 <script src="/js/jquery.royalslider.min.js"></script>
+
 <script src="/js/bootstrap.min.js"></script>
+
 <script src="/js/icheck.min.js"></script>
+
 <script src="/js/script.js"></script>
