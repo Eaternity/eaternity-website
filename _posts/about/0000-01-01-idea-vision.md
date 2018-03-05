@@ -169,7 +169,9 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-
+      <img class="responsive round" src="/img/idea-vision/mantonelli.jpg">
+      <h3>Marta Antonelli, PhD</h3>
+      <p>Sales Executive</p>
       </div>
     </div>
 
