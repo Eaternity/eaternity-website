@@ -76,7 +76,7 @@ permalink: /about/
 
 <div id="team" class="row text-center small-push-bottom">
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-3 xs-push-top xs-push-bottom">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/manuelklarmann.jpg">
         <h3>Manuel Klarmann</h3>
@@ -111,6 +111,18 @@ permalink: /about/
       </div>
     </div>
 
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/glacave.jpg">
+        <h3>Guillaume Lacavé, PhD</h3>
+        <p>Head of Sales</p>
+        <p>
+          +41 44 585 14 74<br />
+          <a href="mailto:glacave@eaternity.ch">glacave@eaternity.ch</a><br />
+        </p>
+      </div>
+    </div>
+
 </div>
 
 <div class="row text-center small-push-bottom">
@@ -131,7 +143,7 @@ permalink: /about/
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/ioconnor.jpg">
         <h3>Isabel O'Connor, PhD</h3>
@@ -150,7 +162,7 @@ permalink: /about/
 </div>
 
 <div class="row text-center small-push-bottom">
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-3">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/mmunder.jpg">
       <h3>Matthias Munder, PhD</h3>
@@ -158,7 +170,7 @@ permalink: /about/
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/aurelianjaggi.jpg">
       <h3>Aurelian Jaggi</h3>
@@ -172,6 +184,20 @@ permalink: /about/
       <img class="responsive round" src="/img/idea-vision/mantonelli.jpg">
       <h3>Marta Antonelli, PhD</h3>
       <p>Sales Executive</p>
+      <p>
+        <a href="mailto:mantonelli@eaternity.ch">mantonelli@eaternity.ch</a><br />
+      </p>
+      </div>
+    </div>
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/fschwarz.jpg">
+      <h3>Fred Schwarz</h3>
+      <p>Sales Executive</p>
+      <p>
+        <a href="mailto:fschwarz@eaternity.ch">fschwarz@eaternity.ch</a><br />
+      </p>
       </div>
     </div>
 
