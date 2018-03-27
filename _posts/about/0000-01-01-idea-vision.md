@@ -145,9 +145,9 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/ioconnor.jpg">
-        <h3>Isabel O'Connor, PhD</h3>
-        <p>Project Manager Science</p>
+        <img class="responsive round" src="/img/idea-vision/pmehesz.jpg">
+        <h3>Pierre Mehesz</h3>
+        <p>Culinary Excellence & Support</p>
       </div>
     </div>
 
