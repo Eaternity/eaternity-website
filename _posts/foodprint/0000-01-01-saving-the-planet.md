@@ -190,7 +190,7 @@ permalink: /foodprint/
     	<h3>The Third Number: 50 Gigatons</h3>
     	<p>Current emissions are at 50 gigatons of CO₂ equivalents a year. Still growing steadily year to year by 2.2%. A back of the envelope calculation gives us a maximum of 16 years to fix the problem.</p>
 
-    	<h3>Permafrost - the unpredictable party pooper</h3>
+    	<h3>Permafrost - the unpredictable game changer</h3>
     	<p>This already short time frame will shorten significantly if we include the exponentially increasing release of the 1700 gigatons of CO₂ equivalent that are currently stored frozen in over hundred year old ice. A negative feedback loop may happen rapidly, as it will itself accelerate the temperature increase, melt even more ice, and therefore release even more greenhouse gases. It is hard to predict when in the coming years this so called „clathrate gun" is going to fire. But when it happens, it will be too late.</p>
 
 </div>
@@ -198,7 +198,7 @@ permalink: /foodprint/
 
 <div class="row push-top push-bottom">
 	<div class="col-xs-12 col-sm-7 push-top">
-		<h1>How to set your climate reduction goal?</h1>
+		<h1>How to set the right climate reduction goal?</h1>
 
     		<p>Detailed estimates on a per country basis per person for CO₂ emission, water, land and material consumption are given by the <a href="http://www.exiobase.eu/index.php/publications/creea-booklet">Exiobase studies</a>. Based on the vast collections of trade statistics between countries we know that a Swiss person emits around 16 tons of CO₂ equivalent per year. While the current global average per person is at 7 tons per year. Counting it against the maximum amount of CO₂ that we might capture and sequester, the 2 degree budget of a person is 1 ton of CO₂ by 2050.</p>
 
@@ -210,7 +210,7 @@ permalink: /foodprint/
 
 <div class="row push-top small-push-bottom">
 	<div class="col-sm-12">
-		<h2>Reducing food related emissions by at least 60%</h2>
+		<h2>Goal: Reducing food related emissions by at least 60%</h2>
 	</div>
 </div>
 
@@ -237,7 +237,7 @@ permalink: /foodprint/
 
     <div class="row small-push-bottom">
     <div class="col-xs-12  small-push-top">
-    	<h1>Greenhouse gases of the food production</h1>
+    	<h1>The various greenhouse gases of food production</h1>
     </div>
     <div class="col-xs-12 col-sm-7 small-push-top">
     		<p>The impact of methane (28 times) and nitrous oxide (265 times) on global warming is stronger than carbon dioxide. Methane is produced by microorganisms in the stomach of cows and sheep. They support the ruminant’s digestion. This process is called enteric fermentation. But methane emissions also originate in rice paddies, where waterlogged soil supports rapid bacteria growth. These bacteria produce methane. Nitrous oxide is related to synthetic and organic fertilizer use and manure management. Fertilizer that is not absorbed by plants is either washed out by rainfall or turned into nitrous oxide by bacteria and released into the atmosphere. Pure CO₂ is emitted when fossil energy is used to produce synthetic fertilizers when machines work the land. Also clear-cutting forests to obtain farm land releases large amounts of CO₂.</p>
@@ -250,7 +250,7 @@ permalink: /foodprint/
 
 <div class="row push-top push-bottom">
 	<div class="col-xs-12 col-sm-6 push-top">
-		<h1>Prognosis: Our food system in 2050</h1>
+		<h1>Dark predictions: Our food system in 2050</h1>
 
     	<p>The former US president Barack Obama explains: „If we don’t change course the world bank predicts, that agriculture and land use change will cause 70% of all greenhouse gas emissions by 2050. Emissions from food production are constantly growing and if the world population grows to 9 billion by the mid of this century, it is already time to act now.“<a style="float:right;margin-right:20px;" href="https://www.youtube.com/watch?v=1yBJHQ-jMUY">View his presentation</a></p>
 
