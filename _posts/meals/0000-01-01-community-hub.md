@@ -33,7 +33,7 @@ categories: meals
           <a class="button" href="https://www.eventbrite.co.uk/e/sustainable-gastronomy-collaboratory-zurich-tickets-44792374197" style="color:black;">Register at Eventbrite now
           <i class="fa fa-angle-right fa-lg"></i>
           </a><br /><br />
-          <h3> 2018 / May 17 / 1:30PM – 4:30pm, Eaternity Office, Feldeggstrasse 4, 8008 Zurich</h3>
+          <h3> 2018 / May 17 / 1:30pm – 4:30pm, Eaternity Office, Feldeggstrasse 4, 8008 Zurich</h3>
         </div>
       </div>
     </div>
@@ -59,7 +59,7 @@ categories: meals
     			<p>We meet regularly, around a workshop in the office of Eaternity at Feldeggstrasse 4, 8008 Zurich.</p>
     			<p>The Eaternity team provides the Hub with facts on climate change, the environment, and a scientific bases for the understanding of the interactions between food and climate. Together we discuss how our chefs are key of the equation.</p>
 
-  				<h4>Next Dates</h4>
+  				<h4>Next Dates:</h4>
 					<p><ul><li>May - 17th</li></ul></p>
 
     		<h3>Outreach</h3>
