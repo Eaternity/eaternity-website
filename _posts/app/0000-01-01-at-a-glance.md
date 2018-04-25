@@ -11,6 +11,7 @@ categories: app
       <ol class="subNavigation">
         <a href="/app"><li>Features</li></a>
         <a href="/app/clients"><li>Clients</li></a>
+        <a href="/meals/workshop"><li>Chefs Workshop</li></a>
         <a href="/app/at-a-glance"><li class="current">Pricing</li></a>
         <a  href="/contact"><li>Contact us</li></a>
       </ol>

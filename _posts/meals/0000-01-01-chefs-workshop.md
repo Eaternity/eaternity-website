@@ -10,12 +10,11 @@ categories: meals
 	<div class="row">
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
-				<a href="/foodprint/"><li>Saving the Planet</li></a>
-				<a href="/meals"><li>Climate-friendly Meals</li></a>
-				<a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a>
-				<a href="/meals/workshop"><li class="current">Chefs Workshop</li></a>
-				<a href="/meals/hub"><li>Community Hub</li></a>
-				<a href="/app/get-the-app"><li>CO₂ Calculator</li></a>
+			<a href="/app"><li>Features</li></a>
+			<a href="/app/at-a-glance"><li>Pricing</li></a>
+			<a href="/app/clients"><li>Clients</li></a>
+			<a href="/meals/workshop"><li class="current">Chefs Workshop</li></a>
+			<a href="/contact"><li>Contact us</li></a>
 			</ul>
 		</div>
 	</div>
