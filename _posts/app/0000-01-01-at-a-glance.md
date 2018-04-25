@@ -29,8 +29,8 @@ categories: app
           <p>Create your own recipes and measure the Environmental-Footprint for your event.</p>
           <p>Receive a communication package and our support.</p>
           <p>Join the conferences and events worldwide that do an environmental and nutritional impact assessments of their food.</p>
-          <h3>EUR 1199 / event</h3>
-          <a href="/contact" class="button">Request our services<i class="fa fa-angle-right fa-lg"></i></a>
+          <h3>Pricing / event</h3>
+          <a href="/contact" class="button">Ask for a quote<i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>
     </div>
