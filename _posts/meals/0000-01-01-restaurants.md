@@ -5,13 +5,16 @@ title:  "Restaurants"
 categories: meals
 ---
 
-
 <div class="container hidden-xs">
 	<div class="row">
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
-				<a href="/meals"><li>Eat at home</li></a>
-				<a href="/meals/restaurants"><li class="current">Eaternity-Restaurants</li></a>
+			<a href="/foodprint/"><li>Saving the Planet</li></a>
+			<a href="/meals"><li>Climate-friendly Meals</li></a>
+			<a href="/meals/restaurants"><li class="current">Eaternity-Restaurants</li></a>
+			<a href="/meals/workshop"><li>Chefs Workshop</li></a>
+			<a href="/meals/hub"><li>Community Hub</li></a>
+			<a href="/app/get-the-app"><li>CO₂ Calculator</li></a>
 			</ul>
 		</div>
 	</div>
@@ -53,10 +56,10 @@ categories: meals
 		<div class="col-xs-5 col-sm-5 col-md-3 text-center">
 			<img width="90%" src="/assets/2015-11-05-Eaternity_logo_set/Eaternity-Award-vector.svg" />
 
-		</div>
-	</div>
-</div>
+    	</div>
+    </div>
 
+</div>
 
 <div class="container">
   <div class="row push-top small-push-bottom">
@@ -67,15 +70,17 @@ categories: meals
   <div class="row push-bottom">
     <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6 text-center">
       <p>Climate-friendly diet has huge potential. We train chefs, offer clear and effective reporting and demonstrate your exemplary commitment to your guests.</p>
-      <a class="button" href="/app">App at a glance <i class="fa fa-angle-right fa-lg"></i></a>
+      <a class="button" href="/app">Sign up<i class="fa fa-angle-right fa-lg"></i></a>
     </div>
   </div>
 </div>
 
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
 <script src="https://maps.googleapis.com/maps/api/js"></script>
+
 <script src="/js/jquery.magnific-popup.min.js"></script>
 
 <script src="/js/infobubble.js"></script>
+
 <script src="/meals/restaurants.js"></script>

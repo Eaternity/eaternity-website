@@ -1,7 +1,7 @@
 ---
 layout: default
 name: eat-at-home
-title:  "eat at home"
+title:  "Climate-friendly Meals"
 permalink: /meals/
 ---
 
@@ -9,8 +9,12 @@ permalink: /meals/
 	<div class="row">
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
-				<a href="/meals"><li class="current">Eat at home</li></a>
+				<a href="/foodprint/"><li>Saving the Planet</li></a>
+				<a href="/meals"><li class="current">Climate-friendly Meals</li></a>
 				<a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a>
+				<a href="/meals/workshop"><li>Chefs Workshop</li></a>
+				<a href="/meals/hub"><li>Community Hub</li></a>
+				<a href="/app/get-the-app"><li>CO₂ Calculator</li></a>
 			</ul>
 		</div>
 	</div>

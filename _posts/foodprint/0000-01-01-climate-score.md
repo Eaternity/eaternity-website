@@ -9,14 +9,14 @@ categories: foodprint
 	<div class="row">
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
-				<a href="/foodprint/"><li>Saving the Planet</li></a>
-	      <a href="/foodprint/climate-score"><li class="current">Climate Score</li></a>
-				<a href="/foodprint/vita-score"><li>Vita Score</li></a>
-				<a href="/foodprint/environmental-footprints"><li>Environmental Footprints</li></a>
-				<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
-			</ul>
-		</div>
-	</div>
+			    <a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
+          <a href="/foodprint/climate-score"><li class="current">Climate Score</li></a>
+    			<a href="/foodprint/vita-score"><li>Vita Score</li></a>
+    			<a href="/foodprint/environmental-footprints"><li>Environmental Footprints</li></a>
+    		</ul>
+    	</div>
+    </div>
+
 </div>
 
 <div class="container">
@@ -87,43 +87,41 @@ categories: foodprint
 
   </div>
 
-
 </div>
-
-
 
 <div class="bgLightGrey push-top">
 	<div class="container">
 
+    <div class="row ">
+    <div class="col-xs-12  small-push-top">
+    <h1>The Climate Score Award</h1>
+    </div>
+    <div class="col-xs-2 col-sm-2 small-push-top">
+    					<img src="/img/foodprint/climate-score/ClimateScoreAward.svg">
+    					    </div>
+    <div class="col-xs-5 col-sm-3 small-push-top">
+    <p>
+    	Menus with at least 50% less CO₂ emissions than the average menus earn the Climate Score Award. They belong to the 20% menus with the best Climate Score, all having a 5 out of 5 cloud rating.</p>
 
-	<div class="row ">
-	<div class="col-xs-12  small-push-top">
-	<h1>The Climate Score Award</h1>
-	</div>
-	<div class="col-xs-2 col-sm-2 small-push-top">
-						<img src="/img/foodprint/climate-score/ClimateScoreAward.svg">
-						    </div>
-	<div class="col-xs-5 col-sm-3 small-push-top">
-	<p>
-		Menus with at least 50% less CO₂ emissions than the average menus earn the Climate Score Award. They belong to the 20% menus with the best Climate Score, all having a 5 out of 5 cloud rating.</p>
-
-	</div>
-
+    </div>
 
 
 
-	<div class="col-xs-12 col-sm-6 col-sm-offset-1 small-push-top">
-			<img class="responsive" src="/img/foodprint/climate-score/illustration-eaternity-meal.svg">
 
-	</div></div>
+    <div class="col-xs-12 col-sm-6 col-sm-offset-1 small-push-top">
+    		<img class="responsive" src="/img/foodprint/climate-score/illustration-eaternity-meal.svg">
+
+    </div></div>
+
 <div class="row push-bottom">
 	<div class="col-xs-12 col-sm-4 col-sm-offset-4 push-top">
 
-	<a href="/meals"><button style="width:100%;">Show me the climate-friendly
-	meals</button></a>
-		</div>
+    <a href="/meals"><button style="width:100%;">Show me the climate-friendly
+    meals</button></a>
+    	</div>
 
-	</div>
+    </div>
+
 </div>
 </div>
 
@@ -133,15 +131,13 @@ categories: foodprint
     	<div class="col-xs-12 col-sm-6   ">
       <h3>Improving One Menu at a Time</h3>
       <p>We aim to provide sustainable menu choices in any restaurant. To do so, we are measuring the Climate Score of every meal, and provide transparent information on how to improve.	So everyone gets access to climate-friendly meals and what it takes to make a difference together.<a style="float:right;margin-right:20px;" href="/meals/restaurants">Find out which restaurants serve climate friendly meals.</a></p>
+
 </div>
 <div class="col-xs-12 col-sm-6  ">
     	<p>Calculations done with the Eaternity include all emission of the complete supply chain. The database to calculate the carbon impact is currently the largest and most comprehensive database for carrying out menu CO₂-calculations. It includes more than 550 core ingredients and additional parameters for organic or greenhouse production, processing, packaging and preservation.<a href="/foodprint/database" style="float:right;margin-right:20px;">Learn more about the Eaternity Database.</a>
     	</p>
 
-
     </div>
-
-
 
   </div>
 
@@ -151,7 +147,6 @@ categories: foodprint
 		</div> -->
 
   </div>
-
 
 </div>
 
@@ -177,7 +172,7 @@ categories: foodprint
 
     							<br/><h4>{{ item.subtitle }}</h4><br/>
     							{{ item.excerpt }} <a href="{{ BASE_PATH }}{{ item.url }}" style="float:right;margin-right:20px;">
-									Read the full update.</a>
+    								Read the full update.</a>
     						</div>
 
     				</div>

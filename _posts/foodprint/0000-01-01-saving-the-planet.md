@@ -11,10 +11,11 @@ permalink: /foodprint/
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
 				<a href="/foodprint/"><li class="current">Saving the Planet</li></a>
-	      <a href="/foodprint/climate-score"><li>Climate Score</li></a>
-				<a href="/foodprint/vita-score"><li>Vita Score</li></a>
-				<a href="/foodprint/environmental-footprints"><li>Environmental Footprints</li></a>
-				<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
+				<a href="/meals"><li>Climate-friendly Meals</li></a>
+				<a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a>
+				<a href="/meals/workshop"><li>Chefs Workshop</li></a>
+				<a href="/meals/hub"><li>Community Hub</li></a>
+				<a href="/app/get-the-app"><li>CO₂ Calculator</li></a>
 			</ul>
 		</div>
 	</div>

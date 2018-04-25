@@ -8,12 +8,12 @@ categories: app
 <div class="container hidden-xs">
   <div class="row">
     <div class="col-xs-12 text-center">
-      <ul class="subNavigation">
-        <a href="/app"><li>Product</li></a>
+      <ol class="subNavigation">
+        <a href="/app"><li>Features</li></a>
         <a href="/app/clients"><li>Clients</li></a>
         <a href="/app/at-a-glance"><li class="current">Pricing</li></a>
-        <a href="/app/get-the-app"><li>Sign-Up</li></a>
-      </ul>
+        <a  href="/contact"><li>Contact us</li></a>
+      </ol>
     </div>
   </div>
 </div>
@@ -23,39 +23,41 @@ categories: app
     <div class="col-xs-12 col-md-4">
       <div>
         <div class="teaserBoxtitle bgLightBlue">
-          Free Web-App
+          Event Calculations
         </div>
         <div class="teaserBox bgLightGrey">
-          <p>Create your own climate-friendly recipe database and measure the CO2-Footprint of your home cooking</p>
-          <p>Hundreds of tasty, climate-friendly recipes for private use.</p>
-          <p>Measure the nutrition value of your homestyle cooking</p>
-          <a href="/app/get-the-app" class="button">Access the Web-App <i class="fa fa-angle-right fa-lg"></i></a>
+          <p>Create your own recipes and measure the Environmental-Footprint for your event</p>
+          <p>Receive a communication package and our support</p>
+          <p>Join the conferences and events worldwide that do an environmental and nutritional impact assessments of their food.</p>
+          <h3>EUR 1199 / event</h3>
+          <a href="/contact" class="button">Request our services<i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>
     </div>
     <div class="col-xs-12 col-md-4 sm-push-top">
       <div>
         <div class="teaserBoxtitle bgProfessionalHeader">
-          Professional Software
+          Eaternity Software
         </div>
         <div class="teaserBox bgProfessionalBox">
-          <p>Daily accurate CO₂-statistics for every meal served at your food service establishment.</p>
-          <p>All-inclusive reports with insightful illustrations to support you in taking targeted action in improve the CO₂-footprint of your restaurant.</p>
-          <p>Climate-friendly meal awards for your marketing purposes and promotion of your sustainable restaurant to our clientele.</p>
-          <p>The App measures instant food declarations compliant with EU Food Labelling Regulation on allergens and nutrition.</p>
+          <p>Daily accurate CO₂, health and environmental statistics for every meal served at your food service establishment.</p>
+          <p>All-inclusive reports with insightful illustrations to support you in taking targeted action in improve the performance of your restaurant.</p>
+          <p>Menu Awards for your marketing purposes and promotion of your sustainable restaurant to our clientele.</p>
           <h3>EUR 99 / month</h3>
           <p>For restaurants with up to 200 servings/day and food cost up to EUR 250’000/year</p>
-          <a href="/app" class="button">Features & more <i class="fa fa-angle-right fa-lg"></i></a>
+          <a href="/contact" class="button">Purchase now<i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>
     </div>
     <div class="col-xs-12 col-md-4 sm-push-top">
       <div>
       <div class="teaserBoxtitle bgProfessionalHeader">
-        Business Class
+        Business Services
       </div>
         <div class="teaserBox bgLightGrey">
-          <p>Our API connects to your existing infrastructure to provide you with the highest accuracy of all the services offered in our Professional subscription.</p>
+          <p>Hands on management, marketing and communication support for a successful roll-out.</p>
+          <p>An API that connects to your existing infrastructure to provide you with the highest accuracy of all the services offered in our professional subscription.</p>
+          <h3>EUR 990 / day</h3>
           <a href="/contact" class="button">Get in touch <i class="fa fa-angle-right fa-lg"></i></a>
         </div>
       </div>
@@ -95,9 +97,12 @@ categories: app
 
 </div>
 
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
 <script src="/js/jquery.magnific-popup.min.js"></script>
+
 <script src="/js/bootstrap.min.js"></script>
+
 <script src="/js/icheck.min.js"></script>
+
 <script src="/js/script.js"></script>

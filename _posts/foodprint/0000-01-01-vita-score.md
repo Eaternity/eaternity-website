@@ -9,11 +9,10 @@ categories: foodprint
 	<div class="row">
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
-				<a href="/foodprint/"><li>Saving the Planet</li></a>
-	      <a href="/foodprint/climate-score"><li>Climate Score</li></a>
+				<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
+				<a href="/foodprint/climate-score"><li>Climate Score</li></a>
 				<a href="/foodprint/vita-score"><li class="current">Vita Score</li></a>
 				<a href="/foodprint/environmental-footprints"><li>Environmental Footprints</li></a>
-				<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
 			</ul>
 		</div>
 	</div>
@@ -65,8 +64,6 @@ categories: foodprint
 		</div>
   </div>
 
-
-
   <div class="row push-top push-bottom">
 
     <div class="col-xs-12 col-sm-7  small-push-top">
@@ -104,21 +101,20 @@ categories: foodprint
 
 <div class="container">
 
+    <div class="row push-top small-push-bottom">
+    		<div class="col-xs-12">
+    			<hr />
 
-	<div class="row push-top small-push-bottom">
-			<div class="col-xs-12">
-				<hr />
 
+    					<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Nutrition</h1>
+    					<hr />
+    					<h3 class="">Being aware of how to fuel our body. Eating balanced.</h3>
+    					<hr />
+    		</div>
+    </div>
 
-						<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Nutrition</h1>
-						<hr />
-						<h3 class="">Being aware of how to fuel our body. Eating balanced.</h3>
-						<hr />
-			</div>
-	</div>
-
-	<div class="row  push-bottom">
-		<div class="col-xs-12 col-sm-7 ">
+    <div class="row  push-bottom">
+    	<div class="col-xs-12 col-sm-7 ">
     			<p>The nutritional content of a meal to meet the daily nutrient recommendations can be analyzed separately and independently. The Nutrition Label analyzes  per person and portion if a meal is „well balanced“ in the sense that it provides you with all the daily energy requirements.</p>
 
     			<p>An average warm meal should make around one third of the recommended daily amount of 2000 kcal of energy intake, those nutrients which go above this range will be clearly marked. This way also the nutritional content of a meal can be conveniently optimized.</p>
@@ -135,8 +131,6 @@ categories: foodprint
     		</div>
 
 </div>
-
-
 
 <div class="bgLightGrey small-push-top" id="nutrition">
 	<div class="container">
@@ -155,8 +149,6 @@ categories: foodprint
     </div>
 
 </div>
-
-
 
   <div class="window" style="background-image: url('/img/foodprint/roooot.jpg');background-size: 500px 229px;background-position: left center;;background-size: 100%"></div>
 
@@ -179,7 +171,7 @@ categories: foodprint
 
     							<br/><h4>{{ item.subtitle }}</h4><br/>
     							{{ item.excerpt }} <a href="{{ BASE_PATH }}{{ item.url }}" style="float:right;margin-right:20px;">
-									Read the full update.</a>
+    								Read the full update.</a>
     						</div>
 
     				</div>
@@ -198,16 +190,16 @@ categories: foodprint
     <div class="col-xs-12 col-sm-6">
       <p>The Vita Score is the result of the Health Footprint Project. Our aim was to create an indicator for meals that is deeply rooted in the newest and sound science. The indicator shows which meals are in line with the minimal risk diet to reduce the risk of diet related diseases.</p>
 
-			<p>As a consequence, Eaternity included the Vita Score as an indicator for healthiness of a meal into the Eaternity App to support the overall goal of eating healthy and climate friendly meals!</p>
+    		<p>As a consequence, Eaternity included the Vita Score as an indicator for healthiness of a meal into the Eaternity App to support the overall goal of eating healthy and climate friendly meals!</p>
 
-			<p>The results were reviewed by our scientific board of experts and partners. The project was made possible by the Engagement Fund Migros.</p>
+    		<p>The results were reviewed by our scientific board of experts and partners. The project was made possible by the Engagement Fund Migros.</p>
 
     		<h3>Publications</h3>
     		<ol>
     		<li> ➔ <a href="/blog/smart-chefs-research-results">Full Results of the Health Footprint Project</a></li>
     		<li> ➔ <a href="/assets/smart-chefs/2017-12-12_VitaScore_Documentation_web.pdf">Vita Score Documentation - Whitepaper</a></li>
     		<li> ➔ <a href="/assets/smart-chefs/2017-12-21_HEALTH_HealthyGuidelines.pdf">Healthy eating guidelines (Swiss only)</a></li>
-			</ol>
+    		</ol>
     </div>
 
     <div class="col-xs-12 col-sm-6 xs-push-top">
@@ -240,23 +232,23 @@ categories: foodprint
 
 
          </tr>
-				 <tr>
-					 <td class="active">Experts and stakeholders:</td>
-					 <td class="bgLightBlue">
+    			 <tr>
+    				 <td class="active">Experts and stakeholders:</td>
+    				 <td class="bgLightBlue">
 
-						 <ul>
-							 <li>Baumer, Beatrice, Zurich University of Applied Sciences,Switzerland</li>
-							 <li>Dr. Kapitulčinová Dana, Charles University Prague,Czech Republic</li>
-							 <li>Dr. Rohrmann Sabine, University of Zurich, Switzerland</li>
-							 <li>Stalder Urs, Bundesamt für Lebensmittelsicherheit und Veterinärwesen – BLV, Switzerland</li>
-							 <li>Walker Christie, ETH Zürich, Switzerland</li>
-						 </ul>
+    					 <ul>
+    						 <li>Baumer, Beatrice, Zurich University of Applied Sciences,Switzerland</li>
+    						 <li>Dr. Kapitulčinová Dana, Charles University Prague,Czech Republic</li>
+    						 <li>Dr. Rohrmann Sabine, University of Zurich, Switzerland</li>
+    						 <li>Stalder Urs, Bundesamt für Lebensmittelsicherheit und Veterinärwesen – BLV, Switzerland</li>
+    						 <li>Walker Christie, ETH Zürich, Switzerland</li>
+    					 </ul>
 
-							</td>
+    						</td>
 
 
 
-				 </tr>
+    			 </tr>
          <tr>
            <td class="active">Made possible by:</td>
            <td class="bgLightBlue">Engagement Migros development fund and the Global Burden of Disease Project</td>

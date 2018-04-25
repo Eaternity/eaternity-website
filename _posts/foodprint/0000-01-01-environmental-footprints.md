@@ -9,11 +9,10 @@ categories: foodprint
 	<div class="row">
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
-				<a href="/foodprint/"><li>Saving the Planet</li></a>
-	      <a href="/foodprint/climate-score"><li>Climate Score</li></a>
-				<a href="/foodprint/vita-score"><li>Vita Score</li></a>
-				<a href="/foodprint/environmental-footprints"><li class="current">Environmental Footprints</li></a>
-				<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
+			<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
+			<a href="/foodprint/climate-score"><li>Climate Score</li></a>
+			<a href="/foodprint/vita-score"><li>Vita Score</li></a>
+			<a href="/foodprint/environmental-footprints"><li class="current">Environmental Footprints</li></a>
 			</ul>
 		</div>
 	</div>
@@ -397,15 +396,14 @@ categories: foodprint
     			<li> ➔ <a href="/assets/smart-chefs/170927-Eaternity-fact_sheet_booklet.pdf">Organic Factsheet - Organic Footprint Project</a></li>
     			<li> ➔ <a href="/assets/smart-chefs/2017-Entscheidungskriterien-Eaternity-Award-DE.pdf">Decision Criteria Eaternity Award (DE)</a></li>
     		</ol>
-
-    	</div>
+    		</div>
 
     <div class="col-xs-12 col-sm-6 xs-push-top">
     		<table class="table table-hover">
          <tbody>
           <tr>
            <td class="active" colspan="2">Contributors to the project:</td>
-         </tr>
+         	</tr>
          <tr>
            <td class="active">Project organization: </td>
            <td class="bgLightBlue">Isabel O'Connor, Eaternity – <a href="mailto:ioconnor@eaternity.ch">ioconnor@eaternity.ch</a> | +41 76 479 62 47</td>
@@ -469,28 +467,12 @@ categories: foodprint
 
     				 </tr>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    			<tr>
            <td class="active">Made possible by:</td>
            <td class="bgLightBlue">Engagement Migros development fund</td>
          </tr>
       	</tbody>
       </table>
-
 
     </div>
 

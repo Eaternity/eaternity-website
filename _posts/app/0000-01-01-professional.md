@@ -9,10 +9,10 @@ permalink: /app/
   <div class="row">
     <div class="col-xs-12 text-center">
       <ul class="subNavigation">
-        <a href="/app"><li class="current">Product</li></a>
+        <a href="/app"><li class="current">Features</li></a>
         <a href="/app/clients"><li>Clients</li></a>
         <a href="/app/at-a-glance"><li>Pricing</li></a>
-        <a href="/app/get-the-app"><li>Sign-Up</li></a>
+        <a href="/contact"><li>Contact us</li></a>
       </ul>
     </div>
   </div>
@@ -22,8 +22,8 @@ permalink: /app/
   <div class="row push-top push-bottom verticalAlign">
     <div class="col-xs-12 col-sm-offset-1 col-sm-7">
       <div>
-        <h1>What do we offer?</h1>
-        <p>We have developed innovative software for private and professional use. It is based on an easy to understand and yearly reviewed CO₂-database. This is currently the largest and most comprehensive database for carrying out menu-CO₂-calculations. With Eaternity, we offer everyone the opportunity to make a sustainable choice when selecting their everyday food.</p>
+        <h1>What Eaternity offers</h1>
+        <p>We have developed innovative software for private and professional use. It is based on an easy to understand and yearly reviewed LCA-database. This is currently the largest and most comprehensive database for carrying out environmental calculations for menus. With Eaternity, we offer everyone the opportunity to make a sustainable choice when selecting their everyday food.</p>
       </div>
     </div>
     <div class="col-xs-offset-4 col-xs-4 col-sm-offset-1 col-sm-2 xs-push-top">
@@ -70,7 +70,7 @@ permalink: /app/
 
 <div class="window" style="background-image: url('/img/professional/professional-parallax.jpg')"></div>
 
-<div class="container">
+<!-- <div class="container">
   <div class="row big-push-top small-push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-3 col-md-6 text-center">
       <h1>Food labeling compliant to EU-regulation</h1>
@@ -81,7 +81,7 @@ permalink: /app/
       <p>We prepare you for allergens compliance regulations enabling you to concentrate on your core business. The new food labelling EU-regulation 1169/2011 for allergens became effective on 13.12.2014 and requires gastro-businesses in all 28 EU-countries to display ingredient information relating to the fourteen main allergens. Our automated and rapid analysis of the ingredients used in your restaurant’s meals reduces your workload. We bring the information you need on a daily basis to your fingertips. Employees have easy access to meet the information requirements of every guest. They can also print comprehensive and customized meal labels with minimum effort. Declaring allergens properly is just the beginning. With Eaternity you can also manage and analyze all other nutritional information that interests you. We keep the data up-to-date and legally compliant so you don’t have to.</p>
     </div>
   </div>
-</div>
+</div> -->
 
 <div class="container">
   <div class="row push-top push-bottom">
