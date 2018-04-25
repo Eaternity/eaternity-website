@@ -12,8 +12,8 @@ categories: meals
 			<ul class="subNavigation">
 			<a href="/app"><li>Features</li></a>
 			<a href="/app/at-a-glance"><li>Pricing</li></a>
-			<a href="/app/clients"><li>Clients</li></a>
 			<a href="/meals/workshop"><li class="current">Chefs Workshop</li></a>
+			<a href="/app/clients"><li>Clients</li></a>
 			<a href="/contact"><li>Contact us</li></a>
 			</ul>
 		</div>
