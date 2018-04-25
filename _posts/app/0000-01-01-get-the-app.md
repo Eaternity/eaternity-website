@@ -14,7 +14,6 @@ categories: app
           <a href="/foodprint/"><li>Saving the Planet</li></a>
   				<a href="/meals"><li>Climate-friendly Meals</li></a>
   				<a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a>
-  				<a href="/meals/workshop"><li>Chefs Workshop</li></a>
   				<a href="/meals/hub"><li>Community Hub</li></a>
   				<a href="/app/get-the-app"><li class="current">CO₂ Calculator</li></a>
         </ul>
