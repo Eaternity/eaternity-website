@@ -24,10 +24,21 @@ categories: meals
   <div class="row push-top small-push-bottom">
     <div class="col-xs-12 text-center">
       <h1>Sustainable Food Community Hub</h1>
-			<h4>Meet us 17th of May 16.00 at Eaternity, Feldeggstrasse 4, 8008 Zurich</h4>
     </div>
   </div>
-  <div class="row push-bottom">
+
+    <div class="row" style="color:black;">
+      <div class="co-xs-12 col-md-offset-2 col-md-8 small-push-top"  >
+        <div class="teaserFacts bgLightBlue">
+          <a class="button" href="https://www.eventbrite.co.uk/e/sustainable-gastronomy-collaboratory-zurich-tickets-44792374197" style="color:black;">Register at Eventbrite now
+          <i class="fa fa-angle-right fa-lg"></i>
+          </a><br /><br />
+          <h3> 2018 / May 17 / 1:30PM – 4:30pm, Eaternity Office, Feldeggstrasse 4, 8008 Zurich</h3>
+        </div>
+      </div>
+    </div>
+
+  <div class="row push-bottom small-push-top">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8">
 
     		<h3>Manifest</h3>

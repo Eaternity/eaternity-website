@@ -86,8 +86,6 @@ permalink: /meals/
     	    </a>
     	    </div>
 
-    	</div>
-
   	</div>
 
 </div>
