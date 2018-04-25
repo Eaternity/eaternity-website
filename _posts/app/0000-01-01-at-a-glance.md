@@ -24,46 +24,46 @@ categories: app
     <div class="col-xs-12 col-md-4">
       <div>
         <div class="teaserBoxtitle bgLightBlue">
-          Event Calculations
+          Event Services
         </div>
         <div class="teaserBox bgLightGrey">
-          <p>Create your own recipes and measure the Environmental-Footprint for your event.</p>
-          <p>Receive a communication package and our support.</p>
-          <p>Join the conferences and events worldwide that do an environmental and nutritional impact assessments of their food.</p>
-          <h3>Pricing / event</h3>
-          <a href="/contact" class="button">Ask for a quote<i class="fa fa-angle-right fa-lg"></i></a>
-        </div>
-      </div>
-    </div>
-    <div class="col-xs-12 col-md-4 sm-push-top">
-      <div>
-        <div class="teaserBoxtitle bgProfessionalHeader">
-          Eaternity Software
-        </div>
-        <div class="teaserBox bgProfessionalBox">
-          <p>Daily accurate CO₂, health and environmental statistics for every meal served at your food service establishment.</p>
-          <p>All-inclusive reports with insightful illustrations to support you in taking targeted action in improve the performance of your restaurant.</p>
-          <p>Menu Awards for your marketing purposes and promotion of your sustainable restaurant to our clientele.</p>
-          <h3>EUR 99 / month</h3>
-          <p>For restaurants with up to 200 servings/day and food cost up to EUR 250’000/year</p>
-          <a href="/contact" class="button">Purchase now<i class="fa fa-angle-right fa-lg"></i></a>
-        </div>
-      </div>
-    </div>
-    <div class="col-xs-12 col-md-4 sm-push-top">
-      <div>
-      <div class="teaserBoxtitle bgProfessionalHeader">
-        Business Services
-      </div>
-        <div class="teaserBox bgLightGrey">
-          <p>Hands on management, marketing and communication support for a successful roll-out.</p>
-          <p>An API that connects to your existing infrastructure to provide you with the highest accuracy of all the services offered in our professional subscription.</p>
-          <h3>EUR 990 / day</h3>
-          <a href="/contact" class="button">Get in touch <i class="fa fa-angle-right fa-lg"></i></a>
-        </div>
-      </div>
-    </div>
+        <p>Assessment of the Environmental-Footprint and Nutritional Value of the meals you serve at your event.</p>
+        <p>Communication package, infographics, and tailored support from our experts.</p>
+        <p>Join a global community of organizers of sustainable events and conferences.</p>
+  <h3>Pricing / event</h3>
+  <a href="/contact" class="button">Ask for a quote<i class="fa fa-angle-right fa-lg"></i></a>
   </div>
+  </div>
+  </div>
+  <div class="col-xs-12 col-md-4 sm-push-top">
+  <div>
+  <div class="teaserBoxtitle bgProfessionalHeader">
+  Eaternity Software
+  </div>
+  <div class="teaserBox bgProfessionalBox">
+  <p>Daily accurate CO₂, health and environmental statistics for every meal served at your food service establishment.</p>
+  <p>All-inclusive reports with insightful illustrations to support you in taking targeted action in improve the performance of your restaurant.</p>
+  <p>Menu Awards for your marketing purposes and promotion of your sustainable restaurant to our clientele.</p>
+  <h3>EUR 99 / month</h3>
+  <p>For restaurants with up to 200 servings/day and food cost up to EUR 250’000/year</p>
+  <a href="/contact" class="button">Purchase now<i class="fa fa-angle-right fa-lg"></i></a>
+  </div>
+  </div>
+  </div>
+  <div class="col-xs-12 col-md-4 sm-push-top">
+  <div>
+  <div class="teaserBoxtitle bgProfessionalHeader">
+  Business Services
+  </div>
+  <div class="teaserBox bgLightGrey">
+  <p>Hands on management, marketing and communication support for a successful roll-out.</p>
+  <p>An API that connects to your existing infrastructure to provide you with the highest accuracy of all the services offered in our professional subscription.</p>
+  <h3>EUR 990 / day</h3>
+  <a href="/contact" class="button">Get in touch <i class="fa fa-angle-right fa-lg"></i></a>
+  </div>
+  </div>
+  </div>
+    </div>
 </div>
 
 <div class="window" style="background-image: url('/img/at-a-glance/ataglance-parallax.jpg')"></div>
