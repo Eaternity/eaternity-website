@@ -193,7 +193,7 @@ permalink: /about/
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/fschwarz.jpg">
-      <h3>Fred Schwarz</h3>
+      <h3>Frederick Schwarz</h3>
       <p>Sales Executive</p>
       <p>
         <a href="mailto:fschwarz@eaternity.ch">fschwarz@eaternity.ch</a><br />
