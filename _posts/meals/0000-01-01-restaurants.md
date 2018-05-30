@@ -1,4 +1,5 @@
----
+<!---
+<!-- window "Eaternity Restaurants on the website"
 layout: default
 name: restaurants
 title:  "Restaurants"
@@ -43,7 +44,7 @@ categories: meals
 	</div>
   <div class="row small-push-bottom">
     <div class="col-xs-7 col-sm-6 col-sm-offset-1 col-md-offset-2 col-md-5 push-bottom">
-				<p>To make it convinient for guests, restaurants label their climate friendly meals with the Eaternity Award. This symbol appear at counters, on menu cards, on menu card websites and in our Eaternity Reports. If you compose a recipe, you will immediatly see, which ones are being awarded best.</p>
+				<p>To make it convenient for guests, restaurants label their climate friendly meals with the Eaternity Award. This symbol appear at counters, on menu cards, on menu card websites and in our Eaternity Reports. If you compose a recipe, you will immediately see, which ones are being awarded best.</p>
 			<ol>
 			<li><a href="/assets/2015-11-05-Eaternity_logo_set.zip">Download icon pack</a></li>
 			<li><a href="">Download example menu plan</a></li>
@@ -83,3 +84,4 @@ categories: meals
 <script src="/js/infobubble.js"></script>
 
 <script src="/meals/restaurants.js"></script>
+-->

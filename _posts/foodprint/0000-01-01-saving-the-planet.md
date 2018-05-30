@@ -5,14 +5,14 @@ title: Saving the Planet
 categories: foodprint
 permalink: /foodprint/
 ---
-
+<!-- this is the window "food and climate" on the website -->
 <div class="container hidden-xs">
 	<div class="row">
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
 				<a href="/foodprint/"><li class="current">Saving the Planet</li></a>
 				<a href="/meals"><li>Climate-friendly Meals</li></a>
-				<a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a>
+				<!-- <a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a> -->
 				<a href="/meals/hub"><li>Community Hub</li></a>
 				<a href="/app/get-the-app"><li>CO₂ Calculator</li></a>
 			</ul>
