@@ -119,7 +119,7 @@ Or to speak in the words of the consumer, even though enjoying the display of fr
 
 * Wolff, V., Alig, M., Nemecek, T. & Gaillard, G. (2016). Ökobilanz verschiedener Fleischprodukte. Geflügel-, Schweine- und Rindfleisch. 1–51. Agroscope, Zürich.
 
-[1]: http://www.eaternity.org/app/get-the-app
+[1]: http://www.eaternity.org/contact
 [2]: http://www.eaternity.org/foodprint/database
 [migros]: http://www.engagement-migros.ch/de/eaternity-auf-dem-menue-workshops
 [rsvp]: https://smartchefs.eventbrite.com/

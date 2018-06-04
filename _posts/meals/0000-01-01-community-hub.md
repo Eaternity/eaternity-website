@@ -12,9 +12,9 @@ categories: meals
 			<ul class="subNavigation">
 				<a href="/foodprint/"><li>Saving the Planet</li></a>
 				<a href="/meals"><li>Climate-friendly Meals</li></a>
-				<a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a>
+				<!-- <a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a> -->
 				<a href="/meals/hub"><li class="current">Community Hub</li></a>
-				<a href="/app/get-the-app"><li>CO₂ Calculator</li></a>
+				<a href="/contact"><li>Contact us</li></a>
 			</ul>
 		</div>
 	</div>

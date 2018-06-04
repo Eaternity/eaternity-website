@@ -13,7 +13,7 @@ categories: meals
 			<a href="/meals"><li>Climate-friendly Meals</li></a>
 			<a href="/meals/restaurants"><li class="current">Eaternity-Restaurants</li></a>
 			<a href="/meals/hub"><li>Community Hub</li></a>
-			<a href="/app/get-the-app"><li>CO₂ Calculator</li></a>
+			<a href="/contact"><li>Contact us</li></a>
 			</ul>
 		</div>
 	</div>

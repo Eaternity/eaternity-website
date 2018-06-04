@@ -13,12 +13,11 @@ permalink: /p/compass-ch
         <a href="/app"><li>Product</li></a>
         <a href="/app/clients"><li class="current">Clients</li></a>
         <a href="/app/at-a-glance"><li>Pricing</li></a>
-        <a href="/app/get-the-app"><li>Sign-Up</li></a>
+        <a href="/contact"><li>Contact us</li></a>
       </ul>
     </div>
   </div>
 </div>
-
 
 <div class="container">
   <div class="row push-top small-push-bottom">
@@ -90,13 +89,18 @@ permalink: /p/compass-ch
         </div>
       </div>
     </div>
+
   </div>
 </div>
 
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
 <script src="/js/jquery.magnific-popup.min.js"></script>
+
 <script src="/js/jquery.royalslider.min.js"></script>
+
 <script src="/js/bootstrap.min.js"></script>
+
 <script src="/js/icheck.min.js"></script>
+
 <script src="/js/script.js"></script>

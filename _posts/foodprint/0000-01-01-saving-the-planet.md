@@ -12,9 +12,9 @@ permalink: /foodprint/
 			<ul class="subNavigation">
 				<a href="/foodprint/"><li class="current">Saving the Planet</li></a>
 				<a href="/meals"><li>Climate-friendly Meals</li></a>
-				<a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a>
+				<!-- <a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a> -->
 				<a href="/meals/hub"><li>Community Hub</li></a>
-				<a href="/app/get-the-app"><li>CO₂ Calculator</li></a>
+				<a href="/contact"><li>Contact us</li></a>
 			</ul>
 		</div>
 	</div>
@@ -33,7 +33,7 @@ permalink: /foodprint/
         		<h3 class="">On the importance of food sustainability to prevent human extinction.</h3>
         		<hr />
 
-    						<a href="/app/get-the-app"><button>Sign Up</button></a>
+    						<a href="/contact"><button>Contact us</button></a>
     					</div>
 
 
@@ -316,7 +316,7 @@ permalink: /foodprint/
 <div class="row push-bottom">
   <div class="col-xs-12 text-center">
 		<hr width="1" size="500" style="width:1px;background-color:#333;height:150px">
-    <a href="/app/get-the-app"><button>Register Now</button></a>
+    <a href="/contact"><button>Contact us</button></a>
   </div>
 </div>
 

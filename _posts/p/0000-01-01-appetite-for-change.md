@@ -6,9 +6,6 @@ categories:
 permalink: /appetite-for-change/
 ---
 
-
-
-
 <div class="bgDarkBlue ">
   <div class="container">
     <div class="row small-push-top small-push-bottom">
@@ -24,6 +21,7 @@ permalink: /appetite-for-change/
         </p>
       </div>
     </div>
+
   </div>
 </div><!-- /.viewPortHeight -->
 
@@ -59,7 +57,7 @@ permalink: /appetite-for-change/
           </div>
       <div class="col-xs-12 col-sm-4 xs-push-top text-center">
         <img src="/img/cop21/zutaten-menu-blue.svg" height="70px" />
-          <h3>2. Serve climate-friendly meals</h3><p> if you are a restaurant, caterer or event organizer, you can join as a participating restaurant. We will list you at the overview map as a participating restaurant. Use the <a href="/meals/restaurants/#award">Eaternity Award</a> for communication to show your guests your great engagement in serving tasty climate-friendly meals and refer back to this campaign.</p>
+          <h3>2. Serve climate-friendly meals</h3><p> if you are a restaurant, caterer or event organizer, you can join as a participating restaurant. We will list you at the overview map as a participating restaurant. Use the <a href="/meals">Eaternity Award</a> for communication to show your guests your great engagement in serving tasty climate-friendly meals and refer back to this campaign.</p>
           </div>
         <div class="col-xs-12 col-sm-4 xs-push-top text-center">
           <img src="/img/cop21/personen-blue.svg" height="70px" />
@@ -68,7 +66,7 @@ permalink: /appetite-for-change/
     </div>
 <div class="row push-bottom">
     <div class="col-xs-12 col-sm-4 xs-push-top text-center">
-        <a class="button" href="/app/get-the-app">Access the App <i class="fa fa-angle-right fa-lg"></i></a>
+        <a class="button" href="/contact">Contact us <i class="fa fa-angle-right fa-lg"></i></a>
         </div>
     <div class="col-xs-12 col-sm-4 xs-push-top text-center">
         <a class="button" href="#register">Register restaurant<i class="fa fa-angle-right fa-lg"></i></a>
@@ -78,10 +76,7 @@ permalink: /appetite-for-change/
       </div>
 </div>
 
-
 </div>
-
-
 
 <div class="bgDarkBlue">
   <div class="container text-center">
@@ -123,9 +118,10 @@ permalink: /appetite-for-change/
     <div class="row push-top small-push-bottom">
       <div class="col-xs-12 col-sm-offset-2 col-sm-8">
         <p>Support our campaign by sharing this link with your friends. We appreciate it.</p>
-		      {% include share.html %}
+    	      {% include share.html %}
       </div>
     </div>
+
   </div>
 </div>
 
@@ -170,13 +166,12 @@ permalink: /appetite-for-change/
       </div>
       <div class="col-xs-12 col-sm-3 xs-push-top mobile-text-center">
         <p>The climate-friendly label points you to the climate friendy meals in the restaurants.</p>
-        <p>More information <a href="/meals/restaurants/#award">here</a>.</p>
+        <p>More information <a href="/meals">here</a>.</p>
       </div>
     </div>
+
   </div>
 </div>
-
-
 
   <div id="register" class="container">
     <div class="row push-top push-bottom">
@@ -218,11 +213,10 @@ permalink: /appetite-for-change/
 
       </div>
     </div>
+
   </div>
 
-
 {% include register.html %}
-
 
 <div class="bgLightGrey">
 <div class="container">
@@ -239,7 +233,7 @@ permalink: /appetite-for-change/
     <div class="col-xs-12 col-sm-offset-1 col-sm-5 xs-push-top">
       <h2>A working solution</h2>
       <p>Eaternity has developed a working solution and proven a successfully the adoption of climate friendly meals for restaurants and caterings.</p>
-      <a class="button" href="/app/get-the-app">Get the Login <i class="fa fa-angle-right fa-lg"></i></a>
+      <a class="button" href="/contact">Contact us <i class="fa fa-angle-right fa-lg"></i></a>
     </div>
   </div>
 </div>
@@ -283,8 +277,11 @@ permalink: /appetite-for-change/
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
 <script src="https://maps.googleapis.com/maps/api/js"></script>
+
 <script src="/js/jquery.magnific-popup.min.js"></script>
 
 <script src="/js/infobubble.js"></script>
+
 <script src="/meals/restaurants.js"></script>

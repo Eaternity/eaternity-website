@@ -42,7 +42,7 @@ How Eaternity defines “climate-friendly” for meals you can [read here][2].
 Do you want to contribute or collaborate with us on our research? Contact us!
 Do you have an opinion or comments on our mission? Let us know!
 
-[1]: http://www.eaternity.org/app/get-the-app
+[1]: http://www.eaternity.org/contact
 [2]: http://www.eaternity.org/foodprint/database
 [pictures]: https://www.facebook.com/pg/eaternity/photos/?tab=album&album_id=10154690181039618
 [migros]: http://www.engagement-migros.ch/de/eaternity-auf-dem-menue-workshops

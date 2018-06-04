@@ -11,9 +11,9 @@ permalink: /meals/
 			<ul class="subNavigation">
 				<a href="/foodprint/"><li>Saving the Planet</li></a>
 				<a href="/meals"><li class="current">Climate-friendly Meals</li></a>
-				<a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a>
+				<!-- <a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a> -->
 				<a href="/meals/hub"><li>Community Hub</li></a>
-				<a href="/app/get-the-app"><li>CO₂ Calculator</li></a>
+				<a href="/contact"><liContact us</li></a>
 			</ul>
 		</div>
 	</div>
@@ -118,7 +118,7 @@ permalink: /meals/
         <h1>The Eaternity Meal</h1>
         <p>Meals are granted climate-friendly status if they belong to the top 20% of all meals being served (currently 76'034 in our database). A climate friendly meal has at least <span class="semiBold">50% LESS CO₂</span> emissions then the average meal.</p>
 				<p>Check our <a href="/blog/data-updates">latest update on the data</a> for more details</p>.
-        <a class="button" href="/app/get-the-app">Sign up for Eaternity<i class="fa fa-angle-right fa-lg"></i></a>
+        <a class="button" href="/contact">Contact us<i class="fa fa-angle-right fa-lg"></i></a>
       </div>
     </div>
     <div class="col-xs-12 col-sm-7 xs-push-top">
