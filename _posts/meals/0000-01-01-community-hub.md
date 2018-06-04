@@ -30,10 +30,10 @@ categories: meals
     <div class="row" style="color:black;">
       <div class="co-xs-12 col-md-offset-2 col-md-8 small-push-top"  >
         <div class="teaserFacts bgLightBlue">
-          <a class="button" href="https://www.eventbrite.co.uk/e/sustainable-gastronomy-collaboratory-zurich-tickets-44792374197" style="color:black;">Register at Eventbrite now
+          <!-- <a class="button" href="https://www.eventbrite.co.uk/e/sustainable-gastronomy-collaboratory-zurich-tickets-44792374197" style="color:black;">Register at Eventbrite now
           <i class="fa fa-angle-right fa-lg"></i>
-          </a><br /><br />
-          <h3> 2018 / May 17 / 1:30pm – 4:30pm, Eaternity Office, Feldeggstrasse 4, 8008 Zurich</h3>
+          </a><br /><br /> -->
+          <h3> Next event coming up, Eaternity Office, Feldeggstrasse 4, 8008 Zurich</h3>
         </div>
       </div>
     </div>
