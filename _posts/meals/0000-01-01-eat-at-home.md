@@ -13,7 +13,7 @@ permalink: /meals/
 				<a href="/meals"><li class="current">Climate-friendly Meals</li></a>
 				<!-- <a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a> -->
 				<a href="/meals/hub"><li>Community Hub</li></a>
-				<a href="/contact"><liContact us</li></a>
+				<a href="/contact"><li>Contact us</li></a>
 			</ul>
 		</div>
 	</div>
