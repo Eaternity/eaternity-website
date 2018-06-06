@@ -1,0 +1,53 @@
+.co2-scale {
+    float: left;
+    margin: 0 8px 15px 0;
+    width: 14mm;
+}
+
+.co2-scale-title {
+    font-size: 10pt;
+}
+
+.average-climate-menus {
+    text-align: center;
+    float: left;
+}
+
+.average-this-restaurant {
+    text-align: center;
+    float: left;
+    margin-left: 30mm;
+}
+
+.average-all-restaurants {
+    text-align: center;
+    float: left;
+    margin-left: 4mm;
+}
+
+.customer-report-confidential-low {
+    background-color: white;
+    width:75mm;
+    height:27mm;
+    top:47mm;
+    right:5mm;
+    text-align:center;
+    font-size: 13pt;
+    position: absolute;
+}
+
+.customer-report-confidential-high {
+    background-color: white;
+    width:75mm;
+    height:29mm;
+    top:10mm;
+    right:5mm;
+    text-align:center;
+    font-size: 12pt;
+    position: absolute;
+}
+
+/*TODO temp hack*/
+.worst-case-box {
+
+}
