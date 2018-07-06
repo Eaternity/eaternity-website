@@ -16,7 +16,11 @@ tags:
 - planet
 ---
 
-Eaternity will sponsor the fourth edition of TEDx Vicenza (Italy) “From ME to WE”, to be held in June 9th 2018 at the Teatro Comunale. This edition will explore how sharing ideas, knowledge and experience we can build a better world. TEDx Vicenza doesn’t want just to show a vision of change, but to make change happen.
+Eaternity sponsored the fourth edition of TEDx Vicenza (Italy) “From ME to WE”, held in June 9th 2018 at the Teatro Comunale. This edition explored how sharing ideas, knowledge and experience we can build a better world. Food plays a big role in building a more sustainable, equitable and prosper society.
+
+![pub](/img/blog/2018-05-04-TEDx-Vicenza/TEDxVicenza2.jpg "Eaternity @ TEDx Vicenza")
+
+![pub2](/img/blog/2018-05-04-TEDx-Vicenza/TEDxVicenza.jpg "TEDx Vicenza climate friendly food with Eaternity")
 
 Find out more: [www.tedxvicenza.com][1]
 
