@@ -33,17 +33,31 @@ permalink: /app/
   </div>
 </div>
 
+<div class="container">
+  <div class="row small-push-top push-bottom verticalAlign">
+    <div class="col-xs-12 col-sm-offset-1 col-sm-7">
+      <div>
+        <img class="responsive" src="/img/professional/web-screen.jpg">
+      </div>
+    </div>
+    <div class="col-xs-offset-4 col-xs-4 col-sm-offset-0 col-sm-3 xs-push-top">
+      <p>We will provide you with detailed scientific sustainability metrics, based on the food data available to us. Given recipes, food purchase receipts, supply statistics, etc. – we can tell you where your are to reduce CO₂ emissions, your water footprint or approach a minimal risk diet for better health. Results of our calculations are provided in real-time over our <a href="#api">API</a>, or via nicely illustrated monthly PDF reports.</p>
+    </div>
+
+  </div>
+</div>
+
 <div class="bgDarkBlue">
   <div class="container">
     <div class="row small-push-top small-push-bottom verticalAlign">
-      <div class="col-xs-12 col-sm-6 col-md-5">
+      <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
         <div>
           <h1>Eaternity Report</h1>
           <p>Your customer trust in your services. Show them you care about climate-friendly cuisine. In a monthly report we will inform you on the progress of your restaurants.</p>
           <p>Carbon emissions are calculated dynamically in real time, including statistics of imports, transportation distances, and seasonalities.</p>
         </div>
       </div>
-      <div class="col-xs-offset-1 col-xs-10 col-sm-offset-1 col-sm-5 col-md-offset-2 col-md-4 xs-push-top">
+      <div class="col-xs-offset-1 col-xs-10 col-sm-offset-1 col-sm-5 col-md-offset-1 col-md-4 xs-push-top">
         <a class="ajax-popup-link" href="/app/report">
           <div class="reportTeaser">
             <img class="responsive" src="/img/professional/report1.jpg">
@@ -59,13 +73,18 @@ permalink: /app/
   <div class="container">
     <div class="row push-top push-bottom">
       <div class="col-xs-offset-4 col-xs-4 col-sm-offset-1 col-sm-3 col-md-offset-2 col-md-2">
-        <img class="responsive" src="/img/professional/climate-friendly.png">
+        <img class="responsive"  src="/img/professional/climate-friendly.png">
+        <img class="responsive" style="transform: rotate(20deg);margin-top:200px;" src="/img/home/rezept-jpg.jpg" />
       </div>
       <div class="col-xs-12 col-sm-offset-1 col-sm-7 col-md-5 xs-push-top">
         <h1>Eaternity Award</h1>
         <p>Label your climate-friendly menu choices with the «Eaternity Award» – the first footprint award for meals worldwide. Send a clear message to your guests that you care about our impact on the environment. Give them a valuable foundation to make informed decisions.</p>
+        <p>With our 1 to 5 rating illustration: health, CO₂ emissions and other environmental impacts are scored against a comparisons of all recipes.</p>
+        <img class="responsive" style="margin-left:-14px;" src="/img/home/Website-Export.png" />
+
       </div>
     </div>
+
   </div>
 </div>
 
@@ -84,11 +103,11 @@ permalink: /app/
   </div>
 </div> -->
 
-<div class="container">
+<div class="container" id="api">
   <div class="row push-top push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-5">
-      <h1>Existing API</h1>
-      <p>In case you already have a working system like Microsoft Dynamics or SAP, our API provides you with a direct connection to exchange informations. With an innovative automatic ingredient matching tool, all customer and supplier data is fitted seamlessly into our system. We can deliver all information on the spot. Everything is setup ready for an integration into your system. <a href="http://docs.eaternity.apiary.io">docs.eaternity.apiary.io</a> and <a href="https://eaternity-edb-api-slack-invite.herokuapp.com">Join our EDB API Slack Channel</a> if you want first hand contact with our developers.</p>
+      <h1>Eaternity API</h1>
+      <p>In case you already have a working system like Microsoft Dynamics or SAP, our RESTful API provides you with a direct connection to exchange informations. With an innovative automatic ingredient matching tool, all customer and supplier data is fitted seamlessly into our database. We can deliver all information on the spot. Everything is setup ready for an integration into your system. <a href="http://docs.eaternity.apiary.io">docs.eaternity.apiary.io</a> and <a href="https://eaternity-edb-api-slack-invite.herokuapp.com">Join our EDB API Slack Channel</a> if you want first hand contact with our developers.</p>
     </div>
     <div class="col-xs-12 col-sm-5 xs-push-top">
       <h1>Ask for a demo</h1>
@@ -99,7 +118,7 @@ permalink: /app/
 
   <div class="row push-top small-push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
-      <h1>Eaternity Food Service – the smart solution for restaurants</h1>
+      <h1>The smart solution for restaurants</h1>
     </div>
   </div>
   <div class="row big-push-bottom">
