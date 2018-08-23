@@ -76,7 +76,7 @@ permalink: /about/
 
 <div id="team" class="row text-center small-push-bottom">
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/manuelklarmann.jpg">
         <h3>Manuel Klarmann</h3>
@@ -111,7 +111,7 @@ permalink: /about/
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
+    <!-- <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/glacave.jpg">
         <h3>Guillaume Lacavé, PhD</h3>
@@ -121,7 +121,7 @@ permalink: /about/
           <a href="mailto:glacave@eaternity.ch">glacave@eaternity.ch</a><br />
         </p>
       </div>
-    </div>
+    </div> -->
 
 </div>
 
