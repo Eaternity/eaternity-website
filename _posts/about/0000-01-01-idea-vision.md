@@ -13,6 +13,7 @@ permalink: /about/
         <a href="/about/partners"><li>Partners</li></a>
         <a href="/about/media"><li>Media</li></a>
         <a href="/blog"><li>Blog</li></a>
+        <a href="/assets/2018-08-23-Job-Offer-Finance-Admin-Backoffice.pdf"><li><i class="fa fa-angle-right fa-lg"></i> Job Offer <i class="fa fa-angle-left fa-lg"></i></li></a>
       </ul>
     </div>
   </div>
