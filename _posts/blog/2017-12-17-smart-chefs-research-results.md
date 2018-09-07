@@ -46,5 +46,5 @@ Publications of the research:
 </div>
 
 [fullreport]: http://www.eaternity.org/assets/smart-chefs/2017-12-17-Smart-Chefs-Booklet-double-page.pdf
-[summary]: http://www.eaternity.org/assets/smart-chefs/2017-12-16-Smart-Chefs-Compilation.pdf
-[summary-de]: http://www.eaternity.org/assets/smart-chefs/2017-12-19-Smart-Chefs-Compilation-DE.pdf
+[summary]: http://www.eaternity.org/assets/smart-chefs/2018-09-06-Eaternity-Compilation.pdf
+[summary-de]: http://www.eaternity.org/assets/smart-chefs/2018-09-06-Eaternity-Compilation-German.pdf
