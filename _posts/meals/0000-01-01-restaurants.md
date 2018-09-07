@@ -76,7 +76,7 @@ categories: meals
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
-<script src="https://maps.googleapis.com/maps/api/js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-_FRzCklNgSOoMjxNWHEO7sWQqVxc_QM"></script>
 
 <script src="/js/jquery.magnific-popup.min.js"></script>
 
