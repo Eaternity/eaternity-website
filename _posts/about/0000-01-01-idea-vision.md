@@ -13,7 +13,7 @@ permalink: /about/
         <a href="/about/partners"><li>Partners</li></a>
         <a href="/about/media"><li>Media</li></a>
         <a href="/blog"><li>Blog</li></a>
-        <a href="/assets/2018-08-23-Job-Offer-Finance-Admin-Backoffice.pdf"><li><i class="fa fa-angle-right fa-lg"></i> Job Offer <i class="fa fa-angle-left fa-lg"></i></li></a>
+        <a href="/about#job-offer"><li><i class="fa fa-angle-right fa-lg"></i> Job Offer <i class="fa fa-angle-left fa-lg"></i></li></a>
       </ul>
     </div>
   </div>
@@ -51,7 +51,7 @@ permalink: /about/
 
         <p>Our goal is to give everyone access to climate-friendly meals. For individuals and organisations, Eaternity presents solutions to reduce your food-based environmental impact. The result: global emissions are reduced through simple and delicious measures - longterm.</p>
 
-        <p>At Eaternity we are convinced that we can reduce climate-threatening greenhouse gas emissions by half! This is equivalent of 1 ton of CO2 per person per year. That's comparable to driving by car from the north cape (Norway) to Lisboa (Portugal).</p>
+        <p>At Eaternity we are convinced that we can reduce climate-threatening greenhouse gas emissions by half! This is equivalent of 1 ton of CO₂ per person per year. That's comparable to driving by car from the north cape (Norway) to Lisboa (Portugal).</p>
 
         <p>Eaternity provides solutions, that are delicous, healthy and sustainable.</p>
       </div>
@@ -75,7 +75,7 @@ permalink: /about/
     </div>
   </div>
 
-<div id="team" class="row text-center small-push-bottom">
+<div id="team" class="row text-center">
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
@@ -125,14 +125,17 @@ permalink: /about/
     </div> -->
 
 </div>
-
-<div class="row text-center small-push-bottom">
+<div id="job-offer"></div>
+<div class="row text-center small-push-bottom small-push-top" >
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/johndoe2.jpg">
-        <h3>Judith Moosburner</h3>
-        <p>Design Developer</p>
+        <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
+        <h3>Job Offer</h3>
+        <p>Advanced Admin & Finance Officer</p>
+        <p>
+          <a href="/assets/2018-08-23-Job-Offer-Finance-Admin-Backoffice.pdf">Download</a><br />
+        </p>
       </div>
     </div>
 
@@ -232,7 +235,7 @@ permalink: /about/
     </div>
     <div class="col-xs-12 col-sm-4 xs-push-top">
       <h3>2009</h3>
-      <p>Since then, Eaternity has been working hard to bring this to the attention of key interest groups. After a year of lobbying and hard work, Eaternity launched its <a href="http://eaternity.org/assets/de/2009-11-25%20MM-Pilot.pdf">first project at one of the ETH canteens</a> at the Science City campus run by SV Group. This project was the first of its kind, and the start of many more great projects to come. The CO2-impact of all the meals offered at the canteen was calculated and the team worked together with the cooks to create and serve the first ever climate-friendly menu in a public restaurant.</p>
+      <p>Since then, Eaternity has been working hard to bring this to the attention of key interest groups. After a year of lobbying and hard work, Eaternity launched its <a href="http://eaternity.org/assets/de/2009-11-25%20MM-Pilot.pdf">first project at one of the ETH canteens</a> at the Science City campus run by SV Group. This project was the first of its kind, and the start of many more great projects to come. The CO₂-impact of all the meals offered at the canteen was calculated and the team worked together with the cooks to create and serve the first ever climate-friendly menu in a public restaurant.</p>
     </div>
     <div class="col-xs-12 col-sm-4 xs-push-top">
       <h3>2014</h3>
