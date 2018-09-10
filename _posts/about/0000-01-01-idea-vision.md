@@ -13,7 +13,7 @@ permalink: /about/
         <a href="/about/partners"><li>Partners</li></a>
         <a href="/about/media"><li>Media</li></a>
         <a href="/blog"><li>Blog</li></a>
-        <a href="/about#job-offer"><li><i class="fa fa-angle-right fa-lg"></i> Job Offer <i class="fa fa-angle-left fa-lg"></i></li></a>
+        <a href="/about/#job-offer"><li><i class="fa fa-angle-right fa-lg"></i> Job Offer <i class="fa fa-angle-left fa-lg"></i></li></a>
       </ul>
     </div>
   </div>
