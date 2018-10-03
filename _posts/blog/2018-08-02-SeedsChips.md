@@ -9,8 +9,8 @@ author: Marta Antonelli
 title: Eaternity at Seeds&Chips
 subtitle: Presentation at the Global Food Innovation Summit in Milano
 
-blog-image: 2018-10-02-SeedsChips.jpg
-image: 2018-10-02-SeedsChips.jpg
+blog-image: 2018-08-02-SeedsChips.jpg
+image: 2018-08-02-SeedsChips.jpg
 tags:
 - press
 - planet
