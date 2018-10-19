@@ -6,7 +6,7 @@ published: true
 
 author: Marta Antonelli
 
-title: Digital Shapers 2018
+title: We are Digital Shapers 2018
 subtitle: Judith Ellens voted by the Jury of Digitalswitzerland
 
 blog-image: 2018-10-03-DigitalShapers.jpg
