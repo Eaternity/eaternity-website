@@ -31,13 +31,13 @@ This has important implications, as we now can give a climatefriendly award for 
 
 <br />
 
-Previously we differentiated between rating ingredients, recipes and restaurants. Ingredients being normalized by weight, restaurants by kcal, and recipes not being normalized at all but thresholded by 320 kcal and 710g CO₂. This will be no more.
+Previously we differentiated between rating ingredients, recipes and restaurants. Ingredients being normalized by weight, restaurants by kcal, and recipes not being normalized at all but thresholded by 320 kcal. This is no more.
 
 The most important change, you need to understand, is that a climatefriendly meal can be above 710g of CO₂ . And some meals below 710g of CO₂ might be not climatefriendly any more. There is no way around this. To some of you, we have been announcing this change already for some time.
 
 We are trying to do the transition as smooth as possible. So in case you have any concerns, or questions. Just write or call us directly. If you are interested, what we did in all details, just keep reading below.
 
-We are confident, that this change does update our system to be compatible with all possible applications for the coming years. This will be of benefit to you all. We hope you see this the same way, as we do.
+We are confident, that this change brings our system up to date with many more possible applications for the coming years. This will be of benefit to you all. We hope you see this the same way, as we do.
 
 <h3>How does it work?</h3>
 We create a food-unit to normalize all food items. This food-unit is orthogonal (independent) to our Climate Score and our Vita Score. Which means it cannot have any of their metrics included (like: fiber, high trans fatty acids, low polyunsaturated fatty acids, sodium, etc.). It serves as a proper normalization function. We use this unit to compare restaurants, menus, convenience foods/products and ingredients against the environmental and health scores we have.
