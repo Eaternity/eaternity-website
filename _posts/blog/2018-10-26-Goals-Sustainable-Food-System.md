@@ -46,7 +46,7 @@ By 2050 we need to change our diet to the following fractions of our current con
 
 <br />
 
-Or, if we want to set a more proximate target for 2030, I suggest:
+Or, if we want to set a more proximate target for 2030, we suggest:
 
 |                                                           |
 | --------------------------------------------------------- |
