@@ -222,7 +222,7 @@ permalink: /foodprint/
     		<p>The Eaternity Climate Score gives everyone the transparency on the greenhouse gas emissions of food choices.
     		</p>
     		<img src="/img/foodprint/planet/planet-6.jpg" style="width:100%">
-    		    <a href="/foodprint/climate-score/"><button>Learn more</button></a>
+    		    <a href="/blog/Goals-Sustainable-Food-System"><button>Learn more</button></a>
     </div>
     <div class="col-xs-12 col-sm-4 col-sm-offset-1 ">
     	<img src="/img/foodprint/planet/planet-4.jpg" style="width:100%">
