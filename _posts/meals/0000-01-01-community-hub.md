@@ -11,6 +11,7 @@ categories: meals
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
 				<a href="/foodprint/"><li>Saving the Planet</li></a>
+				<a href="/foodprint/climate-change"><li>Climate Change</li></a>
 				<a href="/meals"><li>Climate-friendly Meals</li></a>
 				<!-- <a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a> -->
 				<a href="/meals/hub"><li class="current">Community Hub</li></a>
