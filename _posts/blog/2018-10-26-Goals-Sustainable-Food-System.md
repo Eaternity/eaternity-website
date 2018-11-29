@@ -12,8 +12,8 @@ subtitle: What to eat in 2030 or 2050 to be within environmental limits.
 blog-image: 2018-10-26-Goals-Sustainable-Food-System.jpg
 image: 2018-10-26-Goals-Sustainable-Food-System.jpg
 tags:
-- press
-- planet
+  - press
+  - planet
 ---
 
 What are the goals that we need to set and reach in order go keep our food system within environmental limits?
@@ -41,7 +41,7 @@ By 2050 we need to change our diet to the following fractions of our current con
 | 5 times the amount of legumes, nuts, and seeds |
 | Twice the amount of vegetables                 |
 | ---                                            |
-| while reducing foodwaste by ⅓                  |
+| while reducing foodwaste by ½                  |
 | -----------------------------                  |
 
 <br />
