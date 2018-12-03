@@ -32,12 +32,12 @@ We might be able to solve a couple of those issues with technology (for example,
 
 A fairly recent study ([published in Nature by Springman et al.][pdf] - also check the [article on the guardian][1]) brings it to the point. We have the options of improving technology, reducing foodwaste, and transitioning our diet -- but only the combination of all three will cut it. The scenario, in its simplest terms, he describes as follows:
 
-By 2050 we need to change our diet to the following fractions of our current consumption:
+By 2050 we need to change our diet to the following fractions of our current global consumption:
 
 |                                                |
 | ---------------------------------------------- |
-| 1/10 of red meats                              |
-| ⅓ of white meats and milk                      |
+| 1/6 of red meats                               |
+| 3/4 of poultry                                 |
 | 5 times the amount of legumes, nuts, and seeds |
 | Twice the amount of vegetables                 |
 | ---                                            |
@@ -46,12 +46,12 @@ By 2050 we need to change our diet to the following fractions of our current con
 
 <br />
 
-Or, if we want to set a more proximate target for 2030, we suggest:
+Or, if we want to set a more proximate target for 2030 and Switzerland, we suggest:
 
 |                                                           |
 | --------------------------------------------------------- |
-| ⅓ of red meats (-66%)                                     |
-| 4/5 of white meats and milk (-20%)                        |
+| 1/2 of red meats (-50%)                                   |
+| 1/2 of milk (-50%)                                        |
 | 2 times the the amount of legumes, nuts and seeds (+100%) |
 | 1.5 times the amount of vegetable (+50%)                  |
 | ---                                                       |
