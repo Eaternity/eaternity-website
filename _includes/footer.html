@@ -1,17 +1,20 @@
 <div id="footer">
-
   <div class="bgBlue">
     <div class="container">
-      <a href="/contact" style="color:white; text-decoration: none; font-weight: 300;">
+      <a
+        href="/contact"
+        style="color:white; text-decoration: none; font-weight: 300;"
+      >
         <div class="row small-push-top  small-push-bottom">
           <div class="col-xs-12 col-md-4">
-            <span class="semiBold">74</span> Participating restaurants
+            <span class="semiBold">74</span> participating restaurants
           </div>
           <div class="col-xs-12 col-md-4 text-center-above-sm">
-            <span class="semiBold">76 034</span> cooked climate-friendly meals
+            <span class="semiBold">20%</span> reduction potential within 2 years
           </div>
           <div class="col-xs-12 col-md-4 text-right-above-sm">
-            <span class="semiBold">21 902</span> reduced emissions of CO<sub>2</sub>e in kg
+            equals <span class="semiBold">10 Tons</span> less CO<sub>2</sub>e
+            per year and restaurant
           </div>
         </div>
       </a>
@@ -22,17 +25,25 @@
     <div class="container">
       <div class="row small-push-top small-push-bottom">
         <div class="col-xs-3 col-sm-3">
-          &copy; {{ site.time | date: '%Y' }} Eaternity | <a href="/legal">Legal&nbsp;Notice</a>
+          &copy; {{ site.time | date: '%Y' }} Eaternity |
+          <a href="/legal">Legal&nbsp;Notice</a>
         </div>
         <div class="col-xs-6 col-md-6 text-center">
           <a href="/contact">
-                        <button>Contact <i class="fa fa-angle-right fa-lg"></i></button>
-                    </a>
+            <button>Contact <i class="fa fa-angle-right fa-lg"></i></button>
+          </a>
         </div>
         <div class="col-xs-3 col-sm-3 text-right">
-          {% assign posts=site.posts | where:"name", page.name | sort: 'path' %} {% for post in posts %}
+          {% assign posts=site.posts | where:"name", page.name | sort: 'path' %}
+          {% for post in posts %}
 
-          <a href="{{ post.url }}" class="{{ post.lang }} lang" style="text-transform:uppercase;">{{ post.lang }}</a> {% endfor %}
+          <a
+            href="{{ post.url }}"
+            class="{{ post.lang }} lang"
+            style="text-transform:uppercase;"
+            >{{ post.lang }}</a
+          >
+          {% endfor %}
         </div>
       </div>
     </div>
@@ -40,72 +51,88 @@
 </div>
 
 <script>
-window.intercomSettings = {
-  app_id: "por9avwk"
-};
+  window.intercomSettings = {
+    app_id: "por9avwk"
+  };
 </script>
 
 <!-- <script async defer src="https://hypothes.is/embed.js"></script> -->
 
 <script>
-(function() {
-  var w = window;
-  var ic = w.Intercom;
-  if (typeof ic === "function") {
-    ic("reattach_activator");
-    ic("update", intercomSettings);
-  } else {
-    var d = document;
-    var i = function() {
-      i.c(arguments);
-    };
-    i.q = [];
-    i.c = function(args) {
-      i.q.push(args);
-    };
-    w.Intercom = i;
-
-    function l() {
-      var s = d.createElement("script");
-      s.type = "text/javascript";
-      s.async = true;
-      s.src = "https://widget.intercom.io/widget/x25uowka";
-      var x = d.getElementsByTagName("script")[0];
-      x.parentNode.insertBefore(s, x);
-    }
-    if (w.attachEvent) {
-      w.attachEvent("onload", l);
+  (function() {
+    var w = window;
+    var ic = w.Intercom;
+    if (typeof ic === "function") {
+      ic("reattach_activator");
+      ic("update", intercomSettings);
     } else {
-      w.addEventListener("load", l, false);
+      var d = document;
+      var i = function() {
+        i.c(arguments);
+      };
+      i.q = [];
+      i.c = function(args) {
+        i.q.push(args);
+      };
+      w.Intercom = i;
+
+      function l() {
+        var s = d.createElement("script");
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://widget.intercom.io/widget/x25uowka";
+        var x = d.getElementsByTagName("script")[0];
+        x.parentNode.insertBefore(s, x);
+      }
+      if (w.attachEvent) {
+        w.attachEvent("onload", l);
+      } else {
+        w.addEventListener("load", l, false);
+      }
     }
-  }
-})();
+  })();
 </script>
 
-<script src="/js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
+<script
+  src="/js/bootstrap.min.js"
+  type="text/javascript"
+  charset="utf-8"
+></script>
 <script src="/js/icheck.min.js" type="text/javascript" charset="utf-8"></script>
 
 <script>
-(function(i, s, o, g, r, a, m) {
-  i["GoogleAnalyticsObject"] = r;
-  (i[r] =
-    i[r] ||
-    function() {
-      (i[r].q = i[r].q || []).push(arguments);
-    }),
-    (i[r].l = 1 * new Date());
-  (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
-  a.async = 1;
-  a.src = g;
-  m.parentNode.insertBefore(a, m);
-})(window, document, "script", "//www.google-analytics.com/analytics.js", "ga");
+  (function(i, s, o, g, r, a, m) {
+    i["GoogleAnalyticsObject"] = r;
+    (i[r] =
+      i[r] ||
+      function() {
+        (i[r].q = i[r].q || []).push(arguments);
+      }),
+      (i[r].l = 1 * new Date());
+    (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m);
+  })(
+    window,
+    document,
+    "script",
+    "//www.google-analytics.com/analytics.js",
+    "ga"
+  );
 
-ga("create", "UA-55310589-1", "auto");
-ga("send", "pageview");
+  ga("create", "UA-55310589-1", "auto");
+  ga("send", "pageview");
 </script>
 
 <script src="https://cdn.localizejs.com/localize.js"></script>
 
 <!-- Start of HubSpot Embed Code -->
-  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3448730.js"></script>
+<script
+  type="text/javascript"
+  id="hs-script-loader"
+  async
+  defer
+  src="//js.hs-scripts.com/3448730.js"
+></script>
 <!-- End of HubSpot Embed Code -->
