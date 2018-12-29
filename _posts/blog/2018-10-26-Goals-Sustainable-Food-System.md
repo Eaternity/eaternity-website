@@ -46,7 +46,7 @@ By 2050 we need to change our diet to the following fractions of our current glo
 
 <br />
 
-Or, if we want to set a more proximate target for 2030 and Switzerland, we suggest:
+If we want to set a proximate target for 2030 and Switzerland, we suggest:
 
 |                                                           |
 | --------------------------------------------------------- |
@@ -59,6 +59,9 @@ Or, if we want to set a more proximate target for 2030 and Switzerland, we sugge
 | -----------------------------                             |
 
 <br />
+Note that this 2030 Switzerland target is not taking into account the aspects of equity and climate justice. Meaning that there are other nations which still want to build roads and infrastructure (already available in Switzerland). Those would need us, the developed nations, to take more of the share to reduce the emissions. Switzerland should actually consider reaching the global 2050 target, by 2030.
+
+tldr;
 
 To make it really plain and simple: There is no way we can talk about eating sustainable without reducing our meat consumption. [China][2] is doing it. The vegetarians are doing it. The [IPCC recommends][5] it. [Arnold Schwarzenegger][3] and [Leonardo di Caprio][4] promote it. The Netherlands and the islands that will disappear in the oceans are hoping that you will get it.
 
