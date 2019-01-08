@@ -26,7 +26,7 @@ permalink: /app/
 
       <img class="responsive" src="/img/get-the-app/Eaternity-App-preview.png">
       <a style="margin-top:-40px;" href="https://app.eaternity.ch" class="button large">
-        Try Eaternity for Free <i class="fa fa-angle-right fa-lg"></i></a>
+        Give Eaternity a Try <i class="fa fa-angle-right fa-lg"></i></a>
     </div>
 
   </div>
