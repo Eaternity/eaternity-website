@@ -65,7 +65,7 @@ tldr;
 
 To make it really plain and simple: There is no way we can talk about eating sustainable without reducing our meat consumption. [China][2] is doing it. The vegetarians are doing it. The [IPCC recommends][5] it. [Arnold Schwarzenegger][3] and [Leonardo di Caprio][4] promote it. The Netherlands and the islands that will disappear in the oceans are hoping that you will get it.
 
-Better too soon than too late.
+Better too soon, than too late.
 
 [pdf]: /assets/sci-pub/Mason%20DCorz%20et%20al%20(2018)%20Options%20for%20keeping%20the%20food%20system%20within%20environmental%20limits.pdf
 [1]: https://www.theguardian.com/environment/2018/oct/10/huge-reduction-in-meat-eating-essential-to-avoid-climate-breakdown

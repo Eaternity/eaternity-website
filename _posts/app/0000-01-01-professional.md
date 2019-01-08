@@ -20,6 +20,19 @@ permalink: /app/
 </div>
 
 <div class="container">
+  <div class="row push-top">
+    <div class="text-center">
+      <h1 style="font-size:100px;margin-top:20px;margin-bottom:20px;">Eaternity App</h1>
+
+      <img class="responsive" src="/img/get-the-app/Eaternity-App-preview.png">
+      <a style="margin-top:-40px;" href="https://app.eaternity.ch" class="button large">
+        Try Eaternity for Free <i class="fa fa-angle-right fa-lg"></i></a>
+    </div>
+
+  </div>
+</div>
+
+<div class="container">
   <div class="row push-top push-bottom verticalAlign">
     <div class="col-xs-12 col-sm-offset-1 col-sm-7">
       <div>
@@ -107,7 +120,7 @@ permalink: /app/
   <div class="row push-top push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-5">
       <h1>Eaternity API</h1>
-      <p>In case you already have a working system like Microsoft Dynamics or SAP, our RESTful API provides you with a direct connection to exchange informations. With an innovative automatic ingredient matching tool, all customer and supplier data is fitted seamlessly into our database. We can deliver all information on the spot. Everything is setup ready for an integration into your system. <a href="http://docs.eaternity.apiary.io">docs.eaternity.apiary.io</a> and <a href="https://eaternity-edb-api-slack-invite.herokuapp.com">Join our EDB API Slack Channel</a> if you want first hand contact with our developers.</p>
+      <p>In case you already have a working system like Microsoft Dynamics or SAP, our RESTful API provides you with a direct connection to exchange informations. With an innovative automatic ingredient matching tool, all customer and supplier data is fitted seamlessly into our database. We can deliver all information on the spot. Everything is setup ready for an integration into your system. Check <a href="http://docs.eaternity.apiary.io">docs.eaternity.apiary.io</a> and <a href="https://eaternity-edb-api-slack-invite.herokuapp.com">join our EDB API Slack Channel</a> if you want first hand contact with our developers.</p>
     </div>
     <div class="col-xs-12 col-sm-5 xs-push-top">
       <h1>Ask for a demo</h1>
