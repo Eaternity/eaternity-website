@@ -13,10 +13,7 @@ blog-image: 2015-11-23-Eaternity-App.jpg
 image: 2015-11-23-Eaternity-App.jpg
 
 tags:
-- press
-
-
-
+  - press
 ---
 
 Our food choices matter! With 1/3 of all greenhouse gas emissions originating from our food consumption, a reduction by half is possible and has a significant impact potentially saving 5.6 Giga tons of CO2eq worldwide per year! This is equivalent to more than 5 times the total yearly emissions of a country like Germany.
@@ -32,7 +29,7 @@ Check our [press release (German)][press] and the [social media kit][kit].
 
 [appetite]: /appetite-for-change
 [fp]: /foodprint
-[app]: http://app.eaternity.org
+[app]: http://app.eaternity.ch
 [press]: /assets/Pressemitteilung-Appetite-for-change-20151120_Eaternity.pdf
 [kit]: /assets/SocialMediaKit_appetiteforchange2015_eaternity.pdf
 [app2]: /app
