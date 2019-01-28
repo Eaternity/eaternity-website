@@ -28,7 +28,7 @@ permalink: /about/
 
   <div class="row push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
-      <p>Eaternity is the company developing a comprehensive management solution for the restaurant industry that gives restaurant owners intelligent insights into the supply-chain and enables smart decision-making for the benefit of people, planet and profit. We went public in 2014 but our story goes back to 2008. We are based in Zurich, Switzerland.</p>
+      <p>Eaternity is the company developing a comprehensive management solution for the food service industry that gives intelligent insights into the supply-chain and enables smart decision-making for the benefit of people, planet and profit. We went public in 2014 but our story goes back to 2008. We are based in Zurich, Switzerland.</p>
     </div>
   </div>
 
@@ -46,14 +46,14 @@ permalink: /about/
     </div>
     <div class="col-xs-12 col-sm-offset-1 col-sm-7 xs-push-top">
       <div>
-        <h2>Our Goal: To create the future of gastronomy</h2>
-        <p>We aim to provide sustainable menu choices in any restaurant. To do so, we are building the next generation of solutions and services for the food service industry. We streamline the restaurant business and capture the values for today and tomorrow.</p>
+        <h2>Our Goal: To create the future of our food system</h2>
+        <p>We aim to provide sustainable menu choices in any restaurant and food market. To do so, we are building the next generation of solutions and services for the food service industry. We streamline the your business and capture the values for today and tomorrow.</p>
 
-        <p>Our goal is to give everyone access to climate-friendly meals. For individuals and organisations, Eaternity presents solutions to reduce your food-based environmental impact. The result: global emissions are reduced through simple and delicious measures - longterm.</p>
+        <p>Our goal is to give everyone access to climate-friendly meals. For individuals and organizations, Eaternity presents solutions to reduce your food-based environmental impact. The result: global emissions are reduced through simple and delicious measures - longterm.</p>
 
         <p>At Eaternity we are convinced that we can reduce climate-threatening greenhouse gas emissions by half! This is equivalent of 1 ton of CO₂ per person per year. That's comparable to driving by car from the north cape (Norway) to Lisboa (Portugal).</p>
 
-        <p>Eaternity provides solutions, that are delicous, healthy and sustainable.</p>
+        <p>Eaternity provides solutions, that are delicious, healthy and sustainable.</p>
       </div>
     </div>
 

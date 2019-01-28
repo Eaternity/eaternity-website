@@ -64,7 +64,7 @@ season. Overall reducing the CO₂eq contribution in particular for several
 products in the winter.
 
 For missing declarations for the origin of the food, we now calculate with the
-help of the Food and Agriculture Organization of the United Nations ([FAO][fao])
+help of the Food and Agriculture organization of the United Nations ([FAO][fao])
 statistics on global trade of goods, an annual average as a guiding value for
 each of our product. This increases overall the CO₂-values, as fewer transport
 distances will be classified as regional.
