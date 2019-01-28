@@ -12,7 +12,7 @@ permalink: /foodprint/
 			<ul class="subNavigation">
 				<a href="/foodprint/"><li class="current">Saving the Planet</li></a>
 				<a href="/foodprint/climate-change"><li>Climate Change</li></a>
-				<a href="/meals"><li>Climate-friendly Meals</li></a>
+				<a href="/meals"><li>Climate-friendly Foods</li></a>
 				<!-- <a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a> -->
 				<a href="/meals/hub"><li>Community Hub</li></a>
 				<a href="/contact"><li>Contact us</li></a>
@@ -31,7 +31,7 @@ permalink: /foodprint/
         			<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Saving the Planet</h1>
 
         		<hr />
-        		<h3 class="">On the importance of food sustainability to prevent human extinction.</h3>
+        		<h3 class="">On the importance of food sustainability to stay within environmental limits.</h3>
         		<hr />
 
     						<a href="/contact"><button>Contact us</button></a>
@@ -136,7 +136,7 @@ permalink: /foodprint/
   <div class="window" style="background-image: url('/img/foodprint/roooot.jpg');background-size: 500px 229px;background-position: left center;background-size: 140%">
 
     	<h1 style="font-size:100px; line-height:120px;padding-top:120px; margin-left:200px;margin-right:200px;">Solutions Welcome!
-    		Hello, Eaternity Award.</h1>
+    		Hello, Eaternity Awards.</h1>
 
     </div>
 
@@ -154,14 +154,14 @@ permalink: /foodprint/
 
     		<p>Eaternity has developed indicators for the carbon footprint, health, land-use change, good animal treatment, seasonality and the water footprint to help the food service industry make smart choices.</p>
     		<p>
-    			With eating-out on the rise in a modern society, the food service industry is facing a key-role, contributing to a sustainable agriculture and public health. Eaternity provides tools for smart chefs to measure, track and reduce the environmental impact of their restaurants and reduce disease risk along the way. At the push of a button, chefs can access our data and get the information they need to make smart choices. Large caterers and cafeteria operators have already signed on to Eaternity, taking on the challenge of reducing food-related CO₂ emissions and contributing to a healthier society. The best among these food service establishments are awarded the Eaternity Award.
+    			With eating-out on the rise in a modern society, the food service industry is facing a key-role, contributing to a sustainable agriculture and public health. Eaternity provides tools for smart chefs to measure, track and reduce the environmental impact of their restaurants and reduce disease risk along the way. At the push of a button, chefs can access our data and get the information they need to make smart choices. Large caterers and cafeteria operators have already signed on to Eaternity, taking on the challenge of reducing food-related CO₂ emissions and contributing to a healthier society. The best among these food service establishments are awarded the Eaternity Awards.
     		</p>
 
     			<h3>Eaternity Measurement Solutions</h3>
 
     			<ul>
     				<li>Climate Score</li>
-    				<li>Vita Score</li>
+    				<li>Health Score</li>
     				<li>Water Score</li>
     				<li>Rainforest Label</li>
     				<li>Animal Treatment Label</li>

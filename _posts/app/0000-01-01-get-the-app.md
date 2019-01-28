@@ -12,7 +12,7 @@ categories: app
       <div class="col-xs-12 text-center">
         <ul class="subNavigation">
           <a href="/foodprint/"><li>Saving the Planet</li></a>
-  				<a href="/meals"><li>Climate-friendly Meals</li></a>
+  				<a href="/meals"><li>Climate-friendly Foods</li></a>
   				<!-- <a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a> -->
   				<a href="/meals/hub"><li>Community Hub</li></a>
   				<a href="/app/get-the-app"><li class="current">CO₂ Calculator</li></a>

@@ -4,8 +4,8 @@ category: blog
 
 published: true
 redirect_from:
-- /foodprint/health
-- /foodprint/health-workshop
+  - /foodprint/health
+  - /foodprint/health-workshop
 
 author: Aleksandra Aleksandrowicz
 
@@ -15,8 +15,8 @@ subtitle: Publication of the full booklet and the new environmental indicators.
 blog-image: 2017-12-19-health-footprint-project.jpg
 image: 2017-12-19-health-footprint-project.jpg
 tags:
-- press
-- environment
+  - press
+  - environment
 ---
 
 ### The idea: a sustainability standard for restaurants
@@ -43,13 +43,13 @@ Develop user-friendly instruments for restaurants and the public, to optimize he
 
 The health footprint project invited to create a common ground for health action by summarizing current knowledge on different definitions of healthy diets and consequences of bad dietary habits, namely diet related disorders.
 
-As a consequence, and a result of the project, Eaternity included additional Vita Score indicator into the Eaternity App to support the overall goal of reducing the food related climate impact.
+As a consequence, and a result of the project, Eaternity included additional Health Score indicator into the Eaternity App to support the overall goal of reducing the food related climate impact.
 
 At the Health Footprint Workshop 2016 held in Zürich we discussed with scientists, chefs, consumers and farmers the state of the knowledge in sciences and which indicators are crucial to assess environmental sustainability of food.
 
 Together we formulated a message that combines the goals of both climate friendly and healthy nutrition, giving consumers and restaurants the opportunity to contribute to a sustainable and healthy future. We summarized and discussed the available knowledge of climate friendly and healthy nutrition. And provided guidelines for the restaurants and consumers showing the way towards climate friendly and healthy nutrition.
 
-Based on the discussions and the scientific work conducted within this project we selected the Global Burden of Disease Study to develop an indicator for menus - the <a href="/foodprint/vita-score">Vita Score</a>. It was further discussed and reviewed by the advisory board, as well as further experts from the field of nutrition.
+Based on the discussions and the scientific work conducted within this project we selected the Global Burden of Disease Study to develop an indicator for menus - the <a href="/foodprint/vita-score">Health Score</a>. It was further discussed and reviewed by the advisory board, as well as further experts from the field of nutrition.
 
 The Vita-Score together with the environmental footprints was tested against data from real restaurant, the conclusion was: "We are out of balance!". <a href="/blog/smart-chefs-restaurant-analysis">Learn more about the Restaurant Analysis.</a>
 
@@ -61,7 +61,7 @@ All results of the project were put into practice at the <a href="/blog/smart-ch
 
 <ol>
 <li> ➔ <a href="/blog/smart-chefs-research-results">Full Results of the Health Footprint Project</a></li>
-<li> ➔ <a href="/assets/smart-chefs/2017-12-12_VitaScore_Documentation_web.pdf">Vita Score Documentation - Whitepaper</a></li>
+<li> ➔ <a href="/assets/smart-chefs/2017-12-12_VitaScore_Documentation_web.pdf">Health Score Documentation - Whitepaper</a></li>
 <li> ➔ <a href="/assets/smart-chefs/2017-12-21_HEALTH_HealthyGuidelines.pdf">Healthy eating guidelines (Swiss only)</a></li>
 </ol>
 <br />

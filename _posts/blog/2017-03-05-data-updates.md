@@ -79,7 +79,7 @@ no means of transport are given.
 For the improvements on our origin and transport model, we expect in general the
 CO₂-values for a meal to increase by 25g CO₂eq.
 
-The calculations-basis for our [Eaternity Award][award], and correspondingly the
+The calculations-basis for our [Eaternity Awards][award], and correspondingly the
 A-E rating for the recipes, will be adjusted with this data-update accordingly.
 This means for the process of planning and writing the recipes for
 climate-friendly meals, we expect for the overall higher CO₂-values of the meals

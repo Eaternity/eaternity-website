@@ -1,7 +1,7 @@
 ---
 layout: default
 name: community-hub
-title:  "Community Hub"
+title: "Community Hub"
 permalink: /meals/hub
 categories: meals
 ---
@@ -12,7 +12,7 @@ categories: meals
 			<ul class="subNavigation">
 				<a href="/foodprint/"><li>Saving the Planet</li></a>
 				<a href="/foodprint/climate-change"><li>Climate Change</li></a>
-				<a href="/meals"><li>Climate-friendly Meals</li></a>
+				<a href="/meals"><li>Climate-friendly Foods</li></a>
 				<!-- <a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a> -->
 				<a href="/meals/hub"><li class="current">Community Hub</li></a>
 				<a href="/contact"><li>Contact us</li></a>
@@ -34,8 +34,8 @@ categories: meals
           <!-- <a class="button" href="https://www.eventbrite.co.uk/e/sustainable-gastronomy-collaboratory-zurich-tickets-44792374197" style="color:black;">Register at Eventbrite now
           <i class="fa fa-angle-right fa-lg"></i>
           </a><br /><br /> -->
-          <h3> Next event: 6th November - 18:00, Eaternity Office, Feldeggstrasse 4, 8008 Zurich</h3>
-    				<h3><a href ="http://www.greenbuzz.global/zurich/2018/09/03/addressing-the-meat-issue-the-path-to-sustainable-plates-tue-6-nov/">register here</a></h3>
+          <h3> Next event: no event scheduled</h3>
+    				<!-- <h3><a href ="http://www.greenbuzz.global/zurich/2018/09/03/addressing-the-meat-issue-the-path-to-sustainable-plates-tue-6-nov/">register here</a></h3> -->
         </div>
       </div>
     </div>
@@ -61,8 +61,6 @@ categories: meals
     			<p>We meet regularly, around a workshop in the office of Eaternity at Feldeggstrasse 4, 8008 Zurich.</p>
     			<p>The Eaternity team provides the Hub with facts on climate change, the environment, and a scientific bases for the understanding of the interactions between food and climate. Together we discuss how our chefs are key of the equation.</p>
 
-  				<h4>Next Dates:</h4>
-					<p><ul><li>6th November</li></ul></p>
 
     		<h3>Outreach</h3>
     			<p>To support and communicate the positive impact of the Hub, Eaternity organizes an Award event, hold publicly, which rewards the best chefs regarding sustainability of meals, and provide information on our doing to the broad public.</p>

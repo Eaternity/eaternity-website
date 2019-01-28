@@ -6,7 +6,7 @@ published: true
 
 author: Manuel Klarmann
 
-title: Der Eaternity Award
+title: Der Eaternity Awards
 subtitle: Unser Produktstart für die System-Gastronomie.
 
 short: 
@@ -27,13 +27,13 @@ partner:
 
 
 
-##Der Eaternity Award
-Eaternity etabliert den neuen Standard in der Gastronomie: Tagesaktuelle CO2-Berechnungen aller servierten Menus bringen Transparenz in die Ernährung - und helfen bei der Entscheidung zu einem nachhaltigen und verantwortungsvollen Lebensstil. Die klimafreundlichen Menus sind mit dem Eaternity Award gekennzeichnet. Dieser zeichnet jene Menus aus, welche einen besonders niedrigen CO2-Wert aufweisen.
+##Der Eaternity Awards
+Eaternity etabliert den neuen Standard in der Gastronomie: Tagesaktuelle CO2-Berechnungen aller servierten Menus bringen Transparenz in die Ernährung - und helfen bei der Entscheidung zu einem nachhaltigen und verantwortungsvollen Lebensstil. Die klimafreundlichen Menus sind mit dem Eaternity Awards gekennzeichnet. Dieser zeichnet jene Menus aus, welche einen besonders niedrigen CO2-Wert aufweisen.
 
-Dazu hat Eaternity einen CO2-Rechner entwickelt, welcher auf der Datenbasis von Studien und fundierten Schätzungen, kombiniert mit den aktuellen Informationen zu Liefer- und Produktionsbedingungen, den CO2-Wert jedes einzelnen Menus im Restaurantbetrieb berechnet. Weiter wird ein Vergleichswert festgelegt, dieser basiert auf dem Durchschnitt des kompletten existierenden Menu-Angebots aller mitwirkenden Restaurants. Mit dem Eaternity Award lassen sich etwa 50% der CO2-Emissionen gegenüber diesem Durchschnitts-Menu im Restaurant einsparen.
+Dazu hat Eaternity einen CO2-Rechner entwickelt, welcher auf der Datenbasis von Studien und fundierten Schätzungen, kombiniert mit den aktuellen Informationen zu Liefer- und Produktionsbedingungen, den CO2-Wert jedes einzelnen Menus im Restaurantbetrieb berechnet. Weiter wird ein Vergleichswert festgelegt, dieser basiert auf dem Durchschnitt des kompletten existierenden Menu-Angebots aller mitwirkenden Restaurants. Mit dem Eaternity Awards lassen sich etwa 50% der CO2-Emissionen gegenüber diesem Durchschnitts-Menu im Restaurant einsparen.
 
 
-![Eaternity Award](/img/blog/2014-05-26-Eaternity-Award/Eatenity-Award-big.png "Eaternity Award")
+![Eaternity Awards](/img/blog/2014-05-26-Eaternity-Award/Eatenity-Award-big.png "Eaternity Awards")
 
 
 **Wir machen Köche zu Klimahelden**

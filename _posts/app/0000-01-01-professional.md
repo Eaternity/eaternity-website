@@ -26,7 +26,7 @@ permalink: /app/
 
       <img class="responsive" src="/img/get-the-app/Eaternity-App-preview.png">
       <a style="margin-top:-40px;" href="https://app.eaternity.ch" class="button large">
-        Give Eaternity a Try <i class="fa fa-angle-right fa-lg"></i></a>
+        Give the Eaternity App a Try <i class="fa fa-angle-right fa-lg"></i></a>
     </div>
 
   </div>
@@ -90,8 +90,8 @@ permalink: /app/
         <img class="responsive" style="transform: rotate(20deg);margin-top:200px;" src="/img/home/rezept-jpg.jpg" />
       </div>
       <div class="col-xs-12 col-sm-offset-1 col-sm-7 col-md-5 xs-push-top">
-        <h1>Eaternity Award</h1>
-        <p>Label your climate-friendly menu choices with the «Eaternity Award» – the first footprint award for meals worldwide. Send a clear message to your guests that you care about our impact on the environment. Give them a valuable foundation to make informed decisions.</p>
+        <h1>Eaternity Awards</h1>
+        <p>Label your climate-friendly menu choices with the «Eaternity Awards» – the first footprint award for meals worldwide. Send a clear message to your guests that you care about our impact on the environment. Give them a valuable foundation to make informed decisions.</p>
         <p>With our 1 to 5 rating illustration: health, CO₂ emissions and other environmental impacts are scored against a comparisons of all recipes.</p>
         <img class="responsive" style="margin-left:-14px;" src="/img/home/Website-Export.png" />
 

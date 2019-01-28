@@ -40,7 +40,7 @@ We are trying to do manage this transition as smoothly as possible. So in case y
 We are confident, that this change brings our system up to date with many more possible applications for the coming years. This will be of benefit to you all. We hope you see this the same way, as we do.
 
 <h3>How does it work?</h3>
-We create a food-unit to normalize all food items. This food-unit is orthogonal (independent) to our Climate Score and our Vita Score. Which means it cannot have any of their metrics included (like: fiber, high trans fatty acids, low polyunsaturated fatty acids, sodium, etc.). It serves as a proper normalization function. We use this unit to compare restaurants, menus, convenience foods/products and ingredients against the environmental and health scores we have.
+We create a food-unit to normalize all food items. This food-unit is orthogonal (independent) to our Climate Score and our Health Score. Which means it cannot have any of their metrics included (like: fiber, high trans fatty acids, low polyunsaturated fatty acids, sodium, etc.). It serves as a proper normalization function. We use this unit to compare restaurants, menus, convenience foods/products and ingredients against the environmental and health scores we have.
 
 We include the following nutrients, respective to their recommended daily amounts (as given by the [German Health Society (DGE)][1] and other commonly used standards, like the [Nutrient Rich Food (NRF)][2] index):
 

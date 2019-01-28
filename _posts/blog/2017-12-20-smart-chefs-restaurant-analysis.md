@@ -12,11 +12,11 @@ subtitle: The results are in - we are out of balance.
 blog-image: 2017-12-17-smart-chefs-restaurant-analysis.jpg
 image: 2017-12-17-smart-chefs-restaurant-analysis.jpg
 tags:
-- press
-- organic
-- health
-- environment
-- smart-chefs
+  - press
+  - organic
+  - health
+  - environment
+  - smart-chefs
 ---
 
 Wow, I never knew that eating balanced was such a challenge! I just assumed that eating sustainable was the greater one. Only around 6% of all meals served in restaurants that we analyzed fulfilled the criteria of having a good energy content and the right proportional distribution of protein, fat and starch. Off course, this is only one perspective of judging the healthiness of a meal, but it is a pretty basic one. Moreover, it is commonly recommended and applied by health and food professionals. Our findings are in line with the <a href="https://www.blv.admin.ch/blv/de/home/dokumentation/nsb-news-list.msg-id-66016.html">Swiss menuCH</a> study which showed that most Swiss eat unbalanced, eating especially too much meat and fat.
@@ -37,53 +37,53 @@ Now, for the first time we could measure the impact of our food decisions for mu
 <br />
 # Towards a more healthy planet.
 
-By analyzing the status quo in restaurants and considering global sustainability goals, as well as applicability in practice we defined 3 clear standards for meals: the Climate Score Award, Water Footprint Award and the Vita Score Award. The Vita Score Award is based on the Vita Score which aims at reducing diet-related disease risk. By definition the 20% best meals receive the Climate Score Award, 80% the Water Footprint Award and 20% the Vita Score Award. The Nutrition Label, the Rainforest Label and the Animal Treatment Label inform on balanced nutrition, tropical deforestation and animal treatment. All are by itself noble goals, some more urgent than others.
+By analyzing the status quo in restaurants and considering global sustainability goals, as well as applicability in practice we defined 3 clear standards for meals: the Climate Score Award, Water Footprint Award and the Health Score Award. The Health Score Award is based on the Health Score which aims at reducing diet-related disease risk. By definition foods receive the Climate Score Award if they have 40% less emissions than average. The Water Footprint Award if they reduce on average 50% of the water scarcity. And the Health Score Award if they reduce at least 20% of the diet related health risks. The Nutrition Label, the Rainforest Label and the Animal Treatment Label inform on balanced nutrition, tropical deforestation and animal treatment. All are by itself noble goals, some more urgent than others.
 
 <br />
 ### Balanced Nutrition
 
-* Only around 6% of all meals received the Nutrition Label and had their energy sources in good proportions.
-* Most important factors to improve are to reduce the amount of fat and protein.
+- Only around 6% of all meals received the Nutrition Label and had their energy sources in good proportions.
+- Most important factors to improve are to reduce the amount of fat and protein.
 
 <br /><a style="float:right" href="/foodprint/vita-score#nutrition">Learn more.</a>
 
 <br />
-### Vita Score
+### Health Score
 
-* Only 3% of all meals had enough whole grains in it as opposed to 40% of meals had enough vegetables.
-* The most important factors to improve the Vita Score are to increase the amount of whole grain products, nuts & seeds and fruits and to reduce the amount of salt and calories.
+- Only 3% of all meals had enough whole grains in it as opposed to 40% of meals had enough vegetables.
+- The most important factors to improve the Health Score are to increase the amount of whole grain products, nuts & seeds and fruits and to reduce the amount of salt and calories.
 
 <br /><a style="float:right" href="/foodprint/vita-score">Learn more.</a>
 
 <br />
 ### Water Scarcity Footprint
 
-* Swiss vegetarian meals and meals with meat have similar water footprints. For other countries this can be different. For other countries this can be different. Nevertheless, 62% of Swiss vegetarian meals still receive the Water Footprint Award.
-* The most important factors to improve the Water Scarcity Footprint are to avoid products from water scarce regions and if not produced in Switzerland to reduce the amount of animal products. Examples of plant-based products that mostly have a high water scarcity footprint are olive oil, almonds and lentils if they were produced in for example Turkey, but not if they are from Canada.
+- Swiss vegetarian meals and meals with meat have similar water footprints. For other countries this can be different. For other countries this can be different. Nevertheless, 62% of Swiss vegetarian meals still receive the Water Footprint Award.
+- The most important factors to improve the Water Scarcity Footprint are to avoid products from water scarce regions and if not produced in Switzerland to reduce the amount of animal products. Examples of plant-based products that mostly have a high water scarcity footprint are olive oil, almonds and lentils if they were produced in for example Turkey, but not if they are from Canada.
 
 <br /><a style="float:right" href="/foodprint/environmental-footprints#water">Learn more.</a>
 
 <br />
 ### Rainforest label
 
-* Practically all meals (97%) contain soy and/or palm oil. This also includes meals with meat and milk products for which soy was used to feed the animals.
-* 72% of meals receive the Rainforest Label mostly, because the palm oil or soy was either certified or stems from an unproblematic production country.
+- Practically all meals (97%) contain soy and/or palm oil. This also includes meals with meat and milk products for which soy was used to feed the animals.
+- 72% of meals receive the Rainforest Label mostly, because the palm oil or soy was either certified or stems from an unproblematic production country.
 
 <br /><a style="float:right" href="/foodprint/environmental-footprints#forest">Learn more.</a>
 
 <br />
 ### Animal Treatment Label
 
-* 17% of the meals that received the Animal Treatment Label contained meat, 44% were vegetarian and 39% were vegan..
-* To increase animal welfare one can reduce the amount of animal products eaten and buy certified meat and milk products.
+- 17% of the meals that received the Animal Treatment Label contained meat, 44% were vegetarian and 39% were vegan..
+- To increase animal welfare one can reduce the amount of animal products eaten and buy certified meat and milk products.
 
 <br /><a style="float:right" href="/foodprint/environmental-footprints#animal">Learn more.</a>
 
 <br />
 ### Climate Score Award
 
-* 71% of meals that receive the Climate Score Award also receive the Water Footprint Award (16% of all meals in total).
-* Only around 10% of all meals received the Climate Score Award and Vita Award at the same time and only 3% of all meals received these 2 and the Water Footprint Award.
+- 71% of meals that receive the Climate Score Award also receive the Water Footprint Award (16% of all meals in total).
+- Only around 10% of all meals received the Climate Score Award and Vita Award at the same time and only 3% of all meals received these 2 and the Water Footprint Award.
 
 <br /><a style="float:right" href="/foodprint/climate-score">Learn more.</a>
 

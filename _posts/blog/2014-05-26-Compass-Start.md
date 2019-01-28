@@ -29,8 +29,8 @@ partner:
 
 ##Essen für ein gutes Klima – Nachhaltigkeit auf unseren Tellern
 
-###Der Eaternity Award macht Appetit auf Veränderung
-####*26. Mai 2014.* Selten sind Pionierleistungen so wohlschmeckend. Und wann können sich die Gäste der Gastronomie schon rühmen, Vorreiter einer neuen Zeit zu sein? In der ZHAW-Mensa auf dem Campus Technikumstrasse in Winterthur kommt beides zusammen. Die dortigen Gäste können sich ab heute ein klimafreundliches Menu servieren lassen. Die CO2-Emissionen werden mit einem ausgefeilten System tagesaktuell berechnet. Die mit dem Eaternity Award gekennzeichneten Menus sparen im Vergleich 50% an CO2-Emissionen ein.
+###Der Eaternity Awards macht Appetit auf Veränderung
+####*26. Mai 2014.* Selten sind Pionierleistungen so wohlschmeckend. Und wann können sich die Gäste der Gastronomie schon rühmen, Vorreiter einer neuen Zeit zu sein? In der ZHAW-Mensa auf dem Campus Technikumstrasse in Winterthur kommt beides zusammen. Die dortigen Gäste können sich ab heute ein klimafreundliches Menu servieren lassen. Die CO2-Emissionen werden mit einem ausgefeilten System tagesaktuell berechnet. Die mit dem Eaternity Awards gekennzeichneten Menus sparen im Vergleich 50% an CO2-Emissionen ein.
 
 
 Wer weiss das schon: Rund ein Drittel aller konsumverursachten Treibhausgas-Emissionen weltweit entsteht durch die Produktion von Nahrungsmitteln. Im Umkehrschluss heisst das, durch bewusste Ernährung lässt sich die CO2-Belastung unserer Umwelt drastisch reduzieren und unser Klima nachhaltig schützen. Dass eine solche Ernährung ebenso gesund wie schmackhaft ist, davon können sich ab heute die täglich rund 800 Gäste in der Mensa der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) auf dem Campus Technikumstrasse in Winterthur überzeugen. Sie ebnen damit ganz nebenbei einem verantwortungsbewussten, nachhaltigen und dennoch genussreichen Lebensstil den Weg.

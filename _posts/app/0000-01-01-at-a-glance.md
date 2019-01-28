@@ -45,7 +45,7 @@ categories: app
   <p>All-inclusive reports with insightful illustrations to support you in taking targeted action in improve the performance of your restaurant.</p>
   <p>Menu Awards for your marketing purposes and promotion of your sustainable restaurant to our clientele.</p>
   <h3>EUR 99 / month</h3>
-  <p>For restaurants with up to 200 servings/day and food cost up to EUR 250’000/year</p>
+  <p>For restaurants with up to 500 servings/day and food cost up to EUR 250’000/year</p>
   <a href="/contact" class="button">Purchase now<i class="fa fa-angle-right fa-lg"></i></a>
   </div>
   </div>

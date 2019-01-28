@@ -57,7 +57,7 @@ permalink: /appetite-for-change/
           </div>
       <div class="col-xs-12 col-sm-4 xs-push-top text-center">
         <img src="/img/cop21/zutaten-menu-blue.svg" height="70px" />
-          <h3>2. Serve climate-friendly meals</h3><p> if you are a restaurant, caterer or event organizer, you can join as a participating restaurant. We will list you at the overview map as a participating restaurant. Use the <a href="/meals">Eaternity Award</a> for communication to show your guests your great engagement in serving tasty climate-friendly meals and refer back to this campaign.</p>
+          <h3>2. Serve climate-friendly meals</h3><p> if you are a restaurant, caterer or event organizer, you can join as a participating restaurant. We will list you at the overview map as a participating restaurant. Use the <a href="/meals">Eaternity Awards</a> for communication to show your guests your great engagement in serving tasty climate-friendly meals and refer back to this campaign.</p>
           </div>
         <div class="col-xs-12 col-sm-4 xs-push-top text-center">
           <img src="/img/cop21/personen-blue.svg" height="70px" />

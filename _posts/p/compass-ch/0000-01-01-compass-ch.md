@@ -80,7 +80,7 @@ permalink: /p/compass-ch
         <li><a href="/assets/de/2014-05-23_Medienmitteilung Eaternity ZHAW.pdf">Press release Compass Group (Switzerland) AG</a> (26th of May 2014)</li>
         <li><a href="/assets/de/2014-11-14_Compass-Eaternity_II_Roll_out_MM_.pdf">Press release Compass Group (Switzerland) AG</a> (14h of November 2014)</li>
       </ul>
-      <h3>Pay attention to our Eaternity Award</h3>
+      <h3>Pay attention to our Eaternity Awards</h3>
       <div class="row">
         <div class="col-xs-12 col-md-8">
           <p>Enjoy a climate-friendly meal and become part of the solution.</p>

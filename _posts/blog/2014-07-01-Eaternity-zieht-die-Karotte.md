@@ -39,7 +39,7 @@ Es ist in letzter Zeit so viel passiert, dass wir nicht dazukamen ordentlich dar
 
 * Einer unserer schönsten Tage - am BAFU wurde der Umwelttag mit [umweltfreundlichen Menus gefeiert][BAFU]. Wir waren mittendrin und mit dabei.
 
-* Mit unserem Markteintritt (und der Gründung unserer AG) bekommt auch unser Produkt, der ["Eaternity Award"][eaternity.com] ein neues Zuhause - mit ihm geht brandneue Webseite geht an den Start: www.eaternity.com
+* Mit unserem Markteintritt (und der Gründung unserer AG) bekommt auch unser Produkt, der ["Eaternity Awards"][eaternity.com] ein neues Zuhause - mit ihm geht brandneue Webseite geht an den Start: www.eaternity.com
 
 * Die Compass Group (Schweiz) AG, ist unser erster grosser Kunde. Mit diesen als Partner setzen wir ein [Umweltprogramm um was noch seines Gleichen sucht][compass].
 

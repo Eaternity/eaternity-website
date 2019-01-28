@@ -11,7 +11,7 @@ categories: foodprint
 			<ul class="subNavigation">
 			    <a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
           <a href="/foodprint/climate-score"><li class="current">Climate Score</li></a>
-    			<a href="/foodprint/vita-score"><li>Vita Score</li></a>
+    			<a href="/foodprint/vita-score"><li>Health Score</li></a>
     			<a href="/foodprint/environmental-footprints"><li>Environmental Footprints</li></a>
     		</ul>
     	</div>
@@ -193,7 +193,7 @@ categories: foodprint
 
     		<h3>Publications</h3>
     		<ol>
-    		<li> ➔ <a href="/assets/smart-chefs/2017-Entscheidungskriterien-Eaternity-Award-DE.pdf">Decision Criteria Eaternity Award (DE)</a></li>
+    		<li> ➔ <a href="/assets/smart-chefs/2017-Entscheidungskriterien-Eaternity-Award-DE.pdf">Decision Criteria Eaternity Awards (DE)</a></li>
     		</ol>
     </div>
 

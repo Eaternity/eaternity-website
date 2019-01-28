@@ -12,18 +12,18 @@ subtitle: Organic and Health Research Results - Full Booklet Publication
 blog-image: 2017-12-18-smart-chefs-research-results.jpg
 image: 2017-12-18-smart-chefs-research-results.jpg
 tags:
-- press
-- organic
-- health
-- environment
-- smart-chefs
+  - press
+  - organic
+  - health
+  - environment
+  - smart-chefs
 ---
 
 In our report „Smart Chefs: health, climate and sustainability“ we summarize the findings on the conflicts and synergies between different environmental and health indicators. In short, reducing the carbon footprint of our diet also reduces the impact of important other environmental indicators, but potential conflicts exist with animal welfare, tropical deforestation and water scarcity.
 
 Further, there is a great need for reducing diet-related disease risk and a great climate potential in eating a healthier diet.
 
-Chefs and restaurants can now successfully reduce carbon emissions and optimize for health and sustainability with the newly developed <a href="/foodprint/vita-score">Vita Score</a>, <a href="/foodprint/environmental-footprints#water">Water Footprint Award</a> and <a href="/foodprint/environmental-footprints#forest">Rainforest</a> and <a href="/foodprint/environmental-footprints#animal">Animal Treatment Label</a> and <a href="/foodprint/vita-score#nutrition">Nutrient Label</a>.
+Chefs and restaurants can now successfully reduce carbon emissions and optimize for health and sustainability with the newly developed <a href="/foodprint/vita-score">Health Score</a>, <a href="/foodprint/environmental-footprints#water">Water Footprint Award</a> and <a href="/foodprint/environmental-footprints#forest">Rainforest</a> and <a href="/foodprint/environmental-footprints#animal">Animal Treatment Label</a> and <a href="/foodprint/vita-score#nutrition">Nutrient Label</a>.
 
 ### Report Smart Chefs: health, climate and sustainability
 

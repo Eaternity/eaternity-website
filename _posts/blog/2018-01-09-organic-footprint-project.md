@@ -65,7 +65,7 @@ All results of the project were put into practice at the <a>impuls event “Smar
 <ol>
   <li> ➔ <a href="/blog/smart-chefs-research-results">Full Results of the Organic Footprint Project</a></li>
   <li> ➔ <a href="/assets/smart-chefs/170927-Eaternity-fact_sheet_booklet.pdf">Organic Factsheet - Organic Footprint Project</a></li>
-  <li> ➔ <a href="/assets/smart-chefs/2017-Entscheidungskriterien-Eaternity-Award-DE.pdf">Decision Criteria Eaternity Award (DE)</a></li>
+  <li> ➔ <a href="/assets/smart-chefs/2017-Entscheidungskriterien-Eaternity-Award-DE.pdf">Decision Criteria Eaternity Awards (DE)</a></li>
 </ol>
 <br />
 <br />

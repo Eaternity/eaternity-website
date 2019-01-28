@@ -1,7 +1,7 @@
 ---
 layout: default
 name: eat-at-home
-title:  "Climate-friendly Meals"
+title: "Climate-friendly Meals"
 permalink: /meals/
 ---
 
@@ -11,7 +11,7 @@ permalink: /meals/
 			<ul class="subNavigation">
 				<a href="/foodprint/"><li>Saving the Planet</li></a>
 				<a href="/foodprint/climate-change"><li>Climate Change</li></a>
-				<a href="/meals"><li class="current">Climate-friendly Meals</li></a>
+				<a href="/meals"><li class="current">Climate-friendly Foods</li></a>
 				<!-- <a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a> -->
 				<a href="/meals/hub"><li>Community Hub</li></a>
 				<a href="/contact"><li>Contact us</li></a>
@@ -116,8 +116,8 @@ permalink: /meals/
   <div class="row big-push-top big-push-bottom verticalAlign" id="award">
     <div class="col-xs-12 col-sm-5">
       <div>
-        <h1>The Eaternity Meal</h1>
-        <p>Meals are granted climate-friendly status if they belong to the top 20% of all meals being served (currently 76'034 in our database). A climate friendly meal has at least <span class="semiBold">50% LESS CO₂</span> emissions then the average meal.</p>
+        <h1>Eaternity Climate Award</h1>
+        <p>Meals (or products) are granted climate-friendly status if they are better then most meals being served (currently 76'034 in our database). A climate friendly meal has at least <span class="semiBold">40% LESS CO₂</span> emissions then the average meal.</p>
 				<p>Check our <a href="/blog/data-updates">latest update on the data</a> for more details</p>.
         <a class="button" href="/contact">Contact us<i class="fa fa-angle-right fa-lg"></i></a>
       </div>

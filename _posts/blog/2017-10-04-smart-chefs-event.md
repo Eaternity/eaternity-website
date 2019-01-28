@@ -12,11 +12,11 @@ subtitle: Ein kulinarischer Spielplatz für Entdecker
 blog-image: 2017-10-04-smart-chefs.jpg
 image: 2017-10-04-smart-chefs.jpg
 tags:
-- press
-- health
-- environment
-- smart-chefs
-- organic
+  - press
+  - health
+  - environment
+  - smart-chefs
+  - organic
 ---
 
 **_Am 28. September 2017 haben wir im Rahmen einer
@@ -49,10 +49,10 @@ liefern uns zu helfen gesünder und umweltfreundlicher zu werden. Wenn alle in
 der Schweiz 3x pro Woche klimafreundlich essen wurden, hätten wir den gleichen
 Impact wie 750.000 weniger Auto’s auf der Strasse.
 
-### Weiter geht’s mit dem «Eaternity Award»
+### Weiter geht’s mit dem «Eaternity Awards»
 
 Wichtige Ankündigung am Event: Aufbauend auf unseren Studienergebnissen gibt es
-die Verleihung des ersten <<Eaternity Award für Restaurants>> im Jahr 2018.
+die Verleihung des ersten <<Eaternity Awards für Restaurants>> im Jahr 2018.
 Neben der Klima-Bilanz werden nun auch die Nachhaltigkeitsaspekte Gesundheit,
 Wasserknappheit, Tierwohl und Tropenwaldschutz berücksichtigt. Anfangs 2018
 können Restaurants mit dem Eaternity App ihre Nachhaltigkeit nach den neuen
@@ -76,25 +76,25 @@ Vorschau herunterladen:
 [Kürbis-Limonen-Antipasti mit gerösteten Mandeln und Salbei. Dazu
 Parmesanspickel. - Gut fürs Klima][klima-good] - Lokal, saisonal, knackig.
 
-* Lokaler und saisonale Kürbis und Knollensellerie sind köstlich und haben eine
+- Lokaler und saisonale Kürbis und Knollensellerie sind köstlich und haben eine
   Top Klima – Bilanz. Sie wurden im Freiland produziert und benötigen kein
   beheiztes Gewächshaus
 
-* Keine der Zutaten wurden mit dem Flugzeug importiert
+- Keine der Zutaten wurden mit dem Flugzeug importiert
 
-* Geringe Mengen an Käse sind klimaverträglich. Prinzipiell gilt: je mehr
+- Geringe Mengen an Käse sind klimaverträglich. Prinzipiell gilt: je mehr
   pflanzlich desto besser.
 
 <br />
 [Mango-Wasserkastanien-Salat mit Chili und Koriander. Dazu sautierte Crevetten. - Klimaschädlich][klima-bad] - Exotisch, eingeflogen, Zucht-Crevetten.
 
-* Die Mango und die frischen Kräuter wurden eingeflogen und verursachen darum
+- Die Mango und die frischen Kräuter wurden eingeflogen und verursachen darum
   hohe CO₂ Emissionen.
 
-* Crevetten aus der Zucht verursachen grosse CO₂ – Emissionen. Vor allem die
+- Crevetten aus der Zucht verursachen grosse CO₂ – Emissionen. Vor allem die
   Futterproduktion trägt zum grossen Fussabdruck bei.
 
-* Die Kastanie kommt mit dem Schiff und trägt somit kaum zur Klimabilanz bei.
+- Die Kastanie kommt mit dem Schiff und trägt somit kaum zur Klimabilanz bei.
 
 <br />
 
@@ -104,24 +104,24 @@ Parmesanspickel. - Gut fürs Klima][klima-good] - Lokal, saisonal, knackig.
 Vollkorncracker und Kürbiskerne unterstützen eine Ernährung die das Risiko auf
 Krankheiten verringert.
 
-* Der Kürbis und die Pilze sorgen für einen grossen Gemüseanteil. Der Cracker
+- Der Kürbis und die Pilze sorgen für einen grossen Gemüseanteil. Der Cracker
   wurde aus Vollkornmehl hergestellt.
 
-* Kürbiskerne sorgen dafür, dass genügend Nüsse und Kerne im Menu vorhanden
+- Kürbiskerne sorgen dafür, dass genügend Nüsse und Kerne im Menu vorhanden
   sind.
 
-* Es ist gut, dass nur geringe Mengen an Salz und kein verarbeitetes Fleisch
+- Es ist gut, dass nur geringe Mengen an Salz und kein verarbeitetes Fleisch
   verwendet wurde.
 
 <br />
 [Ciabatta Cracker mit Rinderfilet Carpaccio - Problematisch][health-bad] - Weiss- statt Vollkornbrot, wenig Gemüse und Nüsse sowie rotes Fleisch tragen zu einem Lebensstil bei die das Risiko auf Lebensstil-Krankheiten vergrössert.
 
-* Das Ciabatta wurde aus Weissmehl hergestellt und enthält kein Vollkornmehl.
+- Das Ciabatta wurde aus Weissmehl hergestellt und enthält kein Vollkornmehl.
   Generell sind nur wenig Gemüse, Nüsse und Früchte enthalten.
 
-* Rotes Fleisch sollte nur in geringen Massen genossen werden.
+- Rotes Fleisch sollte nur in geringen Massen genossen werden.
 
-* Das Häppchen enthält mehr Salz als empfohlen.
+- Das Häppchen enthält mehr Salz als empfohlen.
 
 <br />
 
@@ -131,29 +131,29 @@ Krankheiten verringert.
 Gut für die Umwelt][bio-good] - Lokal, saisonal, Alpbutter produziert mit hohen
 Tierwohl-Standard, Weizen aus kontrollierter Produktion.
 
-* Lokales und saisonales Wurzelgemüse sind köstlich und eine exzellente Wahl für
+- Lokales und saisonales Wurzelgemüse sind köstlich und eine exzellente Wahl für
   die Umwelt und die Gesundheit.
 
-* Der Alpbutter steht für eine tierfreundliche Haltung, da die Tiere viel Zeit
+- Der Alpbutter steht für eine tierfreundliche Haltung, da die Tiere viel Zeit
   auf der Hochweide verbringen. Es wurde kein wertvoller Wald gerodet.
 
-* Durch den Kauf von Bio Produkten setzt man sich für eine langfristig
+- Durch den Kauf von Bio Produkten setzt man sich für eine langfristig
   nachhaltige Landwirtschaft ein.
 
-* Das Gemeinschaftsbrot verwendet Weizen mit kontrollierter Herkunft und
+- Das Gemeinschaftsbrot verwendet Weizen mit kontrollierter Herkunft und
   garantiert so eine gute Anbauweise.
 
 <br />
 [Toast mit Tomaten, afrikanischen Kräuter und Margarine - Weniger gut für die Umwelt][bio-bad] - Gut fürs Klima aber Tomaten aus Spanien und Erdnüsse verbrauchen knappes Wasser und nicht zertifizierte Margarine mit Palmöl verursacht Abholzung von Tropenwälder.
 
-* Die Margarine enthält nicht-zertifiziertes Palmöl und bedroht unsere noch
+- Die Margarine enthält nicht-zertifiziertes Palmöl und bedroht unsere noch
   bestehenden Regenwälder.
 
-* Der Verbrauch an knappem Wasser ist erhöht aber im akzeptablen Bereich. Die
+- Der Verbrauch an knappem Wasser ist erhöht aber im akzeptablen Bereich. Die
   Bewässerung der Erdnüsse verbraucht am meisten knappes Wasser, denn sie werden
   meist in trockenen Gebieten angebaut.
 
-* Im Winter haben wir einen Zielkonflikt für Tomaten: Spanische Tomaten sind
+- Im Winter haben wir einen Zielkonflikt für Tomaten: Spanische Tomaten sind
   besser fürs Klima aber verbrauchen mehr knappes Wasser als Schweizer Tomaten.
 
 <br />
@@ -174,7 +174,7 @@ Durch eine ungesunde Ernährung verlieren wir weltweit insgesamt 229 Millionen
 Lebensjahre. In unserer Gesellschaft sind neben der Mangelernährung unsere
 falsche Ernährungsgewohnheiten die zu Krankheiten wie Fettleibigkeit, Diabetes,
 Herz- Kreislaufbeschwerden und Krebs führen das brennende Thema. Mit dem von
-Eaternity entwickelten «Vita Score» kann man diesem Risiko entgegenwirken.
+Eaternity entwickelten «Health Score» kann man diesem Risiko entgegenwirken.
 Dieser baut direkt auf den Ergebnissen des [Global Burden of Desease
 Projekts][gbd] und deren [ernährungsbedingten Risikofaktoren][health] auf und
 übersetzt diese für die einfache Rezeptur-Zusammenstellung.

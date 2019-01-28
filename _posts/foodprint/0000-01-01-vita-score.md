@@ -1,7 +1,7 @@
 ---
 layout: default
-name: Vita Score
-title: Vita Score
+name: Health Score
+title: Health Score
 categories: foodprint
 ---
 
@@ -11,7 +11,7 @@ categories: foodprint
 			<ul class="subNavigation">
 				<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
 				<a href="/foodprint/climate-score"><li>Climate Score</li></a>
-				<a href="/foodprint/vita-score"><li class="current">Vita Score</li></a>
+				<a href="/foodprint/vita-score"><li class="current">Health Score</li></a>
 				<a href="/foodprint/environmental-footprints"><li>Environmental Footprints</li></a>
 			</ul>
 		</div>
@@ -29,10 +29,10 @@ categories: foodprint
     					<img src="/img/foodprint/vita-score/Heart.svg" height="200px" width="200px" style="margin:-67px;margin-left:-42px;float:right;">
     					<img src="/img/foodprint/vita-score/Heart.svg" height="200px" width="200px" style="margin:-67px;float:right;">
 
-        			<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Vita Score</h1>
+        			<h1 style="font-size:100px; line-height:70px;margin-top:-20px;margin-bottom:-20px;display:inline;">Health Score</h1>
 
         		<hr />
-        		<h3 class="">A health indicator for meals based on scientific evidence.</h3>
+        		<h3 class="">A health indicator for foods based on scientific evidence.</h3>
         		<hr />
         		<a href="/contact"><button>Contact us</button></a>
         </div>
@@ -46,7 +46,7 @@ categories: foodprint
 
   <div class="row push-bottom">
     <div class="col-sm-7">
-      <p>What we eat has a tremendous impact on our health and well-being and bad dietary habits are a leading driver of death and disability worldwide. The Vita Score supports the goal of staying healthy by promoting a diet that minimizes food related disease risk such as cardiovascular disorders, diabetes and cancer.</p>
+      <p>What we eat has a tremendous impact on our health and well-being and bad dietary habits are a leading driver of death and disability worldwide. The Health Score supports the goal of staying healthy by promoting a diet that minimizes food related disease risk such as cardiovascular disorders, diabetes and cancer.</p>
     </div>
   </div>
 
@@ -67,8 +67,8 @@ categories: foodprint
   <div class="row push-top push-bottom">
 
     <div class="col-xs-12 col-sm-7  small-push-top">
-      <h3>A Health Indicator for Meals </h3>
-      <p>The Vita Score currently uses 8 non-overlapping dietary factors identified by the GBD study, namely whole grains, fruits, vegetables, nuts and seeds, processed meat, red meat, milk and salt. Providing a guideline to follow a “minimum risk diet”, the Vita Score calculates how much of the recommendations are fulfilled in relation to the caloric content of a meal, weighted according to the severity of their outcomes. For example, lack of wholegrains in the Swiss population is related to 124 years of life lost per 100’000 people, whereas eating too much salt is related to 46 years of life lost.</p>
+      <h3>A Health Indicator for Foods </h3>
+      <p>The Health Score currently uses 8 non-overlapping dietary factors identified by the GBD study, namely whole grains, fruits, vegetables, nuts and seeds, processed meat, red meat, milk and salt. Providing a guideline to follow a “minimum risk diet”, the Health Score calculates how much of the recommendations are fulfilled in relation to the caloric content of a meal, weighted according to the severity of their outcomes. For example, lack of wholegrains in the Swiss population is related to 124 years of life lost per 100’000 people, whereas eating too much salt is related to 46 years of life lost.</p>
     		<a href="/assets/smart-chefs/2017-12-12_VitaScore_Documentation_web.pdf"><button>Learn more</button></a>
     </div>
 
@@ -87,13 +87,13 @@ categories: foodprint
 
     <div class="row small-push-bottom">
     <div class="col-xs-12  small-push-top">
-    	<h3>The Vita Score Award</h3>
+    	<h3>The Health Score Award</h3>
     </div>
     <div class="col-xs-2 small-push-top">
     							<img src="/img/foodprint/vita-score/VitaScoreAward.svg">
     									</div>
     	<div class="col-xs-5 small-push-top">
-    		<p>Menus with at least 20% less diet related risk points than all recorded menus earn the Vita Score Award. They belong to the 20% menus with the best Vita Score, all having a 5 out of 5 heart rating.</p>
+    		<p>Foods with at least 20% less diet related risk points than all recorded meals and products earn the Health Score Award. They have a 5 out of 5 heart rating.</p>
     	</div>
     </div>
     </div>
@@ -115,7 +115,7 @@ categories: foodprint
 
     <div class="row  push-bottom">
     	<div class="col-xs-12 col-sm-7 ">
-    			<p>The nutritional content of a meal to meet the daily nutrient recommendations can be analyzed separately and independently. The Nutrition Label analyzes  per person and portion if a meal is „well balanced“ in the sense that it provides you with all the daily energy requirements.</p>
+    			<p>The nutritional content of a meal or product to meet the daily nutrient recommendations can be analyzed separately and independently. The Nutrition Label analyzes per person and portion if the food is „well balanced“ in the sense that it provides you with all the daily energy requirements.</p>
 
     			<p>An average warm meal should make around one third of the recommended daily amount of 2000 kcal of energy intake, those nutrients which go above this range will be clearly marked. This way also the nutritional content of a meal can be conveniently optimized.</p>
     				<!-- <a href="/app/get-the-app/"><button>Learn more about the formula</button></a> -->
@@ -156,7 +156,7 @@ categories: foodprint
 
     	<div class="row push-top small-push-bottom">
     		<div class="col-xs-12  small-push-top">
-    			<h1>Updates on the Vita Score</h1>
+    			<h1>Updates on the Health Score</h1>
     		</div>
     	</div>
 
@@ -188,16 +188,16 @@ categories: foodprint
 
   <div class="row small-push-bottom" >
     <div class="col-xs-12 col-sm-6">
-      <p>The Vita Score is the result of the Health Footprint Project. Our aim was to create an indicator for meals that is deeply rooted in the newest and sound science. The indicator shows which meals are in line with the minimal risk diet to reduce the risk of diet related diseases.</p>
+      <p>The Health Score is the result of the Health Footprint Project. Our aim was to create an indicator for meals that is deeply rooted in the newest and sound science. The indicator shows which meals are in line with the minimal risk diet to reduce the risk of diet related diseases.</p>
 
-    		<p>As a consequence, Eaternity included the Vita Score as an indicator for healthiness of a meal into the Eaternity App to support the overall goal of eating healthy and climate friendly meals!</p>
+    		<p>As a consequence, Eaternity included the Health Score as an indicator for healthiness of a meal into the Eaternity App to support the overall goal of eating healthy and climate friendly meals!</p>
 
     		<p>The results were reviewed by our scientific board of experts and partners. The project was made possible by the Engagement Fund Migros.</p>
 
     		<h3>Publications</h3>
     		<ol>
     		<li> ➔ <a href="/blog/smart-chefs-research-results">Full Results of the Health Footprint Project</a></li>
-    		<li> ➔ <a href="/assets/smart-chefs/2017-12-12_VitaScore_Documentation_web.pdf">Vita Score Documentation - Whitepaper</a></li>
+    		<li> ➔ <a href="/assets/smart-chefs/2017-12-12_VitaScore_Documentation_web.pdf">Health Score Documentation - Whitepaper</a></li>
     		<li> ➔ <a href="/assets/smart-chefs/2017-12-21_HEALTH_HealthyGuidelines.pdf">Healthy eating guidelines (Swiss only)</a></li>
     		</ol>
     </div>
