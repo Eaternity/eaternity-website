@@ -97,7 +97,7 @@ permalink: /foodprint/
 <div class="row push-bottom">
 <div class="col-sm-7">
 		<p>Globally we have enough fresh water resources, but water is not evenly distributed around the globe. Today 663 million people in the world live without clean water. This requires them to travel long distances for fresh water and affects their health as they risk diseases due to poor water quality. Further fresh water is needed to grow food. To combat this problem, we need to reduce worldwide dependency on scarce water by 50%, from 182 liters of scarce water (per day, per person) down to 91 liters.</p>
-		<p>Agriculture uses 70% of the fresh water supply, mainly for irrigation. In regions where water is scarce this is problematic.</p><a style="float:right;margin-right:20px;" href="/foodprint/environmental-footprints/#water">Learn more</a>
+		<p>Agriculture uses 70% of the fresh water supply, mainly for irrigation. In regions where water is scarce this is problematic.</p><a style="float:right;margin-right:20px;" href="/foodprint/environmental-footprints#water">Learn more</a>
 
 </div>
 </div>
@@ -111,7 +111,7 @@ permalink: /foodprint/
 <div class="row push-bottom">
 <div class="col-sm-7">
 		<p>We are left with just 17.7 Million km2 of tropical forest. It is the home to 2/3 of the world's species. It not only binds massive amounts of CO₂ from the air, it also provides fresh water resources and it sustains vital weather patterns. That is why they are called the „lungs of our planet“. </p>
-		<p>We are clearing at a rate of 150 km2 a day. Soybean and palm oil production are major drivers of deforestation. 75% of all soy is fed to animals. Every second product in the supermarket contains palm oil.</p><a style="float:right;margin-right:20px;" href="/foodprint/environmental-footprints/#forest">Learn more</a>
+		<p>We are clearing at a rate of 150 km2 a day. Soybean and palm oil production are major drivers of deforestation. 75% of all soy is fed to animals. Every second product in the supermarket contains palm oil.</p><a style="float:right;margin-right:20px;" href="/foodprint/environmental-footprints#forest">Learn more</a>
 
 </div>
 </div>
@@ -125,7 +125,7 @@ permalink: /foodprint/
 <div class="row push-bottom">
 <div class="col-sm-7">
 		<p>Every day over 177 million chickens, 4 million pigs, 800’000 cows and 2.8 billion fish are killed for human consumption <a href="http://thevegancalculator.com/animal-slaughter/">(link)</a>. Thats why animal agriculture is the leading cause of species extinction, ocean dead zones, water pollution, and habitat destruction.</p>
-		<p>Considering the enormous industrial complex needed to sustain this production of meat, eggs and milk, we can start by improving their lives before we slaughter them.</p><a style="float:right;margin-right:20px;" href="/foodprint/environmental-footprints/#animal">Learn more</a>
+		<p>Considering the enormous industrial complex needed to sustain this production of meat, eggs and milk, we can start by improving their lives before we slaughter them.</p><a style="float:right;margin-right:20px;" href="/foodprint/environmental-footprints#animal">Learn more</a>
 
 </div>
 
