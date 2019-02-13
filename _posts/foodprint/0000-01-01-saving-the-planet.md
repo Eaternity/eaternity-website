@@ -160,14 +160,13 @@ permalink: /foodprint/
     			<h3>Eaternity Measurement Solutions</h3>
 
     			<ul>
-    				<li>Climate Score</li>
-    				<li>Health Score</li>
-    				<li>Water Score</li>
-    				<li>Rainforest Label</li>
-    				<li>Animal Treatment Label</li>
-    				<li>Local Label</li>
-    				<li>Season Label</li>
-    				<li>Eaternity Database</li>
+    				<li>Climate</li>
+    				<li>Health</li>
+    				<li>Water</li>
+    				<li>Rainforest</li>
+    				<li>Animal Treatment</li>
+    				<li>Local</li>
+    				<li>Season</li>
     			</ul>
     	</div>
 

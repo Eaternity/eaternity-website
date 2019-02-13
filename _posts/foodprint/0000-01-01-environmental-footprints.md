@@ -35,7 +35,7 @@ categories: foodprint
     	<div class="row push-bottom">
         <div class="col-sm-7">
           <p>Climate friendly meals are often good for the environment in general. For example, reducing the carbon footprint of our diet also reduces the impact on land use and of the oversupply of nutrients. However, in detail potential conflicts can occur between climate, animal welfare, tropical deforestation and water scarcity. </p>
-    			<p>The Eaternity App now provides the water footprint, forest label and animal treatment label next to the climate score. With this set of indicators everybody can prepare climate friendly and sustainable meals.
+    			<p>The Eaternity App now provides the water footprint, rainforest and animal treatment score next to the climate score. With this set of indicators everybody can prepare climate friendly and sustainable meals.
     			</p>
         </div>
 
@@ -161,7 +161,7 @@ categories: foodprint
     	<div class="col-xs-12 col-sm-7  small-push-top">
     		<h3>Indicating forest protection</h3>
     		<p>
-    			The Rainforest label is given to food products that did not cause deforestation. This is the case if the product contains certified soy or palm oil or if the product doesn’t contain palm oil or soy at all. In addition, uncertified soy is still fine if it stems from a non-critical country. For example, European soy is always a good option and receives the forest label as well. Since 75% of all soy is fed to animals, we also evaluate and label animal products by the type of soy they were fed with.
+    			The Rainforest Score is given to food products that did not cause deforestation. This is the case if the product contains certified soy or palm oil or if the product doesn’t contain palm oil or soy at all. In addition, uncertified soy is still fine if it stems from a non-critical country. For example, European soy is always a good option and receives the 3-star rating as well. Since 75% of all soy is fed to animals, we also evaluate and label animal products by the type of soy they were fed with.
     		</p>
 
     			<!-- <a href="/app/get-the-app/"><button>Learn more about the formula</button></a> -->
@@ -177,7 +177,7 @@ categories: foodprint
 
     		<div class="row ">
     		<div class="col-xs-12  small-push-top">
-    		<h1>The Rainforest Label</h1>
+    		<h1>The Rainforest Score</h1>
     		</div>
     		<div class="col-xs-2 col-sm-2 small-push-top">
     							<img src="/img/foodprint/environment/deforestation-award.svg">
@@ -185,7 +185,7 @@ categories: foodprint
     		<div class="col-xs-5 col-sm-4 small-push-top">
     		<p>
     			<br />
-    			Menus score the Rainforest Label if at least one product contains sustainable soy or palm oil, or if the meal contains no soy or palm oil at all.</p>
+    			Menus receive a 3 star the Rainforest Score if at least one product contains sustainable soy or palm oil, or if the meal contains no soy or palm oil at all.</p>
 
     		</div>
 
@@ -225,7 +225,7 @@ categories: foodprint
 
     		<h3>Indicating good animal treatments</h3>
     		<p>
-    			Food products receive the animal treatment label if they at least contain one animal product like meat, milk or egg and are certified by a label that stands for an established practice that improves animal welfare.
+    			Food products receive the 3-star animal treatment score if they at least contain one animal product like meat, milk or egg and are certified by a label that stands for an established practice that improves animal welfare.
 
     		</p>
 
@@ -272,7 +272,7 @@ categories: foodprint
 
     		<div class="row ">
     		<div class="col-xs-12  small-push-top">
-    		<h1>Animal Treatment Label</h1>
+    		<h1>Animal Treatment Score</h1>
     		</div>
     		<div class="col-xs-2 col-sm-2 small-push-top">
     							<img src="/img/foodprint/environment/animal-award.svg">
@@ -280,7 +280,7 @@ categories: foodprint
     		<div class="col-xs-5 col-sm-4 small-push-top">
     		<p>
     			<br /><br />
-    			Menus with good animal treatment or no animal product at all score the Animal Treatment Label.</p>
+    			Menus with good animal treatment or no animal product at all receive the 3-star Animal Treatment Score.</p>
 
     		</div>
 
@@ -315,28 +315,28 @@ categories: foodprint
     <div class="row ">
     	<div class="col-xs-12 col-sm-6">
     <div class="col-xs-12  small-push-top">
-    <h1>The Season Label</h1>
+    <h1>The Season Score</h1>
     </div>
     <div class="col-xs-4 col-sm-4 small-push-top">
     					<img src="/img/foodprint/climate-score/season.svg">
     					    </div>
     <div class="col-xs-10 col-sm-6 small-push-top">
     <p><br />
-    	Menus with only minor emissions from greenhouses score the Season Label.</p>
+    	Menus with only minor emissions from greenhouses receive the 3-star Season Score.</p>
 
 </div>
 </div>
 
 <div class="col-xs-12 col-sm-6">
 	<div class="col-xs-12  small-push-top">
-	<h1>The Local Label</h1>
+	<h1>The Local Score</h1>
 	</div>
 	<div class="col-xs-4 col-sm-4 small-push-top">
 						<img src="/img/foodprint/climate-score/local.svg">
 								</div>
 	<div class="col-xs-10 col-sm-6 small-push-top">
 	<p><br />
-		Menus with ingredients traveling on average less than 200 km score the Local Label.</p>
+		Menus with ingredients traveling on average less than 200 km receive the 3-star Local Score.</p>
 
     </div>
 

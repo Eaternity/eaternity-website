@@ -37,12 +37,12 @@ Now, for the first time we could measure the impact of our food decisions for mu
 <br />
 # Towards a more healthy planet.
 
-By analyzing the status quo in restaurants and considering global sustainability goals, as well as applicability in practice we defined 3 clear standards for meals: the Climate Score Award, Water Footprint Award and the Health Score Award. The Health Score Award is based on the Health Score which aims at reducing diet-related disease risk. By definition foods receive the Climate Score Award if they have 40% less emissions than average. The Water Footprint Award if they reduce on average 50% of the water scarcity. And the Health Score Award if they reduce at least 20% of the diet related health risks. The Nutrition Label, the Rainforest Label and the Animal Treatment Label inform on balanced nutrition, tropical deforestation and animal treatment. All are by itself noble goals, some more urgent than others.
+By analyzing the status quo in restaurants and considering global sustainability goals, as well as applicability in practice we defined 3 clear standards for meals: the Climate Score Award, Water Footprint Award and the Health Score Award. The Health Score Award is based on the Health Score which aims at reducing diet-related disease risk. By definition foods receive the Climate Score Award if they have 40% less emissions than average. The Water Footprint Award if they reduce on average 50% of the water scarcity. And the Health Score Award if they reduce at least 20% of the diet related health risks. The Nutrition Label, the Rainforest Score and the Animal Treatment Score inform on balanced nutrition, tropical deforestation and animal treatment. All are by itself noble goals, some more urgent than others.
 
 <br />
 ### Balanced Nutrition
 
-- Only around 6% of all meals received the Nutrition Label and had their energy sources in good proportions.
+- Only around 6% of all meals received the Nutrition Score and had their energy sources in good proportions.
 - Most important factors to improve are to reduce the amount of fat and protein.
 
 <br /><a style="float:right" href="/foodprint/vita-score#nutrition">Learn more.</a>
@@ -64,17 +64,17 @@ By analyzing the status quo in restaurants and considering global sustainability
 <br /><a style="float:right" href="/foodprint/environmental-footprints#water">Learn more.</a>
 
 <br />
-### Rainforest label
+### Rainforest Score
 
 - Practically all meals (97%) contain soy and/or palm oil. This also includes meals with meat and milk products for which soy was used to feed the animals.
-- 72% of meals receive the Rainforest Label mostly, because the palm oil or soy was either certified or stems from an unproblematic production country.
+- 72% of meals receive the Rainforest Score of 3 stars mostly, because the palm oil or soy was either certified or stems from an unproblematic production country.
 
 <br /><a style="float:right" href="/foodprint/environmental-footprints#forest">Learn more.</a>
 
 <br />
-### Animal Treatment Label
+### Animal Treatment Score
 
-- 17% of the meals that received the Animal Treatment Label contained meat, 44% were vegetarian and 39% were vegan..
+- 17% of the meals that received the 3 star Animal Treatment Score contained meat, 44% were vegetarian and 39% were vegan..
 - To increase animal welfare one can reduce the amount of animal products eaten and buy certified meat and milk products.
 
 <br /><a style="float:right" href="/foodprint/environmental-footprints#animal">Learn more.</a>

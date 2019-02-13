@@ -143,7 +143,7 @@ categories: foodprint
     		    					<img src="/img/foodprint/vita-score/NutritionLabel.svg">
     		</div>
         <div class="col-xs-5 small-push-top">
-          <p>Balanced menus with a good energy value score the Nutrition Label. These menus do derive 5-14% of it’s calories from proteins and 20-35% from fat, while having a total energy value between 450 and 850 kcal.</p>
+          <p>Balanced menus with a good energy value receive the 3-star Nutrition Score. These menus do derive 5-14% of it’s calories from proteins and 20-35% from fat, while having a total energy value between 450 and 850 kcal.</p>
     		</div>
       </div>
     </div>
