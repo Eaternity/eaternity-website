@@ -128,7 +128,7 @@ permalink: /about/
 <div id="job-offer"></div>
 <div class="row text-center small-push-bottom small-push-top" >
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
         <h3>Job Offer</h3>
@@ -139,16 +139,16 @@ permalink: /about/
       </div>
     </div>
 
-    <!-- <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+   <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
         <h3>Job Offer</h3>
-        <p>Food Data Analyst</p>
+        <p>Senior Software Engineer</p>
         <p>
-          <a href="/assets/2018-09-01-Job-Offer-Matcher-Ninja-Eaternity.pdf">Download</a><br />
+          <a href="/assets/20190312_Job_Offer_Software_Engineer_at_Eaternity.pdf">Download</a><br />
         </p>
       </div>
-    </div> -->
+    </div>
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
