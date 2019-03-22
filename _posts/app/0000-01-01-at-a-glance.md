@@ -44,7 +44,7 @@ categories: app
   <p>Daily accurate CO₂, health and environmental statistics for every meal served at your food service establishment.</p>
   <p>All-inclusive reports with insightful illustrations to support you in taking targeted action in improve the performance of your restaurant.</p>
   <p>Menu Awards for your marketing purposes and promotion of your sustainable restaurant to our clientele.</p>
-  <h3>EUR 99 / month</h3>
+  <h3>EUR 169 / month</h3>
   <p>For restaurants with up to 500 servings/day and food cost up to EUR 250’000/year</p>
   <a href="/contact" class="button">Purchase now<i class="fa fa-angle-right fa-lg"></i></a>
   </div>
@@ -58,7 +58,7 @@ categories: app
   <div class="teaserBox bgLightGrey">
   <p>Hands on management, marketing and communication support for a successful roll-out.</p>
   <p>An API that connects to your existing infrastructure to provide you with the highest accuracy of all the services offered in our professional subscription.</p>
-  <h3>EUR 990 / day</h3>
+  <h3>EUR 1060 / day</h3>
   <a href="/contact" class="button">Get in touch <i class="fa fa-angle-right fa-lg"></i></a>
   </div>
   </div>
