@@ -22,7 +22,7 @@ permalink: /app/
 <div class="container">
   <div class="row push-top">
     <div class="text-center">
-      <h1 style="font-size:100px;margin-top:20px;margin-bottom:20px;">Eaternity App</h1>
+      <h1 style="font-size:100px;margin-top:20px;margin-bottom:20px;line-height: 100px;">Eaternity App</h1>
 
       <img class="responsive" src="/img/get-the-app/Eaternity-App-preview.png">
       <a style="margin-top:-40px;" href="https://app.eaternity.ch" class="button large">
