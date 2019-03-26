@@ -1,0 +1,21 @@
+{
+    "recipe": {
+        "titles": [{"language":"fr","value":"avocat"},{"language":"de","value":"Avocado"},{"language":"en","value":"avocado"}],
+        "date": "2018-09-06",
+        "location": "Schweiz",
+        "kitchen-id": "test",
+        "servings": 1,
+        "ingredients": [
+                        {
+                        "id": "136",
+                        "names":[{"language":"fr","value":"avocat"},{"language":"de","value":"Avocado"},{"language":"en","value":"avocado"}],
+                        "amount": 100,
+                        "unit": "gram",
+                        "transport": "air",
+                        "production": "standard",
+                        "conservation": "fresh",
+                        "origin":"Peru"
+                        }
+                        ]
+    }
+}
