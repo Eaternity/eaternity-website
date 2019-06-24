@@ -178,7 +178,7 @@ permalink: /about/
 </div>
 
 <div class="row text-center small-push-bottom">
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/mmunder.jpg">
       <h3>Matthias Munder, PhD</h3>
@@ -200,22 +200,20 @@ permalink: /about/
       <img class="responsive round" src="/img/idea-vision/mantonelli.jpg">
       <h3>Marta Antonelli, PhD</h3>
       <p>Sales Executive</p>
-      <p>
-        <a href="mailto:mantonelli@eaternity.ch">mantonelli@eaternity.ch</a><br />
-      </p>
+
       </div>
     </div>
 
-    <!-- <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/fschwarz.jpg">
-      <h3>Frederick Schwarz</h3>
-      <p>Sales Executive</p>
+      <img class="responsive round" src="/img/idea-vision/mpfaff.jpg">
+      <h3>Medha Julia Pfaff</h3>
+      <p>LCA System Analyst</p>
       <p>
-        <a href="mailto:fschwarz@eaternity.ch">fschwarz@eaternity.ch</a><br />
+        <a href="mailto:mpfaff@eaternity.ch">mpfaff@eaternity.ch</a><br />
       </p>
       </div>
-    </div> -->
+    </div>
 
 </div>
 
