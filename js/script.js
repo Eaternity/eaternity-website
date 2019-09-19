@@ -92,7 +92,7 @@ $(document).ready(function() {
     var infoBubble = new InfoBubble({
       map: map,
       content:
-        "<div class='info'><span class='semiBold'>Eaternity AG</span><br />Feldeggstrasse 4<br />CH-8008 Zürich</div>",
+        "<div class='info'><span class='semiBold'>Eaternity AG</span><br />Siewerdtstrasse 95<br />CH-8050 Zürich</div>",
       shadowStyle: 0,
       padding: "15px",
       backgroundColor: "#e7eff1",
@@ -108,7 +108,7 @@ $(document).ready(function() {
     });
 
     var marker = new google.maps.Marker({
-      position: { lat: 47.359322, lng: 8.548188 },
+      position: { lat: 47.412454, lng: 8.55446 },
       map: map,
       icon: "/img/marker.png"
     });
