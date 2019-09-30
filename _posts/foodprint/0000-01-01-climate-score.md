@@ -101,7 +101,7 @@ categories: foodprint
     					    </div>
     <div class="col-xs-5 col-sm-3 small-push-top">
     <p>
-    	Menus with at least 40% less CO₂ emissions than the average menus earn the Climate Score Award. They all have a 5 out of 5 cloud rating.</p>
+    	Menus with at least 50% less CO₂ emissions than the average menus earn the Climate Score Award. They all have a 5 out of 5 cloud rating.</p>
 
     </div>
 
