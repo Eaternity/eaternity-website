@@ -2,23 +2,20 @@
 layout: blog-post
 category: blog
 
-image: http://placehold.it/452x150
+image:
 title: Genusswochen Menu Plus
-
-blog-image: /img/blog/2012-01-28_hub-fellows-cover.jpg
+blog-image:
 
 media: Beobachter Natur
 
-
 tags:
- - Menu Plus
- - Partner
- - Genusswochen
+  - Menu Plus
+  - Partner
+  - Genusswochen
 
 partner:
- - Stadt Zürich
+  - Stadt Zürich
 ---
-
 
 Die Stadt Zürich lanciert klimafreundliche Genusswochen in vier Personalcafeterias.
 
@@ -29,4 +26,3 @@ Wir haben das Menu Plus klimafreundlich optimiert und berechnet.
 [Read more...][1]
 
 [1]: http://www.stadt-zuerich.ch/menu-plus
-

@@ -234,7 +234,7 @@ permalink: /about/
 
   <div class="row small-push-bottom">
     <div class="col-xs-12 text-center">
-      <h1>How it all has started</h1>
+      <h1>How it all started</h1>
     </div>
   </div>
 
@@ -249,8 +249,24 @@ permalink: /about/
     </div>
     <div class="col-xs-12 col-sm-4 xs-push-top">
       <h3>2014</h3>
-      <p>After this voluntary work continued under the Eaternity Association, other project requests and media interest began to materialise. We embraced many opportunities (<a href="/blog">and still do</a>) to reach out to numerous people by giving lectures and interviews, providing materials, organising events, setting up information booths and offering more menu calculations. Based on all these valuable experiences we incorporated (in addition to the Eaternity Association) the Eaternity AG in July 2014. This company supports players in the restaurant industry, providing them with the expertise and tools to turn <a href="/meals/restaurants">restaurants into climate heroes</a>.</p>
+      <p>After this voluntary work continued under the Eaternity Association, other project requests and media interest began to materialise. We embraced many opportunities (<a href="/blog">and still do</a>) to reach out to numerous people by giving lectures and interviews, providing materials, organising events, setting up information booths and offering more menu calculations. Based on all these valuable experiences we incorporated (in addition to the Eaternity Association) the Eaternity AG in July 2014 and started supporting players in the restaurant industry. Providing them with the expertise and tools to turn <a href="/meals/restaurants">chefs into climate heroes</a>. Everyone can calculate a meals impact with the new <a href="/meals/restaurants">Eaternity App</a> now.</p>
     </div>
+  </div>
+  <div class="row push-bottom">
+    <div class="col-xs-12 col-sm-4">
+      <h3>2019</h3>
+      <p>As we have grown our expertise, team and ambitions, we aim to make a difference for the whole food industry.
+      Under the bold vision to "Accelerate a Sustainable Food Future", we launched the <a href="/score">Eaternity Score</a> in February 2019, to support food producers with the exact environmental footprint.
+      With the support of our invaluable <a href="/about/partners">partners</a> we publish the carbon score of almost all food products, to provide complete and definitive carbon transparency for all foods.
+      </p>
+    </div>
+    <div class="col-xs-12 col-sm-4 xs-push-top">
+
+    </div>
+    <div class="col-xs-12 col-sm-4 xs-push-top">
+
+    </div>
+
   </div>
 
 </div>
