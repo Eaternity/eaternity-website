@@ -4,3 +4,4 @@ _site/
 Icon
 .jekyll-metadata
 .DS_Store
+vendor/bundle
