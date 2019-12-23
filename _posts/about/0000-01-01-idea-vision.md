@@ -47,9 +47,9 @@ permalink: /about/
     <div class="col-xs-12 col-sm-offset-1 col-sm-7 xs-push-top">
       <div>
         <h2>Our Goal: To create the future of our food system</h2>
-        <p>We aim to provide sustainable menu choices in any restaurant and food market. To do so, we are building the next generation of solutions and services for the food service industry. We streamline the your business and capture the values for today and tomorrow.</p>
+        <p>We aim to provide sustainable food choices in any restaurant and food market. To do so, we are building the next generation of solutions and services for the food service industry. We streamline your food business and capture the values for today and tomorrow.</p>
 
-        <p>Our goal is to give everyone access to climate-friendly meals. For individuals and organizations, Eaternity presents solutions to reduce your food-based environmental impact. The result: global emissions are reduced through simple and delicious measures - longterm.</p>
+        <p>Our goal is to give everyone access to climate-friendly food. For individuals and organizations, Eaternity presents solutions to reduce your food-based environmental impact. The result: global emissions are reduced through simple and delicious measures - longterm.</p>
 
         <p>At Eaternity we are convinced that we can reduce climate-threatening greenhouse gas emissions by half! This is equivalent of 1 ton of CO₂ per person per year. That's comparable to driving by car from the north cape (Norway) to Lisboa (Portugal).</p>
 
