@@ -14,6 +14,7 @@ image: 2018-10-26-Goals-Sustainable-Food-System.jpg
 tags:
   - press
   - planet
+  - climate
 ---
 
 What are the goals that we need to set and reach in order go keep our food system within environmental limits?

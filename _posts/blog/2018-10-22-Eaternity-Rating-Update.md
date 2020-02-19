@@ -14,6 +14,7 @@ image: 2018-10-22-Eaternity-Rating-Update.jpg
 tags:
   - press
   - planet
+  - climate
 ---
 
 Eaternity has updated the way we give ratings for the CO₂ values provided on ingredients, recipes and reports. Please note that everything is backwards compatible and all CO₂-values do stay the same! Also, there are roughly the same amount of climatefriendly meals. Therefore, no worries, it is not harder to be climatefriendly! Yet, the biggest benefit is that every portion, no matter how big or small it is, can now be awarded being climate-friendly.
