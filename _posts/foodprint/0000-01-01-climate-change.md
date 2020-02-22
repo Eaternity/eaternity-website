@@ -23,7 +23,7 @@ permalink: /foodprint/climate-change
 <div class="row push-top big-push-bottom">
 	<div class="col-xs-12 col-sm-7">
 		<h1>Everybody is talking about energy for living and transport...</h1>
-		<p>...but our food choices are responsible for 31% of man-made greenhouse gas emissions. This accounts for more than 2 tons of CO₂ per person per year in US and Europe. We have the potential to reduce food related emissions by at least 50% through smart diet choices. These choices can reduce carbon emissions more than any technological advancement ever will.</p>
+		<p>...but our food choices are responsible for 30% of man-made greenhouse gas emissions. This accounts for more than 2 tons of CO₂ per person per year in US and Europe. We have the potential to reduce food related emissions by at least 50% through smart diet choices. These choices can reduce carbon emissions more than any technological advancement ever will.</p>
 	</div>
 	<div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-5 xs-push-top">
 		<img class="responsive" src="/img/co2facts/illustration-living-transport.svg" />
