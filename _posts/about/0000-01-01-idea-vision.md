@@ -77,7 +77,7 @@ permalink: /about/
 
 <div id="team" class="row text-center">
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-3 xs-push-top xs-push-bottom">
+    <div class="col-xs-offset-3 col-xs-8 col-sm-offset-3 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/manuelklarmann.jpg">
         <h3>Manuel Klarmann</h3>
@@ -103,14 +103,14 @@ permalink: /about/
       </div>
     </div>
 
-
+<!--
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/chamer.jpg">
         <h3>Carol Hamer, PhD</h3>
         <p>Head of Technology</p>
       </div>
-    </div>
+    </div> -->
 
     <!-- <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
@@ -151,7 +151,16 @@ permalink: /about/
        </div>
      </div> -->
 
-   <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-3 xs-push-top">
+   <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+     <div class="teamTeaser">
+     <img class="responsive round" src="/img/idea-vision/kschlaepfer.jpg">
+     <h3>Kristin Schläpfer</h3>
+     <p>Client Support & Software Operations</p>
+     </div>
+   </div>
+
+
+   <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/janmachacek.jpeg">
         <h3>Jan Machacek</h3>
@@ -197,9 +206,13 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/mantonelli.jpg">
-      <h3>Marta Antonelli, PhD</h3>
-      <p>Sales Executive</p>
+      <img class="responsive round" src="/img/idea-vision/sgries.jpg">
+      <h3>Sebastian Gries</h3>
+      <p>Sales & Executive Assistant</p>
+      <p>
+        +41 77 512 95 73‬<br />
+        <a href="mailto:sgries@eaternity.ch">sgries@eaternity.ch</a><br />
+      </p>
 
       </div>
     </div>
