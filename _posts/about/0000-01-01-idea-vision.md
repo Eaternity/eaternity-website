@@ -28,7 +28,7 @@ permalink: /about/
 
   <div class="row push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
-      <p>Eaternity is the company developing a comprehensive management solution for the food service industry that gives intelligent insights into the supply-chain and enables smart decision-making for the benefit of people, planet and profit. We went public in 2014 but our story goes back to 2008. We are based in Zurich, Switzerland.</p>
+      <p>Eaternity is the organization developing a solution for the food industry to measure  exactly and efficiently the environmental footprint of food products. To enable smart decisions for the benefit of people, planet and profit. We went public in 2014 but our story goes back to 2008. We are based in Zurich, Switzerland.</p>
     </div>
   </div>
 
