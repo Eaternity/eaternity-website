@@ -208,7 +208,7 @@ permalink: /about/
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/sgries.jpg">
       <h3>Sebastian Gries</h3>
-      <p>Sales & Executive Assistant</p>
+      <p>Head of Business & Executive Assistant</p>
       <p>
         +41 77 512 95 73‬<br />
         <a href="mailto:sgries@eaternity.ch">sgries@eaternity.ch</a><br />
