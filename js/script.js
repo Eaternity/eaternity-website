@@ -33,8 +33,8 @@ $(document).ready(function() {
   if ($(".map").length) {
     var mapCanvas = $(".map")[0];
     var mapOptions = {
-      center: new google.maps.LatLng(47.367664, 8.539774),
-      zoom: 14,
+      center: new google.maps.LatLng(47.412454, 8.55446),
+      zoom: 13,
       mapTypeControl: false,
       streetViewControl: false,
       draggable: false,

@@ -9,11 +9,12 @@ permalink: /app/
   <div class="row">
     <div class="col-xs-12 text-center">
       <ul class="subNavigation">
-        <a href="/app"><li class="current">Features</li></a>
-        <a href="/app/at-a-glance"><li>Pricing</li></a>
-        <a href="/meals/workshop"><li>Chefs Workshop</li></a>
-        <a href="/app/clients"><li>Clients</li></a>
-        <a href="/contact"><li>Contact us</li></a>
+      <a href="/app"><li class="current">Features</li></a>
+      <a href="/meals/workshop"><li>Chefs Workshop</li></a>
+      <a href="/app/partners"><li>Partners</li></a>
+      <a href="/app/clients"><li>Clients</li></a>
+      <a href="/app/at-a-glance"><li>Pricing</li></a>
+      <a href="/contact"><li>Contact us</li></a>
       </ul>
     </div>
   </div>
