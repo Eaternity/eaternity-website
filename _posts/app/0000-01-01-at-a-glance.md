@@ -5,12 +5,16 @@ title: At a Glance
 categories: app
 ---
 <style>
+#main-nav-3 {
+  border-bottom: 2px solid #46cc00;
+}
+
 #DIV_1 {
     cursor: default;
     display: flex;
     height: 700px;
     min-height: 700px;
-    width: 768px;
+    width: 100%;
     align-items: center;
     justify-content: center;
     perspective-origin: 384px 350px;
@@ -161,7 +165,7 @@ categories: app
     bottom: 0px;
     box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 4px 0px;
     cursor: default;
-    height: 442px;
+    height: 440px;
     left: 0px;
     min-height: auto;
     min-width: auto;
@@ -2083,7 +2087,7 @@ categories: app
     bottom: 0px;
     box-shadow: rgba(0, 0, 0, 0.5) 0px 2px 4px 0px;
     cursor: default;
-    height: 442px;
+    height: 440px;
     left: 0px;
     min-height: auto;
     min-width: auto;
@@ -2848,7 +2852,7 @@ categories: app
   <div class="row">
     <div class="col-xs-12 text-center">
       <ol class="subNavigation">
-        <a href="/app"><li>Features</li></a>
+        <a href="/app"><li>Product</li></a>
         <a href="/meals/workshop"><li>Chefs Workshop</li></a>
         <a href="/app/partners"><li>Partners</li></a>
         <a href="/app/clients"><li>Clients</li></a>
@@ -2861,7 +2865,7 @@ categories: app
 
 <div class="container">
   <div class="row push-bottom small-push-top md-verticalAlign">
-    <div class="col-xs-12 col-md-6 col-md-offset-2">
+    <div class="col-xs-12 col-md-12">
 
 
     <div id="DIV_1">
@@ -2909,9 +2913,9 @@ categories: app
     							<span id="SPAN_27"><b id="B_28">1</b> user</span>
     						</div>
     					</div>
-    					<button id="BUTTON_29">
+    					<a href="http://app.eaternity.ch"><button id="BUTTON_29">
     						Sign Up
-    					</button>
+    					</button></a>
     				</div>
     			</div>
     		</div>
@@ -2963,9 +2967,9 @@ categories: app
     							<span id="SPAN_56"><b id="B_57">1</b> team weekplan overview</span>
     						</div>
     					</div>
-    					<button id="BUTTON_58">
+    					<a href="http://app.eaternity.ch"><button id="BUTTON_58">
     						Sign Up
-    					</button>
+    					</button></a>
     				</div>
     			</div>
     		</div>
@@ -3009,9 +3013,9 @@ categories: app
     							<span id="SPAN_80"><b id="B_81"></b> Direct &amp; hands on support</span>
     						</div>
     					</div>
-    					<button id="BUTTON_82">
+    					<a href="http://app.eaternity.ch"><button id="BUTTON_82">
     						Sign Up
-    					</button>
+    					</button></a>
     				</div>
     			</div>
     		</div>
@@ -3023,7 +3027,7 @@ categories: app
     			Join our cookbook and apply for a <a href="mailto:license@eaternity.ch" id="A_86">free plan</a>.
     		</div>
     		<div id="DIV_88">
-    			*A team / unit license is<br id="BR_89" />limited to 500 guests / day<br id="BR_90" />(2 licenses = 1000 guests / day, etc.).<br id="BR_91" />**Per access we can add up to 15 new individual ingredients for you each month.<br id="BR_92" />***All features as in the PROFFESIONAL plan.
+    			*A team / unit license is<br id="BR_89" />limited to 500 guests / day<br id="BR_90" />(2 licenses = 1000 guests / day, etc.).<br id="BR_91" />**Per license we can add up to 15 new individual ingredients for you each month.<br id="BR_92" />***All features as in the PROFFESIONAL plan.
     		</div>
     		<div id="DIV_94">
     			3-year contract for € 4999.
@@ -3044,47 +3048,55 @@ categories: app
     <div class="col-xs-12 col-md-4">
       <div>
         <div class="teaserBoxtitle bgLightBlue">
-          Event Services
+          Materials
         </div>
         <div class="teaserBox bgLightGrey">
-        <p>Assessment of the Environmental-Footprint and Nutritional Value of the meals you serve at your event.</p>
-        <p>Communication package, infographics, and tailored support from our experts.</p>
-        <p>Join a global community of organizers of sustainable events and conferences.</p>
-  <h3>Pricing / event</h3>
-  <a href="/contact" class="button">Ask for a quote<i class="fa fa-angle-right fa-lg"></i></a>
+        <p>Access our communication package, infographics, recipes and use our materials.</p>
   </div>
   </div>
   </div>
   <div class="col-xs-12 col-md-4 sm-push-top">
   <div>
   <div class="teaserBoxtitle bgProfessionalHeader">
-  Eaternity Software
+  Software
   </div>
   <div class="teaserBox bgProfessionalBox">
   <p>Daily accurate CO₂, health and environmental statistics for every meal served at your food service establishment.</p>
   <p>All-inclusive reports with insightful illustrations to support you in taking targeted action in improve the performance of your restaurant.</p>
-  <p>Menu Awards for your marketing purposes and promotion of your sustainable restaurant to our clientele.</p>
-  <h3>EUR 169 / month</h3>
-  <p>For restaurants with up to 500 servings/day and food cost up to EUR 250’000/year</p>
-  <a href="/contact" class="button">Purchase now<i class="fa fa-angle-right fa-lg"></i></a>
+  <p>Menu Awards for your marketing purposes and promotion of your sustainable restaurant to your clientele.</p>
   </div>
   </div>
   </div>
   <div class="col-xs-12 col-md-4 sm-push-top">
   <div>
   <div class="teaserBoxtitle bgProfessionalHeader">
-  Business Services
+  Professional Services
   </div>
   <div class="teaserBox bgLightGrey">
   <p>Hands on management, marketing and communication support for a successful roll-out.</p>
   <p>An API that connects to your existing infrastructure to provide you with the highest accuracy of all the services offered in our professional subscription.</p>
-  <h3>EUR 1060 / day</h3>
-  <a href="/contact" class="button">Get in touch <i class="fa fa-angle-right fa-lg"></i></a>
   </div>
   </div>
   </div>
     </div>
+
+
+
+    <div class="row push-bottom">
+      <div class="col-xs-12 col-sm-offset-3 col-sm-6 text-center">
+        <p>Download our Statement of Work or request a specific offer:
+        </p>
+        <a style="margin-top:20px;" href="/assets/product-info/2020-04-08-SOW Eaternity-Gastro-DE.pdf" class="button large">
+          Statement of Work - PDF (DE) <i class="fa fa-angle-right fa-lg"></i></a>
+        <a style="margin-top:20px;" href="/contact" class="button large">
+            Request an Offer</a>
+      </div>
+    </div>
+
 </div>
+
+
+
 
 <div class="window" style="background-image: url('/img/at-a-glance/ataglance-parallax.jpg')"></div>
 
@@ -3095,20 +3107,35 @@ categories: app
     </div>
   </div>
 
-  <div class="row push-bottom">
+  <div class="row small-push-bottom md-verticalAlign">
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center">
-      <img class="responsive" src="/img/at-a-glance/logo-compass.svg">
+      <img class="responsive" src="/img/partners/logo-compass.svg">
     </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-4 text-center xs-push-top">
-      <img class="responsive" src="/img/at-a-glance/logo-stadt-zurich.svg">
+      <img class="responsive" src="/img/partners/logo-stadt-zurich.svg">
     </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-2 text-center xs-push-top">
-      <img class="responsive" src="/img/at-a-glance/logo-coalmine.svg">
+      <img class="responsive" src="/img/partners/logo-coalmine.svg">
     </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center xs-push-top">
-      <img class="responsive" src="/img/at-a-glance/logo-equitable.svg">
+      <img class="responsive" src="/img/partners/logo-equitable.svg">
     </div>
   </div>
+  <div class="row push-bottom md-verticalAlign">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center">
+      <img class="responsive" src="/img/partners/Apleona.svg">
+    </div>
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center xs-push-top">
+      <img class="responsive" src="/img/partners/DasVoglhausCafeUndKaufhaus LOGO.jpg">
+    </div>
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center xs-push-top">
+      <img class="responsive" src="/img/partners/DG_Logo.svg">
+    </div>
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center xs-push-top">
+      <img class="responsive" src="/img/partners/Sodexo.svg">
+    </div>
+  </div>
+
 
   <div class="row push-bottom">
     <div class="col-xs-12 text-center">

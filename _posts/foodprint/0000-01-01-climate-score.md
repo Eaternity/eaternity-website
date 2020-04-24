@@ -4,6 +4,11 @@ name: Climate Score
 title: Climate Score
 categories: foodprint
 ---
+<style>
+#main-nav-2 {
+  border-bottom: 2px solid #46cc00;
+}
+</style>
 
 <div class="container hidden-xs">
 	<div class="row">

@@ -5,6 +5,12 @@ title: "Idea & Vision"
 permalink: /about/
 ---
 
+<style>
+#main-nav-5 {
+  border-bottom: 2px solid #46cc00;
+}
+</style>
+
 <div class="container hidden-xs">
   <div class="row">
     <div class="col-xs-12 text-center">
@@ -79,7 +85,7 @@ permalink: /about/
 
     <div class="col-xs-offset-3 col-xs-8 col-sm-offset-3 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/manuelklarmann.jpg">
+        <img class="responsive round" src="/img/idea-vision/mklarmann.jpg">
         <h3>Manuel Klarmann</h3>
         <p>Founder & CEO</p>
         <p>
@@ -139,25 +145,18 @@ permalink: /about/
       </div>
     </div> -->
 
-<!--
+
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
        <div class="teamTeaser">
          <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
          <h3>Job Offer</h3>
          <p>Senior Software Engineer</p>
          <p>
-           <a href="/assets/20190312_Job_Offer_Software_Engineer_at_Eaternity.pdf">Download</a><br />
+           <a href="/assets/2020-04-16_Job_Offer_Software_Engineer_at_Eaternity.pdf">Download</a><br />
          </p>
        </div>
-     </div> -->
-
-   <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-     <div class="teamTeaser">
-     <img class="responsive round" src="/img/idea-vision/kschlaepfer.jpg">
-     <h3>Kristin Schläpfer</h3>
-     <p>Client Support & Software Operations</p>
      </div>
-   </div>
+
 
 
    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
@@ -187,13 +186,15 @@ permalink: /about/
 </div>
 
 <div class="row text-center small-push-bottom">
+
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/mmunder.jpg">
-      <h3>Matthias Munder, PhD</h3>
-      <p>Software Developer</p>
+      <img class="responsive round" src="/img/idea-vision/kschlaepfer.jpg">
+      <h3>Kristin Schläpfer</h3>
+      <p>Client Support & Software Operations</p>
       </div>
     </div>
+
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">

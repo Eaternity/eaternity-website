@@ -4,6 +4,11 @@ name: eat-at-home
 title: "Climate-friendly Meals"
 permalink: /meals/
 ---
+<style>
+#main-nav-1 {
+  border-bottom: 2px solid #46cc00;
+}
+</style>
 
 <div class="container hidden-xs">
 	<div class="row">
@@ -13,7 +18,7 @@ permalink: /meals/
 				<a href="/foodprint/climate-change"><li>Climate Change</li></a>
 				<a href="/meals"><li class="current">Climate-friendly Foods</li></a>
 				<!-- <a href="/meals/restaurants"><li>Eaternity-Restaurants</li></a> -->
-				<a href="/meals/hub"><li>Community Hub</li></a>
+				<!-- <a href="/meals/hub"><li>Community Hub</li></a> -->
 				<a href="/contact"><li>Contact us</li></a>
 			</ul>
 		</div>

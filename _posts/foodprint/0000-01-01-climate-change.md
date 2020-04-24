@@ -4,6 +4,11 @@ name: climate-change
 title: "Climate Change"
 permalink: /foodprint/climate-change
 ---
+<style>
+#main-nav-1 {
+  border-bottom: 2px solid #46cc00;
+}
+</style>
 
 <div class="container hidden-xs">
 	<div class="row">
@@ -12,7 +17,7 @@ permalink: /foodprint/climate-change
 				<a href="/foodprint/"><li>Saving the Planet</li></a>
 				<a href="/foodprint/climate-change"><li class="current">Climate Change</li></a>
 				<a href="/meals"><li>Climate-friendly Foods</li></a>
-				<a href="/meals/hub"><li>Community Hub</li></a>
+				<!-- <a href="/meals/hub"><li>Community Hub</li></a> -->
 				<a href="/contact"><li>Contact us</li></a>
 			</ul>
 		</div>

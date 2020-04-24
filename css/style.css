@@ -10517,7 +10517,6 @@ input[type="text"] {
     margin-left: 10px;
     margin-right: 10px;
   }
-  .header .navbar-collapse ul.navigation li a:hover,
   .header .navbar-collapse ul.navigation li a.current {
     background-color: transparent;
     padding-bottom: 5px;

@@ -4,6 +4,11 @@ name: get-the-app
 title: Access the App!
 categories: app
 ---
+<style>
+#main-nav-3 {
+  border-bottom: 2px solid #46cc00;
+}
+</style>
 
 <div class="wrapper">
 

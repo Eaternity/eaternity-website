@@ -6,11 +6,17 @@ permalink: /meals/workshop
 categories: meals
 ---
 
+<style>
+#main-nav-3 {
+  border-bottom: 2px solid #46cc00;
+}
+</style>
+
 <div class="container hidden-xs">
 	<div class="row">
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
-			<a href="/app"><li>Features</li></a>
+			<a href="/app"><li>Product</li></a>
       <a href="/meals/workshop"><li class="current">Chefs Workshop</li></a>
       <a href="/app/partners"><li>Partners</li></a>
       <a href="/app/clients"><li>Clients</li></a>

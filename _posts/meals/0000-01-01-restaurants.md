@@ -4,16 +4,22 @@ name: restaurants
 title: "Restaurants"
 categories: meals
 ---
+<style>
+#main-nav-3 {
+  border-bottom: 2px solid #46cc00;
+}
+</style>
 
 <div class="container hidden-xs">
 	<div class="row">
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
-			<a href="/foodprint/"><li>Saving the Planet</li></a>
-			<a href="/meals"><li>Climate-friendly Foods</li></a>
-			<a href="/meals/restaurants"><li class="current">Eaternity-Restaurants</li></a>
-			<a href="/meals/hub"><li>Community Hub</li></a>
-			<a href="/contact"><li>Contact us</li></a>
+			<a href="/app"><li>Product</li></a>
+      <a href="/meals/workshop"><li>Chefs Workshop</li></a>
+      <a href="/app/partners"><li>Partners</li></a>
+      <a href="/app/clients"><li>Clients</li></a>
+      <a href="/app/at-a-glance"><li>Pricing</li></a>
+      <a href="/contact"><li>Contact us</li></a>
 			</ul>
 		</div>
 	</div>
@@ -27,7 +33,7 @@ categories: meals
   </div>
   <div class="row big-push-bottom">
     <div class="col-xs-12 text-center">
-      <p>You can enjoy climate-friendly meals in more than 74 restaurants already. We show you where.</p>
+      <p>You can enjoy climate-friendly meals in more than 100 restaurants already. We show you where.</p>
     </div>
   </div>
 </div>
@@ -46,8 +52,8 @@ categories: meals
 				<p>To make it convinient for guests, restaurants label their climate friendly meals with the Eaternity Awards. This symbol appear at counters, on menu cards, on menu card websites and in our Eaternity Reports. If you compose a recipe, you will immediatly see, which ones are being awarded best.</p>
 			<ol>
 			<li><a href="/assets/2015-11-05-Eaternity_logo_set.zip">Download icon pack</a></li>
-			<li><a href="">Download example menu plan</a></li>
-			<li><a href="">Download example communication material for the guests</a></li>
+			<li><a href="/assets/product-info/Poster-Küche-ZHAW.zip">Download infoposters</a></li>
+			<li><a href="/assets/product-info/LAY_cafeteria_folder.pdf">Download instance of guest communication</a></li>
 			</ol>
 			<br>
 			<p>Choose the climate friendly meal with the Eaternity Awards.</p>
