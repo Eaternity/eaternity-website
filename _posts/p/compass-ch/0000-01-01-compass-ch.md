@@ -100,7 +100,7 @@ permalink: /p/compass-ch
 
 <script src="/js/jquery.royalslider.min.js"></script>
 
-<script src="/js/bootstrap.min.js"></script>
+<!-- script src="/js/bootstrap.min.js"></script -->
 
 <script src="/js/icheck.min.js"></script>
 

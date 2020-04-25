@@ -194,8 +194,8 @@ permalink: /foodprint/
 
 <script src="/js/jquery.magnific-popup.min.js"></script>
 
-<script src="/js/bootstrap.min.js"></script>
+<!-- script src="/js/bootstrap.min.js"></script -->
 
-<script src="/js/icheck.min.js"></script>
+<!-- script src="/js/icheck.min.js"></script -->
 
 <script src="/js/script.js"></script>
