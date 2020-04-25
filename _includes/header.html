@@ -1,3 +1,56 @@
+
+
+<style>
+  a.tooltip-small {
+    position: relative;
+  }
+  a.tooltip-small:after {
+    content: attr(data-tooltip);
+    position: absolute;
+    top: 65px;
+    left: -80%;
+    background: #ffffff;
+    padding: 10px 15px;
+    color: black;
+    -webkit-border-radius: 10px;
+    -moz-border-radius   : 10px;
+    border-radius        : 10px;
+    white-space: nowrap;
+    opacity: 0;
+     /* At time of this creation, only Fx4 doing pseduo transitions */
+    -webkit-transition: all 0.4s ease;
+    -moz-transition   : all 0.4s ease;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+  }
+  a.tooltip-small:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-bottom: 10px solid #ffffff;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    /* At time of this creation, only Fx4 doing pseduo transitions */
+    -webkit-transition: all 0.4s ease;
+    -moz-transition   : all 0.4s ease;
+    opacity: 0;
+    left: 40%;
+    top: 55px;
+  }
+  a.tooltip-small:hover:after {
+    top: 55px;
+  }
+  a.tooltip-small:hover:before {
+    top: 45px;
+  }
+  a.tooltip-small:hover:after, a:hover:before {
+    opacity: 1;
+  }
+</style>
+
+
 <div id="header" class="bgDarkBlue">
   <div class="container">
     <div class="header">
@@ -5,7 +58,7 @@
         <div class="collapse navbar-collapse">
           <ul class="navigation">
             <li class="dropdown" id="main-nav-1">
-              <a class="hidden-xs" href="/foodprint">Food & Planet</a>
+              <a class="hidden-xs tooltip-small" href="/foodprint" data-tooltip="Why we need to act. Now.">Food & Planet</a>
               <a
                 class="dropdown-toggle visible-xs"
                 data-toggle="dropdown"
@@ -26,7 +79,7 @@
               </ul>
             </li>
             <li id="main-nav-2">
-              <a class="hidden-xs" href="/foodprint/database">Science</a>
+              <a class="hidden-xs tooltip-small" href="/foodprint/database" data-tooltip="Database – research of environmental impacts.">Science</a>
               <a
                 class="dropdown-toggle visible-xs"
                 data-toggle="dropdown"
@@ -50,7 +103,7 @@
               </ul>
             </li>
             <li id="main-nav-3">
-              <a class="hidden-xs" href="/app">Restaurants</a>
+              <a class="hidden-xs tooltip-small" href="/app" data-tooltip="Gastro – assessments for restaurants and caterer.">Restaurants</a>
               <a
                 class="dropdown-toggle visible-xs"
                 data-toggle="dropdown"
@@ -61,7 +114,7 @@
                 >Restaurants</a
               >
               <ul class="dropdown-menu">
-                <li><a href="/app">Product</a></li>
+                <li><a href="/app">Eaternity Gastro</a></li>
                 <li><a href="/app/clients">Clients</a></li>
                 <li><a href="/app/partners">Partners</a></li>
                 <li><a href="/app/at-a-glance">Pricing</a></li>
@@ -69,7 +122,7 @@
               </ul>
             </li>
             <li id="main-nav-4">
-              <a class="hidden-xs" href="/score">Food Products</a>
+              <a class="hidden-xs tooltip-small" href="/score" data-tooltip="Score - assessments for food-producers and retail.">Food Products</a>
               <a
                 class="dropdown-toggle visible-xs"
                 data-toggle="dropdown"
@@ -80,7 +133,7 @@
                 >Food Products</a
               >
               <ul class="dropdown-menu">
-                <li><a href="/score">Product</a></li>
+                <li><a href="/score">Eaternity Score</a></li>
                 <li><a href="/score/clients">Clients</a></li>
                 <li><a href="/score/partners">Partners</a></li>
                 <li><a href="/score/pricing">Pricing</a></li>

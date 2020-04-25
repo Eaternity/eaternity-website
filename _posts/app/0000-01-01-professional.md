@@ -14,7 +14,7 @@ permalink: /app/
   <div class="row">
     <div class="col-xs-12 text-center">
       <ul class="subNavigation">
-      <a href="/app"><li class="current">Product</li></a>
+      <a href="/app"><li class="current">Eaternity Gastro</li></a>
       <a href="/meals/workshop"><li>Chefs Workshop</li></a>
       <a href="/app/partners"><li>Partners</li></a>
       <a href="/app/clients"><li>Clients</li></a>

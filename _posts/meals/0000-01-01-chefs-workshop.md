@@ -16,7 +16,7 @@ categories: meals
 	<div class="row">
 		<div class="col-xs-12 text-center">
 			<ul class="subNavigation">
-			<a href="/app"><li>Product</li></a>
+			<a href="/app"><li>Eaternity Gastro</li></a>
       <a href="/meals/workshop"><li class="current">Chefs Workshop</li></a>
       <a href="/app/partners"><li>Partners</li></a>
       <a href="/app/clients"><li>Clients</li></a>
