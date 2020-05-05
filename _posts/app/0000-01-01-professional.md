@@ -25,18 +25,6 @@ permalink: /app/
   </div>
 </div>
 
-<div class="container">
-  <div class="row push-top">
-    <div class="text-center">
-      <h1 style="font-size:100px;margin-top:20px;margin-bottom:20px;line-height: 100px;">Eaternity App</h1>
-
-      <img class="responsive" src="/img/get-the-app/Eaternity-App-preview.png">
-      <a style="margin-top:-40px;" href="https://app.eaternity.ch" class="button large">
-        Give the Eaternity App a Try <i class="fa fa-angle-right fa-lg"></i></a>
-    </div>
-
-  </div>
-</div>
 
 <div class="container">
   <div class="row push-top push-bottom verticalAlign">
@@ -108,6 +96,23 @@ permalink: /app/
 </div>
 
 <div class="window" style="background-image: url('/img/professional/professional-parallax.jpg')"></div>
+
+
+<div class="container">
+  <div class="row push-top">
+    <div class="text-center">
+      <h1 style="font-size:80px;margin-top:0px;margin-bottom:30px;line-height: 100px;">Eaternity App</h1>
+      Start calculating environmental impacts of your recipes on your own.
+
+      <img class="responsive" style="margin-top:-20px;" src="/img/get-the-app/Eaternity-App-preview.png">
+      <a style="margin-top:-80px;" href="https://app.eaternity.ch" class="button large">
+        Give the Eaternity App a Try</a>
+    </div>
+
+  </div>
+</div>
+
+
 
 <!-- <div class="container">
   <div class="row big-push-top small-push-bottom">
