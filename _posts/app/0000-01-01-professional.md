@@ -51,7 +51,7 @@ permalink: /app/
       </div>
     </div>
     <div style="vertical-align: top; height:100%" class="col-xs-offset-4 col-xs-4 col-sm-offset-0 col-sm-3 xs-push-top">
-      <p>Make use of the detailed scientific sustainability metrics, based on your foods data. Given recipes, food purchase receipts, supply statistics, etc. – you will see where your can reduce CO₂ emissions, your water footprint or approach a minimal risk diet for better health. You will receive the results of the calculations in real-time over the <a href="#api">API</a>, or via the nicely illustrated monthly PDF reports.</p>
+      <p>Make use of the detailed scientific sustainability metrics, based on your data. Given recipes, food purchase receipts, supply statistics, etc. – you will see where your can reduce CO₂ emissions, your water footprint or approach a minimal risk diet for better health. You will have the results of the calculations in real-time over the <a href="#api">API</a>, or via the nicely illustrated monthly PDF reports.</p>
     </div>
 
   </div>
@@ -64,7 +64,7 @@ permalink: /app/
         <div>
           <h1>Eaternity Report</h1>
           <p>Your customer trust in your services. Show them you care about climate-friendly cuisine. In a monthly report we will inform you on the progress of your restaurants.</p>
-          <p>Carbon emissions are calculated dynamically and daily accurate, including statistics of imports of the foods, transportation distances, and seasonalities.</p>
+          <p>Carbon emissions are calculated dynamically and daily, including statistics of imports of the foods, transportation distances, and seasonalities.</p>
         </div>
       </div>
       <div class="col-xs-offset-1 col-xs-10 col-sm-offset-1 col-sm-5 col-md-offset-1 col-md-4 xs-push-top">
@@ -87,9 +87,9 @@ permalink: /app/
         <img class="responsive" style="transform: rotate(20deg);margin-top:200px;" src="/img/home/rezept-jpg.jpg" />
       </div>
       <div class="col-xs-12 col-sm-offset-1 col-sm-7 col-md-5 xs-push-top">
-        <h1>Eaternity Awards</h1>
+        <h1>Eaternity Award</h1>
         <p>Label your climate-friendly menu choices with the «Eaternity Award» – the first carbon footprint award for meals worldwide. Send a clear message to your guests that you care about our impact on the environment. Give them a valuable foundation to make informed decisions.</p>
-        <p>With our 1 to 5 rating illustration: health, CO₂ emissions and other environmental impacts are scored against a comparisons of all recipes.</p>
+        <p>With our 1 to 5 rating illustration: health, CO₂ emissions and other environmental impacts are scored against a comparisons of all recipes. <a href="/assets/2019-09-16-LegendeEaternity.pdf">Download the legend</a> for what each symbol means. You can use the Eaternity Awards yourself if you have a recipe receiving the best climate rating, <a href="/assets/2015-11-05-Eaternity_award_set.zip">download the symbols here</a>.</p>
         <img class="responsive" style="margin-left:-14px;" src="/img/home/Website-Export.png" />
 
       </div>
@@ -209,7 +209,7 @@ permalink: /app/
 
   <div class="row push-top small-push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
-      <h1>A smart restaurants advantage</h1>
+      <h1>A smart restaurant's advantage</h1>
     </div>
   </div>
   <div class="row big-push-bottom">
