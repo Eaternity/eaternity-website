@@ -92,7 +92,7 @@ $(document).ready(function() {
     var infoBubble = new InfoBubble({
       map: map,
       content:
-        "<div class='info'><span class='semiBold'>Eaternity AG</span><br />Siewerdtstrasse 95<br />CH-8050 Zürich</div>",
+        "<div class='info'><span class='semiBold'>Eaternity Institut</span><br />Siewerdtstrasse 95<br />CH-8050 Zürich</div>",
       shadowStyle: 0,
       padding: "15px",
       backgroundColor: "#e7eff1",

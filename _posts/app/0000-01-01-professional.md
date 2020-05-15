@@ -31,11 +31,14 @@ permalink: /app/
     <div class="col-xs-12 col-sm-offset-1 col-sm-7">
       <div>
         <h1>What Eaternity offers</h1>
-        <p>We have developed innovative software for private and professional use. It is based on an easy to understand and yearly reviewed LCA-database. This is currently the largest and most comprehensive database for carrying out environmental calculations for menus. With Eaternity, we offer everyone the opportunity to make a sustainable choice when selecting their everyday food.</p>
+        <p>Provide everyone the opportunity to make a sustainable choice when selecting their everyday food. Use the solution for private and professional kitchens and calculate the precise impact of your recipes and menus. Review our monthly reports, and analyze your CO₂ reduction target. Put your confidence in the easy to understand and yearly reviewed LCA-database, that is currently the largest and most comprehensive for carrying out environmental calculations for food.</p>
       </div>
     </div>
     <div class="col-xs-offset-4 col-xs-4 col-sm-offset-1 col-sm-2 xs-push-top">
-      <img class="responsive" src="/img/at-a-glance/eaternity-icon.svg">
+      <div class="row">
+          <img class="responsive" src="/img/at-a-glance/eaternity-icon.svg">
+          <h1 style="font-size:80px;margin-top:0px;margin-bottom:0px;line-height: 100px;">Gastro</h1>
+      </div>
     </div>
   </div>
 </div>
@@ -47,8 +50,8 @@ permalink: /app/
         <img class="responsive" src="/img/professional/web-screen.jpg">
       </div>
     </div>
-    <div class="col-xs-offset-4 col-xs-4 col-sm-offset-0 col-sm-3 xs-push-top">
-      <p>We will provide you with detailed scientific sustainability metrics, based on the food data available to us. Given recipes, food purchase receipts, supply statistics, etc. – we can tell you where your are to reduce CO₂ emissions, your water footprint or approach a minimal risk diet for better health. Results of our calculations are provided in real-time over our <a href="#api">API</a>, or via nicely illustrated monthly PDF reports.</p>
+    <div style="vertical-align: top; height:100%" class="col-xs-offset-4 col-xs-4 col-sm-offset-0 col-sm-3 xs-push-top">
+      <p>Make use of the detailed scientific sustainability metrics, based on your foods data. Given recipes, food purchase receipts, supply statistics, etc. – you will see where your can reduce CO₂ emissions, your water footprint or approach a minimal risk diet for better health. You will receive the results of the calculations in real-time over the <a href="#api">API</a>, or via the nicely illustrated monthly PDF reports.</p>
     </div>
 
   </div>
@@ -61,7 +64,7 @@ permalink: /app/
         <div>
           <h1>Eaternity Report</h1>
           <p>Your customer trust in your services. Show them you care about climate-friendly cuisine. In a monthly report we will inform you on the progress of your restaurants.</p>
-          <p>Carbon emissions are calculated dynamically in real time, including statistics of imports, transportation distances, and seasonalities.</p>
+          <p>Carbon emissions are calculated dynamically and daily accurate, including statistics of imports of the foods, transportation distances, and seasonalities.</p>
         </div>
       </div>
       <div class="col-xs-offset-1 col-xs-10 col-sm-offset-1 col-sm-5 col-md-offset-1 col-md-4 xs-push-top">
@@ -85,7 +88,7 @@ permalink: /app/
       </div>
       <div class="col-xs-12 col-sm-offset-1 col-sm-7 col-md-5 xs-push-top">
         <h1>Eaternity Awards</h1>
-        <p>Label your climate-friendly menu choices with the «Eaternity Awards» – the first footprint award for meals worldwide. Send a clear message to your guests that you care about our impact on the environment. Give them a valuable foundation to make informed decisions.</p>
+        <p>Label your climate-friendly menu choices with the «Eaternity Award» – the first carbon footprint award for meals worldwide. Send a clear message to your guests that you care about our impact on the environment. Give them a valuable foundation to make informed decisions.</p>
         <p>With our 1 to 5 rating illustration: health, CO₂ emissions and other environmental impacts are scored against a comparisons of all recipes.</p>
         <img class="responsive" style="margin-left:-14px;" src="/img/home/Website-Export.png" />
 
@@ -112,7 +115,71 @@ permalink: /app/
   </div>
 </div>
 
+<div class="bgDarkBlue push-top" style="overflow:hidden">
+<br />
+</div>
 
+<div class="container">
+  <div class="row small-push-top">
+    <div class="text-center">
+      <h1 style="font-size:80px;margin-top:0px;margin-bottom:0px;line-height: 100px;">Gastro Partners</h1>
+      Our partners have connected our API and can display calculation right in their system.
+    </div>
+
+  </div>
+</div>
+
+<div class="" style="overflow:hidden">
+<br />
+</div>
+
+
+
+<div class="bgLightGrey">
+  <div class="container">
+    <div class="row small-push-top">
+      <div class="col-xs-4 col-md-2">
+        <img src="/img/partners/CFGastro.svg" width="200px" type="image/svg+xml" style="margin-top:0px;margin-top:-20px;width:200px"/>
+      </div>
+      <div class="col-xs-4 col-md-2">
+        <img src="/img/partners/partner/pcm.gif" width="200px" type="image/svg+xml" style="margin-top:0px;margin-top:10px;width:180px"/>
+      </div>
+      <div class="col-xs-4 col-md-2">
+        <img src="/img/partners/partner/Saviva_FSLogo.jpg" width="180px" type="image/svg+xml" style="margin-top:0px;margin-top:-25px;width:180px"/>
+      </div>
+      <div class="col-xs-4 col-md-2">
+        <img src="/img/partners/partner/HR.jpg" width="180px" type="image/svg+xml" style="margin-top:0px;margin-top:-25px;width:180px"/>
+      </div>
+      <div class="col-xs-4 col-md-2">
+        <img src="/img/partners/EGS.svg" width="200px" type="image/svg+xml" style="margin-top:0px;margin-left:0px;width:200px"/>
+      </div>
+      <div class="col-xs-4 col-md-2">
+        <img src="/img/partners/delegate.svg" width="164px" type="image/svg+xml" style="margin-top:-20px;margin-right:0px;width:164px"/>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="" style="overflow:hidden">
+<br />
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="text-center">
+      <a href="/app/partners" class="button large">
+        More Informations</a>
+    </div>
+
+  </div>
+</div>
+
+<div class="bgDarkBlue small-push-top" style="overflow:hidden">
+<br />
+</div>
 
 <!-- <div class="container">
   <div class="row big-push-top small-push-bottom">
@@ -142,12 +209,12 @@ permalink: /app/
 
   <div class="row push-top small-push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
-      <h1>The smart solution for restaurants</h1>
+      <h1>A smart restaurants advantage</h1>
     </div>
   </div>
   <div class="row big-push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
-      <p>We are developing an exciting and impactful software application for restaurants. It will revolutionize the way you work in the kitchen by giving you smart insights into your supply chain that benefit people, planet and profit.</p>
+      <p>With this impactful addition for your restaurant, your can revolutionize the way you work in the kitchen. Make decisions with smart insights into your supply chain that benefit people, planet and profit.</p>
     </div>
   </div>
 </div>
