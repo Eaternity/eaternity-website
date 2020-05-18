@@ -43,6 +43,33 @@ permalink: /app/
   </div>
 </div>
 
+<style>
+html[lang=en] .button-download-1 {
+display: none;
+}
+html[lang=de] .button-download-2 {
+display: none;
+}
+</style>
+
+<div class="row  push-bottom">
+  <div class="col-xs-12 col-sm-offset-3 col-sm-6 text-center">
+    <p>Download our product specifications:</p>
+    <div class="button-download-2">
+        <a style="margin-top:0px;" href="/assets/product-info/2019-11-05-Eaternity_ProductSpecs.pdf" class="button large">
+          Eaternity Gastro ProductSpecs (EN)<i class="fa fa-angle-right fa-lg"></i></a><br /><br />
+        <a style="margin-top:0px;" href="/assets/product-info/2020-03-22-Eaternity_ProductSpecsDE.pdf" class="">
+            Eaternity Gastro ProductSpecs (DE)</a>
+    </div>
+    <div class="button-download-1">
+        <a style="margin-top:0px;" href="/assets/product-info/2020-03-22-Eaternity_ProductSpecsDE.pdf" class="button large">
+          Eaternity Gastro ProductSpecs (DE)<i class="fa fa-angle-right fa-lg"></i></a><br /><br />
+        <a style="margin-top:0px;" href="/assets/product-info/2019-11-05-Eaternity_ProductSpecs.pdf" class="">
+            Eaternity Gastro ProductSpecs (EN)</a>
+    </div>
+  </div>
+</div>
+
 <div class="container">
   <div class="row small-push-top push-bottom verticalAlign">
     <div class="col-xs-12 col-sm-offset-1 col-sm-7">
@@ -57,6 +84,16 @@ permalink: /app/
   </div>
 </div>
 
+<style>
+html[lang=en] .button-show-report-en {
+display: none;
+}
+html[lang=de] .button-show-report-de {
+display: none;
+}
+
+</style>
+
 <div class="bgDarkBlue">
   <div class="container">
     <div class="row small-push-top small-push-bottom verticalAlign">
@@ -68,9 +105,15 @@ permalink: /app/
         </div>
       </div>
       <div class="col-xs-offset-1 col-xs-10 col-sm-offset-1 col-sm-5 col-md-offset-1 col-md-4 xs-push-top">
-        <a class="ajax-popup-link" href="/app/report">
+        <a class="ajax-popup-link button-show-report-de" href="/app/report">
           <div class="reportTeaser">
-            <img class="responsive" src="/img/professional/report1.jpg">
+            <img class="responsive header-report-1" src="/img/professional/Restaurant-Report-Example-en1.jpg">
+              <span class="button"> To the report <i class="fa fa-angle-right fa-lg"></i></span>
+          </div>
+        </a>
+        <a class="ajax-popup-link button-show-report-en" href="/app/report-de">
+          <div class="reportTeaser">
+            <img class="responsive header-report-1" src="/img/professional/Restaurant-Report-Example-de1.jpg">
               <span class="button"> To the report <i class="fa fa-angle-right fa-lg"></i></span>
           </div>
         </a>
