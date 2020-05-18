@@ -214,7 +214,7 @@ display: none;
   <div class="row">
     <div class="text-center">
       <a href="/app/partners" class="button large">
-        More Informations</a>
+        More informations on our partners</a>
     </div>
 
   </div>
