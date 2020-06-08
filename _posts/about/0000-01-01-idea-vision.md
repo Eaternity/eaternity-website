@@ -16,6 +16,7 @@ permalink: /about/
     <div class="col-xs-12 text-center">
       <ul class="subNavigation">
         <a href="/about"><li class="current">Idea &amp; Vision</li></a>
+        <a href="/about/#team"><li >Team</li></a>
         <a href="/about/partners"><li>Partners</li></a>
         <a href="/about/media"><li>Media</li></a>
         <a href="/blog"><li>Blog</li></a>
@@ -207,12 +208,12 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/sgries.jpg">
-      <h3>Sebastian Gries</h3>
-      <p>Head of Business & Executive Assistant</p>
+      <img class="responsive round" src="/img/idea-vision/mbaltensperger.jpg">
+      <h3>Marc Baltensperger</h3>
+      <p>Business Development & Executive Assistant</p>
       <p>
         +41 77 512 95 73‬<br />
-        <a href="mailto:sgries@eaternity.ch">sgries@eaternity.ch</a><br />
+        <a href="mailto:mbaltensperger@eaternity.ch">mbaltensperger@eaternity.ch</a><br />
       </p>
 
       </div>
