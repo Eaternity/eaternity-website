@@ -58,7 +58,7 @@ permalink: /meals/
 
     	    <div class="col-xs-12 col-sm-4 xs-push-top">
     	    	<h3 >Fact #2</h3>
-    	    	<p>1 kg of pork causes as much CO2 as producing 80 kg of potatoes</p>
+    	    	<p>1 kg of pork causes as much CO₂ as producing 80 kg of potatoes</p>
     	    	<p>
     	    	<a class="facebook" href="#" onclick="
     	    		    window.open(

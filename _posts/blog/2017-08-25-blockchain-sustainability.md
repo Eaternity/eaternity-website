@@ -77,7 +77,7 @@ are willing to assist consumers in changing the world through sustainable Fair
 Trade.
 
 In conclusion, consumers are not powerless and they don’t have to wait for
-governments to agree on emission targets for CO2 or fair wages. Furthermore
+governments to agree on emission targets for CO₂ or fair wages. Furthermore
 consumers do not need the authorities to enforce these agreements. New
 decentralized network technology can place the consumers in control of the
 supply chain, forcing businesses to act responsibly and sustainably.

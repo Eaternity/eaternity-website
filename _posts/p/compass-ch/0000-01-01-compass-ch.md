@@ -59,15 +59,15 @@ permalink: /p/compass-ch
 
   <div class="row push-bottom">
     <div class="col-xs-12 col-sm-8">
-      <p>The Compass Group (Switzerland) AG has already for many years put great efforts into serving healthy and sustainable meals. «The market increasingly demands solutions that implement sustainability. At the Compass Group we want to actively support our clients in achieving their sustainability goals. The CO2-calculator of Eaternity offers us a unique opportunity to make substantially and decisively progress towards this, says Frank Keller, CEO.</p>
+      <p>The Compass Group (Switzerland) AG has already for many years put great efforts into serving healthy and sustainable meals. «The market increasingly demands solutions that implement sustainability. At the Compass Group we want to actively support our clients in achieving their sustainability goals. The CO₂-calculator of Eaternity offers us a unique opportunity to make substantially and decisively progress towards this, says Frank Keller, CEO.</p>
 
-      <p>The Compass Group (Switzerland) AG has introduced the CO2-management tracking tool in their restaurants and has committed to reduce emissions by 20% in 2020.</p>
+      <p>The Compass Group (Switzerland) AG has introduced the CO₂-management tracking tool in their restaurants and has committed to reduce emissions by 20% in 2020.</p>
 
-      <p>All restaurants send daily the recipes they cook through the "wire" and in return the CO2-value is calculated. All restaurants send monthly all their supplies and purchases to Eaternity which generates a specific restaurant report giving detailed information on their CO2-impact. </p>
+      <p>All restaurants send daily the recipes they cook through the "wire" and in return the CO₂-value is calculated. All restaurants send monthly all their supplies and purchases to Eaternity which generates a specific restaurant report giving detailed information on their CO₂-impact. </p>
 
       <p>200 restaurants are fully equipped with the Eaternity set-up: monthly reports, meal awards and restaurant communication. In may 2014 the first restaurant went online and started communicating the program towards their guests.</p>
 
-      <p>One meal can cause around 0.3 kg up to 5.5 kg CO2e (on average 1.71 kg CO2e). The food related emissions of all restaurants together amount up to 15'000 tons of CO2e per year. By 2020 these emissions will be 20% lower.</p>
+      <p>One meal can cause around 0.3 kg up to 5.5 kg CO₂e (on average 1.71 kg CO₂e). The food related emissions of all restaurants together amount up to 15'000 tons of CO₂e per year. By 2020 these emissions will be 20% lower.</p>
 
       <img class="responsive small-push-top small-push-bottom" src="/img/case-study/casestudy1.jpg">
 

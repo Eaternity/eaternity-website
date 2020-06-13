@@ -4,7 +4,7 @@ category: blog
 date: 2009-11-23
 
 image: 2009-11-22-eaternity_CO2_Rechner.jpg
-title: Eaternity CO2 Rechner
+title: Eaternity CO₂ Rechner
 blog-image: 2009-11-22-eaternity_CO2_Rechner.jpg
 
 media:

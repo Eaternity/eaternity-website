@@ -36,7 +36,7 @@ The Technology Fund is an instrument of Swiss climate policy implemented by the 
 
 ###Eaternity AG
 
-Eaternity AG has been incorporated in 2014 but its story goes back to 2008. The idea to measure and reduce the CO2-impact of food in restaurants has its roots back in the past, when Eaternity existed only as Association. Today’s marketed software application is a unique restaurant management solution for calculating carbon emission and indicating the healthiness of meals. It automatically assesses costs, margins, carbon emissions, environmental sustainability, allergens, nutrients, vitamins and minerals. The information based on individual ingredients can be used to design meals and to display it in declaration compliant format in restaurants.
+Eaternity AG has been incorporated in 2014 but its story goes back to 2008. The idea to measure and reduce the CO₂-impact of food in restaurants has its roots back in the past, when Eaternity existed only as Association. Today’s marketed software application is a unique restaurant management solution for calculating carbon emission and indicating the healthiness of meals. It automatically assesses costs, margins, carbon emissions, environmental sustainability, allergens, nutrients, vitamins and minerals. The information based on individual ingredients can be used to design meals and to display it in declaration compliant format in restaurants.
 
 ###Emerald Technology Ventures
 

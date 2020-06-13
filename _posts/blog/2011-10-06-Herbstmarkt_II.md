@@ -18,14 +18,14 @@ partner:
   - Mäder Kräuter
 ---
 
-Weniger CO2
+Weniger CO₂
 100% Geschmack
 
 Eaternity ist zusammen mit SeedCity am Herbstmarkt in Science City. So gibt es jeden Donnerstag im Monat Oktober frische handverlesene Rezepte sowie das Aktuellste zur klimafreundlichen Ernährung. Wir freuen uns auf euren Besuch auf der Piazza (ETH Hönggerberg) und hoffen wieder einmal direkter mit unserer Botschaft bei euch zu sein.
 
 Was kann ich tun?
 
-Unsere _Ernährung_ ist für einen Drittel der konsumbedingten _Treibhausgas-Emissionen_ in Europa verantwortlich. Durch ein klimafreundlicheres Essverhalten können wir also wesentlich dazu beitragen, unsere CO2 Emissionen zu reduzieren.
+Unsere _Ernährung_ ist für einen Drittel der konsumbedingten _Treibhausgas-Emissionen_ in Europa verantwortlich. Durch ein klimafreundlicheres Essverhalten können wir also wesentlich dazu beitragen, unsere CO₂ Emissionen zu reduzieren.
 
 Folgende Faktoren, geordnet nach Effizienz, sind entscheidend für eine klimafreundliche Ernährung:
 
@@ -35,7 +35,7 @@ Bei Gemüse gilt: _besser saisonal, keine Flugzeugtransporte_ – diese fallen a
 
 Des Weiteren zählt die _Regionalität_ der Produkte. Lieber _frisch statt tiefgefroren_ und möglichst kurze Transportwege.
 
-Weniger CO2 – 100% Geschmack
+Weniger CO₂ – 100% Geschmack
 
 Der Verein Eaternity, möchte klimafreundliche Ernährung in der Gesellschaft etablieren. Eine wachsende Welt-Population sowie eine steigende Pro-Kopf-Nachfrage nach ressourcenintensiven Produkten bedeutet eine zunehmende Belastung für die Umwelt.
 

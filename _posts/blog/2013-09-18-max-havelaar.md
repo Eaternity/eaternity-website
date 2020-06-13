@@ -43,7 +43,7 @@ Bananen-Kürbissuppe, Limetten-Quinoa, Power-Salat, Mandarinen-Sorbet und weiter
 
 Geniesse ein klimafreundliches Essen und sende uns Dein Bild des Menüs zu!! Hier ist die Liste der [teilnehmenden Hotels][2]. 
 
-Oder koche selber [ein faires, klimafreundliches und protein-reiches Limetten-Quinoa][1] mit einem wunderbaren Klimabilanz von weniger als 0.2 kg CO2äq/pro Person.
+Oder koche selber [ein faires, klimafreundliches und protein-reiches Limetten-Quinoa][1] mit einem wunderbaren Klimabilanz von weniger als 0.2 kg CO₂äq/pro Person.
 
 
 

@@ -31,7 +31,7 @@ short:
 
 
 
-Zum Start unseres Beta-Test haben wir zusammen mit dem Restaurant [EquiTable][2] im [Sankt Meinrad][4] den CO2-Wert berechnet. Das hier Nachhaltigkeit gross geschrieben ist keine Überraschung mehr - wir haben drei leckere Gerichte genauer unter die Lupe genommen. Und das Gericht [Karottengarten][meal] lässt sich gleich als top-klimafreundlich auszeichnen!
+Zum Start unseres Beta-Test haben wir zusammen mit dem Restaurant [EquiTable][2] im [Sankt Meinrad][4] den CO₂-Wert berechnet. Das hier Nachhaltigkeit gross geschrieben ist keine Überraschung mehr - wir haben drei leckere Gerichte genauer unter die Lupe genommen. Und das Gericht [Karottengarten][meal] lässt sich gleich als top-klimafreundlich auszeichnen!
 
 Weil es neu und innovativ ist was hier passiert, dass den Gästen tatsächlich eine Wahl geboten wird, wurde auch gleich im Radio darüber berichtet:  [Radiobericht im SRF 1 Trend][3].
 
@@ -46,7 +46,7 @@ Die [Berechnungen illustriert][calc] gibt es hier zum mitnehmen.
 
 
 
-Hier findet sich das Gericht Karottengarten im CO2-Rechner zum nachrechnen - Registrierung noch erforderlich: [http://co2.eaternity.ch][1]
+Hier findet sich das Gericht Karottengarten im CO₂-Rechner zum nachrechnen - Registrierung noch erforderlich: [http://co2.eaternity.ch][1]
 
 
 

@@ -33,7 +33,7 @@ short:
 
 Social Impact Start Award 2013 
 
-Letzte Woche konnte Eaternity die Jury bestehend aus iq-consult, SAP, Hub Zürich und Climat-KIC Vertretern von ihrer tollen Idee überzeugen. Bewertet und gesucht wurde eine innovative Methode mit der Sozial- und Umweltprobleme angepackt werden können. Nach nur 4 Wochen bei Eaternity, erklärte Chantal die Eckpunkte unserer Idee sowie das Eaternity Business Modell und konnte gleich im Anschluss glücklich den Preis entgegennehmen. Die schwebenden Ballons in Form einer Weltkugel, welche durch die Karotten vom davonfliegen abbehalten wurden, gehörten mit Sicherheit zum Highlight der Veranstaltung - Sie stellten die CO2 Äquivalent von 100g Karotten visuell dar. 
+Letzte Woche konnte Eaternity die Jury bestehend aus iq-consult, SAP, Hub Zürich und Climat-KIC Vertretern von ihrer tollen Idee überzeugen. Bewertet und gesucht wurde eine innovative Methode mit der Sozial- und Umweltprobleme angepackt werden können. Nach nur 4 Wochen bei Eaternity, erklärte Chantal die Eckpunkte unserer Idee sowie das Eaternity Business Modell und konnte gleich im Anschluss glücklich den Preis entgegennehmen. Die schwebenden Ballons in Form einer Weltkugel, welche durch die Karotten vom davonfliegen abbehalten wurden, gehörten mit Sicherheit zum Highlight der Veranstaltung - Sie stellten die CO₂ Äquivalent von 100g Karotten visuell dar. 
 
 Insbesondere auf das Mentoringprogramm mit einer erfahrenen Person von SAP freuen wir uns bereits sehr, aber auch das Coaching durch den HUB Zürich und seinen Experten, sowie eine 4 Monatige HUB unlimited Mitgliedschaft hilft uns unserer Ideen in die Tat umzusetzen.
 

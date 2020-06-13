@@ -16,7 +16,7 @@ tags:
   - press
 ---
 
-Our food choices matter! With 1/3 of all greenhouse gas emissions originating from our food consumption, a reduction by half is possible and has a significant impact potentially saving 5.6 Giga tons of CO2eq worldwide per year! This is equivalent to more than 5 times the total yearly emissions of a country like Germany.
+Our food choices matter! With 1/3 of all greenhouse gas emissions originating from our food consumption, a reduction by half is possible and has a significant impact potentially saving 5.6 Giga tons of CO₂eq worldwide per year! This is equivalent to more than 5 times the total yearly emissions of a country like Germany.
 
 To support these food choices Eaternity has developed a [Software][app2], a comprehensive management solution for the restaurant industry that gives restaurant owners intelligent insights into the supply-chain and enables smart decision-making for the benefit of people, planet and profit.
 

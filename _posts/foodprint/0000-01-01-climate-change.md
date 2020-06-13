@@ -112,7 +112,7 @@ permalink: /foodprint/climate-change
 	<div class="col-xs-12 col-sm-7 push-top">
 		<h1>How to set the right climate reduction goal?</h1>
 
-    			<p>The average European and American causes 5.18 kg of CO2eq a day for his food consumption, or 150 000 kg CO2eq over his lifetime. With a climate-friendly diet, a person saves a total 100 000 kg CO2e - an impressive number. Amounting to the same amount of carbon as driving 15.5 times around the globe.</p>
+    			<p>The average European and American causes 5.18 kg of CO₂eq a day for his food consumption, or 150 000 kg CO₂eq over his lifetime. With a climate-friendly diet, a person saves a total 100 000 kg CO₂e - an impressive number. Amounting to the same amount of carbon as driving 15.5 times around the globe.</p>
 
     		<p>Detailed estimates on a per country basis per person for CO₂ emission, water, land and material consumption are given by the <a href="http://www.exiobase.eu/index.php/publications/creea-booklet">Exiobase studies</a>. Based on the vast collections of trade statistics between countries we know that a Swiss person emits around 14 tons of CO₂ equivalent per year. While the current global average per person is at 7 tons per year. Counting it against the maximum amount of CO₂ that we might capture and sequester, the 2 degree budget of a person is 1 ton of CO₂ by 2050.</p>
 

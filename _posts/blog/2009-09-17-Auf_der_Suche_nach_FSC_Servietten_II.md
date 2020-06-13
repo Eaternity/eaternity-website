@@ -15,11 +15,11 @@ tags:
 partner:
  -  
 short:
-- Unser primäres Ziel ist es, so effektiv wie möglich CO2 einzusparen. Dass dies nicht immer so einfach ist, mussten wir schon bei unseren ersten Druckmaterialien für die Aktionswoche erfahren. Um die Emissionen, verursacht durch unsere Aktionswochen im Physikrestaurant Science City, gering zu halten, versuchen wir für die begleitenden Werbemassnahmen schon bestehende Kommunikationskanäle zu nutzen.
+- Unser primäres Ziel ist es, so effektiv wie möglich CO₂ einzusparen. Dass dies nicht immer so einfach ist, mussten wir schon bei unseren ersten Druckmaterialien für die Aktionswoche erfahren. Um die Emissionen, verursacht durch unsere Aktionswochen im Physikrestaurant Science City, gering zu halten, versuchen wir für die begleitenden Werbemassnahmen schon bestehende Kommunikationskanäle zu nutzen.
  
 ---
 
-Unser primäres Ziel ist es, so effektiv wie möglich CO2 einzusparen. Dass dies nicht immer so einfach ist, mussten wir schon bei unseren ersten Druckmaterialien für die Aktionswoche erfahren. Um die Emissionen, verursacht durch unsere Aktionswochen im Physikrestaurant Science City, gering zu halten, versuchen wir für die begleitenden Werbemassnahmen schon bestehende Kommunikationskanäle zu nutzen.
+Unser primäres Ziel ist es, so effektiv wie möglich CO₂ einzusparen. Dass dies nicht immer so einfach ist, mussten wir schon bei unseren ersten Druckmaterialien für die Aktionswoche erfahren. Um die Emissionen, verursacht durch unsere Aktionswochen im Physikrestaurant Science City, gering zu halten, versuchen wir für die begleitenden Werbemassnahmen schon bestehende Kommunikationskanäle zu nutzen.
 
 DUNI AB LogoEin Beispiel: SV Catering gibt in ihren Restaurants Servietten mit ihrem Logo heraus. Daher ist es sinnvoll auch unsere Botschaft auf den SV-Servietten zu verbreiten. Wir wollten aber nicht irgendwelche Servietten verwenden. Deshalb machten wir uns auf die Suche nach einem Anbieter, der entweder auf FSC, auf Recycling-Material oder im Idealfall auf Material mit einer dieser [Auszeichnungen][1] druckt.
 

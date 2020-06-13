@@ -26,8 +26,8 @@ Schweizer Gastgeber kochen fair und klimafreundlich - Eaternity berechnet Rezept
 Im September 2015 können Gäste in der Schweiz klimafreundliche und faire Menüs genießen und Gastronomen einen Beitrag für eine ressourcengerechte und faire Welt leisten: Die Aktion „Wir kochen fair und klimafreundlich!“ wird von der [Max-Havelaar-Stiftung (Schweiz)][2], die mit ihrem Gütesiegel fair gehandelte Produkte auszeichnet und [Hotelleriesuisse][3] (link), dem Unternehmerverband der Schweizer Hotellerie ausgerichtet und unterstützt alle teilnehmenden Restaurants bei der konkreten Umsetzung. 
 
 Eaternity übernahm die Berechnung der Rezeptvorschläge für die Aktion.
-Wenn für die Zubereitung der angebotenen Menüs ausschließlich regionale, saisonale und fair gehandelte Zutaten verwendet werden, können die CO2-Emissionen (die sich aus Produktion, Transport und Konservierung der Lebensmittel berechnen lassen), um bis zu 70 Prozent reduziert werden. 
-Um die Wirkung des klimafreundlichen Genusses zu vergrößern, werden im Rahmen der „Fair und Klimafreundlich“-Aktion die restlichen CO2-Emissionen in einem [myclimate][4]-Klimaschutzprojekt in Madagaskar kompensiert.
+Wenn für die Zubereitung der angebotenen Menüs ausschließlich regionale, saisonale und fair gehandelte Zutaten verwendet werden, können die CO₂-Emissionen (die sich aus Produktion, Transport und Konservierung der Lebensmittel berechnen lassen), um bis zu 70 Prozent reduziert werden. 
+Um die Wirkung des klimafreundlichen Genusses zu vergrößern, werden im Rahmen der „Fair und Klimafreundlich“-Aktion die restlichen CO₂-Emissionen in einem [myclimate][4]-Klimaschutzprojekt in Madagaskar kompensiert.
 
 Kochen auch Sie im September fair und klimafreundlich für Ihre Gäste - machen Sie mit!
 

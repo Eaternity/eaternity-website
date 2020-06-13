@@ -20,7 +20,7 @@ partner:
 
 ---
 
- Für alle die bereits über den Artikel in Studio!Sus gestolpert sind. Die Aktuelle Nachricht: Wir heissen jetzt eaternity! EatLess CO2 war zu negativ, FoodStep schon vergeben... Wir haben eine ganze Weile rumexperimentiert bis wir den richtigen Namen gefunden haben... und hatten auch eine ganze Menge guter Vorschläge:
+ Für alle die bereits über den Artikel in Studio!Sus gestolpert sind. Die Aktuelle Nachricht: Wir heissen jetzt eaternity! EatLess CO₂ war zu negativ, FoodStep schon vergeben... Wir haben eine ganze Weile rumexperimentiert bis wir den richtigen Namen gefunden haben... und hatten auch eine ganze Menge guter Vorschläge:
 
 [Read more...][1]
 

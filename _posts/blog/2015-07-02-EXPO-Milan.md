@@ -27,14 +27,14 @@ partner:
 This summer, Eaternity was present at the universal exhibition [EXPO Milan 2015][0] that focuses on „energy for life“. Together with our partner [Foodwaste Zurich][1] we represented the city of Zurich which invited us to become part of the Swiss pavillon. Here, different players in economy, research and education presented innovative ideas, concepts and products for a sustainable, healthy and balanced diet.
 
 During a special event with lots of invited guests, Eaternity and Foodwaste Zurich offered „Züri Geschnetzeltes“ (Zurich style veal stew), a popular Swiss menu. To raise the audience’s awareness for the climate change that is also caused by the food chain, we presented the Climate
-Scale. This symbolic weighing machine demonstrated the different amount of CO2 emissions contained in a Geschnetzeltes menu cooked the traditional way compared to the climate friendly version.
+Scale. This symbolic weighing machine demonstrated the different amount of CO₂ emissions contained in a Geschnetzeltes menu cooked the traditional way compared to the climate friendly version.
 Our Climate Scale at EXPO Milan 2015
 
 ![scale](/img/blog/2015-07-02-EXPO-Milan/DSC02768.jpg "Our Climate Scale at EXPO Milan 2015")
 Our Climate Scale at EXPO Milan 2015
 
 
-The recipe for the zero-food-waste version has been calculated by Eaternity: Instead of using the regular ingredients, we recommended using regional and organic ones, also meat-less menus do have a better CO2 emission rate. So the climate friendly Zurich Geschnetzeltes was plant-based.
+The recipe for the zero-food-waste version has been calculated by Eaternity: Instead of using the regular ingredients, we recommended using regional and organic ones, also meat-less menus do have a better CO₂ emission rate. So the climate friendly Zurich Geschnetzeltes was plant-based.
 Freshly cooked Swiss menu „Züri Geschnetzeltes“, zero-food-waste version.
 
 ![menu](/img/blog/2015-07-02-EXPO-Milan/DSC02786.jpg "Freshly cooked Swiss menu 'Züri Geschnetzeltes', zero-food-waste version.")

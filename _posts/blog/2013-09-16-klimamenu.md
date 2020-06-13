@@ -4,7 +4,7 @@ category: blog
 
 published: true
 
-title: mehr Genuss – weniger CO2
+title: mehr Genuss – weniger CO₂
 subtitle: Im Monat September gibt es das "Klimamenu" mit myblueplanet.
 blog-image: 2013-09-12-klimamenu.jpg
 circa: 

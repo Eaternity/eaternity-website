@@ -34,7 +34,7 @@ Identification of the most important factors and assumptions influencing the cli
 
 Environmental impact of organic and conventional foods.
 
-Extension of our CO2-database with improved calculations for organic ingredients.
+Extension of our CO₂-database with improved calculations for organic ingredients.
 
 Identification of climate and environmentally relevant regulations of different organic standards and labels.
 
@@ -48,7 +48,7 @@ Adaptation and improvement of analysis, methodology and developed applications b
 
 The organic footprint project invited to create a common ground for climate action by summarizing current knowledge on the climate and environmental impacts of conventional and organic production.
 
-As a consequence, and a result of the project, Eaternity provides CO2 values for organic and conventional production. Further, Eaternity included additional indicators for water scarcity, tropical deforestation and animal welfare into the Eaternity App to support the overall goal of reducing the food related climate impact.
+As a consequence, and a result of the project, Eaternity provides CO₂ values for organic and conventional production. Further, Eaternity included additional indicators for water scarcity, tropical deforestation and animal welfare into the Eaternity App to support the overall goal of reducing the food related climate impact.
 
 Together with our scientific partners at ZHAW and Quantis we investigated how the climate and environmental impacts of organic food differs from conventional food. At the Organic Footprint Workshop 2016 held in Zürich we discussed with scientists, chefs, consumers and farmers the state of the knowledge in sciences and which indicators are crucial to assess environmental sustainability of food.
 

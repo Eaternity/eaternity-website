@@ -37,7 +37,7 @@ categories: app
       <div class="col-xs-offset-1 col-xs-10 col-sm-offset-1 col-sm-6 col-md-4">
     	<form id="register" action="{{ site.eaternity_app }}/signup">
         <p>We establish climate friendly meals in society. Get involved and share the Eaternity-philosophy.</p>
-        <p>Create your own climate-friendly recipe database and measure the CO2-Footprint of your home cooking and get access to our tasty, climate-friendly recipes for private use.</p>
+        <p>Create your own climate-friendly recipe database and measure the CO₂-Footprint of your home cooking and get access to our tasty, climate-friendly recipes for private use.</p>
         <input type="text" name="name" placeholder="Your Name"/>
         <input type="text" name="email" placeholder="E-mail" />
         <div class="small-push-top">

@@ -39,7 +39,7 @@ Eaternity was part of this great initiative and we were featured in six newspape
 This picture has been published in newspapers around the world: Manuel Klarmann (CEO Eaternity) and Daniel Mietusch (Villaggio Zurich), presenting climate friendly ingredients.
 
 
-Special thanks to Daniel Böninger, journalist at Tages-Anzeiger, who reached out to us and was so interested in promoting our intention in his article „How much CO2 is in a carrot?“, and Juan Pablo Vélez Peña from Sparknews.
+Special thanks to Daniel Böninger, journalist at Tages-Anzeiger, who reached out to us and was so interested in promoting our intention in his article „How much CO₂ is in a carrot?“, and Juan Pablo Vélez Peña from Sparknews.
 
 [ijd]:https://www.facebook.com/events/382950391907701/
 [spark]:us4.campaign-archive1.com/?u=1ea974f917f5720c151fe4783&id=6712b1e3ae

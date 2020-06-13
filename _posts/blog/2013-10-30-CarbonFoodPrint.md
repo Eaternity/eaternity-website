@@ -29,7 +29,7 @@ partner:
 
 Im Rahmen des Projekts [CarbonFoodPrint der Gebert Rüf Stiftung][1] wird zusammen mit den Hochschulen: der ZHAW und Universität Zürich unsere  Lösung für die Gastronomiepraxis optimiert und erprobt.
 
-Es wird skalierbare Lösung entwickelt, welche es Gastrobetrieben unkompliziert ermöglicht das CO2-Management in ihr Tagesgeschäft zu integrieren. 
+Es wird skalierbare Lösung entwickelt, welche es Gastrobetrieben unkompliziert ermöglicht das CO₂-Management in ihr Tagesgeschäft zu integrieren. 
 
 
 Aktuell dazu sind folgende Masterarbeiten für das [Reporting zur Motivation nachhaltiger Handlungen][2] und zur [Vereinfachung von Lebenszyklus-Analysen][3] ausgeschrieben.
