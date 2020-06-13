@@ -81,8 +81,8 @@ categories: meals
     				Essen zwischen Kultur und Spiritualität.</p>
 
     				<h4>Fachliche Hintergründe:</h4>
-
-    				<p>  Gesundheit und Lebensmittel;
+            <p>  
+            Gesundheit und Lebensmittel;
     				Folgen der Industrialisierung der Produktion;
     				Proteinlieferanten;
     				Klima und Lebensmittel;
@@ -92,13 +92,14 @@ categories: meals
     				CO₂-Emissionen bei biologischer Produktion ;
     				CO₂-Emissionen unserer Verpackung und Foodwaste;
     				Umsetzung von klimafreundlichen Menus ;
-    					Die neuen Klimahelden (Praxisbeispiele);
+    				Die neuen Klimahelden (Praxisbeispiele);
     				Ressourcen und Lebensmittel;
     				Folgen der Ressourcenknappheit ;
-    					Genetisch manipulierte Nahrungsmittel;
+    				Genetisch manipulierte Nahrungsmittel;
     				Ethik und Tierwohl;
     				Abhängigkeit der Hersteller vom Markt;
-    				Soziale Gerechtigkeit - We are the 99%.</p>
+    				Soziale Gerechtigkeit
+            </p>
 
 </div>
 

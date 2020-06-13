@@ -70,7 +70,7 @@ permalink: /about/
 <div class="window" style="background-image: url('/img/idea-vision/idea-vision-parallax.jpg')"></div>
 
 <div class="container">
-  <div class="row big-push-top small-push-bottom">
+  <div class="row big-push-top small-push-bottom"  id="team">
     <div class="col-xs-12 text-center">
       <h2>Professionals with a passion</h2>
     </div>
@@ -82,7 +82,7 @@ permalink: /about/
     </div>
   </div>
 
-<div id="team" class="row text-center">
+<div  class="row text-center">
 
     <div class="col-xs-offset-3 col-xs-8 col-sm-offset-3 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
