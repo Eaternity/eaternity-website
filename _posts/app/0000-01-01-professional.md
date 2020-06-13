@@ -25,9 +25,28 @@ permalink: /app/
   </div>
 </div>
 
+<style>
+  html[lang=en] .gastro-image {
+  content:url("/img/get-the-app/appetite-for-change_black.png");
+}
+  html[lang=de] .gastro-image {
+  content:url("/img/get-the-app/appetite-for-change_black-newPS-DE.png");
+}
+</style>
 
 <div class="container">
-  <div class="row push-top push-bottom verticalAlign">
+  <div class="row push-top small-push-bottom">
+    <div class="text-center col-xs-12 col-sm-10 col-md-8 col-md-offset-2 col-sm-offset-1">
+      <h1 style="font-size:100px;margin-top:0px;margin-bottom:20px;line-height: 100px;">Eaternity Gastro</h1>
+      <h3>Track. Precisely measure. Improve.</h3>
+      <h3 style="margin-top:-25px;margin-bottom:-25px;">Market your environmental footprint.</h3>
+      <img class="responsive gastro-image" src="/img/score/appetite-for-change_black.png">
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row small-push-top push-bottom verticalAlign">
     <div class="col-xs-12 col-sm-offset-1 col-sm-7">
       <div>
         <h1>What Eaternity offers</h1>
