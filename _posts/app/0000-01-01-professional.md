@@ -40,7 +40,7 @@ permalink: /app/
       <h1 style="font-size:100px;margin-top:0px;margin-bottom:20px;line-height: 100px;">Eaternity Gastro</h1>
       <h3>Track. Precisely measure. Improve.</h3>
       <h3 style="margin-top:-25px;margin-bottom:-25px;">Market your environmental footprint.</h3>
-      <img class="responsive gastro-image" src="/img/score/appetite-for-change_black.png">
+      <img class="responsive gastro-image" src="/img/get-the-app/appetite-for-change_black.png" />
     </div>
   </div>
 </div>
@@ -89,11 +89,20 @@ display: none;
   </div>
 </div>
 
+<style>
+  html[lang=en] .screen-image {
+  content:url("/img/professional/web-screen-EN.jpg");
+}
+  html[lang=de] .screen-image {
+  content:url("/img/professional/web-screen-DE.jpg");
+}
+</style>
+
 <div class="container">
   <div class="row small-push-top push-bottom verticalAlign">
     <div class="col-xs-12 col-sm-offset-1 col-sm-7">
       <div>
-        <img class="responsive" src="/img/professional/web-screen.jpg">
+        <img class="responsive screen-image" src="/img/professional/web-screen-DE.jpg">
       </div>
     </div>
     <div style="vertical-align: top; height:100%" class="col-xs-offset-4 col-xs-4 col-sm-offset-0 col-sm-3 xs-push-top">
