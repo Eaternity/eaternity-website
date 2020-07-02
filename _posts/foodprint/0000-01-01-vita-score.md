@@ -217,7 +217,7 @@ categories: foodprint
            <td class="active">Project organisation: </td>
            <td class="bgLightBlue">Aleksandra Aleksandrowicz, Eaternity – <a href="mailto:aaleksandrowicz@eaternity.ch">aaleksandrowicz@eaternity.ch</a> <br />
     				 Deputy: Judith Ellens, Eaternity – <a href="mailto:jellens@eaternity.ch">jellens@eaternity.ch</a> <br />
-    				 Feldeggstrasse 4, 8008 Zürich</td>
+    				 Siewerdtstrasse 95, 8050 Zürich</td>
          </tr>
          <tr>
            <td class="active">Advisory board:</td>

@@ -64,7 +64,7 @@ categories: meals
   			<p>Eaternity was founded as a NGO with the objective of tackling climate change, from the perspective of the emissions of CO₂ linked to food production.After 8 years of development, Eaternity now provides restaurants with the tools to develop sustainable and healthy food.</p>
 
     		<h3>Meet-Ups</h3>
-    			<p>We meet regularly, around a workshop in the office of Eaternity at Feldeggstrasse 4, 8008 Zurich.</p>
+    			<p>We meet regularly, around a workshop in the office of Eaternity at Siewerdtstrasse 95, 8050 Zürich.</p>
     			<p>The Eaternity team provides the Hub with facts on climate change, the environment, and a scientific bases for the understanding of the interactions between food and climate. Together we discuss how our chefs are key of the equation.</p>
 
 

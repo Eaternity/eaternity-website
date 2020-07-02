@@ -154,7 +154,7 @@ $(document).ready(function(){
 		// prototype call
 	  var infoBubble = new InfoBubble({
       map: map,
-      content: "<div class='info'><span class='semiBold'>Eaternity AG</span><br />Feldeggstrasse 4<br />CH-8008 Zürich</div>",
+      content: "<div class='info'><span class='semiBold'>Eaternity AG</span><br />Siewerdtstrasse 95<br />CH-8050 Zürich</div>",
       shadowStyle: 0,
       padding: "15px",
       backgroundColor: '#e7eff1',
