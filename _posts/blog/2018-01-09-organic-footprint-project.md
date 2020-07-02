@@ -113,7 +113,7 @@ We thank Migros Engagement Fund for funding the Organic Footprint project.
    </tr>
    <tr>
      <td class="active"></td>
-     <td class="bgLightBlue">Feldeggstrasse 4, 8008 Zürich</td>
+     <td class="bgLightBlue">Siewerdtstrasse 95, 8050 Zürich</td>
    </tr>
    <tr>
      <td class="active">Scientific partner:</td>
