@@ -162,12 +162,16 @@ permalink: /about/
 
 
    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/janmachacek.jpeg">
-        <h3>Jan Machacek</h3>
-        <p>Senior Software Engineer</p>
-      </div>
-    </div>
+   <div class="teamTeaser">
+   <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
+   <h3>Job Offer</h3>
+   <p>Life Cycle Analyst</p>
+   <p>
+     <a href="/assets/2020-08-28-Job-Offer-Life-Cycle-Analyst.pdf">Download</a><br />
+   </p>
+   </div>
+ </div>
+
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
@@ -199,15 +203,12 @@ permalink: /about/
 
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
-      <h3>Job Offer</h3>
-      <p>Life Cycle Analyst</p>
-      <p>
-        <a href="/assets/2020-08-28-Job-Offer-Life-Cycle-Analyst.pdf">Download</a><br />
-      </p>
-      </div>
+    <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/janmachacek.jpeg">
+      <h3>Jan Machacek</h3>
+      <p>Senior Software Engineer</p>
     </div>
+  </div>
 
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
