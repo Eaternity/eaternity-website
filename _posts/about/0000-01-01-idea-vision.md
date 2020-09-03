@@ -21,6 +21,7 @@ permalink: /about/
         <a href="/about/media"><li>Media</li></a>
         <a href="/blog"><li>Blog</li></a>
         <a href="/about/#job-offer"><li><i class="fa fa-angle-right fa-lg"></i> Job Offer <i class="fa fa-angle-left fa-lg"></i></li></a>
+        <a href="/contact"><li>Contact</li></a>
       </ul>
     </div>
   </div>
@@ -199,9 +200,12 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/aurelianjaggi.jpg">
-      <h3>Aurelian Jaggi</h3>
-      <p>Founder</p>
+      <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
+      <h3>Job Offer</h3>
+      <p>Life Cycle Analyst</p>
+      <p>
+        <a href="/assets/2020-08-28-Job-Offer-Life-Cycle-Analyst.pdf">Download</a><br />
+      </p>
       </div>
     </div>
 
