@@ -163,11 +163,12 @@ permalink: /about/
 
    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
    <div class="teamTeaser">
-   <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
-   <h3>Job Offer</h3>
-   <p>Life Cycle Analyst</p>
+   <img class="responsive round" src="/img/idea-vision/rbauer.jpg">
+   <h3>Rico Bauer</h3>
+   <p>Head of Sales</p>
    <p>
-     <a href="/assets/2020-08-28-Job-Offer-Life-Cycle-Analyst.pdf">Download</a><br />
+     +41 77 506 16 17<br />
+     <a href="mailto:rbauer@eaternity.ch">rbauer@eaternity.ch</a><br />
    </p>
    </div>
  </div>
