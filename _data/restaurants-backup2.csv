@@ -1,0 +1,49 @@
+Timestamp,name,email,restaurant,phone,check,address,lat,lng,content,adress-lookup,code
+,,,Eurest / Restaurant Comet,,,"Herrengasse 10, 3175 Flamatt",46.8896383,7.319129,"<div class='info'><span class='semiBold'>Eurest / Restaurant Comet</span><br />Herrengasse 10, 3175 Flamatt</div>",,1
+,,,Eurest / Restaurant Unia,,,"Weltpoststrasse 20, 3015 Bern",46.937755,7.4742535,"<div class='info'><span class='semiBold'>Eurest / Restaurant Unia</span><br />Weltpoststrasse 20, 3015 Bern </div>",,2
+,,,Eurest / Restaurant BBL,,,"Fellerstrasse 21, 3027 Bern",46.9461776,7.3854803,"<div class='info'><span class='semiBold'>Eurest / Restaurant BBL</span><br />Fellerstrasse 21, 3027 Bern</div>",,3
+,,,Eurest / Restaurant Emmi,,,"Milchstrasse 9, 3072 Ostermundigen",46.9628233,7.4804605,"<div class='info'><span class='semiBold'>Eurest / Restaurant Emmi</span><br />Milchstrasse 9, 3072 Ostermundigen</div>",,4
+,,,Eurest / Restaurant BAFU,,,"Worblentalstrasse 68, 3063 Ittigen",46.974446,7.4750015,"<div class='info'><span class='semiBold'>Eurest / Restaurant BAFU</span><br />Worblentalstrasse 68, 3063 Ittigen</div>",,5
+,,,Scolarest / Bildungszentrum,,,"Strengelbacherstrasse 27, 4800 Zofingen",47.2824034,7.939348,"<div class='info'><span class='semiBold'>Scolarest / Bildungszentrum</span><br />Strengelbacherstrasse 27, 4800 Zofingen</div>",,8
+,,,Eurest / Restaurant Treff.Zwölf,,,"Weidenstrasse 26, 4143 Dornach",47.47835,7.6076282,"<div class='info'><span class='semiBold'>Eurest / Restaurant Treff.Zwölf</span><br />Weidenstrasse 26, 4143 Dornach</div>",,9
+,,,Scolarest / Restaurant UNI PH,,,"Frohburgstrasse 3, 6002 Luzern",47.0496188,8.3101288,"<div class='info'><span class='semiBold'>Scolarest / Restaurant UNI PH</span><br />Frohburgstrasse 3, 6002 Luzern</div>",,10
+,,,Eurest / Restaurant puur Zug,,,"Gubelstrasse 28, 6300 Zug",47.1747218,8.5118295,"<div class='info'><span class='semiBold'>Eurest / Restaurant puur Zug</span><br />Gubelstrasse 28, 6300 Zug</div>",,13
+,,,Scolarest / Gymnasium Menzingen,,,"Seminarstrasse 12, 6313 Menzingen",47.1820442,8.5837857,"<div class='info'><span class='semiBold'>Scolarest / Gymnasium Menzingen</span><br />Seminarstrasse 12, 6313 Menzingen</div>",,14
+,,,Eurest / Restaurant IBM Schweiz,,,"Vulkanstrasse 106, 8048 Zürich",47.3930202,8.483695,"<div class='info'><span class='semiBold'>Eurest / Restaurant IBM Schweiz</span><br />Vulkanstrasse 106, 8048 Zürich</div>",,16
+,,,Eurest / Restaurant puur Balsberg,,,"Balz-Zimmermannstrasse 7, 8058 Zürich Flughafen",47.4399641,8.5687279,"<div class='info'><span class='semiBold'>Eurest / Restaurant puur Balsberg</span><br />Balz-Zimmermannstrasse 7, 8058 Zürich Flughafen</div>",,18
+,,,Eurest / Restaurant Taubenried,,,"Flughafenstrasse, 8058 Zürich Flughafen",47.4518322,8.5363899,"<div class='info'><span class='semiBold'>Eurest / Restaurant Taubenried</span><br />Flughafenstrasse, 8058 Zürich Flughafen</div>",,19
+,,,Eurest / Restaurant Square,,,"Hammerweg 1, 8304 Wallisellen",47.4124837,8.5870004,"<div class='info'><span class='semiBold'>Eurest / Restaurant Square</span><br />Hammerweg 1, 8304 Wallisellen</div>",,20
+,,,Eurest / Restaurant Kantonales Steueramt,,,"Bändliweg 21, 8090 Zürich",47.3949202,8.484114,"<div class='info'><span class='semiBold'>Eurest / Restaurant Kantonales Steueramt</span><br />Bändliweg 21, 8090 Zürich</div>",,21
+,,,Eurest / Restaurant CUBE,,,"Albisriederstrasse 245, 8047 Zürich",47.3783957,8.4924392,"<div class='info'><span class='semiBold'>Eurest / Restaurant CUBE</span><br />Albisriederstrasse 245, 8047 Zürich</div>",,24
+,,,Eurest / Restaurant Arena,,,"Brown Boveri Strasse 7, 5400 Baden",47.4795176,8.3027419,"<div class='info'><span class='semiBold'>Eurest / Restaurant Arena</span><br />Brown Boveri Strasse 7, 5400 Baden</div>",,26
+,,,Scolarest / Cessouest,,,"Route de Divonne 8, 1260 Nyon",46.3827054,6.2294938,"<div class='info'><span class='semiBold'>Scolarest / Cessouest</span><br />Route de Divonne 8, 1260 Nyon</div>",,35
+,,,Eurest Restaurant Medtronic,,,"Route du Molliau, 1131 Tolochenaz",46.50316,6.4774613,"<div class='info'><span class='semiBold'>Eurest Restaurant Medtronic</span><br />Route du Molliau, 1131 Tolochenaz</div>",,36
+,,,Villa Sträuli,,,"Museumstrasse 60, 8400 Winterthur",47.5016994,8.7266339,"<div class='info'><span class='semiBold'>Villa Sträuli</span><br />Museumstrasse 60, 8400 Winterthur</div>",,43
+,,,"Restaurant Tüfi, Zürich",,,"Dufourstrasse 154, 8008 Zürich",47.3553184,8.5520549,"<div class='info'><span class='semiBold'>Restaurant Tüfi, Zürich</span><br />Dufourstrasse 154, 8008 Zürich</div>",,44
+,,,"Salotto, Zürich",,,"Hardturmstrasse 169, Zürich",47.3934536,8.5090175,"<div class='info'><span class='semiBold'>Salotto, Zürich</span><br />Hardturmstrasse 169, Zürich</div>",,45
+,,,"Restaurant Klima, Umweltarena Spreitenbach",,,"Türliackerstrasse 4, 8957 Spreitenbach",47.4244272,8.3648925,"<div class='info'><span class='semiBold'>Restaurant Klima, Umweltarena Spreitenbach</span><br />Türliackerstrasse 4, 8957 Spreitenbach</div>",,46
+,,,"Chez Toi, Zürich",,,"Meinrad-Lienert-Strasse 1, 8003 Zürich",47.3740768,8.5166253,"<div class='info'><span class='semiBold'>Chez Toi, Zürich</span><br />Meinrad-Lienert-Strasse 1, 8003 Zürich</div>",,47
+,,,"Simply Soup, Zürich",,,"Hallwylstrasse 24, 8004 Zürich",47.3718518,8.5268026,"<div class='info'><span class='semiBold'>Simply Soup, Zürich</span><br />Hallwylstrasse 24, 8004 Zürich</div>",,48
+,,,"Buffet Dreieck, Zürich",,,,47.3728805,8.5226394,"<div class='info'><span class='semiBold'>Buffet Dreieck, Zürich</span><br /></div>",,49
+,,,"Mein Küchenchef, Bern",,,"Landorfstrasse 7, 3098 Köniz",46.9228168,7.4109079,"<div class='info'><span class='semiBold'>Mein Küchenchef, Bern</span><br />Landorfstrasse 7, 3098 Köniz</div>",,50
+,,,"Café Cairo, Bern",,,,46.9587195,7.4441424,"<div class='info'><span class='semiBold'>Café Cairo, Bern</span><br /></div>",,51
+ ,,,Restaurant Stadtspital Triemli,,,,47.3657585,8.4952869,<div class='info'><span class='semiBold'>Restaurant Stadtspital Triemli</span><br /></div>,,52
+,,,"Cantina Don Camillo, Basel",,,,47.5581365,7.5989916,"<div class='info'><span class='semiBold'>Cantina Don Camillo, Basel</span><br /></div>",,53
+,,,"Frohsinn, Weinfelden",,,,47.5644191,9.1058547,"<div class='info'><span class='semiBold'>Frohsinn, Weinfelden</span><br /></div>",,54
+,,,"Ristorante Concordia, Winterthur",,,,47.5090875,8.7149977,"<div class='info'><span class='semiBold'>Ristorante Concordia, Winterthur</span><br /></div>",,55
+,,,"Coalmine, Winterthur",,,,47.5003817,8.7231144,"<div class='info'><span class='semiBold'>Coalmine, Winterthur</span><br /></div>",,56
+,,,"Tuck-Tuck Catering, Fällanden",,,,47.3713232,8.6329065,"<div class='info'><span class='semiBold'>Tuck-Tuck Catering, Fällanden</span><br /></div>",,57
+,,,"EquiTable, Zürich",,,,47.3778805,8.5189407,"<div class='info'><span class='semiBold'>EquiTable, Zürich</span><br /></div>",,58
+,,,"Vegelateria, Zürich",,,,47.3761181,8.5267179,"<div class='info'><span class='semiBold'>Vegelateria, Zürich</span><br /></div>",,59
+,,,"Kafi Schoffel, Zürich",,,,47.3710721,8.54128,"<div class='info'><span class='semiBold'>Kafi Schoffel, Zürich</span><br /></div>",,60
+,,,"Babus, Zürich",,,,47.373134,8.5319285,"<div class='info'><span class='semiBold'>Babus, Zürich</span><br /></div>",,61
+,,,"Samses, Zürich",,,,47.3839126,8.5285223,"<div class='info'><span class='semiBold'>Samses, Zürich</span><br /></div>",,62
+,,,"Maison Blunt, Zürich",,,,47.3837005,8.5262154,"<div class='info'><span class='semiBold'>Maison Blunt, Zürich</span><br /></div>",,63
+,,,"Zum Alten Löwen, Zürich",,,,47.3850074,8.5460555,"<div class='info'><span class='semiBold'>Zum Alten Löwen, Zürich</span><br /></div>",,64
+,,,"Restaurant Casinotheater, Winterthur",,,,47.4997361,8.7244227,"<div class='info'><span class='semiBold'>Restaurant Casinotheater, Winterthur</span><br /></div>",,65
+,,,"Tibits, Zürich",,,,47.3649351,8.5457451,"<div class='info'><span class='semiBold'>Tibits, Zürich</span><br /></div>",,66
+,,,Eurest / Restaurant CAMPUS Liebefeld,,,"Schwarzenburgstrasse 153, 3097 Liebefeld",46.9306142,7.4189777,"<div class='info'><span class='semiBold'>Eurest / Restaurant CAMPUS Liebefeld</span><br />Schwarzenburgstrasse 153, 3097 Liebefeld</div>",,67
+,,,Eurest / Restaurant Tamedia,,,"Werdstrasse 21, 8004 Zürich",47.3723539,8.5281913,"<div class='info'><span class='semiBold'>Eurest / Restaurant Tamedia</span><br />Werdstrasse 21, 8004 Zürich</div>",,68
+,,,Eurest / Restaurant Schindler,,,"Alfred-Schindlerstrasse 38, 6030 Ebikon",47.0878932,8.3506748,"<div class='info'><span class='semiBold'>Eurest / Restaurant Schindler</span><br />Alfred-Schindlerstrasse 38, 6030 Ebikon</div>",,69
+,,,Eurest / Restaurant BIBC,,,"Chemin de Blandonnet 8c, 1214 Vernier",46.2204645,6.0964942,"<div class='info'><span class='semiBold'>Eurest / Restaurant BIBC</span><br />Chemin de Blandonnet 8c, 1214 Vernier</div>",,70
+,,,Scolarest / Restaurant EHB,,,"Kirchlindachstrasse 79, 3052 Zollikofen",47.0014856,7.4485394,"<div class='info'><span class='semiBold'>Scolarest / Restaurant EHB</span><br />Kirchlindachstrasse 79, 3052 Zollikofen</div>",,71
