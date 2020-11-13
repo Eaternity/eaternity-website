@@ -7,7 +7,7 @@ published: true
 author: Judith E. Ellens
 
 title: Impulsevent Smart Chefs
-subtitle: Ein kulinarischer Spielplatz für Entdecker
+subtitle: A culinary playground for explorers
 
 blog-image: 2017-10-04-smart-chefs.jpg
 image: 2017-10-04-smart-chefs.jpg
@@ -19,13 +19,7 @@ tags:
   - organic
 ---
 
-**_Am 28. September 2017 haben wir im Rahmen einer
-interaktiven Impuls-Veranstaltung über unsere neuesten Erkenntnisse in den
-Bereichen Klimaschutz, Gesundheit und umweltfreundliche Landwirtschaft
-informiert. Am Event konnten wir unsere 2 grössten Lieben mit euch teilen. Was
-uns verbindet bei Eaternity ist das gute Essen und die stichhaltigen Daten. Zwei
-Welten lassen wir zusammenkommen die eigentlich nicht getrennt sein sollten: die
-Wissenschaft und die Gastronomie._**
+**_On 28 September 2017, we informed about our latest findings in the fields of climate protection, health and environmentally friendly agriculture in an interactive impulse event. At the event we were able to share our 2 greatest loves with you. What unites us at Eaternity is good food and solid data. We bring together two worlds that should not be separated: science and gastronomy._**
 
 <hr />
 
