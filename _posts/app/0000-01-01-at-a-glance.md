@@ -3128,7 +3128,7 @@ categories: app
       <img class="responsive" src="/img/partners/Apleona.svg">
     </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center xs-push-top">
-      <img class="responsive" src="/img/partners/DasVoglhausCafeUndKaufhausLOGO.jpg">
+      <img class="responsive" src="/img/partners/vogelhaus.jpg">
     </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center xs-push-top">
       <img class="responsive" src="/img/partners/DG_Logo.svg">
