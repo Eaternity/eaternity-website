@@ -1,9 +1,9 @@
 # Site settings - website www.eaternity.org
 name: Eaternity
 title: Eaternity - App'etite for Change
-email: email@eaternity.com
+email: email@eaternity.ch
 description: App'etite for Change.
-meta_description: "Eaternity is a movement to establish climate friendly meals."
+meta_description: "Eaternity is a accelarting a sustainable food future."
 
 # plugins
 plugins:
@@ -19,9 +19,9 @@ markdown: kramdown #redcarpet
 baseurl: "" # the subpath of your site, e.g. /blog/
 # baseurl: /
 domain_name: "http://www.eaternity.org"
-google_analytics: "UA-55310589-1" #'UA-55310589-3' <- old blog
-disqus: false
-disqus_shortname: "eaternity"
+#google_analytics: "UA-55310589-1" #'UA-55310589-3' <- old blog
+#disqus: false
+# disqus_shortname: "eaternity"
 
 eaternity_app: "http://app.eaternity.ch"
 
