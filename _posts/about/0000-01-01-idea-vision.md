@@ -214,12 +214,12 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/mbaltensperger.jpg">
-      <h3>Marc Baltensperger</h3>
+      <img class="responsive round" src="/img/idea-vision/jspranger.jpg">
+      <h3>Janes Spranger</h3>
       <p>Business Development & Executive Assistant</p>
       <p>
         +41 77 512 95 73‬<br />
-        <a href="mailto:mbaltensperger@eaternity.ch">mbaltensperger@eaternity.ch</a><br />
+        <a href="mailto:jspranger@eaternity.ch">jspranger@eaternity.ch</a><br />
       </p>
 
       </div>
