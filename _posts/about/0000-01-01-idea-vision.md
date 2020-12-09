@@ -238,6 +238,52 @@ permalink: /about/
 
 </div>
 
+
+
+<div class="row text-center small-push-bottom">
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/mbaltensberger.jpg">
+      <h3>Marc Baltensperger</h3>
+      <p>Business Development</p>
+      </div>
+    </div>
+
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/dbaumann.jpeg">
+      <h3>Daniela Baumann</h3>
+      <p>LCA System Analyst</p>
+    </div>
+  </div>
+
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/ffroborg.jpg">
+      <h3>Francis Froborg</h3>
+      <p>Senior LCA Consulant, Strategy & Partners</p>
+      <p>
+        <a href="mailto:ffroborg@eaternity.ch">ffroborg@eaternity.ch</a><br />
+      </p>
+
+      </div>
+    </div>
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/hfinger.jpg">
+      <h3>Holger Finger</h3>
+      <p>LCA System Analyst</p>
+      <p>
+      </p>
+      </div>
+    </div>
+
+</div>
+
 <div class="row text-center big-push-bottom">
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
