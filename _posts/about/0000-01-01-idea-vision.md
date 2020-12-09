@@ -152,9 +152,9 @@ permalink: /about/
        <div class="teamTeaser">
          <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
          <h3>Job Offer</h3>
-         <p>Senior Software Engineer</p>
+         <p>Software Internship</p>
          <p>
-           <a href="/assets/2020-05-09_Job_Offer_Software_Engineer_at_Eaternity.pdf">Download</a><br />
+           <a href="/assets/2020-12-09_Job_Offer_Software_Intern_at_Eaternity.pdf">Download</a><br />
          </p>
        </div>
      </div>
@@ -244,7 +244,7 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/mbaltensberger.jpg">
+      <img class="responsive round" src="/img/idea-vision/mbaltensperger.jpg">
       <h3>Marc Baltensperger</h3>
       <p>Business Development</p>
       </div>
@@ -253,7 +253,7 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
     <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/dbaumann.jpeg">
+      <img class="responsive round" src="/img/idea-vision/dbaumann.jpg">
       <h3>Daniela Baumann</h3>
       <p>LCA System Analyst</p>
     </div>
@@ -276,7 +276,7 @@ permalink: /about/
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/hfinger.jpg">
       <h3>Holger Finger</h3>
-      <p>LCA System Analyst</p>
+      <p>Senior Software Engineer</p>
       <p>
       </p>
       </div>
