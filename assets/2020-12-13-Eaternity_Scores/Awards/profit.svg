@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Icon-/-profit" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1">
+    <g id="Group">
+      <rect id="Rectangle" width="60" height="60" x="0" y="0"/>
+      <rect id="Rectangle-2" width="36" height="36" x="12" y="12" stroke="#000" stroke-width="2" rx="8"/>
+      <circle id="Oval-2" cx="30" cy="30" r="11" stroke="#000" stroke-width="2"/>
+      <circle id="Oval-2" cx="30" cy="30" r="7.5" fill="#000" stroke="#000" stroke-width="2"/>
+      <text id="1" fill="#FFF" font-family="SFUIText-Heavy, SF UI Text" font-size="14" font-weight="700">
+        <tspan x="26" y="35">1</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
