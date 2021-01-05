@@ -244,8 +244,8 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/mbaltensperger.jpg">
-      <h3>Marc Baltensperger</h3>
+      <img class="responsive round" src="/img/idea-vision/AFrick.jpg">
+      <h3>Alissa Frick</h3>
       <p>Business Development</p>
       </div>
     </div>
