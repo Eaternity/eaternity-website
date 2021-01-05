@@ -152,9 +152,9 @@ permalink: /about/
        <div class="teamTeaser">
          <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
          <h3>Job Offer</h3>
-         <p>Software Internship</p>
+         <p>Software Operations Engineer</p>
          <p>
-           <a href="/assets/2020-12-09_Job_Offer_Software_Intern_at_Eaternity.pdf">Download</a><br />
+           <a href="/assets/2021-01-05_Job_Offer_Software_Operation_at_Eaternity.pdf">Download</a><br />
          </p>
        </div>
      </div>
