@@ -3043,18 +3043,35 @@ categories: app
 </div>
 
 
+
+
+
 <div class="container">
+
+<style>
+html[lang=en] .button-download-1 {
+display: none;
+}
+html[lang=de] .button-download-2 {
+display: none;
+}
+</style>
 
 <div class="row push-top">
   <div class="col-xs-12 col-sm-offset-3 col-sm-6 text-center">
     <p>Download our Statement of Work or request a specific offer:
     </p>
-    <a style="margin-top:20px;" href="/assets/product-info/2020-04-08-SOW Eaternity-Gastro-DE.pdf" class="button large">
-      Statement of Work - PDF (DE) <i class="fa fa-angle-right fa-lg"></i></a>
-    <a style="margin-top:20px;" href="/contact" class="button large">
+        <a style="margin-top:20px;" href="/assets/product-info/2020-04-08-SOW Eaternity-Gastro-DE.pdf" class="button-download-1 button large">
+          Statement of Work - PDF (DE) <i class="fa fa-angle-right fa-lg"></i></a>
+        <a style="margin-top:20px;" href="/assets/product-info/2020-06-21-SOW Eaternity-Gastro-EN.pdf" class="button-download-2 button large">
+            Statement of Work - PDF (EN)</a><br /><br />
+
+<a style="margin-top:20px;" href="/contact" class="button large">
         Request an Offer</a>
   </div>
 </div>
+
+
 
   <div class="row big-push-bottom push-top md-verticalAlign">
     <div class="col-xs-12 col-md-4">
