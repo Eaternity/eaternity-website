@@ -264,6 +264,7 @@ permalink: /about/
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/ffroborg.jpg">
       <h3>Francis Froborg</h3>
+      <p>Senior LCA Consultant, Strategy & Partners</p>
       <p>
         <a href="mailto:ffroborg@eaternity.ch">ffroborg@eaternity.ch</a><br />
       </p>
