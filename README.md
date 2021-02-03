@@ -55,4 +55,3 @@ The text format for the blogposts follows the markdown format and is described a
 [1]: http://jekyllrb.com/docs/posts/
 [2]: http://daringfireball.net/projects/markdown/
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Eaternity/eaternity-org?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
