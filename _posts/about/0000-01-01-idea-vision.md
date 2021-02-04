@@ -150,12 +150,12 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
        <div class="teamTeaser">
-         <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
-         <h3>Job Offer</h3>
-         <p>Software Operations Engineer</p>
-         <p>
+         <img class="responsive round" src="/img/idea-vision/pwinkler.jpg">
+            <h3>Philip Winkler</h3>
+             <p>Software Operations Engineer</p>
+         <!-- <p>
            <a href="/assets/2021-01-05_Job_Offer_Software_Operation_at_Eaternity.pdf">Download</a><br />
-         </p>
+         </p> -->
        </div>
      </div>
 
@@ -194,16 +194,16 @@ permalink: /about/
 
 <div class="row text-center small-push-bottom">
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+<!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/kschlaepfer.jpg">
       <h3>Kristin Schläpfer</h3>
       <p>Client Support & Software Operations</p>
       </div>
-    </div>
+    </div> -->
 
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-3 xs-push-top">
     <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/janmachacek.jpeg">
       <h3>Jan Machacek</h3>
@@ -212,18 +212,18 @@ permalink: /about/
   </div>
 
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+<!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/jspranger.jpg">
       <h3>Janes Spranger</h3>
       <p>Business Development & Executive Assistant</p>
       <p>
-        +41 77 512 95 73‬<br />
+
         <a href="mailto:jspranger@eaternity.ch">jspranger@eaternity.ch</a><br />
       </p>
 
       </div>
-    </div>
+    </div> -->
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
@@ -246,7 +246,12 @@ permalink: /about/
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/AFrick.jpg">
       <h3>Alissa Frick</h3>
-      <p>Business Development</p>
+
+      <p>Business Development & Executive Assistant</p>
+            <p>
+            +41 77 512 95 73‬<br />
+        <a href="mailto:africk@eaternity.ch">africk@eaternity.ch</a><br />
+      </p>
       </div>
     </div>
 
