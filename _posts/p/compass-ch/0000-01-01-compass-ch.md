@@ -28,7 +28,7 @@ permalink: /p/compass-ch
   </div>
   <div class="row small-push-bottom">
     <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6 text-center">
-      <p>Enjoy a climate-friendly meal daily – available for the first time at Compass Group restaurants in collaboration with Eaternity.</p>
+      <p>Enjoy climate-friendly menus at Compass Group restaurants - in collaboration with Eaternity.</p>
     </div>
   </div>
 
@@ -59,15 +59,14 @@ permalink: /p/compass-ch
 
   <div class="row push-bottom">
     <div class="col-xs-12 col-sm-8">
-      <p>The Compass Group (Switzerland) AG has already for many years put great efforts into serving healthy and sustainable meals. «The market increasingly demands solutions that implement sustainability. At the Compass Group we want to actively support our clients in achieving their sustainability goals. The CO₂-calculator of Eaternity offers us a unique opportunity to make substantially and decisively progress towards this, says Frank Keller, CEO.</p>
+      <p>Compass Group (Switzerland) AG has been making great efforts to serve healthy and sustainable meals for many years. As a pioneer, it has therefore been working with Eaternity since 2014. "The market is increasingly demanding solutions that implement sustainability. At Compass Group, we want to actively support our customers in achieving their sustainability goals. Eaternity's CO₂ calculator offers us a unique opportunity to significantly and decisively advance this," says Compass Group (Schweiz) AG.</p>
 
-      <p>The Compass Group (Switzerland) AG has introduced the CO₂-management tracking tool in their restaurants and has committed to reduce emissions by 20% in 2020.</p>
+      <p>One meal can cause 0.3 kg to 5.5 kg CO₂ (on average 1.258 kg CO₂) and the food-related emissions of all restaurants together amount to up to 15,000 tons CO₂ per year. Compass Group (Schweiz) AG introduced the CO₂ management tracking tool in its restaurants and was thus able to achieve its goal of reducing emissions by 50% by 2030.</p>
 
-      <p>All restaurants send daily the recipes they cook through the "wire" and in return the CO₂-value is calculated. All restaurants send monthly all their supplies and purchases to Eaternity which generates a specific restaurant report giving detailed information on their CO₂-impact. </p>
+      <p>Restaurants submit the recipes they cook on a daily basis and in return the CO₂ value is calculated.  In addition, each month the restaurants send data on their supplies and purchases to Eaternity, which produces a specific restaurant report with detailed information about each restaurant's CO₂ impact.</p>
 
-      <p>200 restaurants are fully equipped with the Eaternity set-up: monthly reports, meal awards and restaurant communication. In may 2014 the first restaurant went online and started communicating the program towards their guests.</p>
+      <p>These monthly reports, climate-friendly menu labels and communication materials make the restaurants' collaboration with Eaternity visible and demonstrate Compass Group (Schweiz) AG's commitment to their guests. </p>
 
-      <p>One meal can cause around 0.3 kg up to 5.5 kg CO₂e (on average 1.71 kg CO₂e). The food related emissions of all restaurants together amount up to 15'000 tons of CO₂e per year. By 2020 these emissions will be 20% lower.</p>
 
       <img class="responsive small-push-top small-push-bottom" src="/img/case-study/casestudy1.jpg">
 
