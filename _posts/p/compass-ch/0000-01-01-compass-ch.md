@@ -61,7 +61,7 @@ permalink: /p/compass-ch
     <div class="col-xs-12 col-sm-8">
       <p>Compass Group (Switzerland) AG has been making great efforts to serve healthy and sustainable meals for many years. As a pioneer, it has therefore been working with Eaternity since 2014. "The market is increasingly demanding solutions that implement sustainability. At Compass Group, we want to actively support our customers in achieving their sustainability goals. Eaternity's CO₂ calculator offers us a unique opportunity to significantly and decisively advance this," says Compass Group (Schweiz) AG.</p>
 
-      <p>One meal can cause 0.3 kg to 5.5 kg CO₂ (on average 1.258 kg CO₂) and the food-related emissions of all restaurants together amount to up to 15,000 tons CO₂ per year. Compass Group (Schweiz) AG introduced the CO₂ management tracking tool in its restaurants and was thus able to achieve its goal of reducing emissions by 50% by 2030.</p>
+      <p>One meal can cause 0.3 kg to 5.5 kg CO₂ (on average 1.258 kg CO₂) and the food-related emissions of all restaurants together amount to up to 15,000 tons CO₂ per year. Compass Group (Schweiz) AG introduced the CO₂ management tracking tool in its restaurants and wants thus to achieve its goal of reducing emissions by 50% by 2030.</p>
 
       <p>Restaurants submit the recipes they cook on a daily basis and in return the CO₂ value is calculated.  In addition, each month the restaurants send data on their supplies and purchases to Eaternity, which produces a specific restaurant report with detailed information about each restaurant's CO₂ impact.</p>
 
