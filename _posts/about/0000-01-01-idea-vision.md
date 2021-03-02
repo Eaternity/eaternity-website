@@ -212,18 +212,18 @@ permalink: /about/
   </div>
 
 
-<!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/jspranger.jpg">
-      <h3>Janes Spranger</h3>
+      <img class="responsive round" src="/img/idea-vision/lkraehenmann.jpg">
+      <h3>Lea Kraehenmann</h3>
       <p>Business Development & Executive Assistant</p>
       <p>
 
-        <a href="mailto:jspranger@eaternity.ch">jspranger@eaternity.ch</a><br />
+        <a href="mailto:lkraehenmann@eaternity.ch">lkraehenmann@eaternity.ch</a><br />
       </p>
 
       </div>
-    </div> -->
+    </div>
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
