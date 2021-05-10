@@ -124,6 +124,8 @@ permalink: /meals/
         <h1>Eaternity Climate Award</h1>
         <p>Meals (or products) are granted climate-friendly status if they are better then most meals being served (currently 76'034 in our database). A climate friendly meal has at least <span class="semiBold">50% LESS CO₂</span> emissions then the average meal.</p>
 				<p>Check our <a href="/blog/data-updates">latest update on the data</a> for more details</p>.
+         <a class="button" href="https://github.com/Eaternity/eaternity-website/wiki/FoodUnit-Documentation-(for-rating-CO%E2%82%82-and-Water)">Documentation of the calculations<i class="fa fa-angle-right fa-lg"></i></a>
+        
         <a class="button" href="/contact">Contact us<i class="fa fa-angle-right fa-lg"></i></a>
       </div>
     </div>
@@ -150,7 +152,7 @@ permalink: /meals/
       <!-- specific code -->
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-4 col-md-offset-0 col-md-3">
-      <a href="http://app.eaternity.org/?locale=en#!menu:4d8b5be5-311c-4a8e-8ddd-7f63181856e0">
+      <a href="">
         <div class="roundTeaser">
           <img class="responsive" src="/img/eat-at-home/meal-1.jpg" />
           <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
@@ -159,7 +161,7 @@ permalink: /meals/
       <p>Rustic nutty red wine sauce with tagliatelle and Jerusalem artichoke</p>
     </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-4 col-md-offset-0 col-md-3 xs-push-top">
-      <a href="http://app.eaternity.org/?locale=en#!menu:27defe12-6ad0-4ca1-b310-b7d4a8eeef7d">
+      <a href="">
         <div class="roundTeaser">
           <img class="responsive" src="/img/eat-at-home/meal-2.jpg" />
           <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
@@ -168,7 +170,7 @@ permalink: /meals/
       <p>Spinach lentil lasagne with pear and hazelnuts</p>
     </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-4 col-md-offset-0 col-md-3 sm-push-top">
-      <a href="http://app.eaternity.org/?locale=en#!menu:adea6b25-14a8-4efa-bfe1-248d235f2bd5">
+      <a href="">
         <div class="roundTeaser">
           <img class="responsive" src="/img/eat-at-home/meal-3.jpg" />
           <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
@@ -178,7 +180,7 @@ permalink: /meals/
     </div>
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-4 col-md-offset-0 col-md-3 sm-push-top">
-      <a href="http://app.eaternity.org/?locale=en#!menu:c0e7cd35-cf9c-4b0f-88cd-d52ba3a9f948">
+      <a href="">
         <div class="roundTeaser">
           <img class="responsive" src="/img/eat-at-home/meal-4.jpg" />
           <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
