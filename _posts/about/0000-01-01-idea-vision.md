@@ -194,16 +194,16 @@ permalink: /about/
 
 <div class="row text-center small-push-bottom">
 
-<!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/kschlaepfer.jpg">
-      <h3>Kristin Schläpfer</h3>
-      <p>Client Support & Software Operations</p>
+      <img class="responsive round" src="/img/idea-vision/kshey.jpg">
+      <h3>Kiara Shey</h3>
+      <p>Business Development</p>
       </div>
-    </div> -->
+    </div>
 
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
     <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/janmachacek.jpeg">
       <h3>Jan Machacek</h3>
