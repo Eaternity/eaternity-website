@@ -148,7 +148,7 @@ permalink: /about/
     </div> -->
 
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-3 xs-push-top">
        <div class="teamTeaser">
          <img class="responsive round" src="/img/idea-vision/pwinkler.jpg">
             <h3>Philip Winkler</h3>
@@ -161,17 +161,13 @@ permalink: /about/
 
 
 
-   <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+<!--    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
    <div class="teamTeaser">
    <img class="responsive round" src="/img/idea-vision/rbauer.jpg">
    <h3>Rico Bauer</h3>
    <p>Head of Sales</p>
-   <p>
-     +41 77 506 16 17<br />
-     <a href="mailto:rbauer@eaternity.ch">rbauer@eaternity.ch</a><br />
-   </p>
    </div>
- </div>
+ </div> -->
 
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
@@ -194,13 +190,17 @@ permalink: /about/
 
 <div class="row text-center small-push-bottom">
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+  <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/kshey.jpg">
       <h3>Kiara Shey</h3>
       <p>Business Development</p>
+         <p>
+     +41 77 506 16 17<br />
+     <a href="mailto:kshey@eaternity.ch">kshey@eaternity.ch</a><br />
+    </p>
       </div>
-    </div>
+  </div>
 
 
     <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
@@ -218,7 +218,6 @@ permalink: /about/
       <h3>Lea Kraehenmann</h3>
       <p>Business Development & Executive Assistant</p>
       <p>
-
         <a href="mailto:lkraehenmann@eaternity.ch">lkraehenmann@eaternity.ch</a><br />
       </p>
 
