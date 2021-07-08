@@ -218,6 +218,7 @@ permalink: /about/
       <h3>Lea Kraehenmann</h3>
       <p>Business Development & Executive Assistant</p>
       <p>
+       +41 77 474 59 90<br />
         <a href="mailto:lkraehenmann@eaternity.ch">lkraehenmann@eaternity.ch</a><br />
       </p>
 
