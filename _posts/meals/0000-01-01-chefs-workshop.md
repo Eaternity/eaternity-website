@@ -42,6 +42,14 @@ categories: meals
 
     		<p>Learn how to creatively deal with plant-based foods, how to target different trends and how to implement exciting seasonal dishes into your business - from planning to communication with guests. </p>
 
+</div>
+
+  </div>
+</div>
+<div class="container">
+  <div class="row push-top small-push-bottom">
+    <div class="col-xs-12 text-center">
+
 <div class="window" style="background-image: url('/img/eat-at-home/eatathome-parallax.jpg')"></div>
 
     		<p><h3>Course Contents</h3>
