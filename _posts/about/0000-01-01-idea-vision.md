@@ -244,13 +244,13 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/AFrick.jpg">
-      <h3>Alissa Frick</h3>
+      <img class="responsive round" src="/img/idea-vision/kkukan.jpg">
+      <h3>Kim Kukan</h3>
 
       <p>Business Development & Executive Assistant</p>
             <p>
             +41 77 512 95 73‬<br />
-        <a href="mailto:africk@eaternity.ch">africk@eaternity.ch</a><br />
+        <a href="mailto:kkukan@eaternity.ch">kkukan@eaternity.ch</a><br />
       </p>
       </div>
     </div>
