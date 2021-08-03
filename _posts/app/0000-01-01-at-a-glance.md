@@ -2913,7 +2913,7 @@ categories: app
     							<span id="SPAN_27"><b id="B_28">1</b> user</span>
     						</div>
     					</div>
-    					<a target=”_blank” href="http://app.eaternity.ch"><button id="BUTTON_29">
+    					<a href="http://app.eaternity.ch" target=”_blank” ><button id="BUTTON_29">
     						Sign Up
     					</button></a>
     				</div>
@@ -2967,7 +2967,7 @@ categories: app
     							<span id="SPAN_56"><b id="B_57">1</b> team weekplan overview</span>
     						</div>
     					</div>
-    					<a target=”_blank” href="http://app.eaternity.ch"><button id="BUTTON_58">
+    					<a href="http://app.eaternity.ch" target=”_blank”><button id="BUTTON_58">
     						Sign Up
     					</button></a>
     				</div>
@@ -3013,7 +3013,7 @@ categories: app
     							<span id="SPAN_80"><b id="B_81"></b> Direct &amp; hands on support</span>
     						</div>
     					</div>
-    					<a target=”_blank” href="http://app.eaternity.ch"><button id="BUTTON_82">
+    					<a href="http://app.eaternity.ch" target=”_blank”><button id="BUTTON_82">
     						Sign Up
     					</button></a>
     				</div>
