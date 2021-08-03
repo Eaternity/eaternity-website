@@ -2980,7 +2980,7 @@ categories: app
     				</div>
     				<div id="DIV_62">
     					<div id="DIV_63">
-    						The PROFFESSIONAL plan for multi-unit corporates.
+    						The plan for multi-unit corporates.
     					</div>
     					<div id="DIV_64">
     						<div id="DIV_65">
@@ -3027,7 +3027,7 @@ categories: app
     			Join our cookbook and apply for a <a href="mailto:license@eaternity.ch" id="A_86">free plan</a>.
     		</div>
     		<div id="DIV_88">
-    			*A team / unit license is<br id="BR_89" />limited to 500 guests / day<br id="BR_90" />(2 licenses = 1000 guests / day, etc.).<br id="BR_91" />**Per license we can add up to 15 new individual ingredients for you each month.<br id="BR_92" />***All features as in the PROFFESIONAL plan.
+    			*A team / unit license is<br id="BR_89" />limited to 500 guests / day<br id="BR_90" />(2 licenses = 1000 guests / day, etc.).<br id="BR_91" />**Per license we can add up to 15 new individual ingredients for you each month.<br id="BR_92" />***All features as in the PROFESSIONAL plan.
     		</div>
     		<div id="DIV_94">
     			3-year contract for € 4999.
