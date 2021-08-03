@@ -33,7 +33,7 @@ categories: meals
   </div>
   <div class="row big-push-bottom">
     <div class="col-xs-12 text-center">
-      <p>You can enjoy climate-friendly meals in more than 100 restaurants already. We show you where.</p>
+      <p>You can enjoy climate-friendly meals in more than 150 restaurants already. We show you where.</p>
     </div>
   </div>
 </div>
