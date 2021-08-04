@@ -3024,7 +3024,7 @@ categories: app
     		<div id="DIV_84">
     		</div>
     		<div id="DIV_85">
-    			Join our cookbook and apply for a <a href="mailto:license@eaternity.ch" id="A_86">free plan</a>.
+    			<a href="mailto:license@eaternity.ch" id="A_86">Write us</a> if you need support to afford a personal license.
     		</div>
     		<div id="DIV_88">
     			*A team / unit license is<br id="BR_89" />limited to 500 guests / day<br id="BR_90" />(2 licenses = 1000 guests / day, etc.).<br id="BR_91" />**Per license we can add up to 15 new individual ingredients for you each month.<br id="BR_92" />***All features as in the PROFESSIONAL plan.
