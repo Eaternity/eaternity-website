@@ -24,7 +24,7 @@ domain_name: "http://www.eaternity.org"
 # disqus_shortname: "eaternity"
 
 eaternity_app: "http://app.eaternity.ch"
-eaternity_discuss: "https://github.com/Eaternity/eaternity-website/discussions"
+eaternity_discuss: "https://github.com/Eaternity/eaternity-website/wiki"
 
 # Details for the RSS feed generator
 # url:            'http://www.eaternity.org'
