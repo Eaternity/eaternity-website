@@ -148,7 +148,7 @@ permalink: /about/
     </div> -->
 
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
        <div class="teamTeaser">
          <img class="responsive round" src="/img/idea-vision/pwinkler.jpg">
             <h3>Philip Winkler</h3>
@@ -161,13 +161,13 @@ permalink: /about/
 
 
 
-<!--    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+ <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
    <div class="teamTeaser">
-   <img class="responsive round" src="/img/idea-vision/rbauer.jpg">
-   <h3>Rico Bauer</h3>
-   <p>Head of Sales</p>
+   <img class="responsive round" src="/img/idea-vision/ccampani.jpg">
+   <h3>Cyrill Campani</h3>
+   <p>LCA System Analyst</p>
    </div>
- </div> -->
+ </div> 
 
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
@@ -192,14 +192,13 @@ permalink: /about/
 
   <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/kshey.jpg">
-      <h3>Kiara Shey</h3>
-      <p>Business Development</p>
+      <img class="responsive round" src="/img/idea-vision/gtzischhochlz.jpg">
+      <h3>Grit Tzischhochlz</h3>
+      <p>LCA System Analyst</p>
          <p>
-     +41 77 506 16 17<br />
-     <a href="mailto:kshey@eaternity.ch">kshey@eaternity.ch</a><br />
-    </p>
-      </div>
+   <!--   +41 77 506 16 17<br /> -->
+          </p>
+     </div>
   </div>
 
 
@@ -214,12 +213,12 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/lkraehenmann.jpg">
-      <h3>Lea Kraehenmann</h3>
+      <img class="responsive round" src="/img/idea-vision/smetzner.jpg">
+      <h3>Stella Metzner</h3>
       <p>Business Development & Executive Assistant</p>
       <p>
        +41 77 474 59 90<br />
-        <a href="mailto:lkraehenmann@eaternity.ch">lkraehenmann@eaternity.ch</a><br />
+        <a href="mailto:smetzner@eaternity.ch">smetzner@eaternity.ch</a><br />
       </p>
 
       </div>
@@ -244,13 +243,13 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/kkukan.jpg">
-      <h3>Kim Kukan</h3>
+      <img class="responsive round" src="/img/idea-vision/mschnyder.jpg">
+      <h3>Maria Schnyder</h3>
 
       <p>Business Development & Executive Assistant</p>
             <p>
             +41 77 512 95 73‬<br />
-        <a href="mailto:kkukan@eaternity.ch">kkukan@eaternity.ch</a><br />
+        <a href="mailto:mschnyder@eaternity.ch">mschnyder@eaternity.ch</a><br />
       </p>
       </div>
     </div>
