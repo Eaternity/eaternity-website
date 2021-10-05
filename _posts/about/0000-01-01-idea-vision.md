@@ -196,7 +196,7 @@ permalink: /about/
       <h3>Grit Tzischhochlz</h3>
       <p>LCA System Analyst</p>
          <p>
-   <!--   +41 77 506 16 17<br /> -->
+   <!--          +41 77 474 59 90<br /> -->
           </p>
      </div>
   </div>
@@ -216,8 +216,7 @@ permalink: /about/
       <img class="responsive round" src="/img/idea-vision/smetzner.jpg">
       <h3>Stella Metzner</h3>
       <p>Business Development & Executive Assistant</p>
-      <p>
-       +41 77 474 59 90<br />
+      <p>+41 77 506 16 17<br />
         <a href="mailto:smetzner@eaternity.ch">smetzner@eaternity.ch</a><br />
       </p>
 
