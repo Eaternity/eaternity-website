@@ -166,6 +166,9 @@ permalink: /about/
    <img class="responsive round" src="/img/idea-vision/ccampani.jpg">
    <h3>Cyrill Campani</h3>
    <p>LCA System Analyst</p>
+            <p><a href="mailto:klimafreunde@eaternity.ch">klimafreunde@eaternity.ch</a><br />
+   <!--          +41 77 474 59 90<br /> -->
+          </p>
    </div>
  </div> 
 
@@ -193,9 +196,9 @@ permalink: /about/
   <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/gtzischhochlz.jpg">
-      <h3>Grit Tzischhochlz</h3>
+      <h3>Grit Tzschichholz</h3>
       <p>LCA System Analyst</p>
-         <p>
+         <p><a href="mailto:klimafreunde@eaternity.ch">klimafreunde@eaternity.ch</a><br />
    <!--          +41 77 474 59 90<br /> -->
           </p>
      </div>
