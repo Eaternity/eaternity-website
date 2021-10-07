@@ -261,7 +261,7 @@ permalink: /about/
     <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/dbaumann.jpg">
       <h3>Daniela Baumann</h3>
-      <p>LCA System Analyst</p>
+      <p>LCA Expert & Key Accounts</p>
     </div>
   </div>
 
