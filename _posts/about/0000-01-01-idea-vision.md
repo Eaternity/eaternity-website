@@ -290,6 +290,26 @@ permalink: /about/
 
 </div>
 
+<div class="row text-center small-push-bottom">
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/cwenzl.jpg">
+      <h3>Christina Wenzl</h3>
+
+      <p>Business Development & Team Lead</p>
+            <p>
+        <a href="mailto:cwenzl@eaternity.ch">cwenzl@eaternity.ch</a><br />
+      </p>
+      </div>
+    </div>
+
+
+
+</div>
+
+
+
 <div class="row text-center big-push-bottom">
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
