@@ -85,7 +85,7 @@ permalink: /about/
 
 <div  class="row text-center">
 
-    <div class="col-xs-offset-3 col-xs-8 col-sm-offset-3 col-sm-3 xs-push-top xs-push-bottom">
+    <div class="col-xs-offset-1 col-xs-8 col-sm-offset-1 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/mklarmann.jpg">
         <h3>Manuel Klarmann</h3>
@@ -108,6 +108,20 @@ permalink: /about/
           <a href="mailto:jellens@eaternity.ch">jellens@eaternity.ch</a><br />
           <a href="https://twitter.com/judeithellens">@JudithEllens</a>
         </p>
+      </div>
+    </div>
+
+
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/ffroborg.jpg">
+      <h3>Francis Froborg</h3>
+      <p>Senior LCA Consultant, Strategy & Partners</p>
+      <p>
+        <a href="mailto:ffroborg@eaternity.ch">ffroborg@eaternity.ch</a><br />
+      </p>
+
       </div>
     </div>
 
@@ -268,32 +282,6 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/ffroborg.jpg">
-      <h3>Francis Froborg</h3>
-      <p>Senior LCA Consultant, Strategy & Partners</p>
-      <p>
-        <a href="mailto:ffroborg@eaternity.ch">ffroborg@eaternity.ch</a><br />
-      </p>
-
-      </div>
-    </div>
-
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/hfinger.jpg">
-      <h3>Holger Finger</h3>
-      <p>Senior Software Engineer</p>
-      <p>
-      </p>
-      </div>
-    </div>
-
-</div>
-
-<div class="row text-center small-push-bottom">
-
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/cwenzl.jpg">
       <h3>Christina Wenzl</h3>
 
@@ -305,6 +293,15 @@ permalink: /about/
     </div>
 
 
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/hfinger.jpg">
+      <h3>Holger Finger</h3>
+      <p>Senior Software Engineer</p>
+      <p>
+      </p>
+      </div>
+    </div>
 
 </div>
 
