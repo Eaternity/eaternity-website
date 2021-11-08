@@ -36,7 +36,7 @@ permalink: /about/
 
   <div class="row push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
-      <p>Eaternity is the organization developing a solution for the food industry to measure  exactly and efficiently the environmental footprint of food products. To enable smart decisions for the benefit of people, planet and profit. We went public in 2014 but our story goes back to 2008. We are based in Zurich, Switzerland.</p>
+      <p>Eaternity is the organization developing a solution for the food industry to measure exactly and efficiently the environmental footprint of food products. To enable smart decisions for the benefit of people, planet and profit. We registered our organisation in 2014 but our story goes back to 2008. We are based in Zurich, Switzerland.</p>
     </div>
   </div>
 
@@ -181,8 +181,8 @@ permalink: /about/
    <h3>Cyrill Campani</h3>
    <p>LCA System Analyst</p>
       <!--        <p><a href="mailto:klimafreunde@eaternity.org">klimafreunde@eaternity.org</a><br />
-           +41 77 474 59 90<br /> -->
-          </p>
+           +41 77 474 59 90<br /> 
+          </p>-->
    </div>
  </div> 
 
@@ -213,8 +213,8 @@ permalink: /about/
       <h3>Grit Tzschichholz</h3>
       <p>LCA System Analyst</p>
       <!--    <p><a href="mailto:klimafreunde@eaternity.org">klimafreunde@eaternity.org</a><br />
-            +41 77 474 59 90<br /> -->
-          </p>
+            +41 77 474 59 90<br /> 
+          </p>-->
      </div>
   </div>
 
@@ -339,7 +339,7 @@ permalink: /about/
     </div>
     <div class="col-xs-12 col-sm-4 xs-push-top">
       <h3>2014</h3>
-      <p>After this voluntary work continued under the Eaternity Association, other project requests and media interest began to materialise. We embraced many opportunities (<a href="/blog">and still do</a>) to reach out to numerous people by giving lectures and interviews, providing materials, organising events, setting up information booths and offering more menu calculations. Based on all these valuable experiences we incorporated (in addition to the Eaternity Association) the Eaternity AG in July 2014 and started supporting players in the restaurant industry. Providing them with the expertise and tools to turn <a href="/meals/restaurants">chefs into climate heroes</a>. Everyone can calculate a meals impact with the new <a href="/meals/restaurants">Eaternity App</a> now.</p>
+      <p>After this voluntary work continued under the Eaternity Association, other project requests and media interest began to materialise. We embraced many opportunities (<a href="/blog">and still do</a>) to reach out to numerous people by giving lectures and interviews, providing materials, organising events, setting up information booths and offering more menu calculations. Based on all these valuable experiences we incorporated (in addition to the Eaternity Association) the Eaternity AG in July 2014 and started supporting players in the restaurant industry. Providing them with the expertise and tools to turn <a href="/meals/restaurants">chefs into climate heroes</a>. Everyone restaurant can calculate a meals impact with the <a href="/meals/restaurants">Eaternity Gastro</a> now.</p>
     </div>
   </div>
   <div class="row push-bottom">
@@ -353,7 +353,7 @@ permalink: /about/
     <div class="col-xs-12 col-sm-4">
       <h3>2021</h3>
       <p>
-        We are delighted to see society shifting towards a more sustainable food future and decided to reach into politics: that is to show everyone that it is possible to establish a carbon label and a carbon tax for foods. With our initiative <a href="http://ayce.earth/">AYCE</a> we created an NGO with the focus on open source, open data, open campaigning and hence also a non-commercial platform for calculating and publishing the environmental impact of All You Can Eat.
+        We are delighted to see society shifting towards a more sustainable food future and decided to reach into politics: that is to show everyone that it is possible to establish a carbon label and a carbon tax for foods. With our initiative <a href="http://ayce.earth/">AYCE</a> we created an NGO with the focus on open source, open data, open campaigning and hence also a non-commercial platform for calculating and publishing the environmental impact of All You Can Eat (AYCE).
       </p>
     </div>
     <div class="col-xs-12 col-sm-4 xs-push-top">
