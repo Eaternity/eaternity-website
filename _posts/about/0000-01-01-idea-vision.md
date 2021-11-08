@@ -92,7 +92,7 @@ permalink: /about/
         <p>Founder & CEO</p>
         <p>
           +41 77 44 66 981<br />
-          <a href="mailto:mklarmann@eaternity.ch">mklarmann@eaternity.ch</a><br />
+          <a href="mailto:mklarmann@eaternity.org">mklarmann@eaternity.org</a><br />
           <a href="https://twitter.com/mklarmann">@mklarmann</a>
         </p>
       </div>
@@ -105,7 +105,7 @@ permalink: /about/
         <p>Founder & Head of Science</p>
         <p>
           +41 77 44 656 77<br />
-          <a href="mailto:jellens@eaternity.ch">jellens@eaternity.ch</a><br />
+          <a href="mailto:jellens@eaternity.org">jellens@eaternity.org</a><br />
           <a href="https://twitter.com/judeithellens">@JudithEllens</a>
         </p>
       </div>
@@ -119,7 +119,7 @@ permalink: /about/
       <h3>Francis Froborg</h3>
       <p>Senior LCA Consultant, Strategy & Partners</p>
       <p>
-        <a href="mailto:ffroborg@eaternity.ch">ffroborg@eaternity.ch</a><br />
+        <a href="mailto:ffroborg@eaternity.org">ffroborg@eaternity.org</a><br />
       </p>
 
       </div>
@@ -141,7 +141,7 @@ permalink: /about/
         <p>Head of Sales</p>
         <p>
           +41 44 585 14 74<br />
-          <a href="mailto:glacave@eaternity.ch">glacave@eaternity.ch</a><br />
+          <a href="mailto:glacave@eaternity.org">glacave@eaternity.org</a><br />
         </p>
       </div>
     </div> -->
@@ -180,8 +180,8 @@ permalink: /about/
    <img class="responsive round" src="/img/idea-vision/ccampani.jpg">
    <h3>Cyrill Campani</h3>
    <p>LCA System Analyst</p>
-            <p><a href="mailto:klimafreunde@eaternity.ch">klimafreunde@eaternity.ch</a><br />
-   <!--          +41 77 474 59 90<br /> -->
+      <!--        <p><a href="mailto:klimafreunde@eaternity.org">klimafreunde@eaternity.org</a><br />
+           +41 77 474 59 90<br /> -->
           </p>
    </div>
  </div> 
@@ -212,8 +212,8 @@ permalink: /about/
       <img class="responsive round" src="/img/idea-vision/gtzischhochlz.jpg">
       <h3>Grit Tzschichholz</h3>
       <p>LCA System Analyst</p>
-         <p><a href="mailto:klimafreunde@eaternity.ch">klimafreunde@eaternity.ch</a><br />
-   <!--          +41 77 474 59 90<br /> -->
+      <!--    <p><a href="mailto:klimafreunde@eaternity.org">klimafreunde@eaternity.org</a><br />
+            +41 77 474 59 90<br /> -->
           </p>
      </div>
   </div>
@@ -234,7 +234,7 @@ permalink: /about/
       <h3>Stella Metzner</h3>
       <p>Business Development & Executive Assistant</p>
       <p>+41 77 506 16 17<br />
-        <a href="mailto:smetzner@eaternity.ch">smetzner@eaternity.ch</a><br />
+        <a href="mailto:smetzner@eaternity.org">smetzner@eaternity.org</a><br />
       </p>
 
       </div>
@@ -246,7 +246,7 @@ permalink: /about/
       <h3>Medha Julia Pfaff</h3>
       <p>LCA System Analyst</p>
       <p>
-        <a href="mailto:mpfaff@eaternity.ch">mpfaff@eaternity.ch</a><br />
+      <!--   <a href="mailto:mpfaff@eaternity.org">mpfaff@eaternity.org</a><br /> -->
       </p>
       </div>
     </div>
@@ -265,7 +265,7 @@ permalink: /about/
       <p>Business Development & Executive Assistant</p>
             <p>
             +41 77 512 95 73‬<br />
-        <a href="mailto:mschnyder@eaternity.ch">mschnyder@eaternity.ch</a><br />
+        <a href="mailto:mschnyder@eaternity.org">mschnyder@eaternity.org</a><br />
       </p>
       </div>
     </div>
@@ -287,7 +287,7 @@ permalink: /about/
 
       <p>Business Development & Team Lead</p>
             <p>
-        <a href="mailto:cwenzl@eaternity.ch">cwenzl@eaternity.ch</a><br />
+        <a href="mailto:cwenzl@eaternity.org">cwenzl@eaternity.org</a><br />
       </p>
       </div>
     </div>
@@ -347,7 +347,13 @@ permalink: /about/
       <h3>2019</h3>
       <p>As we have grown our expertise, team and ambitions, we aim to make a difference for the whole food industry.
       Under the bold vision to "Accelerate a Sustainable Food Future", we launched the <a href="/score">Eaternity Score</a> in February 2019, to support food producers with the exact environmental footprint.
-      With the support of our invaluable <a href="/about/partners">partners</a> we publish the carbon score of almost all food products, to provide complete and definitive carbon transparency for all foods.
+      With the support of our invaluable <a href="/about/partners">partners</a> we start publishing the carbon score of almost all food products, to provide complete and definitive carbon transparency for all foods.
+      </p>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>2021</h3>
+      <p>
+        We are delighted to see society shifting towards a more sustainable food future and decided to reach into politics: that is to show everyone that it is possible to establish a carbon label and a carbon tax for foods. With our initiative <a href="http://ayce.earth/">AYCE</a> we created an NGO with the focus on open source, open data, open campaigning and hence also a non-commercial platform for calculating and publishing the environmental impact of All You Can Eat.
       </p>
     </div>
     <div class="col-xs-12 col-sm-4 xs-push-top">
