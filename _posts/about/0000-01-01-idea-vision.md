@@ -353,7 +353,7 @@ permalink: /about/
     <div class="col-xs-12 col-sm-4">
       <h3>2021</h3>
       <p>
-        We are delighted to see society shifting towards a more sustainable food future and decided to reach into politics: that is to show everyone that it is possible to establish a carbon label and a carbon tax for foods. With our initiative <a href="http://ayce.earth/">AYCE</a> we created an NGO with the focus on open source, open data, open campaigning and hence also a non-commercial platform for calculating and publishing the environmental impact of All You Can Eat (AYCE).
+        We are delighted to see society shifting towards a more sustainable food future and decided to reach into politics: that is to show everyone that it is possible to establish a carbon label and a carbon tax for foods. With our initiative <a href="http://ayce.earth/">AYCE</a> we created an NGO with the focus on open source, open data, open campaigning and hence also a non-commercial platform for calculating and publishing the environmental impact of All You Can Eat (AYCE). A proper foundation governments can work with.
       </p>
     </div>
     <div class="col-xs-12 col-sm-4 xs-push-top">
