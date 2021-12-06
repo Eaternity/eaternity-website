@@ -56,7 +56,7 @@ permalink: /app/
     <div class="col-xs-offset-4 col-xs-4 col-sm-offset-1 col-sm-2 xs-push-top">
       <div class="row">
           <img class="responsive" src="/img/at-a-glance/eaternity-icon.svg">
-          <h1 style="font-size:80px;margin-top:0px;margin-bottom:0px;line-height: 100px;">Gastro</h1>
+          <h1 style="font-size:80px;margin-top:0px;margin-bottom:0px;line-height: 100px; text-align: center;">Eaternity Gastro</h1>
       </div>
     </div>
   </div>
