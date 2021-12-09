@@ -257,7 +257,7 @@ permalink: /about/
 
 <div class="row text-center small-push-bottom">
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/mschnyder.jpg">
       <h3>Maria Schnyder</h3>
@@ -279,19 +279,18 @@ permalink: /about/
     </div>
   </div>
 
-<!-- 
+
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/cwenzl.jpg">
-      <h3>Christina Wenzl</h3>
+      <img class="responsive round" src="/img/idea-vision/mprobst.jpg">
+      <h3>Michelle Probst</h3>
 
-      <p>Business Development & Team Lead</p>
+      <p>Business Development & Executive Assistant</p>
             <p>
-        <a href="mailto:cwenzl@eaternity.org">cwenzl@eaternity.org</a><br />
+        <a href="mailto:mprobst@eaternity.org">mprobst@eaternity.org</a><br />
       </p>
       </div>
     </div>
- -->
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
