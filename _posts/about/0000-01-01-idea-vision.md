@@ -287,6 +287,7 @@ permalink: /about/
 
       <p>Business Development & Executive Assistant</p>
             <p>
+            +41 77 474 59 90<br />
         <a href="mailto:mprobst@eaternity.org">mprobst@eaternity.org</a><br />
       </p>
       </div>
