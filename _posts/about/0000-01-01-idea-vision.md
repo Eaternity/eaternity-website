@@ -230,11 +230,10 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/smetzner.jpg">
-      <h3>Stella Metzner</h3>
+      <img class="responsive round" src="/img/idea-vision/pbentheimer.jpg">
+      <h3>Patrick Bentheimer</h3>
       <p>Business Development & Executive Assistant</p>
-      <p>+41 77 506 16 17<br />
-        <a href="mailto:smetzner@eaternity.org">smetzner@eaternity.org</a><br />
+        <a href="mailto:pbentheimer@eaternity.org">pbentheimer@eaternity.org</a><br />
       </p>
 
       </div>
