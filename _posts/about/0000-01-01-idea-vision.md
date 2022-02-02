@@ -232,8 +232,8 @@ permalink: /about/
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/pbentheimer.jpg">
       <h3>Patrick Bentheimer</h3>
-      <p>Business Development & Executive Assistant</p>
-        <a href="mailto:pbentheimer@eaternity.org">pbentheimer@eaternity.org</a><br />
+      <p>Business Development & Executive Assistant
+      <a href="mailto:pbentheimer@eaternity.org">pbentheimer@eaternity.org</a><br />
       </p>
 
       </div>
