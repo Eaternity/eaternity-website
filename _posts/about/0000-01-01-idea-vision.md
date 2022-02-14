@@ -232,7 +232,8 @@ permalink: /about/
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/pbentheimer.jpg">
       <h3>Patrick Bentheimer</h3>
-      <p>Business Development & Executive Assistant
+      <p>Business Development & Executive Assistant</p>
+      <p> +41 77 512 95 73<br />
       <a href="mailto:pbentheimer@eaternity.org">pbentheimer@eaternity.org</a><br />
       </p>
 
@@ -261,9 +262,8 @@ permalink: /about/
       <img class="responsive round" src="/img/idea-vision/mschnyder.jpg">
       <h3>Maria Schnyder</h3>
 
-      <p>Business Development & Executive Assistant</p>
+      <p>LCA System Analyst</p>
             <p>
-            +41 77 512 95 73‬<br />
         <a href="mailto:mschnyder@eaternity.org">mschnyder@eaternity.org</a><br />
       </p>
       </div>
@@ -301,6 +301,36 @@ permalink: /about/
       </p>
       </div>
     </div>
+
+</div>
+
+<div class="row text-center small-push-bottom">
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-3 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
+        <h3>Job Offer</h3>
+        <p>Software Engineer</p>
+        <p>
+          <a href="/assets/20220214_Job_Offer_Software_Engineer_at_Eaternity.pdf">Download</a><br />
+        </p>
+      </div>
+    </div>
+
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/mprobst.jpg">
+      <h3>Renata Magallon</h3>
+
+      <p>Business Development & Executive Assistant</p>
+            <p>
+        <a href="mailto:rmagallon@eaternity.org">rmagallon@eaternity.org</a><br />
+      </p>
+      </div>
+    </div>
+
+
 
 </div>
 
