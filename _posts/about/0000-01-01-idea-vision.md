@@ -147,7 +147,6 @@ permalink: /about/
     </div> -->
 
 </div>
-<div id="job-offer"></div>
 <div class="row text-center small-push-bottom small-push-top" >
 
     <!-- <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
@@ -303,6 +302,8 @@ permalink: /about/
     </div>
 
 </div>
+
+<div id="job-offer"></div>
 
 <div class="row text-center small-push-bottom">
 
