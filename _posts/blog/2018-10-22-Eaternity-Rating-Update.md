@@ -64,8 +64,8 @@ We include the following nutrients, respective to their recommended daily amount
 Given a CO₂ value of 85g CO₂ / 100g - now we have 137 g CO₂/Food-Unit. This currently scores better than 74% of all our products.
 
 
-EDIT: Update, you can find the latest definition for climate frienfly meals and there rating (here)][3].
+EDIT: Update, you can find the latest definition for climate frienfly meals and there rating [(here)][3].
 
 [1]: https://www.dge.de/wissenschaft/referenzwerte/
 [2]: https://academic.oup.com/ajcn/article/91/4/1095S/4597206
-[3]: https://github.com/Eaternity/eaternity-website/wiki/FoodUnit-Documentation-(for-rating-CO₂-and-Water)
+[3]: https://github.com/Eaternity/eaternity-website/wiki/Daily-Requirement-Unit-(DRU)-Documentation-(for-rating-CO2-and-Water)
