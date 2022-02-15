@@ -61,7 +61,7 @@ We include the following nutrients, respective to their recommended daily amount
 100g whole-grain cereals contains 10g proteins, 7g fats, 1434 KJ, 16g water - 84g dry-weight. Hence the food-unit is:
 10/50 + 7/66 + (1434 - 17 x 10 - 37 x 7)/6000 + 16/2500 + 84 /600 = 0.62
 
-Given a CO₂ value of 85g CO₂ / 100g - now we have 137 g CO₂/Food-Unit. This currently scores better than 74% of all our products.
+Given a CO₂ value of 85g CO₂ / 100g - now we have 137 g CO₂/Food-Unit. This currently scores better than 82.5% of all our products.
 
 
 EDIT: Update, you can find the latest definition for climate frienfly meals and there rating [(here)][3].
