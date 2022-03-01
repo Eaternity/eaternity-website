@@ -20,7 +20,7 @@ permalink: /about/
         <a href="/about/partners"><li>Partners</li></a>
         <a href="/about/media"><li>Media</li></a>
         <a href="/blog"><li>Blog</li></a>
-        <a href="/about/#job-offer"><li><i class="fa fa-angle-right fa-lg"></i> Job Offer <i class="fa fa-angle-left fa-lg"></i></li></a>
+        <a href="/about/#job-offer"><li><i class="fa fa-angle-right fa-lg"></i> Job Offers <i class="fa fa-angle-left fa-lg"></i></li></a>
         <a href="/contact"><li>Contact</li></a>
       </ul>
     </div>
@@ -280,16 +280,17 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/mprobst.jpg">
-      <h3>Michelle Probst</h3>
+      <img class="responsive round" src="/img/idea-vision/rmagallon.jpg">
+      <h3>Renata Magallon</h3>
 
       <p>Business Development & Executive Assistant</p>
             <p>
             +41 77 474 59 90<br />
-        <a href="mailto:mprobst@eaternity.org">mprobst@eaternity.org</a><br />
+        <a href="mailto:rmagallon@eaternity.org">rmagallon@eaternity.org</a><br />
       </p>
       </div>
     </div>
+
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
@@ -318,18 +319,18 @@ permalink: /about/
       </div>
     </div>
 
-
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/rmagallon.jpg">
-      <h3>Renata Magallon</h3>
-
-      <p>Business Development & Executive Assistant</p>
-            <p>
-        <a href="mailto:rmagallon@eaternity.org">rmagallon@eaternity.org</a><br />
-      </p>
+        <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
+        <h3>Job Offer</h3>
+        <p>Life Cycle Analyst</p>
+        <p>
+          <a href="/assets/2022-02-28-Job-Offer-Life-Cycle-Analyst.pdf">Download</a><br />
+        </p>
       </div>
     </div>
+
+
 
 
 

@@ -53,7 +53,7 @@ categories: meals
 
     		<p>We are a group of enthusiasts working in gastronomy. Regularly we get together to share ideas and solutions for more sustainable restaurants.</p>
 
-  			<p>The power to change comes by gathering our energies towards a common goal. With our knowledge we empower ourselves and the restaurants community to tackle the link between food and climate. Snd to communicate our goal to a larger public</p>
+  			<p>The power to change comes by gathering our energies towards a common goal. With our knowledge we empower ourselves and the restaurants community to tackle the link between food and climate. And to communicate our goal to a larger public</p>
 
     		<p>We know it. Change can be perceived as difficult, especially by professionals and business owners. However, we believe in the power of pioneers. With exceptional delicious meals and the superb experiences, we can win over everyone for the cause. With every climate friendly meal, we will start a small food movement contributing to preserve our carbon budget and limit climate change.</p>
 
@@ -61,7 +61,7 @@ categories: meals
 
   			<p>Climate change is happening, and the food sector is responsible for 1/3 of the emissions of CO₂. Tackling climate change via our food choices is key to protect our environment.</p>
   			<p>In parallel, customers and restaurants are more and more sensitive to health and sustainability of meals, as shown by the strong development of ethical eating. Without yet any real solutions for food service professionals provided so far.</p>
-  			<p>Eaternity was founded as a NGO with the objective of tackling climate change, from the perspective of the emissions of CO₂ linked to food production.After 8 years of development, Eaternity now provides restaurants with the tools to develop sustainable and healthy food.</p>
+  			<p>Eaternity was founded as a NGO with the objective of tackling climate change, from the perspective of the emissions of CO₂ linked to food production. After 12 years of development, Eaternity now provides restaurants with the tools to develop sustainable and healthy food.</p>
 
     		<h3>Meet-Ups</h3>
     			<p>We meet regularly, around a workshop in the office of Eaternity at Siewerdtstrasse 95, 8050 Zürich.</p>
