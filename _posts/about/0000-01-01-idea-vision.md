@@ -231,8 +231,8 @@ permalink: /about/
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/pbentheimer.jpg">
       <h3>Patrick Bentheimer</h3>
-      <p>Business Development & Executive Assistant</p>
-      <p> +41 77 512 95 73<br />
+      <p>LCA System Analyst</p>
+      <p>
       <a href="mailto:pbentheimer@eaternity.org">pbentheimer@eaternity.org</a><br />
       </p>
 
@@ -271,8 +271,8 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
     <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/dbaumann.jpg">
-      <h3>Daniela Baumann</h3>
+      <img class="responsive round" src="/img/idea-vision/ddo.jpg">
+      <h3>Duyen Do</h3>
       <p>LCA Expert & Key Accounts</p>
     </div>
   </div>
@@ -306,7 +306,7 @@ permalink: /about/
 
 <div id="job-offer"></div>
 
-<div class="row text-center small-push-bottom">
+<!-- <div class="row text-center small-push-bottom">
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-3 col-sm-3 xs-push-top">
       <div class="teamTeaser">
@@ -335,7 +335,7 @@ permalink: /about/
 
 
 </div>
-
+ -->
 
 
 <div class="row text-center big-push-bottom">
