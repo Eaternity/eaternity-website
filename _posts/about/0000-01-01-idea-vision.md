@@ -353,7 +353,7 @@ permalink: /about/
 
 </div>
 
-  <div class="row small-push-bottom">
+  <div class="row small-push-bottom" id="history">
     <div class="col-xs-12 text-center">
       <h1>How it all started</h1>
     </div>
