@@ -306,15 +306,36 @@ permalink: /about/
 
 <div id="job-offer"></div>
 
-<!-- <div class="row text-center small-push-bottom">
+<div class="row text-center small-push-bottom">
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-3 col-sm-3 xs-push-top">
+  <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/cschwald.jpg">
+      <h3>Carole Schwald</h3>
+      <p>LCA System Analyst</p>
+      </p>
+      </div>
+    </div>
+
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/fcampell.jpg">
+      <h3>Fadri Campell</h3>
+      <p>LCA System Analyst</p>
+      <p>
+      </p>
+      </div>
+    </div>
+
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
         <h3>Job Offer</h3>
         <p>Software Engineer</p>
         <p>
-          <a href="/assets/20220214_Job_Offer_Software_Engineer_at_Eaternity.pdf">Download</a><br />
+          <a href="/assets/2022-05-24_Job_Offer_Python_Developer_at_Eaternity.pdf">Download</a><br />
         </p>
       </div>
     </div>
@@ -334,8 +355,9 @@ permalink: /about/
 
 
 
+
 </div>
- -->
+ 
 
 
 <div class="row text-center big-push-bottom">
