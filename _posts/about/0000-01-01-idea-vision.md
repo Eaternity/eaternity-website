@@ -313,7 +313,6 @@ permalink: /about/
       <img class="responsive round" src="/img/idea-vision/cschwald.jpg">
       <h3>Carole Schwald</h3>
       <p>LCA System Analyst</p>
-      </p>
       </div>
     </div>
 
@@ -323,8 +322,6 @@ permalink: /about/
       <img class="responsive round" src="/img/idea-vision/fcampell.jpg">
       <h3>Fadri Campell</h3>
       <p>LCA System Analyst</p>
-      <p>
-      </p>
       </div>
     </div>
 
