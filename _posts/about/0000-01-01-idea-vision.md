@@ -256,7 +256,7 @@ permalink: /about/
 
 <div class="row text-center small-push-bottom">
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/mschnyder.jpg">
       <h3>Maria Schnyder</h3>
@@ -269,14 +269,14 @@ permalink: /about/
     </div>
 
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+<!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
     <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/ddo.jpg">
       <h3>Duyen Do</h3>
       <p>LCA Expert & Key Accounts</p>
     </div>
   </div>
-
+ -->
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
