@@ -343,7 +343,7 @@ permalink: /about/
         <h3>Job Offer</h3>
         <p>Life Cycle Analyst</p>
         <p>
-          <a href="/assets/2022-02-28-Job-Offer-Life-Cycle-Analyst.pdf">Download</a><br />
+          <a href="/assets/2022-06-16-Job-Offer-Life-Cycle-Analyst.pdf">Download</a><br />
         </p>
       </div>
     </div>
