@@ -7,28 +7,16 @@ published: true
 author: Manuel Klarmann
 
 title: Poster Usage
-subtitle: Eaternity 🎄Crowdfunding – More awareness for our nutrition!
+subtitle: 3 steps to make our food poster work
 
 
-blog-image: 2021-01-31-compare.png
-image: 2021-01-31-compare.png
+blog-image: 2021-08-12-Food-Poster-Mockup-wide.jpg
+image: 2021-08-12-Food-Poster-Mockup-wide.jpg
 tags:
   - press
   - planet
 ---
 
-
-
----
-title: Poster Usage
-image: /assets/images/Food-Poster-Mockup-wide.jpg
-author: Eaternity
-categories: 
-    - partners
-layout: post
-lang: en
-ref: poster
----
 
 
 ## Why is it important to know the CO₂ emissions from food?
