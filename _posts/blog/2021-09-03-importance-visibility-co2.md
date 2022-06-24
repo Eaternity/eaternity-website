@@ -1,4 +1,3 @@
-
 ---
 layout: blog-post
 category: blog
