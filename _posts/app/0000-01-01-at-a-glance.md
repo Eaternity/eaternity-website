@@ -2940,7 +2940,7 @@ categories: app
     									€
     								</div>
     								<div id="DIV_41">
-    									99
+    									159
     								</div>
     								<div id="DIV_42">
     									<div id="DIV_43">
