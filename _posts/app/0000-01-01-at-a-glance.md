@@ -2989,7 +2989,7 @@ categories: app
     									€
     								</div>
     								<div id="DIV_68">
-    									169
+    									189
     								</div>
     								<div id="DIV_69">
     									<div id="DIV_70">
