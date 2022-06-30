@@ -1568,7 +1568,7 @@ categories: app
     min-height: auto;
     min-width: auto;
     text-decoration: none solid rgb(61, 69, 77);
-    width: 77px;
+    width: 105px;
     column-rule-color: rgb(61, 69, 77);
     perspective-origin: 38.5px 42.5px;
     transform-origin: 38.5px 42.5px;
