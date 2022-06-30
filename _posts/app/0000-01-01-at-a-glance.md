@@ -3030,7 +3030,7 @@ categories: app
     			*A team / unit license is<br id="BR_89" />limited to 500 guests / day<br id="BR_90" />(2 licenses = 1000 guests / day, etc.).<br id="BR_91" />**Per license we can add up to 15 new individual ingredients for you each month.<br id="BR_92" />***All features as in the PROFESSIONAL plan.
     		</div>
     		<div id="DIV_94">
-    			3-year contract for € 4999.
+    			3-year contract for € 5999.
     		</div>
     		<div id="DIV_96">
     		</div>
