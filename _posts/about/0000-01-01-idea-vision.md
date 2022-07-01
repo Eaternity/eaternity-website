@@ -323,7 +323,7 @@ permalink: /about/
         <h3>Job Offer</h3>
         <p>Buchhaltung & Assistenz der Geschäftsleitung</p>
         <p>
-          <a href="/assets/2022-07-05-Stelle-Buchhaltung-Assistenz-Geschäftsleitung">Download</a><br />
+          <a href="/assets/2022-07-05-Stelle-Buchhaltung-Assistenz-Geschäftsleitung.pdf">Download</a><br />
         </p>
       </div>
     </div>
