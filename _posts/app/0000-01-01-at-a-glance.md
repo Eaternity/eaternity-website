@@ -3154,7 +3154,35 @@ display: none;
       <img class="responsive" src="/img/partners/Sodexo.svg">
     </div>
   </div>
+  <div class="row push-bottom md-verticalAlign">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center">
+      <img class="responsive" src="/img/partners/gastro/STO-Logo-Signet">
+    </div>
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center xs-push-top">
+      <img class="responsive" src="/img/partners/gastro/L&D.svg">
+    </div>
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center xs-push-top">
+      <img class="responsive" src="/img/partners/aramark.svg">
+    </div>
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center xs-push-top">
+      <img class="responsive" src="/img/partners/klueh.png">
+    </div>
+  </div>
 
+  <div class="row push-bottom md-verticalAlign">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center">
+      <img class="responsive" src="/img/partners/dwnew.jpg">
+    </div>
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center xs-push-top">
+      <img class="responsive" src="/img/partners/gastro/9794439e_ac8b_49b7_a47b_85b505d65dce.jpg">
+    </div>
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center xs-push-top">
+      <img class="responsive" src="/img/partners/Swiss_Re_2013_logo.svg">
+    </div>
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center xs-push-top">
+      <img class="responsive" src="/img/partners/FWG.svg">
+    </div>
+  </div>
 
   <div class="row push-bottom">
     <div class="col-xs-12 text-center">
