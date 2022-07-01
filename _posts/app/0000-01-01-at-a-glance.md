@@ -3156,7 +3156,7 @@ display: none;
   </div>
   <div class="row push-bottom md-verticalAlign">
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center">
-      <img class="responsive" src="/img/partners/gastro/STO-Logo-Signet">
+      <img class="responsive" src="/img/partners/gastro/STO-Logo-Signet.svg">
     </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 text-center xs-push-top">
       <img class="responsive" src="/img/partners/gastro/L&D.svg">
