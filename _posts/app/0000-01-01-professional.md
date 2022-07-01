@@ -75,15 +75,15 @@ display: none;
   <div class="col-xs-12 col-sm-offset-3 col-sm-6 text-center">
     <p>Download product specifications:</p>
     <div class="button-download-2">
-        <a style="margin-top:0px;" href="/assets/product-info/2019-11-05-Eaternity_ProductSpecs.pdf" class="button large">
+        <a style="margin-top:0px;" href="/assets/product-info/2022-06-30-Eaternity_ProductSpecs-EN.pdf" class="button large">
           Eaternity Gastro ProductSpecs (EN)<i class="fa fa-angle-right fa-lg"></i></a><br /><br />
-        <a style="margin-top:0px;" href="/assets/product-info/2020-03-22-Eaternity_ProductSpecsDE.pdf" class="">
+        <a style="margin-top:0px;" href="/assets/product-info/2022-06-30-Eaternity_ProductSpecs-DE.pdf" class="">
             Eaternity Gastro ProductSpecs (DE)</a>
     </div>
     <div class="button-download-1">
-        <a style="margin-top:0px;" href="/assets/product-info/2020-03-22-Eaternity_ProductSpecsDE.pdf" class="button large">
+        <a style="margin-top:0px;" href="/assets/product-info/2022-06-30-Eaternity_ProductSpecs-DE.pdf" class="button large">
           Eaternity Gastro ProductSpecs (DE)<i class="fa fa-angle-right fa-lg"></i></a><br /><br />
-        <a style="margin-top:0px;" href="/assets/product-info/2019-11-05-Eaternity_ProductSpecs.pdf" class="">
+        <a style="margin-top:0px;" href="/assets/product-info/2022-06-30-Eaternity_ProductSpecs-EN.pdf" class="">
             Eaternity Gastro ProductSpecs (EN)</a>
     </div>
   </div>
