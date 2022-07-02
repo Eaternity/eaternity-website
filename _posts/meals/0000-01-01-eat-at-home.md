@@ -122,7 +122,7 @@ permalink: /meals/
     <div class="col-xs-12 col-sm-5">
       <div>
         <h1>Eaternity Climate Award</h1>
-        <p>Meals (or products) are granted climate-friendly status if they are better then most meals being served (currently 76'034 in our database). A climate friendly meal has at least <span class="semiBold">50% LESS CO₂</span> emissions then the average meal.</p>
+        <p>Meals (or products) are granted climate-friendly status if they are better then most meals being served (currently 76'034 in our database). A climate friendly meal has at least <span class="semiBold">50% LESS CO₂</span> emissions then the average meal. The average meal is defined as 1/3 of your daily requirement.</p>
 				<p>Check our <a href="/blog/data-updates">latest update on the data</a> for more details</p>.
          <a class="button" href="https://github.com/Eaternity/eaternity-website/wiki/FoodUnit-Documentation-(for-rating-CO%E2%82%82-and-Water)">Documentation of the calculations<i class="fa fa-angle-right fa-lg"></i></a>
         
