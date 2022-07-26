@@ -339,14 +339,16 @@ permalink: /about/
       </div>
     </div>
 
-      <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
-        <h3>Job Offer</h3>
-        <p>Life Cycle Analyst</p>
-        <p>
-          <a href="/assets/2022-06-16-Job-Offer-Life-Cycle-Analyst.pdf">Download</a><br />
-        </p>
+      <img class="responsive round" src="/img/idea-vision/vtheresia.jpg">
+      <h3>Vania Theresia</h3>
+
+      <p>Business Development & Executive Assistant</p>
+            <p>
+            +41 77 512 95 73<br />
+        <a href="mailto:vtheresia@eaternity.org">vtheresia@eaternity.org</a><br />
+      </p>
       </div>
     </div>
 
