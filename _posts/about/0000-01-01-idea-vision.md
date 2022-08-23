@@ -280,13 +280,12 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/rmagallon.jpg">
-      <h3>Renata Magallon</h3>
+      <img class="responsive round" src="/img/idea-vision/cstecher.jpg">
+      <h3>Carmen Stecher</h3>
 
-      <p>Business Development & Executive Assistant</p>
+      <p>LCA Consultant</p>
             <p>
-            +41 77 474 59 90<br />
-        <a href="mailto:rmagallon@eaternity.org">rmagallon@eaternity.org</a><br />
+        <a href="mailto:cstecher@eaternity.org">cstecher@eaternity.org</a><br />
       </p>
       </div>
     </div>
