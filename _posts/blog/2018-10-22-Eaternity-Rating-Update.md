@@ -53,19 +53,18 @@ We include the following nutrients, respective to their recommended daily amount
 | g water / 2500 g                   |
 | g (weight - "minus" water) / 600 g |
 | ---                                |
-
+divided by 5
 <br />
 
 <h4>Example</h4>
 
-100g whole-grain cereals contains 10g proteins, 7g fats, 1434 KJ, 16g water - 84g dry-weight. Hence the food-unit is:
-10/50 + 7/66 + (1434 - 17 x 10 - 37 x 7)/6000 + 16/2500 + 84 /600 = 0.62
+Example 100g whole-grain cereals contains 10g proteins, 7g fats, 1434 KJ, 16g water - 84g dry-weight. Hence the DFU is: (10/50 + 7/66 + (1434 - 17 x 10 - 37 x 7)/6000 + 16/2500 + 84 /600) / 5 = 0.124
 
-Given a CO₂ value of 85g CO₂ / 100g - now we have 137 g CO₂/Food-Unit. This currently scores better than 82.5% of all our products.
+Given a CO₂ value of 85g CO₂ / 100g - now we have 685 g CO₂/DFU. This currently scores 91.2% better than the [Average food consumption used for comparisons](https://www.notion.so/Average-food-consumption-used-for-comparisons-9e32e6b2ca7e4076b99b27dc53be53a7).
 
 
 EDIT: Update, you can find the latest definition for climate frienfly meals and there rating [(here)][3].
 
 [1]: https://www.dge.de/wissenschaft/referenzwerte/
 [2]: https://academic.oup.com/ajcn/article/91/4/1095S/4597206
-[3]: https://github.com/Eaternity/eaternity-website/wiki/Daily-Requirement-Unit-(DRU)-Documentation-(for-rating-CO2-and-Water)
+[3]: https://www.notion.so/eaternity/Daily-Food-Unit-DFU-for-rating-CO2-and-Water-516ee9fedad24853b7deac329bd93d4d
