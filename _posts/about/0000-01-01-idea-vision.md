@@ -85,7 +85,7 @@ permalink: /about/
 
 <div  class="row text-center">
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-3 xs-push-top xs-push-bottom">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-3 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/mklarmann.jpg">
         <h3>Manuel Klarmann</h3>
@@ -252,7 +252,6 @@ permalink: /about/
 
 </div>
 
-rrichardet.jpg
 
 <div class="row text-center small-push-bottom">
 
