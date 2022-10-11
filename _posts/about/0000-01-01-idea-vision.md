@@ -85,7 +85,7 @@ permalink: /about/
 
 <div  class="row text-center">
 
-    <div class="col-xs-offset-1 col-xs-8 col-sm-offset-1 col-sm-3 xs-push-top xs-push-bottom">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/mklarmann.jpg">
         <h3>Manuel Klarmann</h3>
@@ -112,7 +112,7 @@ permalink: /about/
     </div>
 
 
-
+<!-- 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/ffroborg.jpg">
@@ -123,7 +123,7 @@ permalink: /about/
       </p>
 
       </div>
-    </div>
+    </div> -->
 
 <!--
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
@@ -252,7 +252,7 @@ permalink: /about/
 
 </div>
 
-
+rrichardet.jpg
 
 <div class="row text-center small-push-bottom">
 
@@ -269,14 +269,17 @@ permalink: /about/
     </div>
 
 
-<!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-    <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/ddo.jpg">
-      <h3>Duyen Do</h3>
-      <p>LCA Expert & Key Accounts</p>
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/dromeo.jpg">
+        <h3>Daina Romeo, PhD</h3>
+        <p>Senior LCA Expert</p>
+        <p>
+        <a href="mailto:dromeo@eaternity.org">dromeo@eaternity.org</a><br />
+      </p>
+      </div>
     </div>
-  </div>
- -->
+
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
@@ -294,7 +297,7 @@ permalink: /about/
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/hfinger.jpg">
-      <h3>Holger Finger</h3>
+      <h3>Holger Finger, PhD</h3>
       <p>Senior Software Engineer</p>
       <p>
       </p>
@@ -316,7 +319,7 @@ permalink: /about/
     </div>
 
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+<!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
         <h3>Job Offer</h3>
@@ -324,6 +327,15 @@ permalink: /about/
         <p>
           <a href="/assets/2022-07-05-Stelle-Buchhaltung-Assistenz-Geschaeftsleitung.pdf">Download</a><br />
         </p>
+      </div>
+    </div> -->
+
+    
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/rrichardet.jpg">
+        <h3>Renaud Richardet, PhD</h3>
+        <p>Senior Software Engineer</p>
       </div>
     </div>
 
