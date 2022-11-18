@@ -305,7 +305,7 @@ permalink: /about/
 
 </div>
 
-<div id="job-offer"></div>
+
 
 <div class="row text-center small-push-bottom">
 
@@ -317,17 +317,6 @@ permalink: /about/
       </div>
     </div>
 
-
-<!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
-        <h3>Job Offer</h3>
-        <p>Buchhaltung & Assistenz der Geschäftsleitung</p>
-        <p>
-          <a href="/assets/2022-07-05-Stelle-Buchhaltung-Assistenz-Geschaeftsleitung.pdf">Download</a><br />
-        </p>
-      </div>
-    </div> -->
 
     
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
@@ -365,10 +354,25 @@ permalink: /about/
 
 
 
-
-
 </div>
  
+<div id="job-offer"></div>
+
+<div class="row text-center small-push-bottom">
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
+        <h3>Job Offer</h3>
+        <p>Operatives Management und Assistenz der Geschäftsleitung</p>
+        <p>
+          <a href="/assets/2022-11-18-Stelle-Eaternity-Operations.pdf">Download</a><br />
+        </p>
+      </div>
+    </div>
+
+
+ </div>
 
 
 <div class="row text-center big-push-bottom">
