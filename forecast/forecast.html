@@ -1,0 +1,799 @@
+---
+layout: default
+permalink: /forecast.html
+---
+
+<body class="body">
+  <div class="hero wf-section">
+    <div class="mycontainer w-container">
+      <div class="hero-title-block">
+        <div class="titles">
+          <h2 class="h2">Eaternity Forecast</h2>
+          <h1 class="h1">Menu sales forecasting for restaurants.</h1>
+        </div>
+        <div class="img-left"><img src="forecast/images/hero-left.png" loading="lazy"
+            srcset="forecast/images/hero-left-p-500.png 500w, forecast/images/hero-left.png 710w"
+            sizes="(max-width: 991px) 100vw, 710px" alt="" class="image-3"></div>
+        <div class="deg-left"></div>
+        <div class="img-right"><img src="forecast/images/hero-right.png" loading="lazy"
+            srcset="forecast/images/hero-right-p-500.png 500w, forecast/images/hero-right.png 709w"
+            sizes="(max-width: 709px) 100vw, 709px" alt="" class="image-2"></div>
+        <div class="deg-right"></div>
+        <div class="container-dishes">
+          <div class="container-dish-1"><img src="forecast/images/dish-1.png" loading="lazy" alt=""
+              class="dishes dish-1">
+          </div>
+          <div class="container-dish-2"><img src="forecast/images/dish-2.png" loading="lazy" alt=""
+              class="dishes dish-2">
+          </div>
+          <div class="container-dish-3"><img src="forecast/images/dish-3.png" loading="lazy" alt=""
+              class="dishes dish-3">
+          </div>
+          <div class="container-dish-4"><img src="forecast/images/dish-4.png" loading="lazy" alt=""
+              class="dishes dish-4">
+            <div class="container-trash"><img src="forecast/images/trash.png" loading="lazy"
+                sizes="(max-width: 479px) 100vw, (max-width: 767px) 58vw, (max-width: 991px) 63vw, 52vw"
+                srcset="forecast/images/trash-p-500.png 500w, forecast/images/trash.png 750w" alt="" class="image">
+            </div>
+          </div>
+          <div class="container-dish-5"><img src="forecast/images/dish-5.png" loading="lazy" alt=""
+              class="dishes dish-5">
+          </div>
+        </div>
+      </div>
+      <div class="hero-text-block">
+        <h4 class="sub-title">FACT</h4>
+        <div class="h1 title-left">1/5 of all menus produced is lost as <span class="text-span">food waste</span> due
+          to overproduction.</div>
+      </div>
+    </div>
+  </div>
+  <div class="calculator-section wf-section">
+    <div class="mycontainer overflow-h w-container">
+      <div class="overestimation">
+        <div class="overestimation-text">
+          <div class="h3">Menu planning is of key importance for a successful foodservice operation. <span
+              class="text-span-2">Inefficient menu planning results in</span></div>
+        </div>
+        <div class="overestimation-content">
+          <div class="overestimation-left"><img src="forecast/images/wooden-crate.png" loading="lazy"
+              srcset="forecast/images/wooden-crate-p-500.png 500w, forecast/images/wooden-crate.png 700w"
+              sizes="(max-width: 479px) 100vw, (max-width: 767px) 84vw, (max-width: 991px) 48vw, 500px" alt=""
+              class="wooden-crate"><img src="forecast/images/vegetable.png" loading="lazy"
+              srcset="forecast/images/vegetable-p-500.png 500w, forecast/images/vegetable.png 700w"
+              sizes="(max-width: 479px) 100vw, (max-width: 767px) 84vw, (max-width: 991px) 48vw, 500px" alt=""
+              class="vegetable"></div>
+          <div class="overestimation-right">
+            <div data-delay="4000" data-animation="cross" class="slider w-slider" data-autoplay="false"
+              data-easing="ease" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0"
+              data-nav-spacing="3" data-duration="500" data-infinite="true">
+              <div class="div-block-7 w-slider-mask">
+                <div class="slide w-slide">
+                  <div class="os-text-1">
+                    <h2 class="os-h2">Overestimation.</h2>
+                    <div class="os-subtitle">Food Waste</div>
+                    <div class="os-txt">Leads to ecological and economic loss.</div>
+                  </div>
+                </div>
+                <div class="w-slide">
+                  <div class="os-text-2">
+                    <h2 class="os-h2">Underestimation.</h2>
+                    <div class="os-subtitle">Sold Out</div>
+                    <div class="os-txt">Leads to unsatisfied customers<br>and loss of potential turnover.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="left-arrow w-slider-arrow-left">
+                <div class="circle-btn inative"><img src="forecast/images/up-green.svg" loading="lazy" alt="">
+                </div>
+              </div>
+              <div class="right-arrow w-slider-arrow-right">
+                <div class="circle-btn active"><img src="forecast/images/down-white.svg" loading="lazy" alt="">
+                </div>
+              </div>
+              <div class="slide-nav w-slider-nav w-round"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="how-much">
+        <div class="gradiente-left"></div>
+        <div class="gradiente-right"></div>
+        <h1 class="h1 h1-dark">How much is 1/5?</h1>
+        <div class="text-block-2">If your restaurant is serving <span contenteditable="true"
+            class="calc-value menus">80</span> menus a day, is open <span contenteditable="true"
+            class="calc-value weeks">51</span> weeks a year and is spending <span contenteditable="true"
+            class="calc-value euros">5</span> € per kg of food purchase</div>
+        <div class="w-embed w-script">
+          <script>
+            let vegetableToggle = function () {
+              if (document.querySelector('.vegetable').style.opacity == '')
+                document.querySelector('.vegetable').style.opacity = 0;
+              else if (document.querySelector('.vegetable').style.opacity == 1)
+                document.querySelector('.vegetable').style.opacity = 0;
+              else if (document.querySelector('.vegetable').style.opacity == 0)
+                document.querySelector('.vegetable').style.opacity = 1;
+            }
+            document.querySelector('.left-arrow .circle-btn').addEventListener('click', vegetableToggle, false);
+            document.querySelector('.right-arrow .circle-btn').addEventListener('click', vegetableToggle, false);
+            let calculator = function () {
+              let menus = document.querySelector('.menus');
+              let weeks = document.querySelector('.weeks');
+              let euros = document.querySelector('.euros');
+              if (menus.innerHTML.length > 3 || menus.innerHTML.match(/[^0-9]/g))
+                menus.innerHTML = menus.innerHTML.replace(/[^0-9]/g, '').substr(0, 3);
+              if (weeks.innerHTML.length > 3 || weeks.innerHTML.match(/[^0-9]/g))
+                weeks.innerHTML = weeks.innerHTML.replace(/[^0-9]/g, '').substr(0, 3);
+              if (euros.innerHTML.length > 3 || euros.innerHTML.match(/[^0-9]/g))
+                euros.innerHTML = euros.innerHTML.replace(/[^0-9]/g, '').substr(0, 3);
+              let fixedPart = parseInt(menus.innerHTML) * parseInt(weeks.innerHTML) * 0.2 * 0.45 * 5;
+              let eurosSave = Math.round(fixedPart * parseInt(euros.innerHTML));
+              let co2 = Math.round(fixedPart * 2487.8766);
+              let water = Math.round(fixedPart * 58.497684);
+              let width = document.documentElement.clientWidth
+              eurosSave = isNaN(eurosSave) ? 0 : eurosSave;
+              co2 = isNaN(co2) ? 0 : eurosSave;
+              water = isNaN(water) ? 0 : eurosSave;
+              if (width < 793) {
+                let milhao = 1000000;
+                let mil = 1000;
+                if (eurosSave > milhao) {
+                  eurosSave = '≈ ' + (eurosSave / milhao).toFixed(2).toString().replace(".", ",") + 'M';
+                } else if (eurosSave > mil) {
+                  eurosSave = '≈ ' + (eurosSave / mil).toFixed(2).toString().replace(".", ",") + 'K';
+                } else {
+                  eurosSave = eurosSave.toLocaleString('pt-BR');
+                }
+                if (co2 > milhao) {
+                  co2 = '≈ ' + (co2 / milhao).toFixed(2).toString().replace(".", ",") + 'M';
+                } else if (co2 > mil) {
+                  co2 = '≈ ' + (co2 / mil).toFixed(2).toString().replace(".", ",") + 'K';
+                } else {
+                  co2 = co2.toLocaleString('pt-BR');
+                }
+                if (water > milhao) {
+                  water = '≈ ' + (water / milhao).toFixed(2).toString().replace(".", ",") + 'M';
+                } else if (water > mil) {
+                  water = '≈ ' + (water / mil).toFixed(2).toString().replace(".", ",") + 'K';
+                } else {
+                  water = water.toLocaleString('pt-BR');
+                }
+              }
+              document.querySelector('.euros-save').innerHTML = eurosSave.toLocaleString('pt-BR');
+              document.querySelector('.co2').innerHTML = co2.toLocaleString('pt-BR');
+              document.querySelector('.water').innerHTML = water.toLocaleString('pt-BR');
+            };
+            let inputs = document.querySelectorAll('.calc-value');
+            inputs[0].addEventListener("input", calculator, false);
+            inputs[1].addEventListener("input", calculator, false);
+            inputs[2].addEventListener("input", calculator, false);
+            window.onresize = function () {
+              calculator();
+            }
+            window.onload = function () {
+              calculator();
+            }
+          </script>
+        </div>
+        <div class="div-block-34">
+          <div class="columns-2 w-row">
+            <div class="column-4 w-col w-col-4">
+              <div class="card-result">
+                <div class="card-tag"><img src="forecast/images/tag-euro.png" loading="lazy" alt="" class="image-5">
+                </div>
+                <div class="card-text"><span class="text-h4">You’ll save, each year</span> <span
+                    class="card-inner-result euros-save">9.180</span> €<br>Euros</div>
+              </div>
+            </div>
+            <div class="column-5 w-col w-col-4">
+              <div class="card-result">
+                <div class="card-tag"><img src="forecast/images/card-co2.png" loading="lazy" alt="" class="image-5">
+                </div>
+                <div class="card-text"><span class="text-h4">You’ll save, each year</span> <span
+                    class="card-inner-result co2">4.567.741</span><br>KgCO<span class="text-sub"><sub>2</sub></span>
+                </div>
+              </div>
+            </div>
+            <div class="column-6 w-col w-col-4">
+              <div class="card-result">
+                <div class="card-tag"><img src="forecast/images/card-h2o.png" loading="lazy" alt="" class="image-5">
+                </div>
+                <div class="card-text"><span class="text-h4">You’ll save, each year</span> <span
+                    class="card-inner-result water">107.402</span><br>Liters H<span
+                    class="text-sub"><sub>2</sub></span>O</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a href="#" class="link-block open-form w-inline-block">
+          <div class="text-block-3">Start Saving Now</div>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="ai-section wf-section">
+    <div class="mycontainer">
+      <div class="ia-content">
+        <div class="text-block-11">Solution</div>
+        <div class="text-block-12">We share with you the tool to execute<br>the most efficient way to plan menus
+          that<br>create less food waste and increase turnover.</div>
+        <h1 class="h1 ia-h1">The AI for super<br>human chefs,<br><span class="text-span-3">Eaternity Forecast.</span>
+        </h1>
+        <div class="div-block-11"></div>
+      </div>
+    </div>
+  </div>
+  <div class="how-can-ia-help wf-section">
+    <div class="mycontainer">
+      <div class="div-block-20"></div>
+      <div class="div-block-21"></div>
+      <div class="how-can-ia-help-inner">
+        <h2 class="heading-2">How can AI for super human chefs help you?</h2>
+        <div class="w-layout-grid ai-grid">
+          <div id="w-node-_6789a2b3-8530-6094-43c8-ffa7801e54f1-1e146db7" class="div-block-35">
+            <h3 class="heading-3">Prediction<br>Performance.</h3>
+            <div class="text-block-14">You can&#x27;t predict anything perfectly, however together with our Eaternity
+              forecast you can reduce prediction errors from 29 to 23 menus.</div>
+            <div class="text-block-15">The typical prediction error for most cases is between 20 and 25. Whereas for
+              humans, the comparison is between 20 and 33.</div>
+          </div>
+          <div id="w-node-ebe75d87-69da-68d2-58fc-df1611ef7332-1e146db7" class="div-block-12 g1">
+            <div class="div-block-13"></div>
+            <div class="div-block-15">
+              <div class="text-block-19">Human</div>
+              <div class="div-block-14">
+                <div class="text-block-16">29 Menus</div>
+              </div>
+              <div class="text-block-20">Eaternity Forecast</div>
+              <div class="div-block-16">
+                <div class="div-block-18">
+                  <div class="text-block-17">23 Menus</div>
+                </div>
+                <div class="div-block-17">
+                  <div class="div-block-19"><img src="forecast/images/better.png" loading="lazy" alt=""></div>
+                  <div class="text-block-18">22% Better!</div>
+                </div>
+              </div>
+              <div class="text-block-21">Prediction Performance</div>
+            </div>
+          </div>
+          <div class="div-block-12">
+            <div class="div-block-13"></div>
+            <div class="div-block-15">
+              <div class="text-block-19">Average Performance</div>
+              <div class="div-block-14">
+                <div class="text-block-16">22%</div>
+              </div>
+              <div class="text-block-20">Best Case Performance</div>
+              <div class="div-block-16">
+                <div class="div-block-18">
+                  <div class="text-block-17">34% (10 Menus)</div>
+                </div>
+              </div>
+              <div class="text-block-22">Potential for Improvement (%)</div>
+            </div>
+          </div>
+          <div class="div-block-36">
+            <h3 class="heading-3">You might hit<br>a jackpot.</h3>
+            <div class="text-block-14">You can&#x27;t predict anything perfectly, however together with our Eaternity
+              forecast you can reduce prediction errors from 29 to 23 menus.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="artificial-neural-networks wf-section">
+    <div class="mycontainer">
+      <div class="artificial-n-n-inner">
+        <div class="ai-n-n-matrix">
+          <div class="matrix-line"></div>
+          <div class="matrix-line"></div>
+          <div class="matrix-line"></div>
+          <div class="matrix-line"></div>
+          <div class="matrix-line"></div>
+        </div>
+        <div class="ai-n-n-gradient"></div>
+        <div class="ai-n-n-content">
+          <h4 class="heading-4">how it works</h4>
+          <h2 class="heading-5">Artificial Neural Networks.</h2>
+          <div class="text-block-24">Through sophisticated modeling of purchase behaviors and the personal choices
+            preferences of your guests, we train an artificial neural networks on historic recipe and sales data that
+            are statistically super human.</div>
+          <div class="text-block-25">They are better in predicting your ingredient purchases and menu selection for
+            the coming days, than a human does.</div>
+          <div class="ai-n-n-green-card">
+            <div class="green-card-gradient g-c-g-left"></div>
+            <div class="green-card-gradient"></div>
+            <div class="green-card-column">
+              <div class="text-block-26"><span class="text-span-4">They are fascinating piece of software technology,
+                  that is modeled after the human brain.</span> You feed it with historic information of the problem
+                together with the solution. And task it to be able to find the solution on its own, when presented
+                with new problems of the same kind.</div>
+            </div>
+            <div class="green-card-column">
+              <div class="text-block-27">For example we provide many recipes as well as how popular they were in the
+                restaurant. After the training the network is able to predict the popularity of recipes that it did
+                not know before.</div>
+            </div>
+            <div class="green-card-column">
+              <div class="text-block-28">The challenge in designing a neural network is to classify the right problems
+                to solve. And tune the networks parameters precisely so that this generalization works well.</div>
+            </div>
+          </div>
+          <div class="div-block-22">
+            <div class="div-block-23">
+              <div class="text-block-31">The artificial neural network is capable to remember millions of menus and
+                their characteristic properties to <span class="text-span-5">calculate on the fly</span></div>
+            </div>
+            <div class="div-block-24">
+              <div class="ann-card ann-card1">
+                <div class="div-block-25"><img src="forecast/images/menu.png" loading="lazy" alt=""></div>
+                <div class="text-block-29">General popularity of a menu</div>
+              </div>
+              <div class="ann-card ann-card2">
+                <div class="div-block-25 card2"><img src="forecast/images/distribution-menu.png" loading="lazy" alt="">
+                </div>
+                <div class="text-block-29">Distribution of menu choices within one day</div>
+              </div>
+              <div class="ann-card ann-card3">
+                <div class="div-block-25 card3"><img src="forecast/images/menu-sales.png" loading="lazy" alt="">
+                </div>
+                <div class="text-block-29">Total menu sales per restaurant</div>
+              </div>
+              <div class="ann-card ann-card4">
+                <div class="div-block-25 card4"><img src="forecast/images/sun.png" loading="lazy" alt=""></div>
+                <div class="text-block-29">Environmental effects (weather, holidays, ...)</div>
+              </div>
+            </div>
+          </div>
+          <h2 class="heading-6">Combining all information<br>into a forecast.</h2>
+          <div class="combining-information">
+            <div class="combining-information-item">
+              <div class="cii-l"><img src="forecast/images/calendar.png" loading="lazy" alt=""></div>
+              <div class="cii-r">
+                <div class="text-block-32">Total sales per day.</div>
+                <div class="text-block-33">Including confidence interval with 90% accuracy.</div>
+              </div>
+            </div>
+            <div class="combining-information-item">
+              <div class="cii-l"><img src="forecast/images/menu-sales.png" loading="lazy" alt=""></div>
+              <div class="cii-r">
+                <div class="text-block-32">Sales per menu.</div>
+                <div class="text-block-33">Including confidence interval with 90%.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="div-block-26"><img src="forecast/images/platform.png" loading="lazy"
+            srcset="forecast/images/platform-p-500.png 500w, forecast/images/platform-p-800.png 800w, forecast/images/platform-p-1080.png 1080w, forecast/images/platform.png 1440w"
+            sizes="(max-width: 1440px) 100vw, 1440px" alt="" class="image-6"><img
+            src="forecast/images/platform-single.png" loading="lazy"
+            srcset="forecast/images/platform-single-p-500.png 500w, forecast/images/platform-single-p-800.png 800w, forecast/images/platform-single-p-1080.png 1080w, forecast/images/platform-single.png 1170w"
+            sizes="100vw" alt="" class="image-9"></div>
+      </div>
+    </div>
+  </div>
+  <div class="road-map wf-section">
+    <div class="mycontainer">
+      <div class="roadmap-inner">
+        <h1 class="heading-7">Roadmap.</h1>
+        <div class="text-block-35">We do understand that it might not be the best fit for every restaurant right now.
+          Hence we provide you some sneak peak into what we would love to collaborate with you on, to make the
+          algorithm even better.</div>
+      </div>
+    </div>
+    <div class="roadmap-card-swiper">
+      <div class="swiper-controler">
+        <div class="vertical-controler">
+          <div class="circle-btn inative btn-prev"><img src="forecast/images/left.png" loading="lazy" alt="">
+          </div>
+          <div class="circle-btn active gradiente-h btn-next"><img src="forecast/images/right.png" loading="lazy"
+              width="16" alt="" class="image-7"></div>
+        </div>
+      </div>
+      <div total-items="7" active-index="1" class="swiper">
+        <div class="swiper-wrapper">
+          <div order="1" index="1" class="swiper-slide">
+            <div class="si-header">
+              <div class="text-block-37">Orbisk</div>
+              <a href="http://orbisk.com" class="link-block-5 w-inline-block">
+                <div class="div-block-27">
+                  <div class="text-block-36">view website</div>
+                  <div class="div-block-28"><img src="forecast/images/link.png" loading="lazy" alt=""></div>
+                </div>
+              </a>
+            </div>
+            <div>
+              <div class="text-block-38">Food waste management integration - Fully automated food waste measurements
+                using AI image recognition. Capture your food waste seamlessly, objectively and completely to reduce it
+                based on the insights gained. In combination with prediction, this results in the unique opportunity to
+                close the food loop for the first time, i.e. both systems balance each other and allow to reduce losses
+                to the absolute minimum.</div>
+            </div>
+          </div>
+          <div order="3" index="3" class="swiper-slide">
+            <div class="si-header">
+              <div class="text-block-37">POS</div>
+            </div>
+            <div>
+              <div class="text-block-38">Integration with your sales data directly from the cash register system.</div>
+            </div>
+          </div>
+          <div order="2" index="2" class="swiper-slide">
+            <div class="si-header">
+              <div class="text-block-37">Recipe Suggestions</div>
+            </div>
+            <div>
+              <div class="text-block-38">You will get insights what menu has the best ratio of margin and sales. Also we
+                will be able to recommend, what ingredient will work best to improve the recipes performance.</div>
+            </div>
+          </div>
+          <div order="4" index="4" class="swiper-slide">
+            <div class="si-header">
+              <div class="text-block-37">Optimisation towards margins</div>
+            </div>
+            <div>
+              <div class="text-block-38">Weighting the profit margins(purchase vs. selling price)</div>
+            </div>
+          </div>
+          <div order="5" index="5" class="swiper-slide">
+            <div class="si-header">
+              <div class="text-block-37">Measurement of the costs</div>
+            </div>
+            <div>
+              <div class="text-block-38">Costs of loss of good throughusage of pricing data (e.g. of delivery menus or
+                sold menus): helps you figure out how much money is lost through food-waste.</div>
+            </div>
+          </div>
+          <div order="6" index="6" class="swiper-slide">
+            <div class="si-header">
+              <div class="text-block-37">Event-Feedback interactions</div>
+            </div>
+            <div>
+              <div class="text-block-38">You can enter manually information on holidays, events, etc.<br>You can
+                manually mark sold out menus. This helps the algorithm to learn.</div>
+            </div>
+          </div>
+          <div order="7" index="7" class="swiper-slide">
+            <div class="si-center">
+              <div class="text-block-39">Would you like to suggest<br>a new feature?</div>
+              <a href="#" class="link-block-3 open-form w-inline-block">
+                <div class="text-block-40">Talk with us</div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-indicator"></div>
+      </div>
+    </div>
+    <div class="mycontainer">
+      <div class="pilot-version">
+        <div class="w-embed w-script">
+          <script>
+          </script>
+        </div>
+        <div class="text-block-41">Pilot Version Requirements</div>
+        <div class="div-block-29">
+          <div class="polit-version-item">
+            <div class="pv-l"><img src="forecast/images/bars.png" loading="lazy" alt=""></div>
+            <div class="pv-r">
+              <div class="pv-r-txt">Proper collection of actual sales numbers: at best directly through connecting
+                your Point of Sales system with your Food Management System. But also possible through manual
+                registration.</div>
+            </div>
+          </div>
+          <div class="polit-version-item">
+            <div class="pv-l"><img src="forecast/images/team.png" loading="lazy" alt=""></div>
+            <div class="pv-r">
+              <div class="pv-r-txt">A team, that is willing to work alongside with the algorithm.</div>
+            </div>
+          </div>
+          <div class="polit-version-item">
+            <div class="pv-l"><img src="forecast/images/check-list.png" loading="lazy" alt=""></div>
+            <div class="pv-r">
+              <div class="pv-r-txt">(Optional) Historic planning and sales data to evaluate the performance of the
+                algorithm before you start using it.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="mycontainer">
+      <div class="forecast-integrates">
+        <div class="text-block-43">Integrations</div>
+        <h1 class="heading-8">Eaternity Forecast integrates seamlessly with the Software you already use.</h1>
+        <div class="text-block-44">Eaternity Forecast is a Feature that you can use by selecting one of these Software
+          Partners</div>
+        <div class="div-block-30">
+          <div class="forecast-card">
+            <div class="forecast-card-header">
+              <div class="div-block-31"><img src="forecast/images/necta.png" loading="lazy" alt=""></div>
+            </div>
+            <div class="forecast-card-body">
+              <div class="text-block-45">Necta</div>
+              <div class="text-block-46">Necta is a great software for ...lorem ipsum dolor sit amet, consectetur
+                adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+            </div>
+            <div class="forecast-card-footer">
+              <a href="https://www.necta-group.com" target="_blank" class="link-block-4 w-inline-block">
+                <div class="text-block-47">Get Started</div>
+                <div class="div-block-32"><img src="forecast/images/link.png" loading="lazy" alt=""></div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="pricing-performace wf-section">
+    <div class="mycontainer">
+      <h1 class="h1 pricing-h1">Pricing and Performance.</h1>
+      <div class="w-layout-grid grid">
+        <div id="w-node-ac45cb47-fe30-ff9a-b864-bb272ce89c14-1e146db7" class="table-header">
+          <div class="text-block-4">Starter<br>€169</div>
+          <div class="text-block-6">Restaurant &amp; Month</div>
+          <div class="text-block-5">(restaurants with up to 500 servings/ day and or procurement costs &lt; EUR
+            250K/year)</div>
+        </div>
+        <div id="w-node-be24e0b9-9e66-af94-82ca-97ab482cc90e-1e146db7" class="table-col-1">
+          <div class="text-block-7">Basic menu Sales Forecasting</div>
+          <div class="list-item">
+            <div class="list-bullet"><img src="forecast/images/check.svg" loading="lazy" alt=""></div>
+            <div class="list-text">
+              <div class="text-block-8">Total sales</div>
+            </div>
+          </div>
+          <div class="list-item">
+            <div class="list-bullet"><img src="forecast/images/check.svg" loading="lazy" alt=""></div>
+            <div class="list-text">
+              <div class="text-block-8">Sales per menu</div>
+            </div>
+          </div>
+          <div class="list-item">
+            <div class="list-bullet"><img src="forecast/images/check.svg" loading="lazy" alt=""></div>
+            <div class="list-text">
+              <div class="text-block-8">A minimum and maximal number of forecasted menus (90% confidence interval)
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="w-node-_63a2703c-6160-d760-865d-ea3ee680ced6-1e146db7" class="table-col-2">
+          <div class="text-block-7">Your Benefits</div>
+          <div class="list-item">
+            <div class="list-bullet"><img src="forecast/images/check.svg" loading="lazy" alt=""></div>
+            <div class="list-text">
+              <div class="text-block-8">More financial bottomline through less food-waste. Save on average 30’000€ on
+                food</div>
+            </div>
+          </div>
+          <div class="list-item">
+            <div class="list-bullet"><img src="forecast/images/check.svg" loading="lazy" alt=""></div>
+            <div class="list-text">
+              <div class="text-block-8">Happier Guests, as you will be able serve more of what your guests want</div>
+            </div>
+          </div>
+          <div class="list-item">
+            <div class="list-bullet"><img src="forecast/images/check.svg" loading="lazy" alt=""></div>
+            <div class="list-text">
+              <div class="text-block-8">Leading edge innovation as a story</div>
+            </div>
+          </div>
+          <div class="list-item">
+            <div class="list-bullet"><img src="forecast/images/check.svg" loading="lazy" alt=""></div>
+            <div class="list-text">
+              <div class="text-block-8">Feel Good. You are doing something great for the environment (less CO2-
+                emissions, water) and for the people (ethical aspect of food-waste).</div>
+            </div>
+          </div>
+          <div class="list-item">
+            <div class="list-bullet"><img src="forecast/images/check.svg" loading="lazy" alt=""></div>
+            <div class="list-text">
+              <div class="text-block-8">Future features as they become available</div>
+            </div>
+          </div>
+        </div>
+        <div id="w-node-_4a05f0c7-f165-1606-6440-c3d41f8afb5e-1e146db7" class="table-footer">
+          <div class="text-block-7">This is a limited pilot offer</div>
+          <div class="list-item">
+            <div class="list-bullet"><img src="forecast/images/check.svg" loading="lazy" alt=""></div>
+            <div class="list-text">
+              <div class="text-block-8">For the first 100 restaurants  (at product launch).</div>
+            </div>
+          </div>
+          <div class="list-item">
+            <div class="list-bullet"><img src="forecast/images/check.svg" loading="lazy" alt=""></div>
+            <div class="list-text">
+              <div class="text-block-8">For the first 100 restaurants  (at product launch).</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="div-block-33">
+        <div class="start-now">
+          <div class="div-block-9"></div>
+          <div class="div-block-10"></div>
+          <div class="text-block-9">Improve your menu planning Results</div>
+          <div class="h1">Start working with us now.</div>
+          <a href="#" class="link-block-2 open-form w-inline-block">
+            <div class="text-block-10">Contact Us</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="div-block-38 form">
+    <div class="div-block-39">
+      <div class="container-2 close-form w-container"><img src="forecast/images/close.png" loading="lazy" alt="">
+      </div>
+      <div class="div-block-40">
+        <h1 class="heading-9">Start working with us</h1>
+        <div class="text-block-48">We care about your opinion. Please leave a note or just say hello</div>
+      </div>
+      <div class="div-block-41">
+        <div class="w-embed w-script">
+          <script charset="utf-8" type="text/javascript" src="https://js.hsforms.net/forms/embed/v2.js"></script>
+          <script>
+            hbspt.forms.create({
+              region: "na1",
+              portalId: "3448730",
+              formId: "454339e9-f7c2-4b49-8d21-61fc39eff69d"
+            });
+          </script>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="w-embed w-script">
+    <script>
+      let openForm = function () {
+        document.querySelector('.form').style.display = 'flex';
+      }
+      let closeForm = function () {
+        document.querySelector('.form').style.display = 'none';
+      }
+      document.querySelectorAll('.open-form').forEach((el) => {
+        el.addEventListener('click', openForm, false);
+      })
+
+      // document.querySelector('.link-block').addEventListener('click', openForm, false);
+      document.querySelector('.close-form').addEventListener('click', closeForm, false);
+    </script>
+    <style>
+      .bgBlue {
+        background-color: #094922;
+        font-size: 18px;
+        font-weight: 300;
+        font-family: "Source Sans Pro", sans-serif;
+        line-height: 26px;
+      }
+
+      .bgDarkBlue {
+        background-color: #083118;
+        font-weight: 300;
+        font-family: "Source Sans Pro", sans-serif;
+        font-size: 18px;
+        line-height: 26px;
+      }
+
+      .bgDarkBlue button {
+        border: 2px solid #46cc00;
+      }
+
+      .bgDarkBlue ul {
+        margin: 0;
+        padding: 0;
+      }
+
+      .swiper {
+        padding: 20px 30px 30px 30px !important;
+      }
+
+      .swiper-pagination-bullet {
+        width: 25px;
+        height: 25px;
+        border: 1px solid transparent;
+        background-color: transparent;
+        display: flex;
+        justify-content: center;
+      }
+
+      .swiper-pagination-bullet:not(.swiper-pagination-bullet-active)::after {
+        border-radius: 100%;
+        content: "";
+        width: 6px;
+        height: 6px;
+        background-color: #083118;
+        align-self: center;
+      }
+
+      .swiper-pagination-bullet-active {
+        border: 1px solid #46cc00;
+      }
+
+      .swiper-pagination-bullet-active::after {
+        border-radius: 100%;
+        content: "";
+        width: 9px;
+        height: 9px;
+        background-color: #46cc00;
+        align-self: center;
+      }
+
+      @media only screen and (min-width: 1301px) {
+        .hero-title-block {
+          height: calc(100vh - 120px);
+        }
+      }
+
+      @media only screen and (max-width: 1300px) and (min-width: 992px) {
+        .hero-title-block {
+          height: unset;
+        }
+
+        .titles {
+          height: calc(100vh - 300px);
+          padding-top: calc(50vh - 150px);
+        }
+
+        .container-dishes {
+          position: static;
+        }
+
+        .container-dish-3 {
+          order: 4;
+        }
+
+        .container-dish-5 {
+          order: 5;
+        }
+
+        .dishes.dish-1 {
+          top: 210px;
+        }
+
+        .dishes.dish-2 {
+          top: 100px;
+        }
+
+        .dishes.dish-3 {
+          top: 80px;
+        }
+
+        .dishes.dish-4 {
+          top: 190px;
+        }
+
+        .dishes.dish-5 {
+          top: 225px;
+        }
+
+        .hero-text-block {
+          display: flex;
+          justify-content: center;
+          margin-top: unset;
+          padding-left: unset;
+        }
+      }
+    </style>
+  </div>
+  <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=63725d3a20f9713b2663dee5"
+    type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+    crossorigin="anonymous"></script>
+  <script src="forecast/js/webflow.js" type="text/javascript"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+  <script>
+    var swiper = new Swiper(".swiper", {
+      slidesPerView: "auto",
+      spaceBetween: 30,
+      loop: true,
+      navigation: {
+        nextEl: ".btn-next",
+        prevEl: ".btn-prev",
+      },
+      pagination: {
+        el: ".swiper-indicator",
+        clickable: true,
+      },
+    });
+  </script>
+</body>
