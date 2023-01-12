@@ -220,10 +220,13 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/fcampell.jpg">
-      <h3>Fadri Campell</h3>
-      <p>LCA System Analyst</p>
-      </div>
+      <img class="responsive round" src="/img/idea-vision/trechsteiner.jpg">
+      <h3>Tibor Rechsteiner</h3>
+       <p>Business Development & Executive Assistant</p>
+            <p>
+            +41 77 512 95 73<br />
+        <a href="mailto:trechsteiner@eaternity.org">trechsteiner@eaternity.org</a><br />
+      </p>      </div>
     </div>
 
 
@@ -309,7 +312,7 @@ permalink: /about/
 
 <div class="row text-center small-push-bottom">
 
-  <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+  <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/cschwald.jpg">
       <h3>Carole Schwald</h3>
@@ -338,7 +341,7 @@ permalink: /about/
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+<!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/vtheresia.jpg">
       <h3>Vania Theresia</h3>
@@ -349,7 +352,7 @@ permalink: /about/
         <a href="mailto:vtheresia@eaternity.org">vtheresia@eaternity.org</a><br />
       </p>
       </div>
-    </div>
+    </div> -->
 
 
 
@@ -360,6 +363,27 @@ permalink: /about/
 
 <div class="row text-center small-push-bottom">
 
+
+  <div class="col-xs-offset-2 col-xs-8 col-sm-offset-2 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/akuhn.jpg">
+      <h3>Anna Kuhn</h3>
+      <p>LCA System Analyst</p>
+            <p>
+        <a href="mailto:akuhn@eaternity.org">akuhn@eaternity.org</a><br />
+      </p>
+      </div>
+    </div>
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/nulrich.jpg">
+        <h3>Niels Ulrich</h3>
+        <p>LCA System Analyst<</p>
+        <p>
+        <a href="mailto:nulrich@eaternity.org">nulrich@eaternity.org</a><br />
+      </p>
+      </div>
+    </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
@@ -370,6 +394,8 @@ permalink: /about/
         </p>
       </div>
     </div>
+
+
 
 
  </div>
