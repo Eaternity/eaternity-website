@@ -126,10 +126,10 @@ permalink: /forecast.html
                 weeks.innerHTML = weeks.innerHTML.replace(/[^0-9]/g, '').substr(0, 3);
               if (euros.innerHTML.length > 3 || euros.innerHTML.match(/[^0-9]/g))
                 euros.innerHTML = euros.innerHTML.replace(/[^0-9]/g, '').substr(0, 3);
-              let fixedPart = parseInt(menus.innerHTML) * parseInt(weeks.innerHTML) * 0.2 * 0.45 * 5;
+              let fixedPart =  0.2 * parseInt(menus.innerHTML) * 0.45 * parseInt(weeks.innerHTML) * 5;
               let eurosSave = Math.round(fixedPart * parseInt(euros.innerHTML));
-              let co2 = Math.round(fixedPart * 2.4878766);
-              let water = Math.round(fixedPart * 58.497684);
+              let co2 = Math.round(fixedPart * 3894  * 0.6389);
+              let water = Math.round(fixedPart *  91.56  * 0.6389);
               let width = document.documentElement.clientWidth
               eurosSave = isNaN(eurosSave) ? 0 : eurosSave;
               co2 = isNaN(co2) ? 0 : co2;
