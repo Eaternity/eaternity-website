@@ -1473,6 +1473,24 @@
   background-color: #083118;
 }
 
+.div-block-14-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 67%;
+  height: 40px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: #083118;
+}
+
 .div-block-15 {
   width: 100%;
 }
