@@ -1555,6 +1555,23 @@
   background-image: linear-gradient(90deg, #00cc56, #0edfae);
 }
 
+.div-block-18-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 40px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-image: -webkit-gradient(linear, left top, right top, from(#00cc56), to(#0edfae));
+  background-image: linear-gradient(90deg, #00cc56, #0edfae);
+}
+
 .text-block-17 {
   padding-left: 25px;
   font-family: Poppins, sans-serif;
