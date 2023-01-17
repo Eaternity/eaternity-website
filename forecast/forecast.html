@@ -128,7 +128,7 @@ permalink: /forecast.html
                 euros.innerHTML = euros.innerHTML.replace(/[^0-9]/g, '').substr(0, 3);
               let fixedPart = parseInt(menus.innerHTML) * parseInt(weeks.innerHTML) * 0.2 * 0.45 * 5;
               let eurosSave = Math.round(fixedPart * parseInt(euros.innerHTML));
-              let co2 = Math.round(fixedPart * 2487.8766);
+              let co2 = Math.round(fixedPart * 2.4878766);
               let water = Math.round(fixedPart * 58.497684);
               let width = document.documentElement.clientWidth
               eurosSave = isNaN(eurosSave) ? 0 : eurosSave;
