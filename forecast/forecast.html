@@ -101,8 +101,8 @@ permalink: /forecast.html
         <div class="gradiente-right"></div>
         <h1 class="h1 h1-dark">How much is 1/5?</h1>
         <div class="text-block-2">If your restaurant is serving <span contenteditable="true"
-            class="calc-value menus">80</span> menus a day, is open <span contenteditable="true"
-            class="calc-value weeks">51</span> weeks a year and is spending <span contenteditable="true"
+            class="calc-value menus">80</span> menus (450 g) a day, is open <span contenteditable="true"
+            class="calc-value weeks">51</span> weeks (7 days) a year and is spending <span contenteditable="true"
             class="calc-value euros">5</span> € per kg of food purchase</div>
         <div class="w-embed w-script">
           <script>
@@ -126,7 +126,7 @@ permalink: /forecast.html
                 weeks.innerHTML = weeks.innerHTML.replace(/[^0-9]/g, '').substr(0, 3);
               if (euros.innerHTML.length > 3 || euros.innerHTML.match(/[^0-9]/g))
                 euros.innerHTML = euros.innerHTML.replace(/[^0-9]/g, '').substr(0, 3);
-              let fixedPart =  0.2 * parseInt(menus.innerHTML) * 0.45 * parseInt(weeks.innerHTML) * 5;
+              let fixedPart =  0.2 * parseInt(menus.innerHTML) * 0.45 * parseInt(weeks.innerHTML) * 7;
               let eurosSave = Math.round(fixedPart * parseInt(euros.innerHTML));
               let co2 = Math.round(fixedPart * 3.894  * 0.6389);
               let water = Math.round(fixedPart *  91.56  * 0.6389);
