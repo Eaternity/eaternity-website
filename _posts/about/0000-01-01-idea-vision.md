@@ -384,7 +384,7 @@ permalink: /about/
       </p>
       </div>
     </div>
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+<!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
         <h3>Job Offer</h3>
@@ -394,7 +394,7 @@ permalink: /about/
         </p>
       </div>
     </div>
-
+ -->
 
 
 
