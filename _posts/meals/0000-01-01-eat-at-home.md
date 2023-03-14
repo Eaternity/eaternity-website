@@ -155,7 +155,7 @@ permalink: /meals/
       <a href="">
         <div class="roundTeaser">
           <img class="responsive" src="/img/eat-at-home/meal-1.jpg" />
-          <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
+          <!-- <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span> -->
         </div>
       </a>
       <p>Rustic nutty red wine sauce with tagliatelle and Jerusalem artichoke</p>
@@ -164,7 +164,7 @@ permalink: /meals/
       <a href="">
         <div class="roundTeaser">
           <img class="responsive" src="/img/eat-at-home/meal-2.jpg" />
-          <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
+          <!-- <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span> -->
         </div>
       </a>
       <p>Spinach lentil lasagne with pear and hazelnuts</p>
@@ -173,7 +173,7 @@ permalink: /meals/
       <a href="">
         <div class="roundTeaser">
           <img class="responsive" src="/img/eat-at-home/meal-3.jpg" />
-          <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
+          <!-- <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span> -->
         </div>
       </A>
       <p>Aromatic pistachio pesto</p>
@@ -183,7 +183,7 @@ permalink: /meals/
       <a href="">
         <div class="roundTeaser">
           <img class="responsive" src="/img/eat-at-home/meal-4.jpg" />
-          <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span>
+          <!-- <span class="button">Go to the recipe <i class="fa fa-angle-right fa-lg"></i></span> -->
         </div>
       </a>
       <p>The Carrot Garden</p>
