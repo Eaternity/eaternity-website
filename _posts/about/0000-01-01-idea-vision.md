@@ -377,7 +377,7 @@ permalink: /about/
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/nulrich.jpg">
         <h3>Niels Ulrich</h3>
-        <p>LCA System Analyst<</p>
+        <p>LCA System Analyst</p>
         <p>
         <a href="mailto:nulrich@eaternity.org">nulrich@eaternity.org</a><br />
       </p>
