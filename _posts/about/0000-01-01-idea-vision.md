@@ -163,9 +163,9 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
        <div class="teamTeaser">
-         <img class="responsive round" src="/img/idea-vision/pwinkler.jpg">
-            <h3>Philip Winkler</h3>
-             <p>Software Operations Engineer</p>
+         <img class="responsive round" src="/img/idea-vision/nkrischker.jpg">
+            <h3>Nadine Krischker</h3>
+             <p>LCA System Analyst</p>
          <!-- <p>
            <a href="/assets/2021-01-05_Job_Offer_Software_Operation_at_Eaternity.pdf">Download</a><br />
          </p> -->
@@ -334,7 +334,7 @@ permalink: /about/
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/aglon.jpg">
         <h3>Alexei Glon</h3>
-        <p>Senior Software Engineer</p>
+        <p>Software Engineer</p>
        <!--  <p>
           <a href="/assets/2023-03-28_Job_Offer_Python_Developer_at_Eaternity.pdf">Download</a><br />
         </p> -->
@@ -353,6 +353,17 @@ permalink: /about/
       </div>
     </div>
 
+ <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/mkeel.jpg">
+      <h3>Seonghoon Choi</h3>
+
+      <p>Software Engineer</p>
+            <p>
+        <!-- <a href="mailto:mkeel@eaternity.org">mkeel@eaternity.org</a><br /> -->
+      </p>
+      </div>
+    </div>
 
 
 
@@ -380,6 +391,27 @@ permalink: /about/
         <p>LCA System Analyst</p>
         <p>
         <a href="mailto:nulrich@eaternity.org">nulrich@eaternity.org</a><br />
+      </p>
+      </div>
+    </div>
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/mkefeder.jpg">
+        <h3>Michael Kefeder</h3>
+        <p>Senior Software Engineer</p>
+        <p>
+        <!-- <a href="mailto:nulrich@eaternity.org">nulrich@eaternity.org</a><br /> -->
+      </p>
+      </div>
+    </div>
+
+        <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/yschubert.jpg">
+        <h3>Yannick Schubert</h3>
+        <p>Software Engineer</p>
+        <p>
+        <!-- <a href="mailto:nulrich@eaternity.org">nulrich@eaternity.org</a><br /> -->
       </p>
       </div>
     </div>
