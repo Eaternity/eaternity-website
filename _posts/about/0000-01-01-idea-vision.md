@@ -355,7 +355,7 @@ permalink: /about/
 
  <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/mkeel.jpg">
+      <img class="responsive round" src="/img/idea-vision/schoi.jpg">
       <h3>Seonghoon Choi</h3>
 
       <p>Software Engineer</p>
