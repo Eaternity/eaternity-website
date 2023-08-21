@@ -3028,7 +3028,7 @@ categories: app
     			<a href="mailto:license@eaternity.ch" id="A_86">Write us</a> if you need support to afford a personal license.
     		</div>
     		<div id="DIV_88">
-    			*A team / unit license is<br id="BR_89" />limited to 500 guests / day<br id="BR_90" />(2 licenses = 1000 guests / day, etc.).<br id="BR_91" />**Per license we can add up to 15 new individual ingredients (SKUs) for you each month. While 500 SKUs are included for the initial setup.<br/>Additional SKUs beyond what is covered with your licenses are charged once with 6 € per item in packages of 500.<br id="BR_92" />***All features as in the PROFESSIONAL plan.
+    			*A team / unit license is<br id="BR_89" />limited to 500 guests / day<br id="BR_90" />(2 licenses = 1000 guests / day, etc.).<br id="BR_91" />**Per license we can add up to 15 new individual ingredients (SKUs) for you each month. While 500 SKUs are included for the initial setup.<br/>Additional SKUs beyond what is covered with your licenses are charged once with 6 € per item in packages of 500.<br id="BR_92" />***All features as in the PROFESSIONAL plan. <br />The price does not contain value added tax.
     		</div>
     		<div id="DIV_94">
     			3-year contract for € 5999.
