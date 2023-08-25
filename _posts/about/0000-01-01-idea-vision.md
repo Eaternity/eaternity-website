@@ -85,7 +85,7 @@ permalink: /about/
 
 <div  class="row text-center">
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-3 col-sm-3 xs-push-top xs-push-bottom">
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/mklarmann.jpg">
         <h3>Manuel Klarmann</h3>
@@ -107,6 +107,18 @@ permalink: /about/
           +41 77 44 656 77<br />
           <a href="mailto:jellens@eaternity.org">jellens@eaternity.org</a><br />
           <a href="https://twitter.com/judeithellens">@JudithEllens</a>
+        </p>
+      </div>
+    </div>
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top push-bottom">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/ezueger.jpg">
+        <h3>Erich Züger</h3>
+        <p>Head of Operations</p>
+        <p>
+            +41 77 512 95 73<br /><br />
+          <a href="mailto:ezueger@eaternity.org">ezueger@eaternity.org</a>
         </p>
       </div>
     </div>
@@ -220,12 +232,12 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/ezueger.jpg">
-      <h3>Erich Züger</h3>
-       <p>Business Development & Executive</p>
+      <img class="responsive round" src="/img/idea-vision/jloetscher.jpg">
+      <h3>Jasmine Lötscher</h3>
+       <p>Executive Assitant</p>
             <p>
-            +41 77 512 95 73<br />
-        <a href="mailto:ezueger@eaternity.org">ezueger@eaternity.org</a><br />
+            <br />
+        <a href="mailto:jloetscher@eaternity.org">jloetscher@eaternity.org</a><br />
       </p>      </div>
     </div>
 
