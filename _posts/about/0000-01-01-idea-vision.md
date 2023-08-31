@@ -248,7 +248,7 @@ permalink: /about/
       <h3>Patrick Bentheimer</h3>
       <p>LCA System Analyst</p>
       <p>
-      <a href="mailto:pbentheimer@eaternity.org">pbentheimer@eaternity.org</a><br />
+      <!-- <a href="mailto:pbentheimer@eaternity.org">pbentheimer@eaternity.org</a><br /> -->
       </p>
 
       </div>
@@ -277,7 +277,7 @@ permalink: /about/
 
       <p>LCA System Analyst</p>
             <p>
-        <a href="mailto:mschnyder@eaternity.org">mschnyder@eaternity.org</a><br />
+        <!-- <a href="mailto:mschnyder@eaternity.org">mschnyder@eaternity.org</a><br /> -->
       </p>
       </div>
     </div>
@@ -390,7 +390,7 @@ permalink: /about/
       <h3>Anna Kuhn</h3>
       <p>LCA System Analyst</p>
             <p>
-        <a href="mailto:akuhn@eaternity.org">akuhn@eaternity.org</a><br />
+        <!-- <a href="mailto:akuhn@eaternity.org">akuhn@eaternity.org</a><br /> -->
       </p>
       </div>
     </div>
@@ -463,7 +463,7 @@ permalink: /about/
       <h3>Jonas Amacher</h3>
       <p>LCA System Analyst</p>
             <p>
-        <a href="mailto:jamacher@eaternity.org">jamacher@eaternity.org</a><br />
+        <!-- <a href="mailto:jamacher@eaternity.org">jamacher@eaternity.org</a><br /> -->
       </p>
       </div>
     </div>
