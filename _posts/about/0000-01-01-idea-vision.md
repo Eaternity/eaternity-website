@@ -236,7 +236,7 @@ permalink: /about/
       <h3>Jasmine Lötscher</h3>
        <p>Executive Assitant</p>
             <p>
-            <br />
+            +41 77 47 459 90<br />
         <a href="mailto:jloetscher@eaternity.org">jloetscher@eaternity.org</a><br />
       </p>      </div>
     </div>
