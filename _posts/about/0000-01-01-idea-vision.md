@@ -457,17 +457,16 @@ permalink: /about/
 <div class="row text-center small-push-bottom">
 
 
-  <<!-- div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+  <!-- <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/jamacher.jpg">
       <h3>Jonas Amacher</h3>
       <p>LCA System Analyst</p>
             <p>
-        <!-- <a href="mailto:jamacher@eaternity.org">jamacher@eaternity.org</a><br /> -->
+        <a href="mailto:jamacher@eaternity.org">jamacher@eaternity.org</a><br />
       </p>
       </div>
-    </div>
- -->
+    </div>-->
 
  </div>
 
