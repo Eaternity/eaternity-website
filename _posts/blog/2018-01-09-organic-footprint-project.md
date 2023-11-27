@@ -135,7 +135,7 @@ We thank Migros Engagement Fund for funding the Organic Footprint project.
 <tr>
   <td>  <a href="https://www.zhaw.ch/iunr/gof"><img src="/img/organic-foodprint/logo-zhaw.svg"></a></td>
   <td ><a href="https://quantis-intl.com"><img src="/img/partners/quantis.svg"></a></td>
-  <td >  <a href="http://www.engagement-migros.ch/de/pioniere/eaternity"><img src="/img/organic-foodprint/logo-migrosengagement.svg"></a></td>
+  <td >  <a href="https://engagement.migros.ch/de/news-projekte/gesundheitsfoerderung/eaternity"><img src="/img/organic-foodprint/logo-migrosengagement.svg"></a></td>
 </tr>
 </tbody>
 </table>

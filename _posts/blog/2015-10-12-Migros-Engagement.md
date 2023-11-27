@@ -46,6 +46,6 @@ For more information view the specific pages for the [Organic Foodprint][of] and
 [de]: /assets/MM_Eaternity_20151012_DE.pdf
 [it]: /assets/MM_Eaternity_20151012_IT.pdf
 [en]: /assets/MM_Eaternity_20151012_EN.pdf
-[migros]: http://www.engagement-migros.ch
+[migros]: https://engagement.migros.ch/
 [of]: /foodprint/organic
 [hf]: /foodprint/health

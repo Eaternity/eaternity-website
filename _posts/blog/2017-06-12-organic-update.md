@@ -121,5 +121,5 @@ Or to speak in the words of the consumer, even though enjoying the display of fr
 
 [1]: http://www.eaternity.org/contact
 [2]: http://www.eaternity.org/foodprint/database
-[migros]: http://www.engagement-migros.ch/de/eaternity-auf-dem-menue-workshops
+[migros]: https://engagement.migros.ch/de/news-projekte/gesundheitsfoerderung/eaternity
 [rsvp]: https://smartchefs.eventbrite.com/
