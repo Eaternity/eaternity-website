@@ -123,6 +123,16 @@ permalink: /about/
       </div>
     </div>
 
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/hfinger.jpg">
+      <h3>Holger Finger, PhD</h3>
+      <p>Chief Technology Officer (CTO)</p>
+      <p>
+      </p>
+      </div>
+    </div>
+
 
 <!-- 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
@@ -308,15 +318,7 @@ permalink: /about/
     </div>
 
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/hfinger.jpg">
-      <h3>Holger Finger, PhD</h3>
-      <p>Senior Software Engineer</p>
-      <p>
-      </p>
-      </div>
-    </div>
+
 
 </div>
 
@@ -384,16 +386,16 @@ permalink: /about/
 <div class="row text-center small-push-bottom">
 
 
-<!--   <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+ <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/akuhn.jpg">
-      <h3>Anna Kuhn</h3>
-      <p>LCA System Analyst</p>
+      <img class="responsive round" src="/img/idea-vision/mwalther.jpg">
+      <h3>Merlin Walters</h3>
+      <p>Assistance to the Managament</p>
             <p>
-         <a href="mailto:akuhn@eaternity.org">akuhn@eaternity.org</a><br /> 
+         <a href="mailto:mwalther@eaternity.org">mwalther@eaternity.org</a><br /> 
       </p>
       </div>
-    </div> -->
+    </div> 
 
 
     <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
