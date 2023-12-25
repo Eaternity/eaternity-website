@@ -10449,7 +10449,7 @@ input[type="text"] {
   margin-bottom: 8px;
 }
 .header .logo img {
-  width: 140px;
+  width: 220px;
 }
 @media screen and (min-width: 768px) {
   .header .logo {
@@ -10458,8 +10458,8 @@ input[type="text"] {
     -ms-flex-order: 1;
     -webkit-order: 1;
     order: 1;
-    width: 160px;
-    margin-top: -3px;
+    width: 220px;
+    margin-top: 10px;
     margin-bottom: 0px;
     margin-left: auto;
     margin-right: auto;
