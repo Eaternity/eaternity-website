@@ -10538,8 +10538,8 @@ input[type="text"] {
     margin-left: 50px;
   }
   .header .logo {
-    width: 160px;
-    margin-top: -3px;
+    width: 220px;
+    margin-top: 10px;
   }
 }
 @media screen and (min-width: 992px) {
