@@ -239,18 +239,6 @@ permalink: /about/
      </div>
   </div>
 
-<!--
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/jloetscher.jpg">
-      <h3>Jasmine Lötscher</h3>
-       <p>Executive Assitant</p>
-            <p>
-            +41 77 47 459 90<br />
-        <a href="mailto:jloetscher@eaternity.org">jloetscher@eaternity.org</a><br />
-      </p>      </div>
-    </div>
--->
 
 <!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
@@ -386,6 +374,7 @@ permalink: /about/
       <h3>Merlin Walters</h3>
       <p>Assistance to the Managament</p>
             <p>
+                +41 77 47 459 90<br />
          <a href="mailto:mwalther@eaternity.org">mwalther@eaternity.org</a><br /> 
       </p>
       </div>
@@ -473,6 +462,14 @@ permalink: /about/
       </div>
     </div>
 
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/jloetscher.jpg">
+      <h3>Jasmine Lötscher</h3>
+       <p>LCA System Analyst</p>
+           </div>
+    </div>
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
