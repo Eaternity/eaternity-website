@@ -317,7 +317,16 @@ permalink: /about/
       </div>
     </div>
 
-
+            <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/yschubert.jpg">
+        <h3>Yannick Schubert</h3>
+        <p>Software Engineer</p>
+        <p>
+        <!-- <a href="mailto:nulrich@eaternity.org">nulrich@eaternity.org</a><br /> -->
+      </p>
+      </div>
+    </div>
 
 
 </div>
@@ -383,6 +392,8 @@ permalink: /about/
 
 </div>
 
+<div id="job-offer"></div>
+
 <div class="row text-center small-push-bottom">
 
 
@@ -419,16 +430,7 @@ permalink: /about/
       </div>
     </div>
 
-        <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/yschubert.jpg">
-        <h3>Yannick Schubert</h3>
-        <p>Software Engineer</p>
-        <p>
-        <!-- <a href="mailto:nulrich@eaternity.org">nulrich@eaternity.org</a><br /> -->
-      </p>
-      </div>
-    </div>
+
 
     
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
@@ -470,7 +472,7 @@ permalink: /about/
 
  </div>
  
-<div id="job-offer"></div>
+
 
 <div class="row text-center small-push-bottom">
 
