@@ -239,7 +239,7 @@ permalink: /about/
      </div>
   </div>
 
-
+<!--
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/jloetscher.jpg">
@@ -250,7 +250,7 @@ permalink: /about/
         <a href="mailto:jloetscher@eaternity.org">jloetscher@eaternity.org</a><br />
       </p>      </div>
     </div>
-
+-->
 
 <!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
@@ -275,12 +275,18 @@ permalink: /about/
       </div>
     </div>
 
-</div>
+        <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/dromeo.jpg">
+        <h3>Daina Romeo, PhD</h3>
+        <p>Senior LCA Expert</p>
+        <p>
+        <a href="mailto:dromeo@eaternity.org">dromeo@eaternity.org</a><br />
+      </p>
+      </div>
+    </div>
 
-
-<div class="row text-center small-push-bottom">
-
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+        <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/mschnyder.jpg">
       <h3>Maria Schnyder</h3>
@@ -293,40 +299,18 @@ permalink: /about/
     </div>
 
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/dromeo.jpg">
-        <h3>Daina Romeo, PhD</h3>
-        <p>Senior LCA Expert</p>
-        <p>
-        <a href="mailto:dromeo@eaternity.org">dromeo@eaternity.org</a><br />
-      </p>
-      </div>
-    </div>
 
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/cstecher.jpg">
-      <h3>Carmen Stecher</h3>
+</div>
 
-      <p>LCA Consultant</p>
-            <p>
-        <a href="mailto:cstecher@eaternity.org">cstecher@eaternity.org</a><br />
-      </p>
-      </div>
-    </div>
 
-            <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/yschubert.jpg">
-        <h3>Yannick Schubert</h3>
-        <p>Software Engineer</p>
-        <p>
-        <!-- <a href="mailto:nulrich@eaternity.org">nulrich@eaternity.org</a><br /> -->
-      </p>
-      </div>
-    </div>
+<div class="row text-center small-push-bottom">
+
+
+
+
+
+
 
 
 </div>
@@ -392,7 +376,6 @@ permalink: /about/
 
 </div>
 
-<div id="job-offer"></div>
 
 <div class="row text-center small-push-bottom">
 
@@ -407,6 +390,17 @@ permalink: /about/
       </p>
       </div>
     </div> 
+
+                <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/yschubert.jpg">
+        <h3>Yannick Schubert</h3>
+        <p>Software Engineer</p>
+        <p>
+        <!-- <a href="mailto:nulrich@eaternity.org">nulrich@eaternity.org</a><br /> -->
+      </p>
+      </div>
+    </div>
 
 
     <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
@@ -433,17 +427,7 @@ permalink: /about/
 
 
     
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
-        <h3>Job Offer</h3>
-        <p>Life Cycle Analyst</p>
-        <p>
-           <!-- <a href="/assets/2022-11-18-Stelle-Eaternity-Operations.pdf">Download</a><br />  -->
-           <a href="/assets/2024-01-09-Job-Offer-Life-Cycle-Analyst.pdf">Download</a><br />
-        </p>
-      </div>
-    </div>
+
 
 <!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
@@ -473,9 +457,34 @@ permalink: /about/
  </div>
  
 
+<div id="job-offer"></div>
 
 <div class="row text-center small-push-bottom">
 
+      <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/cstecher.jpg">
+      <h3>Carmen Stecher</h3>
+
+      <p>LCA Consultant</p>
+            <p>
+        <a href="mailto:cstecher@eaternity.org">cstecher@eaternity.org</a><br />
+      </p>
+      </div>
+    </div>
+
+
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
+        <h3>Job Offer</h3>
+        <p>Life Cycle Analyst</p>
+        <p>
+           <!-- <a href="/assets/2022-11-18-Stelle-Eaternity-Operations.pdf">Download</a><br />  -->
+           <a href="/assets/2024-01-09-Job-Offer-Life-Cycle-Analyst.pdf">Download</a><br />
+        </p>
+      </div>
+    </div>
 
   <!-- <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
