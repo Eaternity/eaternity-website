@@ -151,7 +151,7 @@ display: none;
   </div>
 </div>
 
-<div class="bgLightGrey">
+<div class="bgLightGrey" id="legende">
   <div class="container">
     <div class="row push-top push-bottom">
       <div class="col-xs-offset-4 col-xs-4 col-sm-offset-1 col-sm-3 col-md-offset-2 col-md-2">
