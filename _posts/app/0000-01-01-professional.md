@@ -161,7 +161,7 @@ display: none;
       <div class="col-xs-12 col-sm-offset-1 col-sm-7 col-md-5 xs-push-top">
         <h1>Eaternity Award</h1>
         <p>Label your climate-friendly menu choices with the «Eaternity Award» – the first carbon footprint award for meals worldwide. Send a clear message to your guests that you care about our impact on the environment. Give them a valuable foundation to make informed decisions.</p>
-        <p>With our 1 to 5 rating illustration: health, CO₂ emissions and other environmental impacts are scored against a comparisons of all recipes. <a href="/assets/2019-09-16-LegendeEaternity.pdf">Download the legend</a> for what each symbol means. You can use the Eaternity Awards yourself if you have a recipe receiving the best climate rating, <a href="/assets/2015-11-05-Eaternity_award_set.zip">download the symbols here</a>.</p>
+        <p>With our 1 to 5 rating illustration: health, CO₂ emissions and other environmental impacts are scored against a comparisons of all recipes. <a href="/assets/2023-04-26-Legende_Eaternity_5-Symbol.pdf">Download the legend</a> for what each symbol means. You can use the Eaternity Awards yourself if you have a recipe receiving the best climate rating, <a href="/assets/2015-11-05-Eaternity_award_set.zip">download the symbols here</a>.</p>
         <img class="responsive" style="margin-left:-14px;" src="/img/home/Website-Export.png" />
 
       </div>
