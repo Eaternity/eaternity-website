@@ -220,7 +220,7 @@ permalink: /about/
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/jhinkelmann.jpg">
       <h3>Jens Hinkelmann</h3>
-      <p>Software Developer</p>
+      <p>Software Engineer</p>
       </div>
     </div>
 
