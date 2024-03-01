@@ -270,7 +270,7 @@ display: none;
   <div class="row push-top push-bottom">
     <div class="col-xs-12 col-sm-offset-1 col-sm-5">
       <h1>Eaternity API</h1>
-      <p>In case you already have a working system like Microsoft Dynamics or SAP, our RESTful API provides you with a direct connection to exchange informations. With an innovative automatic ingredient matching tool, all customer and supplier data is fitted seamlessly into our database. We can deliver all information on the spot. Everything is setup ready for an integration into your system. Check <a href="http://docs.eaternity.apiary.io">docs.eaternity.apiary.io</a> and <a href="https://eaternity-edb-api-slack-invite.herokuapp.com">join our EDB API Slack Channel</a> if you want first hand contact with our developers.</p>
+      <p>In case you already have a working system like Microsoft Dynamics or SAP, our RESTful API provides you with a direct connection to exchange informations. With an innovative automatic ingredient matching tool, all customer and supplier data is fitted seamlessly into our database. We can deliver all information on the spot. Everything is setup ready for an integration into your system. Check <a href="http://eaternity.github.io/eaternity-api/">API Documentation</a> and <a href="https://eaternity-edb-api-slack-invite.herokuapp.com">join our EDB API Slack Channel</a> if you want first hand contact with our developers.</p>
     </div>
     <div class="col-xs-12 col-sm-5 xs-push-top">
       <h1>Ask for a demo</h1>
