@@ -474,11 +474,11 @@ permalink: /about/
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
-        <h3>Job Offer</h3>
-        <p>Life Cycle Analyst</p>
+        <h3>Internship Offer</h3>
+        <p>Client Services</p>
         <p>
            <!-- <a href="/assets/2022-11-18-Stelle-Eaternity-Operations.pdf">Download</a><br />  -->
-           <a href="/assets/2024-01-09-Job-Offer-Life-Cycle-Analyst.pdf">Download</a><br />
+           <a href="/assets/2024-03-18_Job_Offer_Internship_Customer-Service_at_Eaternity.pdf">Download</a><br />
         </p>
       </div>
     </div>
