@@ -255,8 +255,8 @@ permalink: /about/
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top push-bottom">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/dhadzhiyska.jpg">
-        <h3>Dariya Hadzhiyska.jpg</h3>
-        <p>Senior LCA System Analyst</p>
+        <h3>Dariya Hadzhiyska</h3>
+        <p>Senior LCA Expert</p>
         <p>
             <!-- +41 77 512 95 73<br /><br /> -->
           <a href="mailto:dhadzhiyska@eaternity.org">dhadzhiyska@eaternity.org</a>
@@ -341,7 +341,7 @@ permalink: /about/
       </div>
     </div>
 
-    
+
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/jloetscher.jpg">
