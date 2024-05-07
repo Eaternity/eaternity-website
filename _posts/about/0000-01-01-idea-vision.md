@@ -341,6 +341,16 @@ permalink: /about/
       </div>
     </div>
 
+    
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/jloetscher.jpg">
+      <h3>Jasmine Lötscher</h3>
+       <p>LCA System Analyst</p>
+           </div>
+    </div>
+
+
 
 
 </div>
@@ -432,14 +442,6 @@ permalink: /about/
 <div class="row text-center small-push-bottom">
 
 
-
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/jloetscher.jpg">
-      <h3>Jasmine Lötscher</h3>
-       <p>LCA System Analyst</p>
-           </div>
-    </div>
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
