@@ -1,0 +1,19 @@
+{
+  "name": "eaternity-org",
+  "version": "1.0.0",
+  "description": "Eaternity Website",
+  "main": "restaurant-cop21.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinacms": "^1.6.3"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.5.45",
+    "@types/node": "^20.13.0"
+  }
+}
