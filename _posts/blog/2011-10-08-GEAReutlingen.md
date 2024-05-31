@@ -13,8 +13,6 @@ media:
 
 tags:
   - Presse
-  -
-  -
 
 partner:
   - GEA Reutlingen

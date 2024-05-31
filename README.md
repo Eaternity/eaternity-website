@@ -9,6 +9,10 @@ Great Design thanks to Tellsoehne
 
 bundle exec jekyll serve
 
+or with TinaCMS
+
+npx tinacms dev -c "bundle exec jekyll serve"
+
 # Howto Blog
 
 In any \_posts/DOCUMENT there are certain variables that get defined, some of them are necessary that the blog-posts gets published. Other just provide additional information:

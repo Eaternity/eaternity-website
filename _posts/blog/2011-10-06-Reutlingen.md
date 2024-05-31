@@ -13,8 +13,6 @@ media:
 
 tags:
   - Veranstaltung
-  -
-  -
 
 partner:
   - Stadt Reutlingen

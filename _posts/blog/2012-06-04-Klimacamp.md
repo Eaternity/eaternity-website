@@ -3,22 +3,15 @@ layout: blog-post
 category: blog
 date: 2012-06-04
 
-
 title: Eaternity am Klimacamp 2012
 image: 2012-06-04_Klimacamp-zurich.jpg
 blog-image: 2012-06-04_Klimacamp-zurich1.jpg
 author: Alexandra Müller
 
 tags:
--
-
-
-short:
-- Das Klimacamp ist eine Plattform für gesellschaftlichen Wandel, Vernetzung und Umweltschutz (http://www.klimacamp.ch). Dieses Jahr fand das Camp in Zürich statt und zwar im Platzspitz-Park vom 3.-10. Juni.
-
+ - Veranstaltung
+ - Partner
 ---
-
-
 
 Das Klimacamp ist eine Plattform für gesellschaftlichen Wandel, Vernetzung und Umweltschutz (http://www.klimacamp.ch). Dieses Jahr fand das Camp in Zürich statt und zwar im Platzspitz-Park vom 3.-10. Juni. Es gab viele interessante Workshops zum Thema Treibhausgas-Emissionen, umweltfreundliche Landwirtschaft, Klimafreundliche Ernährung und vieles mehr. Eine Woche lang wurden die Besucher und Besucherinnen des Camps, sowie die «Besetzer_innen» von der aus Freiburg in Deutschland kommenden Catering-Gruppe «Die Maulwürfe» (http://volxkuechefreiburg.blogsport.de/maulwuerfe/) mit veganen Köstlichkeiten verwöhnt. Während der Woche wurde auch eine Piratenaktion in zwei Lebensmittelketten durchgeführt und am Schluss der Woche demonstrierte das Camp zusammen mit anderen Organisation wie der Gesellschaft für bedrohte Völker (GfbV) gegen die Abholzung des Amazonas-Regenwaldes und die damit verbunde Bedrohung der Lebensräume der einheimischen Völker.
 
