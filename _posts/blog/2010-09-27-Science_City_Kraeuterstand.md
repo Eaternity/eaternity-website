@@ -1,6 +1,7 @@
 ---
 layout: blog-post
 category: blog
+date: 2010-09-27
 
 image: 2010-10-26-ETH_Markt.jpg
 title: Science City Kräuterstand - mit Eaternity am Herbstmarkt

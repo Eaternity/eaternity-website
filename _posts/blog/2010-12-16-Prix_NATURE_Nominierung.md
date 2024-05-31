@@ -1,6 +1,7 @@
 ---
 layout: blog-post
 category: blog
+date: 2010-12-16
 
 image: http://placehold.it/452x150
 title: Prix NATURE Nominierung

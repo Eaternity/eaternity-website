@@ -1,6 +1,7 @@
 ---
 layout: blog-post
 category: blog
+date: 2011-09-16
 
 image: http://placehold.it/452x150
 title: Lifefair Beilage Tagesanzeiger

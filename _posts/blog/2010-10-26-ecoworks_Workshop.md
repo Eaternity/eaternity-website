@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 category: blog
-
+date: 2010-10-26
 
 image: 2010-10-26-ecoworks_Workshop.jpg
 title: ecoworks Workshop 2010 

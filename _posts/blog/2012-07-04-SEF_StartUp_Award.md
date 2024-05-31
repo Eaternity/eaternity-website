@@ -1,6 +1,7 @@
 ---
 layout: blog-post
 category: blog
+date: 2012-07-04
 
 
 title: SEF Start-Up Award 2012 von Ernst und Young 

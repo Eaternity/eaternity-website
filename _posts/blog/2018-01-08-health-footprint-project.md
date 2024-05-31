@@ -1,6 +1,7 @@
 ---
 layout: blog-post
 category: blog
+date: 2018-01-08
 
 published: true
 redirect_from:

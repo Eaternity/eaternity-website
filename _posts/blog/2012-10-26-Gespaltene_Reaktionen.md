@@ -1,6 +1,7 @@
 ---
 layout: blog-post
 category: blog
+date: 2012-10-26
 
 image: 2012-10-25-diskussion.png
 title: Gespaltene Reaktionen zu «One Two We» im Tagesanzeiger über die SV-Group

@@ -1,6 +1,7 @@
 ---
 layout: blog-post
 category: blog
+date: 2010-06-18
 
 image: 2010-05-23-Meat_Free_Monday.jpg
 title: Meat Free Monday 

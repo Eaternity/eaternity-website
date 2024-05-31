@@ -2,6 +2,8 @@
 layout: blog-post
 category: blog
 
+date: 2017-03-05
+
 published: true
 
 author: Manuel Klarmann

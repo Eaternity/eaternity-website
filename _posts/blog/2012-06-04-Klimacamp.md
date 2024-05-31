@@ -1,6 +1,7 @@
 ---
 layout: blog-post
 category: blog
+date: 2012-06-04
 
 
 title: Eaternity am Klimacamp 2012

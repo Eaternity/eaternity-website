@@ -1,6 +1,7 @@
 ---
 layout: blog-post
 category: blog
+date: 2015-07-02
 
 published: true
 

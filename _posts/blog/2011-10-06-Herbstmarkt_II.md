@@ -1,6 +1,7 @@
 ---
 layout: blog-post
 category: blog
+date: 2011-10-06
 
 image:
 title: Eaternity am Herbstmarkt in Science City

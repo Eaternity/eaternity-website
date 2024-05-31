@@ -1,6 +1,7 @@
 ---
 layout: blog-post
 category: blog
+date: 2010-10-26
 
 image: 2010-10-26-Man_liest_sich-im_Tagesanzeiger.jpg
 title: Man liest sich - im Tagesanzeiger
