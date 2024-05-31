@@ -5,3 +5,6 @@ Icon
 .jekyll-metadata
 .DS_Store
 vendor/bundle
+
+node_modules
+.env
