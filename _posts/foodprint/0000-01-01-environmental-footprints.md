@@ -299,7 +299,7 @@ categories: foodprint
     </div>
 
 </div>
-
+<!-- 
 <div class="container">
 <div class="row push-top small-push-bottom">
 		<div class="col-xs-12">
@@ -350,7 +350,7 @@ categories: foodprint
 </div>
 </div>
 </div>
-
+ -->
 <div class="window" style="background-image: url('/img/foodprint/Sonnenaufgang-3.jpg');background-size: 100%;background-position: left top;"></div>
 
 <div class="container">
