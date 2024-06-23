@@ -104,9 +104,9 @@ permalink: /about/
         <h3>Judith Ellens</h3>
         <p>Founder & Head of Science</p>
         <p>
-          +41 77 44 656 77<br />
+          <!-- +41 77 44 656 77<br /> -->
           <a href="mailto:jellens@eaternity.org">jellens@eaternity.org</a><br />
-          <a href="https://twitter.com/judeithellens">@JudithEllens</a>
+          <!-- <a href="https://twitter.com/judeithellens">@JudithEllens</a> -->
         </p>
       </div>
     </div>
