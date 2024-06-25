@@ -7,7 +7,7 @@ Great Design thanks to Tellsoehne
 
 # Howto Jekyll (local preview)
 
-bundle exec jekyll serve
+    bundle exec jekyll serve
 
 or with TinaCMS
 
