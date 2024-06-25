@@ -258,7 +258,7 @@ permalink: /about/
         <h3>Dariya Hadzhiyska</h3>
         <p>Senior LCA Expert</p>
         <p>
-            <!-- +41 77 512 95 73<br /><br /> -->
+            +41 77 474 59 90<br /><br />
           <a href="mailto:dhadzhiyska@eaternity.org">dhadzhiyska@eaternity.org</a>
         </p>
       </div>
