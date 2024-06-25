@@ -444,7 +444,7 @@ permalink: /about/
     <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/wxu.jpg">
-      <h3>Wei Xu</h3>
+      <h3>Wei Xu, PhD</h3>
         <p>Senior LCA Expert</p>
         <p>
         +41 77 512 95 73<br /><br />
