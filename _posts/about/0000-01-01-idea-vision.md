@@ -361,12 +361,12 @@ permalink: /about/
 
  <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/mwalther.jpg">
-      <h3>Merlin Walters</h3>
-      <p>Assistance to the Managament</p>
-            <p>
-                +41 77 47 459 90<br />
-         <a href="mailto:mwalther@eaternity.org">mwalther@eaternity.org</a><br /> 
+      <img class="responsive round" src="/img/idea-vision/lhalter.jpg">
+      <h3>Lisa Halter</h3>
+      <p>Project Management</p>
+       <!--      <p>
+                +41 77 47 459 90<br /> -->
+         <a href="mailto:lhalter@eaternity.org">lhalter@eaternity.org</a><br /> 
       </p>
       </div>
     </div> 
