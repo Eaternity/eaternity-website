@@ -259,8 +259,8 @@ permalink: /about/
         <p>LCA System Analyst</p>
 <!--         <p>
             +41 77 474 59 90<br /><br />
-          <a href="mailto:dhadzhiyska@eaternity.org">dhadzhiyska@eaternity.org</a> -->
-        </p>
+          <a href="mailto:dhadzhiyska@eaternity.org">dhadzhiyska@eaternity.org</a> 
+        </p> -->
       </div>
     </div>
 
@@ -365,9 +365,9 @@ permalink: /about/
       <h3>Lisa Halter</h3>
       <p>Project Management</p>
        <!--      <p>
-                +41 77 47 459 90<br /> -->
+                +41 77 47 459 90<br />   </p>-->
          <a href="mailto:lhalter@eaternity.org">lhalter@eaternity.org</a><br /> 
-      </p>
+     
       </div>
     </div> 
 
