@@ -189,7 +189,7 @@ permalink: /about/
    <div class="teamTeaser">
    <img class="responsive round" src="/img/idea-vision/ccampani.jpg">
    <h3>Cyrill Campani</h3>
-   <p>LCA System Analyst</p>
+   <p>Senior LCA System Analyst</p>
       <!--        <p><a href="mailto:klimafreunde@eaternity.org">klimafreunde@eaternity.org</a><br />
            +41 77 474 59 90<br /> 
           </p>-->
@@ -209,7 +209,7 @@ permalink: /about/
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/jhinkelmann.jpg">
       <h3>Jens Hinkelmann</h3>
-      <p>Software Engineer</p>
+      <p>Senior Software Engineer</p>
       </div>
     </div>
 
@@ -221,7 +221,7 @@ permalink: /about/
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/gtzischhochlz.jpg">
       <h3>Grit Tzschichholz</h3>
-      <p>LCA System Analyst</p>
+      <p>Senior LCA System Analyst</p>
       <!--    <p><a href="mailto:klimafreunde@eaternity.org">klimafreunde@eaternity.org</a><br />
             +41 77 474 59 90<br /> 
           </p>-->
@@ -254,20 +254,20 @@ permalink: /about/
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top push-bottom">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/dhadzhiyska.jpg">
-        <h3>Dariya Hadzhiyska</h3>
-        <p>Senior LCA Expert</p>
-        <p>
+        <img class="responsive round" src="/img/idea-vision/rscheidegger.jpg">
+        <h3>Rahel Scheidegger</h3>
+        <p>LCA System Analyst</p>
+<!--         <p>
             +41 77 474 59 90<br /><br />
-          <a href="mailto:dhadzhiyska@eaternity.org">dhadzhiyska@eaternity.org</a>
+          <a href="mailto:dhadzhiyska@eaternity.org">dhadzhiyska@eaternity.org</a> -->
         </p>
       </div>
     </div>
 
         <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/mschnyder.jpg">
-      <h3>Maria Schnyder</h3>
+      <img class="responsive round" src="/img/idea-vision/mgopsill.jpg">
+      <h3>Maria-Luisa Gopsill</h3>
 
       <p>LCA System Analyst</p>
             <p>
@@ -375,7 +375,7 @@ permalink: /about/
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/yschubert.jpg">
         <h3>Yannick Schubert</h3>
-        <p>Software Engineer</p>
+        <p>Senior Software Engineer</p>
         <p>
         <!-- <a href="mailto:nulrich@eaternity.org">nulrich@eaternity.org</a><br /> -->
       </p>
