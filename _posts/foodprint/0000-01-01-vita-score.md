@@ -61,7 +61,7 @@ categories: foodprint
 		</div>
     <div class="col-xs-12 col-sm-6 push-top">
       <h3>Scientific Facts</h3>
-      <p>The Global Burden of Diseases, Injuries and Risk Factors (GBD) Study is an independently funded collaboration from over 2'300 scientists and constitutes the largest epidemiological study today. It identifies 84 behavioral, environmental and occupational, and metabolic risks or clusters of risks that lead to diseases. Through the assessment of more than 15'000 studies it approaches accurate numbers for disability adjusted life years (DALY) lost per 100'000 people dependent on age, gender and location for each individual risk factor. It provides new insights on the risks we should be concerned to improve our lives. <a style="float:right;margin-right:20px;" href="#references">Learn more</a>
+      <p>The Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) is the single largest and most detailed scientific effort ever conducted to quantify levels and trends in health. Led by the Institute for Health Metrics and Evaluation (IHME) at the University of Washington, it is truly a global effort, with over 12,000 researchers from more than 160 countries and territories participating in the most recent update. It identifies 87 behavioral, environmental and occupational, and metabolic risks or clusters of risks that lead to diseases. Through the assessment of more than 90'000 studies it approaches accurate numbers for disability adjusted life years (DALY) lost per 100'000 people dependent on age, gender and location for each individual risk factor. It provides new insights on the risks we should be concerned to improve our lives. <a style="float:right;margin-right:20px;" href="#references">Learn more</a>
 			 </p>
     </div>
 		<div class="col-xs-12 col-sm-6 push-top">
@@ -73,7 +73,7 @@ categories: foodprint
 
     <div class="col-xs-12 col-sm-7  small-push-top">
       <h3>A Health Indicator for Foods </h3>
-      <p>The Health Score currently uses 8 non-overlapping dietary factors identified by the GBD study, namely whole grains, fruits, vegetables, nuts and seeds, processed meat, red meat, milk and salt. Providing a guideline to follow a “minimum risk diet”, the Health Score calculates how much of the recommendations are fulfilled in relation to the caloric content of a meal, weighted according to the severity of their outcomes. For example, lack of wholegrains in the Swiss population is related to 124 years of life lost per 100’000 people, whereas eating too much salt is related to 46 years of life lost.</p>
+      <p>The Health Score currently uses 8 non-overlapping dietary factors identified by the GBD study, namely whole grains, fruits, vegetables, nuts and seeds, processed meat, red meat, milk and salt. Providing a guideline to follow a “minimum risk diet”, the Health Score calculates how much of the recommendations are fulfilled in relation to the caloric content of a meal, weighted according to the severity of their outcomes. For example, lack of wholegrains in the German population is related to 83 years of life lost per 100’000 people, whereas eating too much salt is related to 29 years of life lost.</p>
     		<a href="/assets/smart-chefs/2017-12-12_VitaScore_Documentation_web.pdf"><button>Learn more</button></a>
     </div>
 
@@ -120,9 +120,9 @@ categories: foodprint
 
     <div class="row  push-bottom">
     	<div class="col-xs-12 col-sm-7 ">
-    			<p>The nutritional content of a meal or product to meet the daily nutrient recommendations can be analyzed separately and independently. The Nutrition Label analyzes per person and portion if the food is „well balanced“ in the sense that it provides you with all the daily energy requirements.</p>
+    			<p>The nutritional content of a meal or product to meet the daily nutrient recommendations can be analyzed separately or together with the Health Score. The Nutrition Score analyzes per person and portion if the food is „well balanced“ in the sense that it provides you with all the daily energy requirements.</p>
 
-    			<p>An average warm meal should make around one third of the recommended daily amount of 2000 kcal of energy intake, those nutrients which go above this range will be clearly marked. This way also the nutritional content of a meal can be conveniently optimized.</p>
+    			<p>An average warm meal should provide about one-third of the recommended daily energy intake of 2,000 to 2,400 kcal. Nutrients that exceed this range will be clearly marked. This way, the nutritional content of a meal can be conveniently optimized toward the ideal proportion of proteins and fats. Risks from overeating are responsible for 50% of the DALYs lost due to obesity (the GBD value for a person in Germany is 531.95 DALYs).</p>
     				<!-- <a href="/app/get-the-app/"><button>Learn more about the formula</button></a> -->
     		</div>
     </div>
@@ -142,13 +142,13 @@ categories: foodprint
 
       <div class="row small-push-bottom">
     		<div class="col-xs-12  small-push-top">
-    			<h3>The Nutrition Label</h3>
+    			<h3>The Nutrition Score</h3>
     		</div>
     		<div class="col-xs-2 small-push-top">
     		    					<img src="/img/foodprint/vita-score/NutritionLabel.svg">
     		</div>
         <div class="col-xs-5 small-push-top">
-          <p>Balanced menus with a good energy value receive the 3-star Nutrition Score. These menus do derive 5-14% of it’s calories from proteins and 20-35% from fat, while having a total energy value between 450 and 850 kcal.</p>
+          <p>Balanced menus with a good energy value receive the 5-star Nutrition Score. These menus do derive 10-35% of it’s calories from proteins and 20-35% from fat, while having a total energy value between 450 and 850 kcal.</p>
     		</div>
       </div>
     </div>
