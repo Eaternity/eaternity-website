@@ -441,7 +441,7 @@ permalink: /about/
 
 <div class="row text-center small-push-bottom">
 
-    <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+  <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/wxu.jpg">
       <h3>Wei Xu, PhD</h3>
@@ -449,6 +449,16 @@ permalink: /about/
         <p>
         +41 77 512 95 73<br /><br />
         <a href="mailto:wxu@eaternity.org">wxu@eaternity.org</a><br />
+      </p>
+      </div>
+  </div>
+
+  <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/arainone.jpg">
+      <h3>Alessia Rainone</h3>
+        <p>LCA System Analyst</p>
+        <p>
       </p>
       </div>
   </div>
@@ -465,7 +475,7 @@ permalink: /about/
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+  <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/job-offer.jpg">
         <h3>Internship Offer</h3>
@@ -476,6 +486,8 @@ permalink: /about/
         </p>
       </div>
     </div>
+
+
 
 
 
