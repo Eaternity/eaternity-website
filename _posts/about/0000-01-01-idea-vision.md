@@ -329,18 +329,28 @@ permalink: /about/
       </div>
     </div>
 
- <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+<!--  <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/schoi.jpg">
       <h3>Seonghoon Choi, PhD</h3>
 
       <p>Software Engineer</p>
             <p>
-        <!-- <a href="mailto:mkeel@eaternity.org">mkeel@eaternity.org</a><br /> -->
+
       </p>
       </div>
-    </div>
+    </div> -->
 
+
+  <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/arainone.jpg">
+      <h3>Alessia Rainone</h3>
+        <p>LCA System Analyst</p>
+        <p>
+      </p>
+      </div>
+  </div>
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
@@ -453,15 +463,6 @@ permalink: /about/
       </div>
   </div>
 
-  <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/arainone.jpg">
-      <h3>Alessia Rainone</h3>
-        <p>LCA System Analyst</p>
-        <p>
-      </p>
-      </div>
-  </div>
 
   <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
