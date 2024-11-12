@@ -16,7 +16,7 @@ categories: foodprint
 			<ul class="subNavigation">
 			<a href="/foodprint/database"><li>Eaternity Database (EDB)</li></a>
 			<a href="/foodprint/climate-score"><li>Climate Score</li></a>
-			<a href="/foodprint/vita-score"><li>Health Score</li></a>
+			<a href="/foodprint/vita-score"><li>Vita Score</li></a>
 			<a href="/foodprint/environmental-footprints"><li class="current">Environmental Footprints</li></a>
 			</ul>
 		</div>

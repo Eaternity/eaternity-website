@@ -38,7 +38,7 @@ Now, for the first time we could measure the impact of our food decisions for mu
 <br />
 # Towards a more healthy planet.
 
-By analyzing the status quo in restaurants and considering global sustainability goals, as well as applicability in practice we defined 3 clear standards for meals: the Climate Score Award, Water Footprint Award and the Health Score Award. The Health Score Award is based on the Health Score which aims at reducing diet-related disease risk. By definition foods receive the Climate Score Award if they have 40% less emissions than average. The Water Footprint Award if they reduce on average 50% of the water scarcity. And the Health Score Award if they reduce at least 20% of the diet related health risks. The Nutrition Label, the Rainforest Score and the Animal Treatment Score inform on balanced nutrition, tropical deforestation and animal treatment. All are by itself noble goals, some more urgent than others.
+By analyzing the status quo in restaurants and considering global sustainability goals, as well as applicability in practice we defined 3 clear standards for meals: the Climate Score Award, Water Footprint Award and the Vita Score Award. The Vita Score Award is based on the Vita Score which aims at reducing diet-related disease risk. By definition foods receive the Climate Score Award if they have 40% less emissions than average. The Water Footprint Award if they reduce on average 50% of the water scarcity. And the Vita Score Award if they reduce at least 20% of the diet related health risks. The Nutrition Label, the Rainforest Score and the Animal Treatment Score inform on balanced nutrition, tropical deforestation and animal treatment. All are by itself noble goals, some more urgent than others.
 
 <br />
 ### Balanced Nutrition
@@ -49,10 +49,10 @@ By analyzing the status quo in restaurants and considering global sustainability
 <br /><a style="float:right" href="/foodprint/vita-score#nutrition">Learn more.</a>
 
 <br />
-### Health Score
+### Vita Score
 
 - Only 3% of all meals had enough whole grains in it as opposed to 40% of meals had enough vegetables.
-- The most important factors to improve the Health Score are to increase the amount of whole grain products, nuts & seeds and fruits and to reduce the amount of salt and calories.
+- The most important factors to improve the Vita Score are to increase the amount of whole grain products, nuts & seeds and fruits and to reduce the amount of salt and calories.
 
 <br /><a style="float:right" href="/foodprint/vita-score">Learn more.</a>
 

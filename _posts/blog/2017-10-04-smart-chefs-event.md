@@ -169,7 +169,7 @@ Durch eine ungesunde Ernährung verlieren wir weltweit insgesamt 229 Millionen
 Lebensjahre. In unserer Gesellschaft sind neben der Mangelernährung unsere
 falsche Ernährungsgewohnheiten die zu Krankheiten wie Fettleibigkeit, Diabetes,
 Herz- Kreislaufbeschwerden und Krebs führen das brennende Thema. Mit dem von
-Eaternity entwickelten «Health Score» kann man diesem Risiko entgegenwirken.
+Eaternity entwickelten «Vita Score» kann man diesem Risiko entgegenwirken.
 Dieser baut direkt auf den Ergebnissen des [Global Burden of Desease
 Projekts][gbd] und deren [ernährungsbedingten Risikofaktoren][health] auf und
 übersetzt diese für die einfache Rezeptur-Zusammenstellung.
