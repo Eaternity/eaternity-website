@@ -122,6 +122,14 @@ permalink: /about/
       </div>
     </div>
 
+    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+      <img class="responsive round" src="/img/idea-vision/jhinkelmann.jpg">
+      <h3>Jens Hinkelmann</h3>
+      <p>Head of IT Operations</p>
+      </div>
+    </div>
+
 
 <!-- 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
@@ -205,13 +213,19 @@ permalink: /about/
       </div>
     </div>
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+
+  <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/jhinkelmann.jpg">
-      <h3>Jens Hinkelmann</h3>
-      <p>Senior Software Engineer</p>
+      <img class="responsive round" src="/img/idea-vision/wxu.jpg">
+      <h3>Wei Xu, PhD</h3>
+        <p>Senior LCA Expert</p>
+        <p>
+        +41 77 512 95 73<br /><br />
+        <a href="mailto:wxu@eaternity.org">wxu@eaternity.org</a><br />
+      </p>
       </div>
-    </div>
+  </div>
+
 
 </div>
 
@@ -440,17 +454,6 @@ permalink: /about/
 
 <div class="row text-center small-push-bottom">
 
-  <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-      <img class="responsive round" src="/img/idea-vision/wxu.jpg">
-      <h3>Wei Xu, PhD</h3>
-        <p>Senior LCA Expert</p>
-        <p>
-        +41 77 512 95 73<br /><br />
-        <a href="mailto:wxu@eaternity.org">wxu@eaternity.org</a><br />
-      </p>
-      </div>
-  </div>
 
 
   <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
