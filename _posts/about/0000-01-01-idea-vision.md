@@ -419,11 +419,11 @@ permalink: /about/
     </div>
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/mkefeder.jpg">
-        <h3>Michael Kefeder</h3>
-        <p>Senior Software Engineer</p>
+        <img class="responsive round" src="/img/idea-vision/rburany.jpg">
+        <h3>Renata Burany</h3>
+        <p>Executive & Sales Assistant</p>
         <p>
-        <!-- <a href="mailto:nulrich@eaternity.org">nulrich@eaternity.org</a><br /> -->
+        <a href="mailto:rburany@eaternity.org">rburany@eaternity.org</a><br />
       </p>
       </div>
     </div>
