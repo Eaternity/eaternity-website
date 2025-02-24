@@ -312,13 +312,7 @@ permalink: /about/
 <div class="row text-center small-push-bottom">
 
     
-<!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/rrichardet.jpg">
-        <h3>Renaud Richardet, PhD</h3>
-        <p>Senior Software Engineer</p>
-      </div>
-    </div> -->
+
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
@@ -453,6 +447,16 @@ permalink: /about/
 <div id="job-offer"></div>
 
 <div class="row text-center small-push-bottom">
+
+
+
+  <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top xs-push-bottom">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/sgreuter.jpg">
+        <h3>Simon Greuter</h3>
+        <p>Senior Software Engineer</p>
+      </div>
+  </div>
 
 
 
