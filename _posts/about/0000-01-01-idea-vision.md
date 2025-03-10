@@ -454,8 +454,8 @@ permalink: /about/
       <img class="responsive round" src="/img/idea-vision/emehner.jpg">
       <h3>Eric Mehner, PhD</h3>
         <p>Senior LCA Expert</p>
-       <!--  <p>
-        +41 77 512 95 73<br /><br /> -->
+      <p>
+          <!-- +41 77 512 95 73<br /><br /> -->
         <a href="mailto:emehner@eaternity.org">emehner@eaternity.org</a><br />
       </p>
       </div>
