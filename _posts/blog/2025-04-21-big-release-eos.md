@@ -43,15 +43,15 @@ We've improved our transport models to provide more precise emissions calculatio
 
 **Example:** Strawberries can come from all over the world depending on the season and demand. While the type of transportation (air, sea, land) was already considered, here we have introduced parameters for the specific transport vehicle, distances, cargo loads and fuel efficiency, as well as for strawberries that were too badly damaged during the journey and have to be discarded.
 
-![model updates illustration]({{site.baseurl}}/assets/images/blog/2025-04-21-eos-release/model-updates.jpg)
+![model updates illustration]({{site.baseurl}}/img/blog/2025-04-21-eos-release/model-updates.jpg)
 
-### **Novell Food Processing Methods (*)**
+### **Novell Food Processing Methods (\*)**
 
 Our new processing models now account for the environmental impact of various food preparation methods (like freezing, drying, fermenting, or roasting). It also considers the type of transport required depending on the processing method. With these updates, you'll have more complete data to show your restaurant teams how food production processes impact sustainability.
 
 **Example:** Frozen strawberry yoghurt involves many different processing steps, from the growing of strawberries and production of the milk, to transport of the raw ingredients, to fermentation, to production, to freezing, to the transport and storage of the frozen final product. The models now account for each step in this process, including how the initial temperature would impact freezing energy consumption. 
 
-![processin model illustration]({{site.baseurl}}/assets/images/blog/2025-04-21-eos-release/processing-model.jpg)
+![processing model illustration]({{site.baseurl}}/img/blog/2025-04-21-eos-release/processing-model.jpg)
 
 ### **Latest Research Included in Base CO₂ Values**
 
@@ -80,13 +80,13 @@ We know that these updates may lead to **differences** in CO₂ emissions calcul
 
 ### Next Steps
 
-📌 The release will go live on Easter Monday, April 21st. 
+📌 The release will go live on Easter Monday, April 21st. 
 
-📌 If anything raises concerns, please feel free to [contact us.](mailto:mail@eaternity.ch)
+📌 If anything raises concerns, please feel free to [contact us].(mailto:mail@eaternity.ch)
 
-📌 Detailed documentation of all CO₂ value changes can be found [here.](https://www.notion.so/Release-Notes-EOS-2025-04-21-15d83d9bdb05440bbcad2cb6baaa71c2)
+📌 Detailed documentation of all CO₂ value changes can be found [here].(https://www.notion.so/Release-Notes-EOS-2025-04-21-15d83d9bdb05440bbcad2cb6baaa71c2)
 
-📌 For more details, you can now also visit our [GitHub repository](http://gitlab.com/eaternity/eos).
+📌 For more details, you can now also visit our [GitHub repository].(http://gitlab.com/eaternity/eos).
 
 ---
 
@@ -106,13 +106,13 @@ Your partnership in this journey is shaping a future where every meal is a step 
 
 ---
 
-**(*) Note: The new processing model consists of two main types of models**
+**(\*) Note: The new processing model consists of two main types of models**
 
-1. Complex models that may create new nutrition files and life cycle inventories:
+1. __Complex models that may create new nutrition files and life cycle inventories:__
     
     Transport from production to processing, fruit processing to jam, fruit processing to fruit yoghurt and fruit processing to fruit soy yoghurt, drying, fish processing to fillet, bread baking, powder production, fruit juice production, freezing
     
-2. Simpler processing activities that don't significantly change product properties (calculation based on weight):
+2. __Simpler processing activities that don't significantly change product properties (calculation based on weight):__
     
     Shelled nuts roasting, chopping of nuts, grinding, carbonating (beverages), setting up, cutting, shredding, mixing, baking (bread), heating (cooking), heating (grilling/frying), heating (deep frying), heating (pasteurizing), heating (roasting), fermenting, drying, smoking, pressing, extraction, cooling, freezing, germination, freeze-drying, distilling, filtering, puffing, jam production, yoghurt production, fruit juice production.
 
