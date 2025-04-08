@@ -18,8 +18,7 @@ tags:
   - planet
 ---
 
-Release Version: EOS - Phoenix - v0.5.x 
-Release Date: 21.04.2025
+Release Version: EOS - Phoenix - v0.5.x | Release Date: 21.04.2025
 
 ### Release Summary:
 
@@ -61,7 +60,6 @@ We’ve updated our CO₂ values to reflect the latest scientific research. Thes
 
 - Vita Score includes updated DALY values and replaces kcal with Daily Food Units and includes risk points for adipositas.
 - Greenhouse production for salads are now removed for Summer months.
-
 - Origin calculation is done separately on ingredient-level.
 - Percentage improvement available in PDF reports for the category comparisons.
 
@@ -74,6 +72,7 @@ These updates will make it easier for you to:
 - **Track and report sustainability metrics** more confidently, supporting your **SDG goals**.
 - **Understand and reduce emissions** across your supply chain, contributing to your company’s **overall sustainability efforts**.
 
+
 We know that these updates may lead to **differences** in CO₂ emissions calculations compared to previous values. These changes reflect a more **accurate and complete representation** of your food’s environmental impact. 
 
 ---
@@ -81,11 +80,8 @@ We know that these updates may lead to **differences** in CO₂ emissions calcul
 ### Next Steps
 
 📌 The release will go live on Easter Monday, April 21st. 
-
 📌 If anything raises concerns, please feel free to [contact us].(mailto:mail@eaternity.ch)
-
 📌 Detailed documentation of all CO₂ value changes can be found [here].(https://www.notion.so/Release-Notes-EOS-2025-04-21-15d83d9bdb05440bbcad2cb6baaa71c2)
-
 📌 For more details, you can now also visit our [GitHub repository].(http://gitlab.com/eaternity/eos).
 
 ---
