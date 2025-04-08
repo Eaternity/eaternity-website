@@ -26,7 +26,7 @@ After more than two years of hard work, we are thrilled to announce the update o
 
 ---
 
-### **What’s New in This Release?**
+# **What’s New in This Release?**
 
 The key improvements include:
 
@@ -79,10 +79,10 @@ We know that these updates may lead to **differences** in CO₂ emissions calcul
 
 ### Next Steps
 
-📌 The release will go live on Easter Monday, April 21st. 
-📌 If anything raises concerns, please feel free to [contact us].(mailto:mail@eaternity.ch)
-📌 Detailed documentation of all CO₂ value changes can be found [here].(https://www.notion.so/Release-Notes-EOS-2025-04-21-15d83d9bdb05440bbcad2cb6baaa71c2)
-📌 For more details, you can now also visit our [GitHub repository].(http://gitlab.com/eaternity/eos).
+- The release will go live on Easter Monday, April 21st. 
+- If anything raises concerns, please feel free to [contact us](mailto:mail@eaternity.ch).
+- Detailed documentation of all CO₂ value changes can be found [here](https://www.notion.so/Release-Notes-EOS-2025-04-21-15d83d9bdb05440bbcad2cb6baaa71c2).
+- For more details, you can now also visit our [GitHub repository](http://gitlab.com/eaternity/eos).
 
 ---
 
@@ -96,13 +96,14 @@ A special thanks to:
 - **Sustainability experts** for sharing their research, insights and knowledge, helping us ensure our models reflect the most up-to-date research and best practices.
 - **Clients**: Your valuable input and real-world usage helped us fine-tune these updates to better meet your needs and expectations.
 
+
 Your partnership in this journey is shaping a future where every meal is a step toward a healthier planet. 
 
 **From the entire Eaternity team:** thank you for your commitment, collaboration, and vision. We couldn’t do this without you.
 
 ---
 
-**(\*) Note: The new processing model consists of two main types of models**
+## (\*) Note: The new processing model consists of two main types of models**
 
 1. __Complex models that may create new nutrition files and life cycle inventories:__
     
