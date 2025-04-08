@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 category: blog
-date: 2021-05-21
+date: 2025-05-21
 
 published: true
 
@@ -99,7 +99,7 @@ A special thanks to:
 
 Your partnership in this journey is shaping a future where every meal is a step toward a healthier planet. 
 
-**From the entire Eaternity team:** <br /><br />thank you for your commitment, collaboration, and vision. We couldn’t do this without you. 😉
+**From the entire Eaternity team:** <br />thank you for your commitment, collaboration, and vision. We couldn’t do this without you. 😉
 
 ---
 
@@ -109,8 +109,7 @@ Your partnership in this journey is shaping a future where every meal is a step 
   
     Transport from production to processing, fruit processing to jam, fruit processing to fruit yoghurt and fruit processing to fruit soy yoghurt, drying, fish processing to fillet, bread baking, powder production, fruit juice production, freezing.
 
-<br /><br />
-    
+<br />
 2. Simpler processing activities that don't significantly change product properties (calculation based on weight):
     
     Shelled nuts roasting, chopping of nuts, grinding, carbonating (beverages), setting up, cutting, shredding, mixing, baking (bread), heating (cooking), heating (grilling/frying), heating (deep frying), heating (pasteurizing), heating (roasting), fermenting, drying, smoking, pressing, extraction, cooling, freezing, germination, freeze-drying, distilling, filtering, puffing, jam production, yoghurt production, fruit juice production.
