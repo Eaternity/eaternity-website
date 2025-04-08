@@ -18,7 +18,7 @@ tags:
   - planet
 ---
 
-Release Version: EOS - Phoenix - v0.5.x | Release Date: 21.04.2025
+Release Version: EOS - Phoenix - v0.5.x -- Release Date: 21.04.2025
 
 ### Release Summary:
 
@@ -71,7 +71,7 @@ These updates will make it easier for you to:
 
 - **Track and report sustainability metrics** more confidently, supporting your **SDG goals**.
 - **Understand and reduce emissions** across your supply chain, contributing to your company’s **overall sustainability efforts**.
-
+<br \>
 
 We know that these updates may lead to **differences** in CO₂ emissions calculations compared to previous values. These changes reflect a more **accurate and complete representation** of your food’s environmental impact. 
 
@@ -86,7 +86,7 @@ We know that these updates may lead to **differences** in CO₂ emissions calcul
 
 ---
 
-### THANK YOU
+## THANK YOU
 
 This update would not have been possible without the dedication and passion of everyone involved. 
 
@@ -94,22 +94,22 @@ A special thanks to:
 
 - **Our Science and IT teams** for their efforts in enhancing our models to ensure more accurate data and performing detailed analysis on the results.
 - **Sustainability experts** for sharing their research, insights and knowledge, helping us ensure our models reflect the most up-to-date research and best practices.
-- **Clients**: Your valuable input and real-world usage helped us fine-tune these updates to better meet your needs and expectations.
+- **Our Clients**: Your valuable input and real-world usage helped us fine-tune these updates to better meet your needs and expectations.
 
-
+<br \>
 Your partnership in this journey is shaping a future where every meal is a step toward a healthier planet. 
 
 **From the entire Eaternity team:** thank you for your commitment, collaboration, and vision. We couldn’t do this without you.
 
 ---
 
-## (\*) Note: The new processing model consists of two main types of models**
+### (\*) Note: The new processing model consists of two main types of models
 
-1. __Complex models that may create new nutrition files and life cycle inventories:__
-    
+1. Complex models that may create new nutrition files and life cycle inventories:
+  
     Transport from production to processing, fruit processing to jam, fruit processing to fruit yoghurt and fruit processing to fruit soy yoghurt, drying, fish processing to fillet, bread baking, powder production, fruit juice production, freezing
     
-2. __Simpler processing activities that don't significantly change product properties (calculation based on weight):__
+2. Simpler processing activities that don't significantly change product properties (calculation based on weight):
     
     Shelled nuts roasting, chopping of nuts, grinding, carbonating (beverages), setting up, cutting, shredding, mixing, baking (bread), heating (cooking), heating (grilling/frying), heating (deep frying), heating (pasteurizing), heating (roasting), fermenting, drying, smoking, pressing, extraction, cooling, freezing, germination, freeze-drying, distilling, filtering, puffing, jam production, yoghurt production, fruit juice production.
 
