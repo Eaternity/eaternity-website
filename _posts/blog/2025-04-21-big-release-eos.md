@@ -71,7 +71,7 @@ These updates will make it easier for you to:
 
 - **Track and report sustainability metrics** more confidently, supporting your **SDG goals**.
 - **Understand and reduce emissions** across your supply chain, contributing to your company’s **overall sustainability efforts**.
-<br />
+<br /><br />
 
 We know that these updates may lead to **differences** in CO₂ emissions calculations compared to previous values. These changes reflect a more **accurate and complete representation** of your food’s environmental impact. 
 
@@ -95,19 +95,21 @@ A special thanks to:
 - **Our Science and IT teams** for their efforts in enhancing our models to ensure more accurate data and performing detailed analysis on the results.
 - **Sustainability experts** for sharing their research, insights and knowledge, helping us ensure our models reflect the most up-to-date research and best practices.
 - **Our Clients**: Your valuable input and real-world usage helped us fine-tune these updates to better meet your needs and expectations.
-<br />
+<br /><br />
 
 Your partnership in this journey is shaping a future where every meal is a step toward a healthier planet. 
 
-**From the entire Eaternity team:** thank you for your commitment, collaboration, and vision. We couldn’t do this without you.
+**From the entire Eaternity team:** <br /><br />thank you for your commitment, collaboration, and vision. We couldn’t do this without you. 😉
 
 ---
 
-### (\*) Note: The new processing model consists of two main types of models
+**(\*) Note: The new processing model consists of two main types of models**
 
 1. Complex models that may create new nutrition files and life cycle inventories:
   
     Transport from production to processing, fruit processing to jam, fruit processing to fruit yoghurt and fruit processing to fruit soy yoghurt, drying, fish processing to fillet, bread baking, powder production, fruit juice production, freezing.
+
+<br /><br />
     
 2. Simpler processing activities that don't significantly change product properties (calculation based on weight):
     
