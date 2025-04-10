@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 category: blog
-date: 2025-05-21
+date: 2025-05-09
 
 published: true
 
@@ -83,6 +83,7 @@ We know that these updates may lead to **differences** in CO₂ emissions calcul
 - If anything raises concerns, please feel free to [contact us](mailto:mail@eaternity.ch).
 - Detailed documentation of all CO₂ value changes can be found [here](https://www.notion.so/Release-Notes-EOS-2025-04-21-15d83d9bdb05440bbcad2cb6baaa71c2).
 - For more details, you can now also visit our [GitHub repository](http://gitlab.com/eaternity/eos).
+- Due to the release, the regular reporting will be delayed until May. 
 
 ---
 
