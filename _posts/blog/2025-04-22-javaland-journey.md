@@ -19,9 +19,6 @@ tags:
 ---
 
 
-
-## **Introduction**
-
 In the ever-evolving world of environmental impact calculations, milestones don’t come easy. But today, we mark one with mixed emotions: after years of loyal service, we’re saying goodbye to our Java-based calculation engine, affectionately known as “Javaland.”
 
 This isn’t just a story about retiring a system—it’s a tribute to everything we’ve learned, built, and reimagined on our journey. From humble beginnings to technical growing pains, the road has led us here: to the birth of our next-generation platform—the Environmental Operating System (EOS).
@@ -75,6 +72,8 @@ Through our years with Javaland, we didn’t just build a system—we built expe
 - **Invest in visibility**: Systematic monitoring and logging illuminate what’s working—and what’s not.
 - **Trust through transparency**: Exposing intermediate results and calculation methods builds confidence with partners and clients.
 - **Performance and cost matter**: Infrastructure design decisions should balance speed with sustainability.
+
+<br />
 
 ### **Development Culture**
 
