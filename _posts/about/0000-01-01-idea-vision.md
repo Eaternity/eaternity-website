@@ -411,6 +411,21 @@ permalink: /about/
       </p>
       </div>
     </div>
+
+
+    <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+      <div class="teamTeaser">
+        <img class="responsive round" src="/img/idea-vision/aclenin.jpg">
+        <h3>Amina Clénin</h3>
+        <p>LCA System Analyst</p>
+        <p>
+        <!-- <a href="mailto:nulrich@eaternity.org">nulrich@eaternity.org</a><br /> -->
+      </p>
+      </div>
+    </div>
+
+
+    
     
  <!--    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
