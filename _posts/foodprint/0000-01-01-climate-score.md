@@ -139,7 +139,7 @@ categories: foodprint
 
 </div>
 <div class="col-xs-12 col-sm-6  ">
-    	<p>Calculations done with the Eaternity include all emission of the complete supply chain. The database to calculate the carbon impact is currently the largest and most comprehensive database for carrying out menu CO₂-calculations. It includes more than 550 core ingredients and additional parameters for organic or greenhouse production, processing, packaging and preservation.<a href="/foodprint/database" style="float:right;margin-right:20px;">Learn more about the Eaternity Database.</a>
+    	<p>Calculations done with the Eaternity include all emission of the complete supply chain. The database to calculate the carbon impact is currently the largest and most comprehensive database for carrying out menu CO₂-calculations. It includes more than 950 core ingredients and additional parameters for organic or greenhouse production, processing, packaging and preservation.<a href="/foodprint/database" style="float:right;margin-right:20px;">Learn more about the Eaternity Database.</a>
     	</p>
 
     </div>
