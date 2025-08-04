@@ -220,7 +220,7 @@ permalink: /about/
       <h3>Wei Xu, PhD</h3>
         <p>Senior LCA Expert</p>
         <p>
-        +41 77 512 95 73<br /><br />
+        +41 44 797 97 96<br /><br />
         <a href="mailto:wxu@eaternity.org">wxu@eaternity.org</a><br />
       </p>
       </div>
