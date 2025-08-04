@@ -427,17 +427,18 @@ permalink: /about/
 
     
     
- <!--    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
-      <div class="teamTeaser">
-        <img class="responsive round" src="/img/idea-vision/rburany.jpg">
-        <h3>Renata Burany</h3>
-        <p>Executive & Sales Assistant</p>
-        <p>
-        <a href="mailto:rburany@eaternity.org">rburany@eaternity.org</a><br />
-      </p>
-      </div>
-    </div>
- -->
+  <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+        <div class="teamTeaser">
+          <img class="responsive round" src="/img/idea-vision/ysari.jpg">
+          <h3>Yagmur Sari</h3>
+          <p>Executive & Sales Assistant</p>
+          <p>
+            +41 44 797 97 96<br /><br />
+          <a href="mailto:ysari@eaternity.org">ysari@eaternity.org</a><br />
+        </p>
+        </div>
+  </div>
+
 
 
     
