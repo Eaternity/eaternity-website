@@ -255,16 +255,16 @@ permalink: /about/
       </div>
     </div> -->
 
-    <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
+<!--     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/mpfaff.jpg">
       <h3>Medha Julia Pfaff</h3>
       <p>LCA System Analyst</p>
       <p>
-      <!--   <a href="mailto:mpfaff@eaternity.org">mpfaff@eaternity.org</a><br /> -->
+        <a href="mailto:mpfaff@eaternity.org">mpfaff@eaternity.org</a><br /> 
       </p>
       </div>
-    </div>
+    </div> -->
 
     <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top push-bottom">
       <div class="teamTeaser">
@@ -400,17 +400,17 @@ permalink: /about/
       </div>
     </div>
 
-
+<!-- 
     <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
         <img class="responsive round" src="/img/idea-vision/nulrich.jpg">
         <h3>Nils Ulrich</h3>
         <p>LCA System Analyst</p>
         <p>
-        <!-- <a href="mailto:nulrich@eaternity.org">nulrich@eaternity.org</a><br /> -->
+         <a href="mailto:nulrich@eaternity.org">nulrich@eaternity.org</a><br />
       </p>
       </div>
-    </div>
+    </div> -->
 
 
     <div class="col-xs-offset-0 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
