@@ -293,7 +293,7 @@ permalink: /about/
         <div class="col-xs-offset-2 col-xs-8 col-sm-offset-0 col-sm-3 xs-push-top">
       <div class="teamTeaser">
       <img class="responsive round" src="/img/idea-vision/anigay.jpg">
-      <h3>Alexander Nigay</h3>
+      <h3>Alexandr Nigay</h3>
 
       <p>Senior Software Engineer</p>
             <p>
